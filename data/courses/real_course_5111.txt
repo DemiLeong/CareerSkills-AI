@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052275
+coursetitle: Enterprise Leadership for Transformation: Module 5 - Leadership & Talent Management: Sustainability for Growth (ELT)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

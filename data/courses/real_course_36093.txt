@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045264
+coursetitle: WSQ Introduction to Mental Health and Well Being Support at Workplace
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

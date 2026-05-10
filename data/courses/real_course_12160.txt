@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503468
+coursetitle: WSQ Curriculum Planning and Pedagogy
+trainingprovideruen: 199907030H
+trainingprovideralias: ASIAN INTERNATIONAL COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

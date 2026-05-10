@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052495
+coursetitle: Internationalisation Series: Japanâ€™s Retail Edge - The Omotenashi Advantage
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-20 00:00:00
+courserunenddate: 2025-10-03 00:00:00
+mode_of_training: Classroom

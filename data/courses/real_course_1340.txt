@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051206
+coursetitle: Advanced Certificate in Digital Procurement Module 1: Procurement Data Analytics and Performance Measurement
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2025-10-28 00:00:00
+mode_of_training: Classroom

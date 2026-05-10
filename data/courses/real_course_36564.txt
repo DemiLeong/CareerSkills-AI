@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052094
+coursetitle: Streamline Work Processes with Power Apps and Power Automate Copilots
+trainingprovideruen: 200922279R
+trainingprovideralias: LAURES SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

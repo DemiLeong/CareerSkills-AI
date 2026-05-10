@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046927
+coursetitle: Operate Scissor Lift
+trainingprovideruen: 200915186M
+trainingprovideralias: AA INTERNATIONAL CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

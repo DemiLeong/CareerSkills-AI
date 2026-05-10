@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020750
+coursetitle: Smart City Essentials : Understanding the Foundations for a More Connected and Sustainable Future
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

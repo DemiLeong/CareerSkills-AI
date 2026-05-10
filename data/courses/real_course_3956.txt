@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504426
+coursetitle: Service Leadership Level 1 (SFw) (Synchronous e-learning)
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Synchronous eLearning

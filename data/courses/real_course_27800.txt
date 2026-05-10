@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015127
+coursetitle: Advanced Certificate in Web 3.0 Module 2: Understanding NFTs and Decentralised Autonomous Organisation (DAO)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

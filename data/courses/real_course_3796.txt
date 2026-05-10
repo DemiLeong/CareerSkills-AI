@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020824
+coursetitle: Low-Code Mobile App Development (in PDC 2 in App Development Using Low-Code Platforms in Specialist Diploma in Low-Code App Development for Business)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

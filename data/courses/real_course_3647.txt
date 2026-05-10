@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041445
+coursetitle: Cyber Forensics Investigation - Part of Post Diploma Certificate in Core Offensive and Defensive Cybersecurity Skills (SDCP1)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2026-03-31 00:00:00
+mode_of_training: Classroom

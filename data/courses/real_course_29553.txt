@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023041077
+coursetitle: Social Media Management in Food Services Level 3 (Asynchronous eLearning + Classroom)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

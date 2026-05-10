@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021317
+coursetitle: Module 5 - Deep Learning and Machine Learning Mastery in Vision and Transfer Learning
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-07-28 00:00:00
+mode_of_training: Classroom

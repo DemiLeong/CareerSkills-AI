@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504260
+coursetitle: People Leadership Program (SFw)
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE CONSULTING PTE. LTD.
+courserunstartdate: 2026-01-21 00:00:00
+courserunenddate: 2026-01-23 00:00:00
+mode_of_training: Classroom

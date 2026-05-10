@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051266
+coursetitle: Supervise Suspended Scaffold (SUSS)
+trainingprovideruen: 200615030W
+trainingprovideralias: POH WAH SCAFFOLDING & ENGINEERING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

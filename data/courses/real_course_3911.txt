@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054186
+coursetitle: Advanced Certificate in Applied Data Science and Analytics (II) Module 5: Practicum Using Machine Learning and Generative AI Models and Tools (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

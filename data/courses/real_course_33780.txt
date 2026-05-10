@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009310
+coursetitle: Certificate in Automation
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-10-21 00:00:00
+courserunenddate: 2026-03-31 00:00:00
+mode_of_training: Classroom

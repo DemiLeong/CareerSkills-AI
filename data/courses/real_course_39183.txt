@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011775
+coursetitle: Project a Positive and Professional Image
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Asian Culinary Institute of Singapore
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-02 00:00:00
+mode_of_training: Classroom

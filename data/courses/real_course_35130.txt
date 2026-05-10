@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015590
+coursetitle: Prepare and Serve Hot Beverages (Asynchronous eLearning + Classroom)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: 2025-08-09 00:00:00
+courserunenddate: 2025-08-10 00:00:00
+mode_of_training: Classroom

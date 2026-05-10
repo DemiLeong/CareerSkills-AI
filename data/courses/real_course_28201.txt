@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503153
+coursetitle: Deterrence (Manage Disorderly Conduct & Threatening Behavior)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

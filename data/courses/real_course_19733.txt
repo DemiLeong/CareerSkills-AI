@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003040
+coursetitle: 8 Disciplines (8D) and Failure Mode Effect Analysis (FMEA) in High Volume Manufacturing
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038952
+coursetitle: WSQ Live Streaming and Production
+trainingprovideruen: 201501662D
+trainingprovideralias: WISDOM ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

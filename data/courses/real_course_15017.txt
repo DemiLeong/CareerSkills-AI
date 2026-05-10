@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053464
+coursetitle: Digital Essentials: Online Shopping with Shopee and PayNow
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-22 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

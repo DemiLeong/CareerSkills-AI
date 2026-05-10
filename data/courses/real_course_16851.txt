@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055415
+coursetitle: Building an Empowered Learning Team and Organization
+trainingprovideruen: 200407624D
+trainingprovideralias: THE FLAME CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

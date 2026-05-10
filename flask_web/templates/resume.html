@@ -1,0 +1,156 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!-- HERO -->
+
+<div class="page-hero">
+
+    <div class="hero-overlay">
+
+        <h1>📄 Resume Rewrite</h1>
+
+        <p>
+            Rewrite and optimize your resume professionally
+            for ATS screening and job applications.
+        </p>
+
+    </div>
+
+</div>
+
+
+<!-- FORM -->
+
+<form class="form-card"
+      method="POST"
+      enctype="multipart/form-data">
+
+    <div class="sample-prompts">
+
+        <div class="sample-card"
+            onclick="setResumePrompt(
+                'Please rewrite my resume professionally for the role that is listed in the Job Title field.'
+            )">
+
+            Rewrite resume for role state in Job Title field
+
+        </div>
+
+        <div class="sample-card"
+            onclick="setResumePrompt(
+                'Improve my resume for ATS screening and keyword optimization.'
+            )">
+
+            Improve ATS resume keywords
+
+        </div>
+
+        <div class="sample-card"
+            onclick="setResumePrompt(
+                'Rewrite my resume to sound more professional and achievement-focused.'
+            )">
+
+            Professional resume rewrite
+
+        </div>
+
+    </div>
+
+    <label>
+        Your Question / Instruction
+    </label>
+
+    <textarea
+        id="resume_instruction"
+        name="instruction"
+        placeholder="Please rewrite my resume professionally for this job application."
+    ></textarea>
+
+
+    <p class="helper-text">
+
+        You can either upload your resume file
+        or paste your resume content below.
+
+        Please remove sensitive personal information
+        before submitting.
+
+    </p>
+
+
+    <label>
+        Upload Resume
+    </label>
+
+    <input
+        type="file"
+        name="resume_file"
+        accept=".txt,.docx,.pdf">
+
+
+    <label>
+        Paste Resume Content
+    </label>
+
+    <textarea
+        name="resume_text"
+        placeholder="Paste your resume content here..."
+    ></textarea>
+
+
+    <label>
+        Job Title Apply
+    </label>
+
+    <input
+        type="text"
+        name="job_title"
+        placeholder="Example: Data Analyst">
+
+
+    <label>
+        Paste Job Description (Optional)
+    </label>
+
+    <textarea
+        name="job_description"
+        placeholder="Paste the job description here..."
+    ></textarea>
+
+
+    <button type="submit"
+            class="submit-btn">
+
+        Submit
+
+    </button>
+
+</form>
+
+
+<!-- AI RESPONSE -->
+
+{% if ai_response %}
+
+<div class="response-card">
+    <h2>AI Response</h2>
+    <div class="ai-response">
+        {{ ai_response | safe }}
+    </div>
+</div>
+
+{% endif %}
+
+<script>
+
+function setResumePrompt(text) {
+
+    document.getElementById(
+        "resume_instruction"
+    ).value = text;
+}
+
+</script>
+
+{% endblock %}

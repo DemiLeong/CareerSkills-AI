@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009795
+coursetitle: PWM-Security: Capability Development (Achieve Work Effectiveness in Security Environment)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

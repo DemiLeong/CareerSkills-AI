@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051414
+coursetitle: Pearson Vue Certified IT Specialist Network Security Training
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-11-22 00:00:00
+courserunenddate: 2025-11-23 00:00:00
+mode_of_training: Classroom

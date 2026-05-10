@@ -1,0 +1,9 @@
+Privacy Policy
+
+Users should not upload sensitive personal information including:
+- NRIC
+- Passport details
+- Banking information
+- Passwords
+
+All uploaded resumes are for educational and demonstration purposes only.

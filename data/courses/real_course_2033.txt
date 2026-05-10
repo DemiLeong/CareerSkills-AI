@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012220
+coursetitle: Advanced Certificate in Online Reputation Management for Business Module 2: Tackling Falsehoods, Smear Campaigns, and Other Acts of Sabotage - How the Law Can Help
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

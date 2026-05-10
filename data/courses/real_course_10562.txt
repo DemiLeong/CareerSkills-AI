@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017063
+coursetitle: WSQ Digital Marketing Foundations (Fundamentals) (Synchronous E-learning)
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020001522
+coursetitle: Enterprise Leadership for Transformation: Implement Module - Business Plan Development and Implementation (ELT)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

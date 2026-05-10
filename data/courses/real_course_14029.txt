@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040674
+coursetitle: (SCTP) Cybersecurity Associate (with capstone project) (Full-Time) (TA-eligible)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-11-11 00:00:00
+mode_of_training: Synchronous eLearning

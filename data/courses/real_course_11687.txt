@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014089
+coursetitle: ISC2 Certified Secure Software Lifecycle Professional Common Body of Knowledge (CSSLP CBK) Training Seminar
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Classroom

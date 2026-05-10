@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2009500230
+coursetitle: Practise Workplace Safety and Health for Marine Metal Scaffolding (Operational)
+trainingprovideruen: 196800180M
+trainingprovideralias: ST ENGINEERING MARINE LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

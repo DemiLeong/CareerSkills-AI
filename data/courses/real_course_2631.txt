@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054198
+coursetitle: INS4422 - Principles of Science, Technology, Engineering & Mathematics (STEM) Curriculum Integration
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

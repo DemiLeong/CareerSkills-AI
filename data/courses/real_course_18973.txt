@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045228
+coursetitle: Comprehensive Training in 3D Advanced Surfacing Modelling
+trainingprovideruen: 199605166D
+trainingprovideralias: SIEMENS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

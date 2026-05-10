@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040255
+coursetitle: Generate New Ideas to Unleash Service Innovation
+trainingprovideruen: 200415265M
+trainingprovideralias: IMAGEWORKS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

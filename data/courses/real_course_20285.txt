@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041189
+coursetitle: Preparation for IHRP CP Certification â€“ HR Functional, Mindset and Behaviour Competencies
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

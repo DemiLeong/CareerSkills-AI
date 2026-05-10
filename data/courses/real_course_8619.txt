@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513442
+coursetitle: Effective Speech for Infant and Early Years Educators (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

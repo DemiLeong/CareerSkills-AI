@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021962
+coursetitle: PWM-Food Services: WSQ Food Safety Course Level 1
+trainingprovideruen: 199403639K
+trainingprovideralias: JUMBO GROUP OF RESTAURANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

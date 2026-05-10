@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050911
+coursetitle: Specialist Diploma in Security Technology Management
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

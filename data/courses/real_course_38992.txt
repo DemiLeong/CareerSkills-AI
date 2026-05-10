@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049104
+coursetitle: Performance Management Workshop â€“ Individual Contributor
+trainingprovideruen: 201405499K
+trainingprovideralias: ARK LEADERSHIP & LEARNING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

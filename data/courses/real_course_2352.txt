@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014501104
+coursetitle: Develop a Risk Management implementation plan (bizSAFE Level-2)
+trainingprovideruen: 200808289G
+trainingprovideralias: AUGUST INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

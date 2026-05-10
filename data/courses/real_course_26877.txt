@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017500361
+coursetitle: Respond To Fire Incident In Workplace
+trainingprovideruen: 200906386Z
+trainingprovideralias: ARIS INTEGRATED MEDICAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

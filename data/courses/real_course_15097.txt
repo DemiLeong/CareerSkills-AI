@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505443
+coursetitle: Develop People Management Strategies using Design Thinking
+trainingprovideruen: 200402964R
+trainingprovideralias: SSTC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

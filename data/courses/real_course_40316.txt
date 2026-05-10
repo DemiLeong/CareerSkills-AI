@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504332
+coursetitle: Leading Teams Toward Organisational Excellence (SF)
+trainingprovideruen: S80TU0496C
+trainingprovideralias: SINGAPORE NATIONAL EMPLOYERS FEDERATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

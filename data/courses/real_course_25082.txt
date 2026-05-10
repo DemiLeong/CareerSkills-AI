@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500828
+coursetitle: Workplace Safety and Health Management in Marine Industry (Supervise WSH in Marine Industry)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

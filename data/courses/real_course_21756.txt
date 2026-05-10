@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052096
+coursetitle: Mastering Prompt Engineering for Digital Marketing with Generative AI (GenAI)
+trainingprovideruen: 200922279R
+trainingprovideralias: LAURES SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

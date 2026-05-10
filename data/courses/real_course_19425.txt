@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020978
+coursetitle: Post Diploma Certificate in User Experience Design (PDC 2 in Specialist Diploma in Design for Integrated Communication)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2026-04-20 00:00:00
+courserunenddate: 2026-10-18 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039499
+coursetitle: Modular Certificate in Veterinary Science & Technology (MC5 in Part-Time Diploma in Applied Science - Veterinary Technology (AY2024 Apr))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2027-04-19 00:00:00
+courserunenddate: 2027-10-17 00:00:00
+mode_of_training: Classroom

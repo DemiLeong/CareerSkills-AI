@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039516
+coursetitle: Senior Fire Safety Manager Course
+trainingprovideruen: T08GA0035G
+trainingprovideralias: Singapore Civil Defence Force
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

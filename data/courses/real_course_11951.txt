@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504255
+coursetitle: Demonstrate the Service Vision (SFw)
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE ACADEMY PTE. LTD.
+courserunstartdate: 2025-09-29 00:00:00
+courserunenddate: 2025-09-29 00:00:00
+mode_of_training: In-house

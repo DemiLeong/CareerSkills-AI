@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054841
+coursetitle: Certificate Programme in Carbon Credit Quality and Due Diligence
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

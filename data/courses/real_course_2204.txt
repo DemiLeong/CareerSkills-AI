@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040533
+coursetitle: Inclusive Design: Leverage Design Thinking to create Inclusive Spaces and Experiences
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

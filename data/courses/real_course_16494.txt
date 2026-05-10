@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036455
+coursetitle: Fortinet FortiGate Network Security Professional (NSE 4)
+trainingprovideruen: 201109011W
+trainingprovideralias: BRIDGINGMINDS NETWORK PTE. LTD.
+courserunstartdate: 2025-09-15 00:00:00
+courserunenddate: 2025-09-19 00:00:00
+mode_of_training: Classroom

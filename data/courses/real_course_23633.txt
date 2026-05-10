@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048314
+coursetitle: SharePoint Online for End Users
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-04-07 00:00:00
+courserunenddate: 2026-04-08 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003561
+coursetitle: Fundamentals Of The Personal Data Protection Act 2020 (Synchronous E-learning)
+trainingprovideruen: 201312483W
+trainingprovideralias: WEB LEARNING RESOURCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

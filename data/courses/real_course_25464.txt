@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010166
+coursetitle: Project Management Professional PMP ISO 21500 ISO21502 Training
+trainingprovideruen: 201127695N
+trainingprovideralias: INSTITUTE OF SINGAPORE PROJECT MANAGEMENT PTE. LTD.
+courserunstartdate: 2025-11-10 00:00:00
+courserunenddate: 2025-11-18 00:00:00
+mode_of_training: Classroom

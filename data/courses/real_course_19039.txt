@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503560
+coursetitle: Manage Site Emergency for CERT
+trainingprovideruen: 201133417W
+trainingprovideralias: CERT CONSULTANCY GROUP PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013187
+coursetitle: Supervise Construction Work for WSH (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

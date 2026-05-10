@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049570
+coursetitle: Develop a Climate Change Transition Plan using Greenhouse gas (GHG) Accounting and Life Cycle Assessment (LCA) Methodology
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

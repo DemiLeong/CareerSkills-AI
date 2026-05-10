@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036461
+coursetitle: Digital Live Sound Engineering
+trainingprovideruen: 200209295K
+trainingprovideralias: ORITA SINCLAIR SCHOOL OF DESIGN AND MUSIC PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-09-15 00:00:00
+mode_of_training: Classroom

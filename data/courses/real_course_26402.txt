@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040371
+coursetitle: Silega Expedition:  Mobilising The Power of Team in Business Strategy, Planning and Execution
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

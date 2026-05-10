@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504079
+coursetitle: Early Intervention: Key Practices and Strategies (WSQ) (Classroom & Asynchronous)
+trainingprovideruen: 201002137E
+trainingprovideralias: MINDFORCE ACADEMY PTE. LIMITED
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-08-23 00:00:00
+mode_of_training: Synchronous eLearning

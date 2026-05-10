@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012506
+coursetitle: FUTURE OF ENGAGEMENT â€“ METAVERSE, AR & VR (Classroom & Asynchronous e-Learning)
+trainingprovideruen: 200912099N
+trainingprovideralias: MAGES INSTITUTE OF EXCELLENCE PTE. LTD.
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-08-02 00:00:00
+mode_of_training: Classroom

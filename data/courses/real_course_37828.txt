@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011427
+coursetitle: Internationalisation Series: Smart Business and Healthcare - Taiwan
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-01-12 00:00:00
+courserunenddate: 2026-01-24 00:00:00
+mode_of_training: Classroom

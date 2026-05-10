@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010308
+coursetitle: Digital Marketing Workshop
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

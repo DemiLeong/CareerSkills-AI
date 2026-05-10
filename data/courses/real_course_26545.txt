@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038418
+coursetitle: (eCornell) Pricing Strategy and Distribution Channels in Hotel Revenue Management
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

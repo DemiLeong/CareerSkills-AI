@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015683
+coursetitle: Workplace Safety and Health Management in Chemical, Process, Pharmaceutical Industries and Laboratories
+trainingprovideruen: 200808289G
+trainingprovideralias: AUGUST INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

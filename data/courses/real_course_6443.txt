@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005223
+coursetitle: Graduate Diploma in Community Leadership and Social Development
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009674
+coursetitle: Process Monitoring and Inspection for Industrial Applications
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

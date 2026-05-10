@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048381
+coursetitle: Revolutionizing Customer Service with AI Chatbots
+trainingprovideruen: 202116663E
+trainingprovideralias: INNOHAT TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

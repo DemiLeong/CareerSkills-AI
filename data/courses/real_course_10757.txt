@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044057
+coursetitle: WSQ Understanding Scams and Frauds in the Digital World
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

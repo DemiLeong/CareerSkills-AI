@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037808
+coursetitle: Digitalisation for Food Services - Skillsfuture for Digital Workplace 2.0
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

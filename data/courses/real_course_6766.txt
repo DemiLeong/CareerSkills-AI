@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513290
+coursetitle: Environmental Management in Landscape Operations (Level 4)
+trainingprovideruen: T08GB0038E
+trainingprovideralias: Centre For Urban Greenery And Ecology
+courserunstartdate: 2025-11-04 00:00:00
+courserunenddate: 2025-11-12 00:00:00
+mode_of_training: Classroom

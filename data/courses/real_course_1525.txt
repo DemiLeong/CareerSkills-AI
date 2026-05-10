@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017398
+coursetitle: Introduction to SQL
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: 2025-09-25 00:00:00
+courserunenddate: 2025-09-26 00:00:00
+mode_of_training: Classroom

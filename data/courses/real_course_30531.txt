@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044615
+coursetitle: WSQ Accounting for Non-Finance Managers
+trainingprovideruen: 201222776R
+trainingprovideralias: INSPIZONE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

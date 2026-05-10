@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035919
+coursetitle: CoC in Supercharge Productivity with No-Code Applications
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

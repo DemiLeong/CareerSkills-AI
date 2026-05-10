@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513725
+coursetitle: PWM-Security: Performance Management (Lead and Manage a Team of Security Officers)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-08-01 00:00:00
+mode_of_training: Classroom

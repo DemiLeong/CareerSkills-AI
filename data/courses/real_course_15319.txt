@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054105
+coursetitle: Design Innovation
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-04 00:00:00
+courserunenddate: 2025-11-11 00:00:00
+mode_of_training: Classroom

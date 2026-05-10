@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046929
+coursetitle: FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics
+trainingprovideruen: 202031353Z
+trainingprovideralias: SANS TRAINING SINGAPORE PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-05 00:00:00
+mode_of_training: Classroom

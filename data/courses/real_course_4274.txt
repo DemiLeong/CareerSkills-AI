@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009746
+coursetitle: Connectivity for Visibility and Decision Making in Smart Factories
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

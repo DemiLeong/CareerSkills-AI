@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2010506767
+coursetitle: Practice Workplace Safety and Health for Steel Fitting (SC & SAP) MI-SF-112S-0
+trainingprovideruen: 196800180M
+trainingprovideralias: ST ENGINEERING MARINE LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

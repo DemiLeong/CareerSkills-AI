@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503237
+coursetitle: Resilience and Self-Care (WSQ) (Classroom & Asynchronous)
+trainingprovideruen: 201002137E
+trainingprovideralias: MINDFORCE ACADEMY PTE. LIMITED
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2025-10-05 00:00:00
+mode_of_training: Synchronous eLearning

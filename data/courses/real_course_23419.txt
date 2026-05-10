@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012781
+coursetitle: 5G Market Potential and Job Opportunities
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

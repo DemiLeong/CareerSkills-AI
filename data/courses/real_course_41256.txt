@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041305
+coursetitle: Human-centered Experiences: User Participatory and Service Design (Classroom, Synchronous & Asynchronous E-Learning)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

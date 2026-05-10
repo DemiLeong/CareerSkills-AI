@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505423
+coursetitle: WSQ Professional Diploma in Early Childhood Care and Education - Teaching
+trainingprovideruen: 199907030H
+trainingprovideralias: ASIAN INTERNATIONAL COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

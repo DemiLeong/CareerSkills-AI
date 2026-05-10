@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045230
+coursetitle: 3-axis Milling CAM Manufacturing fundamentals
+trainingprovideruen: 199605166D
+trainingprovideralias: SIEMENS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

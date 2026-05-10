@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051844
+coursetitle: Advanced Certificate in Blockchain in Digital Economy Module 6: Web3 and Metaverse Immersion
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-13 00:00:00
+courserunenddate: 2025-11-14 00:00:00
+mode_of_training: Classroom

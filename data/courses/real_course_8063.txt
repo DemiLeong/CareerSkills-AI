@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048183
+coursetitle: (Generative) AI to Supercharge Products & Workflows
+trainingprovideruen: 200604346E
+trainingprovideralias: National University of Singapore - Institute of Systems Science
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

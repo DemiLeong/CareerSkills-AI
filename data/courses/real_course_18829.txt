@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042978
+coursetitle: Sustainability Frameworks, Assessment and Enterprise Certifications
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

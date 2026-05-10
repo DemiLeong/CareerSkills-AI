@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051209
+coursetitle: Data Analytics for Semiconductor Industry Applications: Yield and Reliability Analysis
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

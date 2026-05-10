@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053703
+coursetitle: W.A.S.T.E Approach to Sustainability for Design Thinkers
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

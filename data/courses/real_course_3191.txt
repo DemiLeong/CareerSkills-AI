@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505556
+coursetitle: PWM-Cleaning: WSQ Horizontal Surface Maintenance - Hard Floors and Carpets â€“ level 1
+trainingprovideruen: 198902296M
+trainingprovideralias: GENETIC COMPUTER SCHOOL PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

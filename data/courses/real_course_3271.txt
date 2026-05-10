@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053102
+coursetitle: [ASCEND] Delivering Results Through Others (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

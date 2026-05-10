@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045440
+coursetitle: (PDECCE-T/CCP)  Demonstrate Understanding of the Centre's Vision, Mission and Values (Beginning Pre-school Teacher)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

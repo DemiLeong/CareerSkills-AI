@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013618
+coursetitle: Principles and Components of Security Surveillance Information Communications Systems (CCTV 1)
+trainingprovideruen: 201503647E
+trainingprovideralias: APOLLO GLOBAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-16 00:00:00
+mode_of_training: Classroom

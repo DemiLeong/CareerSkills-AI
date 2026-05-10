@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004275
+coursetitle: Respond to Service Challenges - Chinese åº”å¯¹æœåŠ¡æŒ‘æˆ˜ (Service Challenges) (Synchronous e-learning)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

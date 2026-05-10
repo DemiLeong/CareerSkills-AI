@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013528
+coursetitle: Provide Specialty Coffee Service - Barista Skills and Coffee Art
+trainingprovideruen: 200512999K
+trainingprovideralias: ICAS TRAINING AND EDUCATION COLLEGE (ICASTEC) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

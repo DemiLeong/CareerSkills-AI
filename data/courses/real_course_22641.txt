@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050596
+coursetitle: MEL918 - Reading in a Multimodal Age
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

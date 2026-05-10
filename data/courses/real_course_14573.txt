@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018667
+coursetitle: WSQ Analyse and Implement Emerging Technologies
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047053
+coursetitle: Chinese Writers and Singapore in the Early 20th Century: Selected Writers (20???????????????)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Singapore University of Social Sciences
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

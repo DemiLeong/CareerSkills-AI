@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021740
+coursetitle: WSQ Workplace Communications Level 1
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

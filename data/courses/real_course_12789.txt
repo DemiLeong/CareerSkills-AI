@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051376
+coursetitle: Data-Driven Content Strategies
+trainingprovideruen: 202112882D
+trainingprovideralias: W.L.P ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

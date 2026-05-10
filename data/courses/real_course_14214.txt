@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018157
+coursetitle: WSQ Higher Certificate in Food Services (Culinary Arts)
+trainingprovideruen: S97SS0023J
+trainingprovideralias: HCSA COMMUNITY SERVICES
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Classroom

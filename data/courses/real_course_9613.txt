@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502988
+coursetitle: Master of Laws in Cross Border Business and Finance Law in Asia
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

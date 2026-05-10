@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017501339
+coursetitle: Food Safety Course Level 1 (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

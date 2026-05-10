@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044101
+coursetitle: WSQ-MS Designing and Implementing Microsoft DevOps Solutions (AZ-400)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

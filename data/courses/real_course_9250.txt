@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039892
+coursetitle: Sustainable Digital Transformation
+trainingprovideruen: 200209295K
+trainingprovideralias: ORITA SINCLAIR SCHOOL OF DESIGN AND MUSIC PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

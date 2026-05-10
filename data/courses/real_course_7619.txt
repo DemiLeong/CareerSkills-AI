@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036277
+coursetitle: Modular Certificate in Agile Software Development - Part of Diploma in Full Stack Development (DFSD)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2027-04-10 00:00:00
+courserunenddate: 2027-09-30 00:00:00
+mode_of_training: Classroom

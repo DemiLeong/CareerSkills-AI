@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046333
+coursetitle: The Future of Money: Exploring the Benefits and Risks of Central Bank Digital Currencies (CBDCs)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

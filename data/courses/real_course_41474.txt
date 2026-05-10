@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502065
+coursetitle: Standard First Aid (NROC) - (Asynchronous and Practical)
+trainingprovideruen: T18LL0554C
+trainingprovideralias: FIRST RESPONDERS LIMITED LIABILITY PARTNERSHIP
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Classroom

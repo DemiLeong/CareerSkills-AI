@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050511
+coursetitle: BIZ-LMDE Leading and Motivating Difficult Employees
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

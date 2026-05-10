@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035580
+coursetitle: WSQ ISO 41001:2018 Facility Management System (Level 4)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

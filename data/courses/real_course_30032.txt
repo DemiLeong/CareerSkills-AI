@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041494
+coursetitle: Bake Short-Crust Pastry Tarts and Pies
+trainingprovideruen: 53331625A
+trainingprovideralias: GRA BAKING ACADEMY
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Classroom

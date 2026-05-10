@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500433
+coursetitle: WSQ RESPOND TO FIRE INCIDENT IN WORKPLACE
+trainingprovideruen: 200723351G
+trainingprovideralias: GREENSAFE INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

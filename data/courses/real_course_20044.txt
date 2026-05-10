@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513074
+coursetitle: Productivity Improvement using Artificial Intelligence, AI (Classroom & Asynchronous)
+trainingprovideruen: 201312483W
+trainingprovideralias: WEB LEARNING RESOURCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

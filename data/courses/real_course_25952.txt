@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003779
+coursetitle: Food Safety Level 1 (Refresher)
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

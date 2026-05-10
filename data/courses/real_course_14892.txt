@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045409
+coursetitle: Theatre Making: Theory, Practice, Pedagogy (Classroom, Asynchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

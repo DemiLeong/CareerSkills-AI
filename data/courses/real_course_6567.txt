@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020695
+coursetitle: WSQ Apply Workplace Safety and Health in Process Plant
+trainingprovideruen: 201022973E
+trainingprovideralias: DV TRAINING SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046395
+coursetitle: Corporate Site Visits: Green Destination 1
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-03 00:00:00
+courserunenddate: 2025-09-03 00:00:00
+mode_of_training: Classroom

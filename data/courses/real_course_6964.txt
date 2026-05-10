@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017655
+coursetitle: Incident Response (Handle Security Incidents and Services)
+trainingprovideruen: 198305397E
+trainingprovideralias: PROSPECT PROTECTION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

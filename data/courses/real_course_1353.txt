@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054964
+coursetitle: Franchise Site Selection and Lease Negotiations
+trainingprovideruen: S93SS0131D
+trainingprovideralias: Franchising and Licensing Association (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

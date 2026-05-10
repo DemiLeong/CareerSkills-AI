@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011500854
+coursetitle: Facilitate Effective Communication and Engagement at the Workplace (ES-IP-301G-1) (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

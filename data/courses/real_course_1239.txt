@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021885
+coursetitle: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services And Operate Basic Security Equipment)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

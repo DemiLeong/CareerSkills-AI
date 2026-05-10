@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040659
+coursetitle: Certified Scrum Master
+trainingprovideruen: 201633510N
+trainingprovideralias: AgileAsia Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

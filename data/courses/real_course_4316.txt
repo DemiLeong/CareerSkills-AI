@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036546
+coursetitle: Effective Coaching for Workplace Trainers
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2025-10-28 00:00:00
+courserunenddate: 2025-10-29 00:00:00
+mode_of_training: Classroom

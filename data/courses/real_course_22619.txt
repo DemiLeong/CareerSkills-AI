@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040716
+coursetitle: Win-Win Strategic Negotiation
+trainingprovideruen: 200516087K
+trainingprovideralias: MOMENTA GROUP PTE. LTD.
+courserunstartdate: 2025-09-23 00:00:00
+courserunenddate: 2025-09-24 00:00:00
+mode_of_training: Classroom

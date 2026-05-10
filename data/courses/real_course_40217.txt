@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500844
+coursetitle: Apply Basic Negotiation Skills and Techniques
+trainingprovideruen: T04SS0109E
+trainingprovideralias: Institute of Singapore Chartered Accountants
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

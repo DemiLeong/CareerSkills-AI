@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040680
+coursetitle: IATA DGR (INITIAL) - PERSONNEL PROCESSING OR ACCEPTING DG CONSIGNMENTS (7.3)
+trainingprovideruen: 52028000L
+trainingprovideralias: HAZMAT TRAINING
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

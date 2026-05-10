@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038007
+coursetitle: PWM-Food Services: Workplace Safety and Health for Food and Beverages Operations (Chinese)
+trainingprovideruen: 199704969Z
+trainingprovideralias: GUILFORD TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-07-16 00:00:00
+courserunenddate: 2025-07-16 00:00:00
+mode_of_training: Classroom

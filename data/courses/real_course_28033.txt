@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043262
+coursetitle: Advanced Certificate in Generative Artificial Intelligence-Enhanced Social Media Content Creation Module 4: Leveraging the Power of Influencers for your Business
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-21 00:00:00
+courserunenddate: 2025-10-21 00:00:00
+mode_of_training: Classroom

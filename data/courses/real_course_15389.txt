@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018902
+coursetitle: 3 days - Office 365 - Advanced Excel 2021 and Data Analytics - level 2
+trainingprovideruen: 198902296M
+trainingprovideralias: GENETIC COMPUTER SCHOOL PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

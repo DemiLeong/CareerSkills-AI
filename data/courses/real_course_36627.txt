@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022210
+coursetitle: Introduction to Cloud Computing Foundations
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

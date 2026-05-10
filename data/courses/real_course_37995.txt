@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052465
+coursetitle: Enabling Academy: Basic Resin Craft with Healthy Living
+trainingprovideruen: 200104111E
+trainingprovideralias: Athome Decor Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007808
+coursetitle: Advanced Applications in Chromatography (in PDC in Lab Instrumentation in Specialist Diploma in Laboratory Management and Instrumentation)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

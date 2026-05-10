@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047379
+coursetitle: Introduction to Electrical Circuits & Electronic Devices (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

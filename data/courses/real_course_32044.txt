@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500829
+coursetitle: Fun Elements  of Art (Synchronous e-learning)
+trainingprovideruen: T08LL1246E
+trainingprovideralias: ART LOFT LLP
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

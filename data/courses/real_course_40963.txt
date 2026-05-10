@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013916
+coursetitle: Understanding and Interacting with Persons with Disabilities (Classroom & Asynchronous)
+trainingprovideruen: T14CS0003K
+trainingprovideralias: RUNNINGHOUR CO-OPERATIVE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039404
+coursetitle: Clearly Write: A Course on Effective Writing for Executives (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

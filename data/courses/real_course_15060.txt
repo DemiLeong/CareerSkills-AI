@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042410
+coursetitle: Community Learning for Personal Development - Mastering the Art of Learning, Sharing, and Excelling Together in a Community (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

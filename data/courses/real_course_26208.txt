@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046815
+coursetitle: Industrial Attachment (ACBCCM)
+trainingprovideruen: 199302114W
+trainingprovideralias: TSAO FOUNDATION
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: On-the-Job

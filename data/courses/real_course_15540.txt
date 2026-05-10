@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051421
+coursetitle: Improve Hiring Decisions with GenAI Assisted Interview Questioning
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-09-11 00:00:00
+courserunenddate: 2026-09-11 00:00:00
+mode_of_training: Classroom

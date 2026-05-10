@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012543
+coursetitle: Display Critical Thinking and Analytical Skills
+trainingprovideruen: 201129819W
+trainingprovideralias: ALUE SINGAPORE PTE. LTD.
+courserunstartdate: 2025-11-13 00:00:00
+courserunenddate: 2025-11-14 00:00:00
+mode_of_training: Classroom

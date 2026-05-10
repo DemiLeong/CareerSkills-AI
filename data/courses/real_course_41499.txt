@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018638
+coursetitle: Drive Leadership Development (Classroom & Asynchronous)
+trainingprovideruen: 201012407H
+trainingprovideralias: GOLDEN COMPASS SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

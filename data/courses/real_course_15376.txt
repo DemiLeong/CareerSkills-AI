@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018660
+coursetitle: Analyze and Visualize Data With Python
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

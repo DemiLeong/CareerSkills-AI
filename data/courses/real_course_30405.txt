@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003495
+coursetitle: Learning & Talent Development (in MC in People Management & Development in Diploma in Business Practice (Human Resource Management & Psychology))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

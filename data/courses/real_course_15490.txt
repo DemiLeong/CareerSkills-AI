@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040765
+coursetitle: From Plates to Masterpieces: Mastering Fine Dessert Making and Plating
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-30 00:00:00
+mode_of_training: Classroom

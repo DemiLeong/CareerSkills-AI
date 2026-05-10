@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035081
+coursetitle: The Art of Post-Processing and Printing
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

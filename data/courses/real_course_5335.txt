@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002682
+coursetitle: Middle Managersâ€™ Role in Strategy Implementation â€“ The Lynchpin of Success
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-19 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

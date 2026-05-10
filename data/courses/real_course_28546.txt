@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006457
+coursetitle: Design Your eLearning Experience Efficiently and Cost-Effectively (Synchronous e-Learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute For Adult Learning Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

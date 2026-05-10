@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040853
+coursetitle: WSQ Customer Engagement To Close Sales
+trainingprovideruen: 201438045H
+trainingprovideralias: PPP ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

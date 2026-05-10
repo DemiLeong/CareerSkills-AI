@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049963
+coursetitle: Delivering Generative Artificial Intelligence Projects to Drive Business Innovation and Productivity (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

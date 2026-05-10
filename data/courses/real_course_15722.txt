@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002843
+coursetitle: Problem Identifications and Solutioning Techniques â€“ Level 3
+trainingprovideruen: 201026450Z
+trainingprovideralias: ORGANISATIONAL DEVELOPMENT CONCEPTS PTE. LTD.
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-15 00:00:00
+mode_of_training: Classroom

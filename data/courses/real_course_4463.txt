@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504785
+coursetitle: People Development - Level 5 (Classroom)
+trainingprovideruen: 201026450Z
+trainingprovideralias: ORGANISATIONAL DEVELOPMENT CONCEPTS PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052888
+coursetitle: Applied Machine Learning in Finance: Transforming Insights into Action
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500780
+coursetitle: Conduct Risk Assessment and Business Impact Analysis (Classroom + Asynchronous E-learning)
+trainingprovideruen: 200206157W
+trainingprovideralias: BUSINESS CONTINUITY PLANNING ASIA PTE. LTD.
+courserunstartdate: 2025-10-24 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

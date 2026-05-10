@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051023
+coursetitle: Elevate Your Teaching: Design Engaging Lessons with Generative Artificial Intelligence Tools
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

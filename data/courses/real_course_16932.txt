@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020000318
+coursetitle: Declarative Development for Platform App Builders In Lightning Experience
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

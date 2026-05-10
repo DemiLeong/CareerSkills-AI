@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043503
+coursetitle: Mastering Defensive Road Skills (I) for Motorists
+trainingprovideruen: 199601882C
+trainingprovideralias: COMFORTDELGRO DRIVING CENTRE PTE. LTD.
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

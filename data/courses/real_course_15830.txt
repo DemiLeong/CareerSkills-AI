@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002829
+coursetitle: Professional Certificate in Legal Practice of the Future Module 1: Fundamentals in Legal Technology (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

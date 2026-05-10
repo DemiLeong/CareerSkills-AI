@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017505358
+coursetitle: Robotics for Clinicians: hands on assessment-driven rehabilitation technology
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

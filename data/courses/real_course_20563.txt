@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016805
+coursetitle: Excel VBA Software Design
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: 2025-09-17 00:00:00
+courserunenddate: 2025-09-19 00:00:00
+mode_of_training: Classroom

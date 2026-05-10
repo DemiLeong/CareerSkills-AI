@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053077
+coursetitle: Enhanced HVMP (Heartland Visual Merchandising Programme) [Practical, Asynchronous E-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

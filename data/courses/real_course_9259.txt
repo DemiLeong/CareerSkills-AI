@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006556
+coursetitle: WSQ AFP AF2 : Group Dynamics Facilitation (Classroom)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

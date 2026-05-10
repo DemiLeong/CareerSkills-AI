@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503604
+coursetitle: Resolve Grievances & Disputes
+trainingprovideruen: 199001767N
+trainingprovideralias: ONG TENG CHEONG LABOUR LEADERSHIP INSTITUTE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

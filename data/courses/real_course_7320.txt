@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005303
+coursetitle: PWM - Security: Threat Observation (Recognise Terrorist Threats)
+trainingprovideruen: 200903068D
+trainingprovideralias: SECURUS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

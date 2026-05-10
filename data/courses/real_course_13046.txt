@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502634
+coursetitle: Contingency Management (Assess and Manage Security Risk Control Measures)
+trainingprovideruen: S92CS0207H
+trainingprovideralias: POLWEL CO-OPERATIVE SOCIETY LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

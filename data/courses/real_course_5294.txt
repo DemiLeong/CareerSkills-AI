@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007481
+coursetitle: HDSS Apply Human Behaviour Concepts to Facilitate Social Service Practice (Classroom & Synchronous)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: 2025-09-18 00:00:00
+courserunenddate: 2025-12-23 00:00:00
+mode_of_training: Synchronous eLearning

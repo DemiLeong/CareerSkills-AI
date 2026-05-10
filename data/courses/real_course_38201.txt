@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008448
+coursetitle: Digital Workplace Transformation with 5G and Emerging Technologies
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

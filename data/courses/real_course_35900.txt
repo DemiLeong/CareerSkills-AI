@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008396
+coursetitle: Internet of Things: Technology & Applications (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

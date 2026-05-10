@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501066
+coursetitle: Vertical Surface Maintenance (Clean vertical surfaces glass and ceiling - CLCVS)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

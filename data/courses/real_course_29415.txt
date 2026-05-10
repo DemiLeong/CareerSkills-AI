@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010111
+coursetitle: PWM-Cleaning: Workplace Safety and Health Practices Implementation (Level 1)
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

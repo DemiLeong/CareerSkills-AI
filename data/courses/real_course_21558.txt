@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049210
+coursetitle: WSQ Bread Preparation (Level 1)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-11-03 00:00:00
+courserunenddate: 2025-11-27 00:00:00
+mode_of_training: Classroom

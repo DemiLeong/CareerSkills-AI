@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052113
+coursetitle: Assess Confined Space for Safe Entry and Work
+trainingprovideruen: 200900134G
+trainingprovideralias: SCAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

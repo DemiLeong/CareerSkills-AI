@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020001129
+coursetitle: Certification Preparation for Service Cloud Consultant, Salesforce Service Cloud Consultant Certification
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

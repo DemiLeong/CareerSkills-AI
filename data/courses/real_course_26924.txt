@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003181
+coursetitle: PWM-Security: Guard and Patrol (Supervise Security Officers)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-08-15 00:00:00
+courserunenddate: 2025-08-17 00:00:00
+mode_of_training: Classroom

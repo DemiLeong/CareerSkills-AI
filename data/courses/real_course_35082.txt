@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039913
+coursetitle: Cisco Certified Network Associate (CCNA) (SFw)
+trainingprovideruen: 200701199G
+trainingprovideralias: ST ENGINEERING E-SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

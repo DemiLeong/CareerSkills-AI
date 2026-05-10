@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053061
+coursetitle: Service Leadership (SF - Manager)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-09-15 00:00:00
+mode_of_training: Classroom

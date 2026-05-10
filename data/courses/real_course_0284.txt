@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051286
+coursetitle: Modular Certificate in Hospitality Business Management (for PTDHPM1)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2027-01-01 00:00:00
+courserunenddate: 2027-06-30 00:00:00
+mode_of_training: Classroom

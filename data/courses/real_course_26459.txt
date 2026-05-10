@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501678
+coursetitle: Design Thinking - Opportunity Recognition and Ideation Management (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

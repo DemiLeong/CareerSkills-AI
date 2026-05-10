@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006761
+coursetitle: Prepare Classic Korean Dishes
+trainingprovideruen: 200105260H
+trainingprovideralias: ALLSPICE INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051351
+coursetitle: Navigating Franchise Laws and Agreements
+trainingprovideruen: S93SS0131D
+trainingprovideralias: Franchising and Licensing Association (Singapore)
+courserunstartdate: 2025-12-09 00:00:00
+courserunenddate: 2025-12-10 00:00:00
+mode_of_training: Classroom

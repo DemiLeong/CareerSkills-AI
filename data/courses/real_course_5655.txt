@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500716
+coursetitle: Apply Workplace Safety and Health in Process Plant.
+trainingprovideruen: 201000583K
+trainingprovideralias: PIONEER TRAINING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042404
+coursetitle: The Introduction of Placemaking Strategy for Food and Beverage Business (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

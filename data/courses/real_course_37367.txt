@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045518
+coursetitle: CoC in Essentials of IT Audit: Ensuring IT Governance and Compliance
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2025-09-02 00:00:00
+mode_of_training: Classroom

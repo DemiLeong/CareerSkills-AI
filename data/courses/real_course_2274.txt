@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038199
+coursetitle: (eCornell) Effective User Research
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

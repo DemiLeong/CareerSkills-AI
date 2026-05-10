@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040513
+coursetitle: Self-Awareness for Peak Performance (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-11-24 00:00:00
+courserunenddate: 2025-11-25 00:00:00
+mode_of_training: Classroom

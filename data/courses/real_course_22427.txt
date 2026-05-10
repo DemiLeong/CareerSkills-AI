@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042314
+coursetitle: Navigating Service Challenges
+trainingprovideruen: 201940174R
+trainingprovideralias: EDUSPHERE COLLEGE OF MANAGEMENT AND TECHNOLOGY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

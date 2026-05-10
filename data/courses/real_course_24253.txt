@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015227
+coursetitle: Master Mobile Photography: Capturing Professional Photos with Your Smartphone
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-08-16 00:00:00
+courserunenddate: 2025-08-17 00:00:00
+mode_of_training: Classroom

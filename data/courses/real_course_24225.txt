@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045282
+coursetitle: Artisanal Pasta Creations
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-09-11 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015995
+coursetitle: PWM-Security: Security Operation Compliance (Perform Supervisory Duties within Legal Framework)
+trainingprovideruen: 200609670D
+trainingprovideralias: KNOWLEDGETREE TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

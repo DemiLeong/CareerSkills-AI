@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017843
+coursetitle: FOOD SAFETY COURSE LEVEL 1 (Full course)
+trainingprovideruen: 201843068W
+trainingprovideralias: ETANN CONSULTANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

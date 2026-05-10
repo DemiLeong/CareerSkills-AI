@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012898
+coursetitle: Modular Certificate in Business Communications & Analytics (part of Diploma in Business Practice (Accounting) )
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-10-20 00:00:00
+courserunenddate: 2026-04-19 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048866
+coursetitle: Advanced Certificate in Cybersecurity in Digital Economy Module 2: Cyber Threat Landscape Analysis and Risk Management
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

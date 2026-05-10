@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503501
+coursetitle: WSQ Digital Marketing Strategy
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-11-25 00:00:00
+courserunenddate: 2025-11-26 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048155
+coursetitle: Customer Engagement and Digital Excellence Pro
+trainingprovideruen: 202113650K
+trainingprovideralias: EDUPEDIA LANGUAGE AND TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

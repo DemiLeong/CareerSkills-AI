@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004366
+coursetitle: Child Development 2  å„¿ç«¥çš„æˆé•¿ä¸Žå‘å±•2 - Part of the designate 3 modules in the DECCE-T (Chinese) as EC bridging modules (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013329
+coursetitle: Apply Workplace Safety and Health in Metal Work
+trainingprovideruen: 199403805W
+trainingprovideralias: FONDA GLOBAL ENGINEERING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

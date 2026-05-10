@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039991
+coursetitle: Video Editing (Level 4) (Synchronous E-Learning)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

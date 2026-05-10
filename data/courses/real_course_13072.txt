@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035677
+coursetitle: PWM-Food Services: WSQ Food Safety Course Level 1 (Refresher) â€“ Mandarin
+trainingprovideruen: 199403639K
+trainingprovideralias: JUMBO GROUP OF RESTAURANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

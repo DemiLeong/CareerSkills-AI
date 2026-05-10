@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053797
+coursetitle: CoC in Shampoo & Blow Dry
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-08-05 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

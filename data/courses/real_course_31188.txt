@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048223
+coursetitle: JLP - Starting an Action
+trainingprovideruen: T09GB0002H
+trainingprovideralias: SINGAPORE ACADEMY OF LAW
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

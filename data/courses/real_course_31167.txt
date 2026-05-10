@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051352
+coursetitle: IP Licensing and Commercialisation
+trainingprovideruen: S93SS0131D
+trainingprovideralias: Franchising and Licensing Association (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039189
+coursetitle: Certified Information Systems Security Professional (CISSP) (SFw)
+trainingprovideruen: 200701199G
+trainingprovideralias: ST ENGINEERING E-SERVICES PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

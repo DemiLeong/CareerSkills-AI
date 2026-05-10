@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018183
+coursetitle: SMU-NAFA Advanced Certificate in Marketing with Visual Impact Module 4: Design to Educate and Entertain
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-01-26 00:00:00
+courserunenddate: 2026-01-27 00:00:00
+mode_of_training: Classroom

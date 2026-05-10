@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504287
+coursetitle: (16hrs) ICDL Introduction to Digital Marketing
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

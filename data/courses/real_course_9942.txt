@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016502779
+coursetitle: Residential Air-Conditioning [ISC in Residential Air-Conditioning]
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

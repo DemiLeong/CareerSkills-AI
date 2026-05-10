@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502642
+coursetitle: Realising Design & Technology with Graphical Design Tools for Smart Home
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051740
+coursetitle: TikTok Shop: Optimise Your Social Media Marketing Engagement and Boost Your Sales [Classroom Facilitated, Asynchronous E-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: 2025-09-09 00:00:00
+courserunenddate: 2025-09-10 00:00:00
+mode_of_training: Classroom

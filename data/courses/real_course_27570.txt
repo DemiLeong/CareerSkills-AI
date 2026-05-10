@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052044
+coursetitle: FinTech Frontiers: The Future of Payment Technologies
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

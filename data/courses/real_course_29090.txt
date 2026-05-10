@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039498
+coursetitle: Clinical Veterinary Nursing (in MC in Veterinary Clinical Practice in Part-Time Diploma in Applied Science - Veterinary Technology (AY2024 Apr))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

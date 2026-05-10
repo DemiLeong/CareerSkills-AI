@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018588
+coursetitle: Operate Vertical Personnel Platform
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-09-22 00:00:00
+mode_of_training: Classroom

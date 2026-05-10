@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504718
+coursetitle: WSQ Production Planning for Filming (Synchronous e-learning)
+trainingprovideruen: 201501662D
+trainingprovideralias: WISDOM ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

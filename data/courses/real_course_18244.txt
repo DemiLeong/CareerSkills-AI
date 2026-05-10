@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052088
+coursetitle: Food Safety Course Level 1 â€“ Synchronous e-learning (Chinese)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504246
+coursetitle: Building Number Sense
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-07-31 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

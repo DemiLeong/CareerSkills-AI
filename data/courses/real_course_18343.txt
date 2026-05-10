@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020710
+coursetitle: The Art of Western Dry-Heat Cooking (Foundation)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

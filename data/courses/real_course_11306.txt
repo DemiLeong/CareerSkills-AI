@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503095
+coursetitle: Basic Cardiac Life Support and AED (Asynchronous e-learning and Practical)
+trainingprovideruen: 200916685K
+trainingprovideralias: SINGAPORE FIRST AID TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-07-28 00:00:00
+mode_of_training: Classroom

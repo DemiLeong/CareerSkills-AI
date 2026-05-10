@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051976
+coursetitle: Operation & Maintenance of High Voltage Switchgear
+trainingprovideruen: 201427065Z
+trainingprovideralias: SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

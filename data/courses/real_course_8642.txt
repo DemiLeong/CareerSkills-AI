@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007603
+coursetitle: Building Information Modelling (BIM) for Security  (in PDC in Security Assessment in Specialist Diploma In Security Consultancy)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

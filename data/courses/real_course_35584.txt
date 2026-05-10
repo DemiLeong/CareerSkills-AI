@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042358
+coursetitle: Product Development and Prototyping â€“ The Design Thinking Workshop
+trainingprovideruen: 200516087K
+trainingprovideralias: MOMENTA GROUP PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

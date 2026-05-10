@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008641
+coursetitle: Post-Diploma Certificate in BIM Construction Planning & Management (in Specialist Diploma in Building Information Modelling (BIM) Construction & Asset Management)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2026-04-06 00:00:00
+courserunenddate: 2026-10-18 00:00:00
+mode_of_training: Classroom

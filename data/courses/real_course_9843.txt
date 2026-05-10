@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038895
+coursetitle: PWM-Food Services: Workplace Safety and Health for Food and Beverage Operations
+trainingprovideruen: 200704757K
+trainingprovideralias: SHRM COLLEGE PTE. LTD.
+courserunstartdate: 2025-11-27 00:00:00
+courserunenddate: 2025-11-27 00:00:00
+mode_of_training: Classroom

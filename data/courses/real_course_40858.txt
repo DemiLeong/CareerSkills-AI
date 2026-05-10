@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036441
+coursetitle: REDucation: Shooting and Workflow with RED Digital Cinema Cameras
+trainingprovideruen: 199907466K
+trainingprovideralias: AV8 MEDIA PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

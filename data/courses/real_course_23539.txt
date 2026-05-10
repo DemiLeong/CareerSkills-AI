@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013378
+coursetitle: Combined Heat and Power Systems (SCEM Elective)
+trainingprovideruen: 202026912H
+trainingprovideralias: IES ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

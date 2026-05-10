@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008939
+coursetitle: PWM-Security: Security Operation Compliance (Manage Security Agency within Legal Framework) (Classroom & Asynchronous)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

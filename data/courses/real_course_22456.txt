@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037026
+coursetitle: Electronic Security (in MC in Security Fundamentals in Diploma in Security, Workplace Safety & Health)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

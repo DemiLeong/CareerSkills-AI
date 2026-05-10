@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051900
+coursetitle: Certified Lean Six Sigma Black Belt (CLSSBB) Training
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-01-03 00:00:00
+courserunenddate: 2026-01-25 00:00:00
+mode_of_training: Classroom

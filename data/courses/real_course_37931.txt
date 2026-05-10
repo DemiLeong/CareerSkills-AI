@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017924
+coursetitle: Basic Data Analytics with Excel for Beginners
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: 2025-07-26 00:00:00
+courserunenddate: 2025-08-02 00:00:00
+mode_of_training: Classroom

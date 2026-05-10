@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043227
+coursetitle: Advanced Certificate in Digital Supply Chain Module 4: Introduction to Strategic Sourcing
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-15 00:00:00
+courserunenddate: 2025-09-17 00:00:00
+mode_of_training: Classroom

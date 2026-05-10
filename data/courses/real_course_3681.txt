@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008712
+coursetitle: Post Diploma Certificate in Agribusiness and Analytics - Part of Specialist Diploma in Agritechnology and Agribusiness (SDAA)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-10-20 00:00:00
+courserunenddate: 2026-03-31 00:00:00
+mode_of_training: Classroom

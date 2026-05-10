@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012501109
+coursetitle: Develop a Risk Management Implementation Plan
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Synchronous eLearning

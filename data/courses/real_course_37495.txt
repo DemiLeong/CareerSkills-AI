@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048548
+coursetitle: Enhance Productivity with Gen AI for Business: ChatGPT, Prompt Engineering and beyond
+trainingprovideruen: 201604334R
+trainingprovideralias: ACCTRAIN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

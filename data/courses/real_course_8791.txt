@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012920
+coursetitle: Provide Specialty Coffee Service (Classroom & Asynchronous e-Learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

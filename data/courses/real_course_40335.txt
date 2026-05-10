@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050055
+coursetitle: MASTER OF ARTS (APPLIED LINGUISTICS)
+trainingprovideruen: 200604393R
+trainingprovideralias: NIE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021820
+coursetitle: Direct Deposition 3D Printing for Manufacturing and Remanufacturing
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

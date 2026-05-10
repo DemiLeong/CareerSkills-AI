@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046892
+coursetitle: Supervise Workplace Safety and Health in Process Plant
+trainingprovideruen: 201614469C
+trainingprovideralias: UBTS ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

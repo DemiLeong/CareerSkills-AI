@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013746
+coursetitle: Food Safety Course Level 1 (Refresher)
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

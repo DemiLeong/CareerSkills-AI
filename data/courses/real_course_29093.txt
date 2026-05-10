@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007559
+coursetitle: Apron Control Management (in MC in Airport Airside Operations in Engineering (Aviation Management))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

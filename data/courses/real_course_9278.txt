@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008545
+coursetitle: (Ending Validility on 9 Aug 2025) Certified Lean Six Sigma Green Belt (CLSSGB) Training
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

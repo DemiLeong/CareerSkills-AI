@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500397
+coursetitle: Integrated Security System Design
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

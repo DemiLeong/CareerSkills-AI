@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055628
+coursetitle: Modular Certificate in Design for Emerging Technologies (in Diploma in Design (Digital Commerce & Experience))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2027-10-18 00:00:00
+courserunenddate: 2028-04-16 00:00:00
+mode_of_training: Classroom

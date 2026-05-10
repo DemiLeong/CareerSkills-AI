@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046144
+coursetitle: PWMâ€“Waste Management: Carry out collection and disposal of Class C general waste (sludge and greasy waste collection and management)
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

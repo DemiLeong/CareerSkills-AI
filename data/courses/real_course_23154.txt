@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038086
+coursetitle: Executive Certificate in Enterprise Data Management: Building Data-Driven Intelligent Enterprise in the Era of Cloud and Generative AI
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

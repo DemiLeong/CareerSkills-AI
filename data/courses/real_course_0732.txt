@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014669
+coursetitle: WSQ WordPress Website & Landing Page Creation
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-10-16 00:00:00
+courserunenddate: 2025-10-17 00:00:00
+mode_of_training: Classroom

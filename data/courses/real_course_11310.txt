@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050595
+coursetitle: Musculoskeletal (MSK) Ultrasound Course for Nurses and Allied Health Professionals (AHPs)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-09-16 00:00:00
+courserunenddate: 2025-09-17 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021369
+coursetitle: Implementing Microsoft Azure Infrastructure Solutions (SF) (Synchronous e-learning)
+trainingprovideruen: 200106514H
+trainingprovideralias: ITEL LEARNING SYSTEMS (S) PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

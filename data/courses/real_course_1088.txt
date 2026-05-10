@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020001363
+coursetitle: Employment Legislation & Industrial Relations (Synchronous e-learning)
+trainingprovideruen: 200722689Z
+trainingprovideralias: SHRI ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053780
+coursetitle: The Carbon Reduction Roadmap: Guiding SMEs to Sustainability
+trainingprovideruen: 201433657H
+trainingprovideralias: ADEPT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

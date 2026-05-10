@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049640
+coursetitle: CANVA Visual Communication Design for Business Content
+trainingprovideruen: 201100397C
+trainingprovideralias: IMPRESS TRAINING PTE. LTD.
+courserunstartdate: 2025-10-02 00:00:00
+courserunenddate: 2025-10-03 00:00:00
+mode_of_training: Classroom

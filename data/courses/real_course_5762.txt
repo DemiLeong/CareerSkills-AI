@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003716
+coursetitle: Career Coaching to Engage, Develop and Retain your Employees  (Synchronous e-learning)
+trainingprovideruen: 200407624D
+trainingprovideralias: THE FLAME CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

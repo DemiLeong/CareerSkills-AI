@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014205
+coursetitle: Post-Diploma Certificate in  Digital Media Production & Techniques (part of Specialist Diploma in Digital Media Production)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2026-02-04 00:00:00
+courserunenddate: 2026-08-28 00:00:00
+mode_of_training: Classroom

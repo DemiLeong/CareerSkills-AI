@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051982
+coursetitle: Crisis Management Strategies
+trainingprovideruen: 201210970H
+trainingprovideralias: ADVANCE SAFE CONSULTANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

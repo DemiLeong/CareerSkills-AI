@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009811
+coursetitle: PWM-Security: Threat Observation (Recognise Terrorist Threats)
+trainingprovideruen: 201705718M
+trainingprovideralias: ACUITY ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

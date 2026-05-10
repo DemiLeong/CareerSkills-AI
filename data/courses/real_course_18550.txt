@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048878
+coursetitle: Luxury Marketing Masterclass: Uncover the Secrets of Luxury Branding and Consumer Psychology
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-14 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017915
+coursetitle: Enhancing EQ to be Better Leaders
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Classroom

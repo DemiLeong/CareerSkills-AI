@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047489
+coursetitle: SEC542: Web App Penetration Testing and Ethical Hacking
+trainingprovideruen: 202031353Z
+trainingprovideralias: SANS TRAINING SINGAPORE PTE. LTD.
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-23 00:00:00
+mode_of_training: Classroom

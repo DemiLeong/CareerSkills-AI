@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049497
+coursetitle: (Micro-Credential) Performing Efficacy Testing for Personal Care Products
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

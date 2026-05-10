@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015029
+coursetitle: Modular Certificate in Data & AI Applications (part of Diploma in Engineering (Electronic & Digital Engineering))
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2026-10-19 00:00:00
+courserunenddate: 2027-04-18 00:00:00
+mode_of_training: Classroom

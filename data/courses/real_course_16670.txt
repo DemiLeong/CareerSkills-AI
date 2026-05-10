@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041511
+coursetitle: Integrating AI into Digital Marketing Strategy
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: 2025-07-31 00:00:00
+courserunenddate: 2025-08-06 00:00:00
+mode_of_training: Classroom

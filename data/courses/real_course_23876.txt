@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020050
+coursetitle: Safe and Defensive Driving for Heavy Vehicle - Class 4&5 (Classroom)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

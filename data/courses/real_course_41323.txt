@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040382
+coursetitle: Module 5: Business Intelligence and Storytelling with Visualisations
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

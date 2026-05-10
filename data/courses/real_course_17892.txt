@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040573
+coursetitle: [LPPM] Coaching and Developing Talent for Leaders (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

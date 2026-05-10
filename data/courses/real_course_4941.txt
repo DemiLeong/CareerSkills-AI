@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044971
+coursetitle: Manage Cyber Security Risks for Your Business
+trainingprovideruen: 200922279R
+trainingprovideralias: LAURES SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

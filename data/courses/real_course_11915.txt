@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018615
+coursetitle: SMU-NAFA Advanced Certificate in Arts Management for Arts Professionals Module 6: Managing Visual and Performing Arts (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

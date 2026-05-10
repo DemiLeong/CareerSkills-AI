@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012421
+coursetitle: WSQ Respond to Fire & Hazmat Emergency
+trainingprovideruen: 201321976M
+trainingprovideralias: ERCM CONSULTANCY PTE. LTD.
+courserunstartdate: 2025-08-26 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Classroom

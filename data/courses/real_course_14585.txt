@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049141
+coursetitle: SFQB: RISE For Business - Digital Growth and Innovation Module 1 of 4: Specialisation Foundation (Sync and Async E-learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-11-03 00:00:00
+mode_of_training: Synchronous eLearning

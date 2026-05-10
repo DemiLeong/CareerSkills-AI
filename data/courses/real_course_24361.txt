@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035775
+coursetitle: Bake Rich Yeast Dough Bread
+trainingprovideruen: 53331625A
+trainingprovideralias: GRA BAKING ACADEMY
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041724
+coursetitle: Key to Successful and Appropriate Resolutions for Challenging Situations (Chinese) å®¶å›­åˆä½œä¸­é€‚å½“åŒ–è§£å†²çªçš„ç­–ç•¥(Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Synchronous eLearning

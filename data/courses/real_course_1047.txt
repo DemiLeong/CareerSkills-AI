@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023041066
+coursetitle: Managing Difficult Conversations with Colleagues & Parents (Chinese) ä¸ŽåŒäº‹å’Œå®¶é•¿æ²Ÿé€šå›°éš¾çš„å¤„ç†æ–¹æ³• (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-08 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Synchronous eLearning

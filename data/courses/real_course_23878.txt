@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513473
+coursetitle: Partial Discharge Assessment and Survey Techniques
+trainingprovideruen: 200415264C
+trainingprovideralias: COMPAS MANAGEMENT CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

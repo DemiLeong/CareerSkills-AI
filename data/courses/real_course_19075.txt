@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050089
+coursetitle: HR Operational Excellence with Gen AI
+trainingprovideruen: 200507404M
+trainingprovideralias: STEVENSON HURECA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

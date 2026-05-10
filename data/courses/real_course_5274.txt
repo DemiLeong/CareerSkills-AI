@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042471
+coursetitle: NE 203: Venture Capital Financing: Identifying Funding and Working with Investors (Synchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

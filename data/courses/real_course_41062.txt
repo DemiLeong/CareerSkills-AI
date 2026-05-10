@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013570
+coursetitle: (SCTP) Advanced Professional Certificate in Digital Marketing (Classroom, Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2026-01-03 00:00:00
+mode_of_training: Synchronous eLearning

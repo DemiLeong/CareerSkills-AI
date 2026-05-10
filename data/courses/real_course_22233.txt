@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019466
+coursetitle: Basic Cardiac Life Support and AED Refresher Course (BCLS+AED)
+trainingprovideruen: 200916685K
+trainingprovideralias: SINGAPORE FIRST AID TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-28 00:00:00
+mode_of_training: Classroom

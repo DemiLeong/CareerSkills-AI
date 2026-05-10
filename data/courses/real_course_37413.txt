@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504606
+coursetitle: Building Customer Trust & Confidence: Through Better Personal Data Protection Practices
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

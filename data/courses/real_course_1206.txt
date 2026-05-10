@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054705
+coursetitle: Develop Outcome-Based Security Contract
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

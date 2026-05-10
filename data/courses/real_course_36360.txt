@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038284
+coursetitle: (eCornell) Navigating the Healthcare Regulatory Environment
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503698
+coursetitle: The Job of the Manager (JOMAN): Essential Managerial Techniques - (SFw)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

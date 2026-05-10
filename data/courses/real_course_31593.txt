@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018504746
+coursetitle: Manage Customers
+trainingprovideruen: 201530343D
+trainingprovideralias: Ascensus Institute
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

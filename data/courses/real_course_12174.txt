@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047027
+coursetitle: Workplace Safety and Health (WSH) Practices Implementation (Level 1) â€“ Comply with WSH Policies and Procedures
+trainingprovideruen: 201312483W
+trainingprovideralias: WEB LEARNING RESOURCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

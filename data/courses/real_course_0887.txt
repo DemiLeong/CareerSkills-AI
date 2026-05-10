@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054372
+coursetitle: Transforming HR Practices: Pioneering Digital Solutions for Talent Management and Recruitment
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

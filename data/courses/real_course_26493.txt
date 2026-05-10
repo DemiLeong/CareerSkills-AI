@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046299
+coursetitle: Transformative Commerce: E-Business Strategies for Digital Success (Classroom and Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047608
+coursetitle: Data Analysis using Excel: Essentials (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Synchronous eLearning

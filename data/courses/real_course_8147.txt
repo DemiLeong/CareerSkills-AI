@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504749
+coursetitle: After-sales Service
+trainingprovideruen: 201012407H
+trainingprovideralias: GOLDEN COMPASS SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

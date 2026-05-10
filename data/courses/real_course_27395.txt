@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053303
+coursetitle: PWM- Food Services: Maintain Safe & Secure Work Environment
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Asian Culinary Institute of Singapore
+courserunstartdate: 2025-07-15 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

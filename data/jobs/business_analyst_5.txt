@@ -1,0 +1,21 @@
+Job Title: Business Analyst
+Standard Role: Business Analyst
+Company: Company_5
+Level: Junior
+
+Skills:
+- Communication
+- Excel
+- Stakeholder Management
+
+Description:
+This role involves working as a Business Analyst to support business and technical needs. Responsibilities vary by company.
+
+Requirements:
+- Relevant degree
+- Experience depending on level
+
+Tools:
+- Communication
+- Excel
+- Stakeholder Management

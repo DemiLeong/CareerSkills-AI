@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007872
+coursetitle: Principles of Management (in MC in Business Fundamentals in Part-time Diploma in Security & Fire Safety Studies)Â
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

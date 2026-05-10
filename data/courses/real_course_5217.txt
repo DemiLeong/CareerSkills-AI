@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052093
+coursetitle: Create a Lead Converting Email Marketing Campaign
+trainingprovideruen: 200922279R
+trainingprovideralias: LAURES SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

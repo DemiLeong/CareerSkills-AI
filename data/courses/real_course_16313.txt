@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002557
+coursetitle: Continuous Process Improvement L3 (SF): Fostering a Continuous Improvement Culture
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

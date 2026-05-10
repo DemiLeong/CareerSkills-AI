@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006377
+coursetitle: Hardware Security Analysis via Chip (Classroom and Synchronous learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

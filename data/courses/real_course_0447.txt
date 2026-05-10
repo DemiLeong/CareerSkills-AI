@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015026
+coursetitle: Modular Certificate in Electrical & Electronics Fundamentals (part of Diploma in Engineering (Electronic & Digital Engineering))
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

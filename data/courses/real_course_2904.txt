@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040737
+coursetitle: â€‹â€‹(Micro-Credential) Design Work for the Future Workplaceâ€‹ (Classroom, Synchronous and Asynchronous e-learning)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

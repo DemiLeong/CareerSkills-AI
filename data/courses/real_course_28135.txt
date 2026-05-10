@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040447
+coursetitle: Professional Certificate in Legal Practice of the Future Module 3: Business Development and Networking For a Young Professional
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

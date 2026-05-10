@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016797
+coursetitle: Python Programming Fundamentals
+trainingprovideruen: 201312189Z
+trainingprovideralias: INTELLISOFT TRAINING PTE. LTD.
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

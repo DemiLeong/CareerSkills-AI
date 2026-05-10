@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050853
+coursetitle: Advanced Certificate in Business Innovation for Small and Medium-sized Enterprises (SMEs) Module 4: Identifying Growth and Sustainability Opportunities for Traditional Businesses
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052370
+coursetitle: Generative AI 101
+trainingprovideruen: 199707234N
+trainingprovideralias: THT ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-17 00:00:00
+courserunenddate: 2025-08-17 00:00:00
+mode_of_training: Classroom

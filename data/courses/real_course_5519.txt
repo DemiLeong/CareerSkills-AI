@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500808
+coursetitle: CAAS SAR-66 MODULE 07 MAINTENANCE PRACTICES (B1-B2)
+trainingprovideruen: 198105870H
+trainingprovideralias: ST ENGINEERING AEROSPACE LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

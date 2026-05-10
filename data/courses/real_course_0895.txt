@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039599
+coursetitle: WSQ-FTN Fortinet NSE 4 Bootcamp
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

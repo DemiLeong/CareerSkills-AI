@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017500240
+coursetitle: Apply Teamwork in the Workplace
+trainingprovideruen: 198200079M
+trainingprovideralias: PEC LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

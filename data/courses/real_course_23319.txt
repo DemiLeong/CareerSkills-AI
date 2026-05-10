@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504209
+coursetitle: Optimise Workforce for Service Excellence (People and Relationship Management)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

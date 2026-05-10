@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049418
+coursetitle: Scaled Agile Framework (SAFe) Scrum Master (Synchronous & Asynchronous e-learning)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-09-11 00:00:00
+courserunenddate: 2025-09-14 00:00:00
+mode_of_training: Synchronous eLearning

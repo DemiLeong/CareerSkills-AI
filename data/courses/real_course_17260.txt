@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053352
+coursetitle: Research Methods in Translational Medicine (From Target to Treatment)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

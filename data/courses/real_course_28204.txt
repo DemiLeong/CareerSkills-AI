@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017134
+coursetitle: Workplace Learning Project (Change Management)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

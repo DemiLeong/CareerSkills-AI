@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052172
+coursetitle: Building Organisational Resilience through Effective Workforce Planning
+trainingprovideruen: 201433657H
+trainingprovideralias: ADEPT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

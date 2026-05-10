@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008639
+coursetitle: BIM Asset Management (in PDC in BIM Building Data & Asset Management in Specialist Diploma in Building Information Modelling (BIM) Construction & Asset Management)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

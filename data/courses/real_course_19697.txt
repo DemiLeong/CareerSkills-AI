@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040557
+coursetitle: â€‹â€‹(Micro-Credential) Human Resource (HR) Innovation â€“ Building Operational Excellence Through Co-creation and Iteration in Design Thinkingâ€‹Â (Classroom and Synchronous e-learning)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

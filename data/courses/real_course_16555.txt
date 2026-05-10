@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046779
+coursetitle: Generative AI for Digital Marketers
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

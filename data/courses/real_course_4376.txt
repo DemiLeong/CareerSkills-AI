@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018508966
+coursetitle: Bachelor of Art Education with Psychology
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

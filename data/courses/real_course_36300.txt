@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044435
+coursetitle: Audio Visual Technician Course
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

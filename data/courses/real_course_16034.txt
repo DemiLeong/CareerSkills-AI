@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042902
+coursetitle: Microsoft Azure Administrator (Classroom, Synchronous and Asynchronous e-Learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-10-08 00:00:00
+mode_of_training: Synchronous eLearning

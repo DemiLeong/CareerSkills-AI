@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055793
+coursetitle: Effectiveness Management in Environmental Services
+trainingprovideruen: 201505969H
+trainingprovideralias: DYNAMIC SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

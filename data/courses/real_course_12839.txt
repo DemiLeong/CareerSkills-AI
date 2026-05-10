@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009257
+coursetitle: Digital Analytics with Google Analytics (DAGA)
+trainingprovideruen: 200821327E
+trainingprovideralias: ACETEK COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

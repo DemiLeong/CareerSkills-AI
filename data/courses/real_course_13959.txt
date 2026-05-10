@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041522
+coursetitle: Problem Solving for IT Professionals (BC)(Classroom and Synchronous e-learning)
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

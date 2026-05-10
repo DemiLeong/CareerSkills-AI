@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504662
+coursetitle: Basic Principles of ATP (Adenosine Triphosphate) bioluminescence system in hygiene / sanitation monitoring
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

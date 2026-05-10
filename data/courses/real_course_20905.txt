@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504817
+coursetitle: Service Leadership (Level 1)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

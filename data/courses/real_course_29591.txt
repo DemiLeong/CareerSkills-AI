@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044065
+coursetitle: Technology Application and Implementation Level 3
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

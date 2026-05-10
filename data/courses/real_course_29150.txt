@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018801
+coursetitle: Post-Diploma Certificate in Creative Content Creation (part of Specialist Diploma in Digital Content Creation for E-Commerce)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2026-02-15 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020000436
+coursetitle: Building a Smart Urban Farm
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-08-30 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Classroom

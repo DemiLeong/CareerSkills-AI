@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051774
+coursetitle: Zi Char Favourites
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Asian Culinary Institute of Singapore
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

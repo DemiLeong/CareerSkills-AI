@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017341
+coursetitle: WSQ Effective Video Marketing (YouTube)
+trainingprovideruen: 201529371H
+trainingprovideralias: GEX ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

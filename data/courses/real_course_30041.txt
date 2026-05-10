@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023041109
+coursetitle: WSQ Make Sweet & Savoury Tarts and Pies
+trainingprovideruen: 202014296C
+trainingprovideralias: MS Learning and Training Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

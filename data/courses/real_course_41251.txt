@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009366
+coursetitle: Professional Certificate in No-Code Essentials Module 3: No-Code Development in Practice (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052178
+coursetitle: WSQ LinkedIn Sales and Marketing
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-10-23 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

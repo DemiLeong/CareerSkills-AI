@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042829
+coursetitle: Make Tarts and Shortcrust Pastries
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-12-09 00:00:00
+courserunenddate: 2025-12-12 00:00:00
+mode_of_training: Classroom

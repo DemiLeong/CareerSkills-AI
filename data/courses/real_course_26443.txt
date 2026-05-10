@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501603
+coursetitle: HR Analytics Certificate - Using Analytics to Improve People Decisions
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

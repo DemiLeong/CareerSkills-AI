@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019979
+coursetitle: WSQ - Microsoft Excel Advanced
+trainingprovideruen: 200305285R
+trainingprovideralias: AVANTUS TRAINING PRIVATE LIMITED
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

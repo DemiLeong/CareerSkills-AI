@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040493
+coursetitle: Identifying and Developing Future Leaders (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Classroom

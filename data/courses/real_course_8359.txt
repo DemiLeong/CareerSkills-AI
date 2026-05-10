@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036037
+coursetitle: Constructing a Meaningful Educational Setting - Â Part of the PDC1 of Specialist Diploma in Early Childhood Intervention (Special Needs)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-11-26 00:00:00
+mode_of_training: Synchronous eLearning

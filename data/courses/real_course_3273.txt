@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512874
+coursetitle: Advanced Certificate in Data Protection Operational Excellence Module 5: Data Protection Trends & the Role of the DPO (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

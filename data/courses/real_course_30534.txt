@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044564
+coursetitle: WSQ UX Design Bootcamp (Synchronous E-learning)
+trainingprovideruen: 201923625H
+trainingprovideralias: VERTICAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

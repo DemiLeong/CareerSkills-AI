@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037492
+coursetitle: PWMâ€“Waste Management: Use appropriate compaction vehicles and equipment to collect, compress, transport and dispose waste
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

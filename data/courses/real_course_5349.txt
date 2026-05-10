@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040449
+coursetitle: SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 10: Ethics and Professional Conduct (Asynchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

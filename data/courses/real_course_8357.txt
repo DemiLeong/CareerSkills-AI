@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013494
+coursetitle: ADVANCED CERTIFICATE IN CONSTRUCTION PRODUCTIVITY (ACCP)
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-10-30 00:00:00
+mode_of_training: Synchronous eLearning

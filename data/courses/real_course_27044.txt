@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023025990
+coursetitle: Machine Vision and Pattern Recognition in Advanced Manufacturing
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

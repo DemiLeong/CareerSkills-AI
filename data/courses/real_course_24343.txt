@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036315
+coursetitle: CompTIA A+ (Core2)
+trainingprovideruen: 201109011W
+trainingprovideralias: BRIDGINGMINDS NETWORK PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

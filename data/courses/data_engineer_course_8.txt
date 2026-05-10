@@ -1,0 +1,16 @@
+Course Name: Data Engineer Professional Course 8
+Provider: SkillsFuture Singapore
+
+Skills Covered:
+- SQL
+- ETL
+- Python
+- Big Data
+
+Level: Intermediate
+
+Description:
+Learn essential and advanced skills for becoming a Data Engineer.
+
+Outcome:
+Prepare for Data Engineer job roles and career advancement.

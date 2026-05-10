@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512986
+coursetitle: Advanced Certificate in Data Protection Operational Excellence Module 1: A Practical Approach to Data Protection for DPOs (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-09-01 00:00:00
+mode_of_training: Synchronous eLearning

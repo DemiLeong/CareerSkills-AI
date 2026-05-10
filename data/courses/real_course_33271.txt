@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042234
+coursetitle: Executive Certificate in Digitalisation and Capability Rebuilding for Food Services - Overseas Immersion and Networking
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-16 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

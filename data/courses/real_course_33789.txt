@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013506
+coursetitle: Social Media Creation & Management
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

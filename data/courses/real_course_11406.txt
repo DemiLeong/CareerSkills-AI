@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021988
+coursetitle: Graduate Diploma in Artificial Intelligence for Business
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002639
+coursetitle: Provide Go-the-Extra-Mile Service (Service Excellence) (Synchronous e-learning)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Synchronous eLearning

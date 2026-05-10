@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037504
+coursetitle: SkillsFuture for Digital Workplace 2.0 Built Environment (Classroom + Asynchronous E-learning)
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

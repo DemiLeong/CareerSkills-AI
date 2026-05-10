@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050790
+coursetitle: AutoCAD Basics (2D & 3D)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

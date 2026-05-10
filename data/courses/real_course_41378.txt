@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005470
+coursetitle: FTI6004 Cybersecurity in the New Economy
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

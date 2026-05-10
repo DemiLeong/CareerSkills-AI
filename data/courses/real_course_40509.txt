@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013605
+coursetitle: Setting Up a Profitable Business with Minimal Capital through a Social Commerce Platform  (Synchronous e-Learning)
+trainingprovideruen: 201213801E
+trainingprovideralias: HASHMETA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002953
+coursetitle: Music Making and Developing Musicality in Children 4 to 6 years old (English)
+trainingprovideruen: 201730093K
+trainingprovideralias: WIGGLEPODS PTE. LTD.
+courserunstartdate: 2025-10-10 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

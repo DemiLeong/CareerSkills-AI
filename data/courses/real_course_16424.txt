@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022119
+coursetitle: Drive Productivity and Innovation - Level 1 (Classroom & Asynchronous)
+trainingprovideruen: S87SS0027A
+trainingprovideralias: Electronics Industries Training Centre
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043274
+coursetitle: Regulation of Pharmaceutical Manufacturing (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2026-01-09 00:00:00
+mode_of_training: Classroom

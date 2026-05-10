@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052341
+coursetitle: Hands-on AI-Assisted Programming Made Simple with GitHub Copilot
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-07-25 00:00:00
+courserunenddate: 2026-07-25 00:00:00
+mode_of_training: Classroom

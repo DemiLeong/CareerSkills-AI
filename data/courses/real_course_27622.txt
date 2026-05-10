@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052467
+coursetitle: Coaching to Build Ownership and Drive Performance
+trainingprovideruen: 199901129K
+trainingprovideralias: MIND TRANSFORMATIONS PTE LTD
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-06 00:00:00
+mode_of_training: Classroom

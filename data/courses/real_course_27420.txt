@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055043
+coursetitle: Certified PLC Programming for Industrial Applications
+trainingprovideruen: 197700888D
+trainingprovideralias: BOSCH REXROTH PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

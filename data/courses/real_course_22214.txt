@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043283
+coursetitle: Advanced Certificate in Generative Artificial Intelligence-Enhanced Social Media Content Creation Module 6: Mastering Short-form Videos
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

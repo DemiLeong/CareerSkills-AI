@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500799
+coursetitle: CAAS SAR-66 MODULE 03 ELECTRICAL FUNDAMENTALS (B1-B2)
+trainingprovideruen: 198105870H
+trainingprovideralias: ST ENGINEERING AEROSPACE LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

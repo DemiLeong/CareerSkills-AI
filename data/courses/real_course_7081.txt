@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045802
+coursetitle: Neo4j Graph Data Science and Large Language Model (LLM)
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-03-17 00:00:00
+courserunenddate: 2026-03-18 00:00:00
+mode_of_training: Classroom

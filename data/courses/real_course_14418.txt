@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048893
+coursetitle: Advanced Certificate in Technical Trading: Trading Using Technical Analysis â€“ Foundation and Market Strategies 1
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

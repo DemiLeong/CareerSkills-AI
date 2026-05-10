@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013016
+coursetitle: HORIZONTAL SURFACE MAINTENANCE (CHF L1)
+trainingprovideruen: 201204263N
+trainingprovideralias: BESPOKE SOLUTION TRAINING CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

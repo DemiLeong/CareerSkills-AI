@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043255
+coursetitle: Digital Age Content Creation 101: Initiating Your Journey into Crafting Engaging Social Media Content
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-18 00:00:00
+mode_of_training: Classroom

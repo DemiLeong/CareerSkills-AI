@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500981
+coursetitle: Confined Space Management (Assess Confined Space for Safe Entry and Work)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-12-05 00:00:00
+mode_of_training: Classroom

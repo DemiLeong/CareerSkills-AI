@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051827
+coursetitle: Introduction to Design Thinking and Artificial Intelligence in Healthcare Innovations
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

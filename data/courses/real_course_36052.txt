@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019500607
+coursetitle: Clean Vertical Surfaces Glass and Ceiling (SF)
+trainingprovideruen: 201223502K
+trainingprovideralias: FOCUS LEARNING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

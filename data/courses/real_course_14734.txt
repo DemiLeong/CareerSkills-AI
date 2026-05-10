@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513818
+coursetitle: WSQ Search Engine Marketing (SEM) and Display (PPC) Certification Course
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

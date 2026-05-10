@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042449
+coursetitle: NE 205: Data Science in Entrepreneurial Marketing (Synchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048409
+coursetitle: ISO 14064-1 and GHG Emissions Reporting (Scope 1 & 2) with Digital Technology
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016791
+coursetitle: Applied Systems Thinking for Sustainability and Complexity in Business
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

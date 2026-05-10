@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053340
+coursetitle: Advanced Certificate in Artificial Intelligence (AI) and Automation for Business Professionals Module 7: Capstone Project with Career Mentorship
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040809
+coursetitle: Enabling Academy: Presentation
+trainingprovideruen: S64SS0052D
+trainingprovideralias: SPD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

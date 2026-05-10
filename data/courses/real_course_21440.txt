@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052905
+coursetitle: SFQB: RISE For Business â€“ Data Analytics for Business (Sync and Async E-learning): Module 4 of 4
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

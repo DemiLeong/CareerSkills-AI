@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015667
+coursetitle: Prescriptive Analytics - From data to optimal course of action
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

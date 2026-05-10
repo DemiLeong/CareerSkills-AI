@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503421
+coursetitle: WSQ Digital Marketing Analytics & Optimisation (Google Analytics 4)
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-09-11 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014211
+coursetitle: Negotiation Tips and Tricks
+trainingprovideruen: 201114074D
+trainingprovideralias: EPM TRAINING SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

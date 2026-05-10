@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019501991
+coursetitle: WSQ Demonstrate Basic Moist Heat Cooking Methods
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052346
+coursetitle: WSQ Fundamentals of Business Accounting and Documentation
+trainingprovideruen: 201222776R
+trainingprovideralias: INSPIZONE PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

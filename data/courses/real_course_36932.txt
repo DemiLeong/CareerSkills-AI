@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503263
+coursetitle: PWM-Food Services: Food Safety Course Level 1
+trainingprovideruen: 199704969Z
+trainingprovideralias: GUILFORD TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-06-30 00:00:00
+mode_of_training: Classroom

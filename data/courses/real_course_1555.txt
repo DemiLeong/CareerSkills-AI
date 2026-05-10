@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502800
+coursetitle: Human Resource Systems Management Level 2: Operate Human Resource Information Systems (Synchronous e-learning)
+trainingprovideruen: 200903531C
+trainingprovideralias: HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

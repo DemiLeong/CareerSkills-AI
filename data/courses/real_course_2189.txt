@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512990
+coursetitle: Strategic Digital Transformation in Finance Module 5: IT Risks, Governance and Security Essentials (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

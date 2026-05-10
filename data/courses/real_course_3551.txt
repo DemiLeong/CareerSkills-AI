@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054532
+coursetitle: Security Surveillance Management (Perform Remote Surveillance Function)
+trainingprovideruen: 197100922N
+trainingprovideralias: CBM PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051330
+coursetitle: AI-Infused Content Marketing- From Concept to Execution
+trainingprovideruen: 200601238K
+trainingprovideralias: GLOBAL BRAND ACADEMY (PTE. LTD.)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

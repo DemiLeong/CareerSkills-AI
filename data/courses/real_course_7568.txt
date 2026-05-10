@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007201
+coursetitle: Robotics Integration and Adaptation (in PDC in Robotics in Specialist Diploma in Robotics & Automation)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

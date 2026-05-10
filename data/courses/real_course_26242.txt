@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513772
+coursetitle: Risk Management for Real Estate - (Classroom, Synchronous E-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018116
+coursetitle: SMU-NAFA Advanced Certificate in Marketing with Visual Impact Module 1: Visual Communication in the Emotional Economy
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-24 00:00:00
+courserunenddate: 2025-11-25 00:00:00
+mode_of_training: Classroom

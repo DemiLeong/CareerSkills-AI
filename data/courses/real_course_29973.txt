@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019183
+coursetitle: TPUD - Cloud Computing for Business Leaders (Asynchronous e-Learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051876
+coursetitle: Grid-Integrated Energy Storage Systems: Technologies, Standardisation and Applications
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

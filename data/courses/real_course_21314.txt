@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051044
+coursetitle: "Must be PD!" : Social Work Intervention with Persons with Borderline Personality Disorder (Classroom and Asynchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

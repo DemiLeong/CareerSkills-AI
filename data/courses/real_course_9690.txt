@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009712
+coursetitle: Accelerating Development of Large-scale  Artificial Intelligence (AI) Applications
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

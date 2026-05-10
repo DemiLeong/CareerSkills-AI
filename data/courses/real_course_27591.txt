@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019898
+coursetitle: PWM-Cleaning: Demonstrate and apply understanding of cleaning chemicals, methods and processes
+trainingprovideruen: 201725903K
+trainingprovideralias: ASTUTE PROFESSIONAL TRAINING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

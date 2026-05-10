@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052041
+coursetitle: Chief Open Source Officer Programme (Classroom & Synchronous e-Learning)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

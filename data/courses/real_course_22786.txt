@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009887
+coursetitle: Advanced Certificate in Organisation Development Module 6: Building Organisational Agility and Resilience (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-04 00:00:00
+courserunenddate: 2025-09-09 00:00:00
+mode_of_training: Synchronous eLearning

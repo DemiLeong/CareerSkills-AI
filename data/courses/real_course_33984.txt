@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042809
+coursetitle: Demonstrate Basic Moist Heat Cooking Methods
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

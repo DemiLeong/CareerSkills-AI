@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042586
+coursetitle: WBT201: Fundamentals of Token Economics
+trainingprovideruen: 202010224E
+trainingprovideralias: METACAMP PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

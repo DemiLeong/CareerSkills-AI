@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023034141
+coursetitle: Coc in Using Design Thinking to Thrive in Business (Customer Experience) (Synchronous e-Learning)
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

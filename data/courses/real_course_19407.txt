@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005337
+coursetitle: Certificate In Border Security Management
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2027-04-19 00:00:00
+courserunenddate: 2027-09-30 00:00:00
+mode_of_training: Classroom

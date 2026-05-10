@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018080
+coursetitle: SMU-NAFA Advanced Certificate in Marketing with Visual Impact Module 5: Responsive Design
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

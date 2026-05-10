@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044749
+coursetitle: Ageing-in-place with physical exercise and cognitive stimulation
+trainingprovideruen: 201304084E
+trainingprovideralias: WHITEANGEL CAREGIVERS CONSULTANCY (PRIVATE LIMITED)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

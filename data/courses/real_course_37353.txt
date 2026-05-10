@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012167
+coursetitle: MGE902 Basic Concepts and Techniques in Qualitative Data Analyses (Classroom, Asynchronous)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

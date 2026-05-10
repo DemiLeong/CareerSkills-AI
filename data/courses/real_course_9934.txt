@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035928
+coursetitle: PWM-Food Services: Food Safety Course Level 1 (Refresher) (Chinese)
+trainingprovideruen: 201212886E
+trainingprovideralias: LEARNCOLLAB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043506
+coursetitle: Hand Bouquet - Foundation
+trainingprovideruen: 201317013M
+trainingprovideralias: TROPIFAME FLORAL DESIGN SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

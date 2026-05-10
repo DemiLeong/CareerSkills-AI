@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047946
+coursetitle: ILA0015 - Designing and Using Rubrics to Achieve Professional Learning Outcomes (Classroom & Asynchronous)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-08-15 00:00:00
+courserunenddate: 2025-09-04 00:00:00
+mode_of_training: Classroom

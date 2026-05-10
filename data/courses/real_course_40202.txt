@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502977
+coursetitle: Crowd and Traffic Control Management (Conduct Crowd and Traffic Control) (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

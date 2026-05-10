@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052961
+coursetitle: Greenhouse Gas Verification and Validation (ISO 14064-3:2019) leading to Greenhouse Gas Practitioner
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-11 00:00:00
+mode_of_training: Classroom

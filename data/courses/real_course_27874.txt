@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054342
+coursetitle: Enhancing Banking & Finance with AI: Tools & Risk Management for Executives
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

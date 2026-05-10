@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021849
+coursetitle: PWM-Food Services: Food Safety Course Level 3 Chinese
+trainingprovideruen: 200409177Z
+trainingprovideralias: XPRIENZ PTE. LTD.
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-16 00:00:00
+mode_of_training: Classroom

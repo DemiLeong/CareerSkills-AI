@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502770
+coursetitle: Powder-bed additive manufacturing processes for complex functional metallic components (Classroom & Asynchronous)
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

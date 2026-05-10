@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045266
+coursetitle: A Practical Workshop in Building and Construction Dispute Resolution
+trainingprovideruen: T09GB0002H
+trainingprovideralias: SINGAPORE ACADEMY OF LAW
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006710
+coursetitle: Effective Product Demonstration
+trainingprovideruen: 201723514D
+trainingprovideralias: SOQ INTERNATIONAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

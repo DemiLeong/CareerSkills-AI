@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044831
+coursetitle: (PDECCE-T/CCP) Foster trusting, respectful relationships with children through positive interactions with them
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

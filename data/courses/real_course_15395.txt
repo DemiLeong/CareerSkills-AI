@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010354
+coursetitle: BCM-330: Testing and Exercising Business Continuity Plans (Synchronous and Asynchronous E-learning)
+trainingprovideruen: 200512017R
+trainingprovideralias: BCMI PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

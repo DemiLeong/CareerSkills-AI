@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003598
+coursetitle: Career Facilitation Programme (CFP) (Synchronous & Asynchronous e-Learning)
+trainingprovideruen: T08GB0060H
+trainingprovideralias: WORKFORCE SINGAPORE AGENCY
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Synchronous eLearning

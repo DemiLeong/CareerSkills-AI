@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039098
+coursetitle: Confucian Business Governance and the Tao of Balancing Business and Family for Prosperity (Fully Conducted in Mandarin)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013611
+coursetitle: Essentials of Information Systems Risk and Controls (ISRM Part 1) (Synchronous e-learning)
+trainingprovideruen: T04SS0109E
+trainingprovideralias: Institute of Singapore Chartered Accountants
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

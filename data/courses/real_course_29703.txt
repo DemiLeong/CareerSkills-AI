@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048513
+coursetitle: Internationalisation Series: FinTech Frontiers - Exploring New York's Global Influence and the Unique Ecosystem of US Innovation in Finance
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

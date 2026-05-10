@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040683
+coursetitle: IATA DGR (Awareness) - Personnel Handling Cargo In Warehouse, ULDs and Aircraft (7.4)
+trainingprovideruen: 52028000L
+trainingprovideralias: HAZMAT TRAINING
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-14 00:00:00
+mode_of_training: Classroom

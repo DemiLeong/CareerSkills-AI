@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500918
+coursetitle: Workplace Safety and Health Culture Management (Promote WSH Culture Development)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-06-29 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045022
+coursetitle: Professional Certificate in Spa and Wellness Operations (Asynchronous & Synchronous e-learning)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-08-04 00:00:00
+mode_of_training: Classroom

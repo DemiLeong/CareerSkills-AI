@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039026
+coursetitle: FUN Start MOVE Smart! Fundamental Movement Skills Introductory Workshop (Classroom, Synchronous & Asynchronous e-Learning)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

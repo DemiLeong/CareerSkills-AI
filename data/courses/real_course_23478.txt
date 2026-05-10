@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505022
+coursetitle: ICDL Digital Marketing Certification
+trainingprovideruen: 201312189Z
+trainingprovideralias: INTELLISOFT TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

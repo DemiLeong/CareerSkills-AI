@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054450
+coursetitle: SAP S/4HANA Procurement - Upskilling for ECC Experts
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Synchronous eLearning

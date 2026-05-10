@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041474
+coursetitle: International Trade and Freight Management (Synchronous eLearning)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

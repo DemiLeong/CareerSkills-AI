@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051213
+coursetitle: Advanced Certificate in Digital Procurement Module 4: Change Management in the Digitalisation of Procurement (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

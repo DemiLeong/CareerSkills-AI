@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041175
+coursetitle: Fundamentals of Floristry â€“ How to build your floral business and do up floral arrangement with fresh and preserved flowers
+trainingprovideruen: 201503118E
+trainingprovideralias: FLEURISTE PTE. LTD.
+courserunstartdate: 2025-08-05 00:00:00
+courserunenddate: 2025-08-07 00:00:00
+mode_of_training: Classroom

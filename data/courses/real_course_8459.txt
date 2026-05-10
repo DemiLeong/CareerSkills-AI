@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512834
+coursetitle: Coaching for Professional Effectiveness and Personal Success
+trainingprovideruen: T12LL1245D
+trainingprovideralias: ENVIRONICHE LLP
+courserunstartdate: 2025-08-02 00:00:00
+courserunenddate: 2025-08-03 00:00:00
+mode_of_training: Classroom

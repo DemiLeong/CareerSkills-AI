@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052902
+coursetitle: Harnessing Generative Artificial Intelligence (AI) and Transforming Legal Workflow using Prompting for Legal and Contract Executives
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

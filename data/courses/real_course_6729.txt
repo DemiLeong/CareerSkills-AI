@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016664
+coursetitle: Introduction to Mathematical Models of the Epidemiology & Control of Infectious Diseases + Modelling for disease outbreaks (Classroom)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004211
+coursetitle: Psychological Sciences For Work and Living Module 3: Stress and Resilient Living (Life Mastery) (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

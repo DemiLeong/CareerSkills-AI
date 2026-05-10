@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039229
+coursetitle: Specialist Diploma in Agile Solutioning & DevSecOps
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

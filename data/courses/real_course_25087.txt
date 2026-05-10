@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014725
+coursetitle: A Sunny Island Called Singapore: A Multicultural Creative Music Movement Workshop for Teachers working with 4 to 6 year olds
+trainingprovideruen: 201730093K
+trainingprovideralias: WIGGLEPODS PTE. LTD.
+courserunstartdate: 2025-08-15 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502229
+coursetitle: Lateral Earth Pressures and Retaining Wall Design via Eurocode 7 (Synchronous e-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

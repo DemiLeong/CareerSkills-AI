@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016161
+coursetitle: Strategic Branding & Marketing for Successful Franchising
+trainingprovideruen: S93SS0131D
+trainingprovideralias: Franchising and Licensing Association (Singapore)
+courserunstartdate: 2025-08-19 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

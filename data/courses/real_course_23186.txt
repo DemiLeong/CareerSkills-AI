@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020213
+coursetitle: Identify Opportunities for Transdisciplinary Collaboration (Synchronous & Asynchronous E-learning)
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045398
+coursetitle: Understanding Learners with High Ability and their Affective and Moral Needs (Classroom, Asynchronous and Synchronous E-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

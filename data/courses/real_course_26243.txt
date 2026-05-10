@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504511
+coursetitle: CS104B: Application Security in Practice: Case Studies â€“ Web Applications, Mobile Applications, and Digital Payment Systems (synchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

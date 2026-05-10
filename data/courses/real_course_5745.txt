@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013436
+coursetitle: Workplace Safety and Health Management in Construction Industry (Mandarin)
+trainingprovideruen: 200900134G
+trainingprovideralias: SCAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

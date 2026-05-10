@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046361
+coursetitle: WSQ Generative AI for Digital Marketing
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-18 00:00:00
+mode_of_training: Classroom

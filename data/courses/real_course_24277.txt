@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035575
+coursetitle: Employability Support Series: Embrace Continuous Learning to Drive Career Development
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

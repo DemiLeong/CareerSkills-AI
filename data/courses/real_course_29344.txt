@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040920
+coursetitle: Graduate Certificate in Designing Learning and Innovation - GCDLI (f2f, sync)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

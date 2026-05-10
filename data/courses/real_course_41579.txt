@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049158
+coursetitle: ABCs of resilience and Self-care for Preschool and Early Intervention Educators (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

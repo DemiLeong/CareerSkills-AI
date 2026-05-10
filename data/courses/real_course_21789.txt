@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019506
+coursetitle: Advanced Psychosocial Care and Thanatology (Synchronous & Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

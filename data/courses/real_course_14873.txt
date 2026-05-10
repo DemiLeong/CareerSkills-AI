@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017121
+coursetitle: Driving Sustainability in Green Technology - The Future of Smart Building and Smart City
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

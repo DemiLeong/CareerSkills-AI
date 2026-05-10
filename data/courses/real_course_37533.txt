@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041427
+coursetitle: UAPL Class A (Rotorcraft) for Multi-rotor up to 25kg
+trainingprovideruen: 201503647E
+trainingprovideralias: APOLLO GLOBAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

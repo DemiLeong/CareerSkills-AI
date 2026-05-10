@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047859
+coursetitle: Operate ForkLift â€“ Without Class 3 License
+trainingprovideruen: 200808289G
+trainingprovideralias: AUGUST INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

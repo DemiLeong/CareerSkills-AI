@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005249
+coursetitle: Post-Diploma Certificate in Business Intelligence (in Specialist Diploma in Business Analytics)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

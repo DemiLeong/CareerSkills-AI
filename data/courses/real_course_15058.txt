@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010710
+coursetitle: Advanced Certificate in Data Governance Systems Module 4: Concepts and Principles of Records Management in Todayâ€™s Digital Environment
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-06 00:00:00
+courserunenddate: 2025-08-07 00:00:00
+mode_of_training: Classroom

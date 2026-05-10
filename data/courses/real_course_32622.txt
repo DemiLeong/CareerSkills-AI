@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505398
+coursetitle: Design Thinking For Successful Problem Solving
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

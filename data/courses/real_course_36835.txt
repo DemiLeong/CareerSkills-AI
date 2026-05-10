@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014202
+coursetitle: Creating Winning Content for Social Media Marketing Campaigns (Synchronous e-Learning)
+trainingprovideruen: 201213801E
+trainingprovideralias: HASHMETA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

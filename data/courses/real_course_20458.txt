@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017515
+coursetitle: Establish TikTok marketing strategy plan to meet business requirements for internationalisation (Synchronous E-Learning).
+trainingprovideruen: T02SS0073H
+trainingprovideralias: Singapore Business Federation
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

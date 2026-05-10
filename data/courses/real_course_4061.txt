@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014679
+coursetitle: Application of Security Command and Control Centre Operations
+trainingprovideruen: 201503647E
+trainingprovideralias: APOLLO GLOBAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

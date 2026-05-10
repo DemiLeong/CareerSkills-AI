@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500963
+coursetitle: Washroom Maintenance
+trainingprovideruen: 198801833K
+trainingprovideralias: CLEAN SOLUTIONS PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

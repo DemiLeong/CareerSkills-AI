@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503918
+coursetitle: PWM-Retail: Adapt to Change (SF-Associate) [Synchronous e-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

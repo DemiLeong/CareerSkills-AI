@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500242
+coursetitle: Facilitate Effective Communication and  Engagement at the Workplace(Blended)
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

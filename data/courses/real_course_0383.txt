@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007607
+coursetitle: Computational Thinking (in MC in Application Development in Part-time Diploma in Infocomm and Digital Media (Applied Artificial Intelligence))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

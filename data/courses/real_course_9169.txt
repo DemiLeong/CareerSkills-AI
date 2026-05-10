@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017950
+coursetitle: Plan, Prepare and Deliver Business Presentations
+trainingprovideruen: 201612290Z
+trainingprovideralias: SISO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

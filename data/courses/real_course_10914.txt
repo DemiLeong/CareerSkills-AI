@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013297
+coursetitle: Operate Boom Lift
+trainingprovideruen: 199707234N
+trainingprovideralias: THT ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-07 00:00:00
+mode_of_training: Practical/Practicum

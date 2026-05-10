@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017501495
+coursetitle: Food Safety Course Level 1 (Refresher)
+trainingprovideruen: 196900269D
+trainingprovideralias: SETSCO SERVICES PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

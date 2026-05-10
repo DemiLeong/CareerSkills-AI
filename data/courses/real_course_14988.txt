@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513021
+coursetitle: Advanced Certificate in RegTech Module 3: RegTech Innovation Focus I - Digitalisation, Data Analytics, Machine Learning and AI (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

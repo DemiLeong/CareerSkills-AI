@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500737
+coursetitle: Workplace Safety and Health System Management (Coordinate WSH Management System with Legal Compliance)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-08-09 00:00:00
+courserunenddate: 2025-09-07 00:00:00
+mode_of_training: Classroom

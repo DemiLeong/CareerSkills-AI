@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016502853
+coursetitle: Creative Figure Illustration
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

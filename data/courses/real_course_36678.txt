@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039091
+coursetitle: Marketing to Gen Z Gamers & Esports Industry in Southeast Asia (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043813
+coursetitle: Facilitating Learning in the Digital Age: Part 3 Digital Learning â€“ Critical Perspectives and Deepening Understanding (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

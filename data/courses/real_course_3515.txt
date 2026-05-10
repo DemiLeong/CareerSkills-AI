@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054879
+coursetitle: Mastering Retail Sales Closure
+trainingprovideruen: 201210970H
+trainingprovideralias: ADVANCE SAFE CONSULTANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

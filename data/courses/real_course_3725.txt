@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041889
+coursetitle: Operating Systems & Network Fundamentals - Part of Modular Certificate in Computing Fundamentals (DFSD)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-07-05 00:00:00
+courserunenddate: 2025-09-30 00:00:00
+mode_of_training: Classroom

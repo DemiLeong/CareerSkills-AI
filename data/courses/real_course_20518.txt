@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500089
+coursetitle: AWARENESS OF THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE  COURSE
+trainingprovideruen: 52028000L
+trainingprovideralias: HAZMAT TRAINING
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

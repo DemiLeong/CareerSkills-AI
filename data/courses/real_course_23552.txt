@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500629
+coursetitle: Respond to Fire Emergency in Buildings
+trainingprovideruen: 201106989R
+trainingprovideralias: TECS FIRE & SAFETY TRAINING PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

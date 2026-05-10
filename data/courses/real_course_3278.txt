@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037557
+coursetitle: Behavioural Decision Science: Judgments, Choices, and Behavioural Economics
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-31 00:00:00
+courserunenddate: 2025-08-01 00:00:00
+mode_of_training: Classroom

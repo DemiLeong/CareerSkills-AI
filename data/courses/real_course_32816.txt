@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504925
+coursetitle: Administer Purchasing and Receiving Procedures - Blended (SSF)
+trainingprovideruen: 201229599Z
+trainingprovideralias: AVANTA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

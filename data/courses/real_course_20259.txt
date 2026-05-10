@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505658
+coursetitle: WSQ Support Special Needs Children/ Young Persons with Communication Difficulties
+trainingprovideruen: 199907030H
+trainingprovideralias: ASIAN INTERNATIONAL COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043622
+coursetitle: Module 2: Sustainable Smart City & Singapore Green Plan 2030 for the Built Environment (Classroom, Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

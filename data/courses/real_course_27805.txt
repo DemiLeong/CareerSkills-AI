@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015100
+coursetitle: Advanced Certificate in Web 3.0 Module 3: Leveraging the Power of Web 3.0
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-09-24 00:00:00
+mode_of_training: Classroom

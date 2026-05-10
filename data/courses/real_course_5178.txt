@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051114
+coursetitle: Advanced Certificate in Artificial Intelligence (AI) Product Development in the Digital Economy Module 2: Data Collection and Preprocessing for AI Product Development
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

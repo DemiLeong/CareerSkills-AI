@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051789
+coursetitle: Sustainability at Our Core â€“ Equipping You to Drive Impact (IES)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

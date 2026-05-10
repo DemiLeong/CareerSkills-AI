@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044727
+coursetitle: Specialized Communication Skills in Palliative Care
+trainingprovideruen: T13CS0001B
+trainingprovideralias: SILVER CAREGIVERS CO-OPERATIVE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

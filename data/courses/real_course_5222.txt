@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503559
+coursetitle: Service Leadership (SLL1)
+trainingprovideruen: 200702672N
+trainingprovideralias: ROHEI CORPORATION PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-02 00:00:00
+mode_of_training: Classroom

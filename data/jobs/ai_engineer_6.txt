@@ -1,0 +1,23 @@
+Job Title: AI Engineer
+Standard Role: AI Engineer
+Company: Company_6
+Level: Mid
+
+Skills:
+- Python
+- Deep Learning
+- TensorFlow
+- NLP
+
+Description:
+This role involves working as a AI Engineer to support business and technical needs. Responsibilities vary by company.
+
+Requirements:
+- Relevant degree
+- Experience depending on level
+
+Tools:
+- Python
+- Deep Learning
+- TensorFlow
+- NLP

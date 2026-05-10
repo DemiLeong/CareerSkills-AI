@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014541
+coursetitle: Workplace Safety and Health Management in Chemical, Process, Pharmaceutical Industries and Laboratories
+trainingprovideruen: 201505969H
+trainingprovideralias: DYNAMIC SAFETY PTE. LTD.
+courserunstartdate: 2025-06-29 00:00:00
+courserunenddate: 2025-07-20 00:00:00
+mode_of_training: Classroom

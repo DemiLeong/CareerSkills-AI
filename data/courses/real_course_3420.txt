@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044512
+coursetitle: (PDECCE-T) Guide the development and enhancement of self- awareness, self-regulation, social awareness and confidence in children
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

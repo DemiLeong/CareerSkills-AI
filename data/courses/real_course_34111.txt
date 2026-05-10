@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017501386
+coursetitle: Food Safety Course Level 1
+trainingprovideruen: 201017313E
+trainingprovideralias: PROJECT DIGNITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

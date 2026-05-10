@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014501169
+coursetitle: Identify WSH Hazards and Assess WSH Risks.
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

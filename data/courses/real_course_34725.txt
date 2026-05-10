@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051131
+coursetitle: Advanced Certificate in Esports for Digital Economy Module 1: Introduction to Esports in the Digital Economy (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

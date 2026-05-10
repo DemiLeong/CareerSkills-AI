@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037954
+coursetitle: Technical Drawing with SketchUp
+trainingprovideruen: 201102380E
+trainingprovideralias: ACAD PTE. LTD.
+courserunstartdate: 2025-08-14 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

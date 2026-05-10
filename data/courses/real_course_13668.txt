@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013412
+coursetitle: Child First Aid Refresher Course (Classroom & Asynchronous)
+trainingprovideruen: 201529255M
+trainingprovideralias: AGAPE FIRST AID PTE. LTD.
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Classroom

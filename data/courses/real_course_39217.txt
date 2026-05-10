@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040800
+coursetitle: Enabling Academy: F&B Train and Place Programme
+trainingprovideruen: 201017313E
+trainingprovideralias: Project Dignity Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

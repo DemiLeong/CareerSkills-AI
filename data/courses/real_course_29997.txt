@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038596
+coursetitle: SkillsFuture for Digital Workplace 2.0 (SFDW 2.0) - General (1 day)
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

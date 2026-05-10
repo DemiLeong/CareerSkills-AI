@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045353
+coursetitle: Social Media Marketing
+trainingprovideruen: 202001524G
+trainingprovideralias: HUSTLE INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

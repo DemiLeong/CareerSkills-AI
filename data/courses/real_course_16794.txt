@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052607
+coursetitle: Effective Conflict Management in the Workplace
+trainingprovideruen: 202134431Z
+trainingprovideralias: ADELINE CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

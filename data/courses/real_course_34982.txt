@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051843
+coursetitle: Advanced Certificate in Blockchain in Digital Economy Module 1: Distributed Ledger Technology
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

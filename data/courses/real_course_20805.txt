@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500699
+coursetitle: Understanding SQL Scripting and Database Concepts (SF)
+trainingprovideruen: 200211025Z
+trainingprovideralias: IT ENABLER CONSULTANCY PTE. LTD.
+courserunstartdate: 2025-12-03 00:00:00
+courserunenddate: 2025-12-05 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020410
+coursetitle: DSF6040 Application of Robotics & Automation for Smart Factory (synchronous e-learning)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

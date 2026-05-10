@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504733
+coursetitle: Perform Design for Safety Professionals Duties
+trainingprovideruen: 200900134G
+trainingprovideralias: SCAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-08-31 00:00:00
+mode_of_training: Classroom

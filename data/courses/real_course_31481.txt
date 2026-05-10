@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035613
+coursetitle: PWM-Security: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services and Operate Basic Security Equipment)
+trainingprovideruen: 198305397E
+trainingprovideralias: PROSPECT PROTECTION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

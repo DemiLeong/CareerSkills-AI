@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011420
+coursetitle: Standard Japanese Cuisine Preparation (Level 1) (Classroom & Asynchronous)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

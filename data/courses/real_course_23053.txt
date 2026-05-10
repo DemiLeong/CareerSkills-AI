@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007827
+coursetitle: Creating Stunning Print and Digital Publications with InDesign
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-08-03 00:00:00
+courserunenddate: 2026-08-04 00:00:00
+mode_of_training: Classroom

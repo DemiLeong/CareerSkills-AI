@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503959
+coursetitle: Manage Change â€“ SFw (Synchronous e-learning)
+trainingprovideruen: S92SS0008J
+trainingprovideralias: SINGAPORE CHINESE CHAMBER INSTITUTE OF BUSINESS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017426
+coursetitle: Electrical Installation Design (Classroom & Synchronous)
+trainingprovideruen: 201427065Z
+trainingprovideralias: SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

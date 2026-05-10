@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038373
+coursetitle: (eCornell) Process Analysis in Operations
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

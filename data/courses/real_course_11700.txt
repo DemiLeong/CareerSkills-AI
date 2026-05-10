@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023041055
+coursetitle: Growing Enterprises Module 1: Strategy Development (Synchronous E-Learning) (English & Mandarin)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

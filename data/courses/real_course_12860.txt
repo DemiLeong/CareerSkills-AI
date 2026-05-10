@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003197
+coursetitle: Bachelor of Social Sciences in Psychology
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

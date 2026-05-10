@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020639
+coursetitle: Service Leadership for F&B (Asynchronous & Synchronous)
+trainingprovideruen: 200704757K
+trainingprovideralias: SHRM COLLEGE PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-30 00:00:00
+mode_of_training: Synchronous eLearning

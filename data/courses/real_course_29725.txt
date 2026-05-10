@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003725
+coursetitle: Integrating Inclusive Strategies Across Daily Activities (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

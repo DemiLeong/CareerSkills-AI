@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040435
+coursetitle: Advanced Certificate in Procurement Essentials Module 3: Evaluation and Bid Analysis
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-13 00:00:00
+courserunenddate: 2025-10-14 00:00:00
+mode_of_training: Classroom

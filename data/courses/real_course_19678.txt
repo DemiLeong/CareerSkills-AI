@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052824
+coursetitle: Framework and Platform of Digital Marketing Search Engines
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

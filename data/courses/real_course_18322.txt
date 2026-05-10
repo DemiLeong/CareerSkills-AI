@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038141
+coursetitle: Introduction to Robotic Process Automation with UiPath: Building Strong Foundations
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

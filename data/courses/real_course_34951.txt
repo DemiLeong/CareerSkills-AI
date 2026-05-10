@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010421
+coursetitle: Computer Security Implementation (Classroom and Asynchronous)
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

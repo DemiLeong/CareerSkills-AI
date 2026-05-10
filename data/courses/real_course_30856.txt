@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046170
+coursetitle: (SCTP) Associate Data Analyst (Full-Time) (TA-eligible)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-11-14 00:00:00
+mode_of_training: Synchronous eLearning

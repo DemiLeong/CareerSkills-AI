@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055169
+coursetitle: Guard and Patrol (Provide Guard and Patrol Services)
+trainingprovideruen: 200410167W
+trainingprovideralias: CERTIS CISCO SECURITY PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

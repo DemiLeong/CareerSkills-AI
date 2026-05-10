@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512797
+coursetitle: Design Thinking 101
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-08 00:00:00
+mode_of_training: Classroom

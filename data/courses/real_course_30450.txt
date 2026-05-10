@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045132
+coursetitle: Foundations of Successful Communication Skills
+trainingprovideruen: S99SS0148L
+trainingprovideralias: AUTISM RESOURCE CENTRE (SINGAPORE)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

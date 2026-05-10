@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018509059
+coursetitle: BSc Biomedical Engineering with Paramedicine and Emergency Response
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

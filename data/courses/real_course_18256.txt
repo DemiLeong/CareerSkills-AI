@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502750
+coursetitle: Materials Characterisation (SF) (Classroom & Asynchronous)
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-08-25 00:00:00
+mode_of_training: Classroom

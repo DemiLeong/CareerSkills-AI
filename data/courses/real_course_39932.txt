@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053239
+coursetitle: AI Powered Agentic Process Automation (APA)
+trainingprovideruen: 202116663E
+trainingprovideralias: INNOHAT TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

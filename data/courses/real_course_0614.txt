@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037693
+coursetitle: Perform waste sorting at a material recovery facility according to set procedures
+trainingprovideruen: 201223502K
+trainingprovideralias: FOCUS LEARNING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009088
+coursetitle: Workplace Creative Problem Solving (Synchronous e-learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

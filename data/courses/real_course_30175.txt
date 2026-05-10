@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504424
+coursetitle: Para-counselling (Advanced)
+trainingprovideruen: T12LL1245D
+trainingprovideralias: ENVIRONICHE LLP
+courserunstartdate: 2025-08-26 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

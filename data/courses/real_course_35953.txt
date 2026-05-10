@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503770
+coursetitle: WSQ Diploma in Retail (Brand Management)
+trainingprovideruen: 200619372Z
+trainingprovideralias: LIGHTHOUSE GLOBAL TRAINING AND CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

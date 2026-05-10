@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054085
+coursetitle: Solar PV Market Fundamentals
+trainingprovideruen: 201527905W
+trainingprovideralias: SEMBCORP SOLAR SINGAPORE PTE. LTD.
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

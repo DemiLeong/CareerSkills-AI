@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048643
+coursetitle: Preparatory course for Fundamentals of Engineering Examination (FEE) â€“ Electrical
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

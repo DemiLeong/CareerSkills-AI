@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011067
+coursetitle: Business Continuity Planning against Cyber Attacks and Threats (Classroom & Asynchronous)
+trainingprovideruen: 200700043G
+trainingprovideralias: ARISE SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

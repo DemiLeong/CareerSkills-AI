@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037375
+coursetitle: BlockChain, Permissioned Ledgers, the Hyperledger project and Hyperledger Fabric
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

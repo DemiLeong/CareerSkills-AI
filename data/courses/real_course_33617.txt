@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039422
+coursetitle: Certified ScrumMaster (Synchronous E-Learning)
+trainingprovideruen: 201718054E
+trainingprovideralias: KNOWLEDGEHUT SOLUTIONS PTE. LTD.
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Synchronous eLearning

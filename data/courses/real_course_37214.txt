@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040656
+coursetitle: [SCTP] Strategic HR Business Partner Program (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2026-01-27 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005221
+coursetitle: Bachelor of Public Safety and Security with Minor (PSS-MAJ, Part-Time)
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

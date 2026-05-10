@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022602569
+coursetitle: Financial Analysis for Non-Finance Managers
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE LTD
+courserunstartdate: 2026-05-05 00:00:00
+courserunenddate: 2026-05-06 00:00:00
+mode_of_training: Classroom

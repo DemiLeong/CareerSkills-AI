@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504961
+coursetitle: People and Relationship Management L1:  Work in a Diverse Service Environment powered by John Maxwell (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

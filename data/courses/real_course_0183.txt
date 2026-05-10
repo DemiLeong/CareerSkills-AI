@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501938
+coursetitle: Advanced Certificate in Data Protection Principles Module 5: General Data Protection Regulation (GDPR) & Application on Asia
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

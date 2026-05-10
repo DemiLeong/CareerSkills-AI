@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006134
+coursetitle: Advanced Certificate in Digital Transformation in Marketing Module 6: The Future of Digital Marketing (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

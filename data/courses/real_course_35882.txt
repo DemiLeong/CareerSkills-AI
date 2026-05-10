@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011540
+coursetitle: Data Organization, Storage and Retrieval for the Internet of Things
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

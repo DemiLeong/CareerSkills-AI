@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513606
+coursetitle: Apply 5S Management
+trainingprovideruen: S80SS0146D
+trainingprovideralias: SINGAPORE INSTITUTE OF MATERIALS MANAGEMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

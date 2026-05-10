@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048831
+coursetitle: Strategic Doing: See the Future of Work Through Design AI and Innovation
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

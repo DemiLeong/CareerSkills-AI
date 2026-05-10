@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037697
+coursetitle: SkillsFuture for Digital Workplace 2.0 (Retail) (Synchronous e-learning)
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

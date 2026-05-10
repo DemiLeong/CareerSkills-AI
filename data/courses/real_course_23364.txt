@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038588
+coursetitle: WSQ DDDLP v2 LU5: Develop Courseware for Facilitation (Classroom & Synchronous)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Synchronous eLearning

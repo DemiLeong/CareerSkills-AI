@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500753
+coursetitle: Respond to Fire Emergency in Buildings
+trainingprovideruen: S97SS0046G
+trainingprovideralias: Institute of Process Industry (IPI) - A Division of ASPRI
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

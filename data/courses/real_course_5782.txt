@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038725
+coursetitle: Pharmacy Technician Entry to Practice Framework (PT ETP) Train-the-trainer Workshop
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-08-22 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

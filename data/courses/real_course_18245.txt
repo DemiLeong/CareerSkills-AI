@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055238
+coursetitle: Finance for Non-Finance Professionals (3 days)
+trainingprovideruen: 198105170G
+trainingprovideralias: PRICEWATERHOUSECOOPERS RISK SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

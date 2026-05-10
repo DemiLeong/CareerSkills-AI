@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505315
+coursetitle: Unlocking the Power of Accounting and Tax Systems for SMEs
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-02-14 00:00:00
+courserunenddate: 2026-02-14 00:00:00
+mode_of_training: Classroom

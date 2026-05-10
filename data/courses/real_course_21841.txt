@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052087
+coursetitle: Food Safety Course Level 1 (Refresher) â€“ Synchronous e-learning
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

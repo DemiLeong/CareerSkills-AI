@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045329
+coursetitle: STANDARD FIRST AID + AUTOMATED EXTERNAL DEFIBRILLATOR PROVIDER COURSE (CLASSROOM & ASYNCHRONOUS)
+trainingprovideruen: 198804318R
+trainingprovideralias: HMI INSTITUTE OF HEALTH SCIENCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

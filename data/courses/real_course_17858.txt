@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020000021
+coursetitle: Juris Doctor 3 Year Graduate Coursework
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

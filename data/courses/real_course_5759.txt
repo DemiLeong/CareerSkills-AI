@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049446
+coursetitle: WSQ: Perform LiDAR Imaging with Drones
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-23 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

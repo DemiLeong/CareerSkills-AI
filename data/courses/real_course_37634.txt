@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019500672
+coursetitle: LPWAN - Making it Work
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

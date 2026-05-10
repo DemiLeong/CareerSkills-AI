@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504088
+coursetitle: Workplace Safety and Health (Level 4)
+trainingprovideruen: 199302114W
+trainingprovideralias: TSAO FOUNDATION
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-08-11 00:00:00
+mode_of_training: Classroom

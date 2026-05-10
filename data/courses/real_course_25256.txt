@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500240
+coursetitle: Advanced Diploma in Digital Supply Chain
+trainingprovideruen: 201004118D
+trainingprovideralias: THE LOGISTICS ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

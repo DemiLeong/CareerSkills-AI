@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007877
+coursetitle: Introduction to Law & Criminal Law (in MC in Management Fundamentals in Part-time Diploma in Security & Fire Safety Studies)Â
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

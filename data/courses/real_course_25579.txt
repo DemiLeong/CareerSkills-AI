@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008131
+coursetitle: WSQ Respond to Fire Incidents in Workplace
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2025-09-01 00:00:00
+mode_of_training: Classroom

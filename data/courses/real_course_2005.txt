@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501702
+coursetitle: Certificate in Financial Trading - Introduction to Trading Using Technical Analysis (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

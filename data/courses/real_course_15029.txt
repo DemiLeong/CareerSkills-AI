@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018603
+coursetitle: Professional Certificate in Business Coaching Module 4: The Business of Coaching (Classroom & Asynchronous)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-13 00:00:00
+courserunenddate: 2025-11-26 00:00:00
+mode_of_training: Classroom

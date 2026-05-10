@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046542
+coursetitle: Apply Electrical Installation and Maintenance Principles
+trainingprovideruen: 200411848C
+trainingprovideralias: ASSETS TRAINING & TECHNICAL SERVICES PTE. LTD.
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

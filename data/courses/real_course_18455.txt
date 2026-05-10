@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502625
+coursetitle: Graduate Certificate in Digital Health Module 1: Conceptualising Smart Healthcare Solutions
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-16 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052002
+coursetitle: Generate Impactful PowerPoint slides and Word Docs for Effective Business Presentation
+trainingprovideruen: 201327560N
+trainingprovideralias: APPS PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

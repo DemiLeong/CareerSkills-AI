@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016448
+coursetitle: Media File Formats Conformation (Sound Editor)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-12-02 00:00:00
+courserunenddate: 2026-01-18 00:00:00
+mode_of_training: Classroom

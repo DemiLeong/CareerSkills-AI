@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035827
+coursetitle: Certificate for Singapore Standard 689:2022 Specification for Clean and Green Urban Farms - Aquaculture
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

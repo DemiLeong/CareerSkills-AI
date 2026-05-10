@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503422
+coursetitle: WSQ Digital Advertising Strategy
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-09-02 00:00:00
+courserunenddate: 2025-09-03 00:00:00
+mode_of_training: Classroom

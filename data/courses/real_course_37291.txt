@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021281
+coursetitle: Module 2: Data Structures in Python
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-02 00:00:00
+courserunenddate: 2025-09-06 00:00:00
+mode_of_training: Classroom

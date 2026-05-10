@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054614
+coursetitle: Generative AI Tools for Content Creation (Synchronous e-Learning)
+trainingprovideruen: 201436502E
+trainingprovideralias: LITERACY EMPOWERMENT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

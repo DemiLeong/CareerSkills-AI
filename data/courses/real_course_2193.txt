@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018609
+coursetitle: SMU-NAFA Advanced Certificate in Arts Management for Arts Professionals Module 4: Arts Marketing and Audience Development
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-07-29 00:00:00
+mode_of_training: Classroom

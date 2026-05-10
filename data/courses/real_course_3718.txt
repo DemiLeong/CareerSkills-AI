@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048282
+coursetitle: Predictive Analytics - Part of Post Diploma Certificate in Predictive and Decision Analytics (SDBD(A))
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

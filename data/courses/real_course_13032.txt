@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017074
+coursetitle: Prepare complex Chinese moist-heat dishes
+trainingprovideruen: 200105260H
+trainingprovideralias: ALLSPICE INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

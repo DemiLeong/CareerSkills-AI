@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016717
+coursetitle: Driving Business Efficiency using Digital Technology
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-18 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

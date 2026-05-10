@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015928
+coursetitle: WSQ Higher Certificate in Tourism (Events Management and Operations)
+trainingprovideruen: 198301550C
+trainingprovideralias: SHATEC INSTITUTES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503472
+coursetitle: Advanced Certificate in RegTech Module 5: RegTech Trends and Opportunities - From RegTech to TechReg
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

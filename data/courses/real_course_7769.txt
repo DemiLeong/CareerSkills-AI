@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017338
+coursetitle: Empowering Self with Creative Thinking Skills
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-09-24 00:00:00
+courserunenddate: 2025-09-25 00:00:00
+mode_of_training: Classroom

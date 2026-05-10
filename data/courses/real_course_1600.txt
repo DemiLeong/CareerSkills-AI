@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006871
+coursetitle: HR Analytics and Insights: Talent Management (Level 5)
+trainingprovideruen: 201129819W
+trainingprovideralias: ALUE SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

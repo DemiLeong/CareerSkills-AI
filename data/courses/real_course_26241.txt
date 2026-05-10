@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021267
+coursetitle: Professional Certificate in Real Estate Investing â€“ Real Estate Valuation & Sustainability Reporting
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

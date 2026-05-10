@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021997
+coursetitle: Apply Workplace Safety and Health in Logistics and Transportation
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

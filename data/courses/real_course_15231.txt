@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504317
+coursetitle: Marketing Content Strategy (SF) (Synchronous E-Learning)
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

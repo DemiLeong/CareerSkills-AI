@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044144
+coursetitle: Enabling Academy: Critical Soft Skills for Employment: Managing Stress at Work
+trainingprovideruen: S99SS0148L
+trainingprovideralias: Autism Resource Centre (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

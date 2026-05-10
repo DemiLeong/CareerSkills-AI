@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043462
+coursetitle: WSQ-MS Analyzing Data Using Microsoft Power BI
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

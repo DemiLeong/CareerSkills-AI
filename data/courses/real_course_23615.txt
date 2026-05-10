@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017253
+coursetitle: Automation using Visual Basic for Applications
+trainingprovideruen: 201022988M
+trainingprovideralias: SFIC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

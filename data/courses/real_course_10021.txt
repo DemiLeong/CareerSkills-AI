@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010615
+coursetitle: PWM-Security: Access Control Management (Deploy Security Equipment)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Classroom

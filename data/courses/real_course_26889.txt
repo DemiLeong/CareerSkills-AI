@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013281
+coursetitle: WSQ Operate Vertical Personnel Platform
+trainingprovideruen: 199505441D
+trainingprovideralias: BS TECHNOLOGY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

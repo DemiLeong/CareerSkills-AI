@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013303
+coursetitle: Supervise Metal Scaffold Erection (Classroom + Asynchronous E-Learning)
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

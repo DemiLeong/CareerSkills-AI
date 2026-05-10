@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002013
+coursetitle: Security Screening Management (Conduct Security Screening of Person and Bag)
+trainingprovideruen: 201843068W
+trainingprovideralias: ETANN CONSULTANTS PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-26 00:00:00
+mode_of_training: Classroom

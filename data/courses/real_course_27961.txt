@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504550
+coursetitle: PWM-Security: Crowd and Traffic Control Management (Supervise Crowd & Traffic Control Activities)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-17 00:00:00
+mode_of_training: Classroom

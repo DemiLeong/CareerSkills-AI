@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048864
+coursetitle: Accelerator Programme for Technopreneurs: Mastering Growth and Innovation
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

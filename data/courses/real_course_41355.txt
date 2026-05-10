@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039078
+coursetitle: (SCTP) Graduate Certificate in Fundamentals in Data Science
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Classroom

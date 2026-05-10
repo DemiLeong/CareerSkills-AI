@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052536
+coursetitle: Business Environment Analysis (SF - Manager) - Driving the Success of Critical Business Functions [Classroom Facilitated, Asynchronous E-Learning, Synchronous E-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

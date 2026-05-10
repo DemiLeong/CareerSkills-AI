@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505784
+coursetitle: Service Challenges L1 (SF):  Respond to Service Challenges
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

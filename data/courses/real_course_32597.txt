@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502631
+coursetitle: Mobile Phone Cover - How Itâ€™s Made
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

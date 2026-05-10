@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053918
+coursetitle: Storytelling through a lens
+trainingprovideruen: 201001362C
+trainingprovideralias: AESTHETICS INTERNATIONAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

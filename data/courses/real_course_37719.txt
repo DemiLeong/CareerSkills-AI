@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048846
+coursetitle: Advanced Certificate in Cybersecurity in Digital Economy Module 5: Incident Response and Recovery in the Digital Economy
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-01-12 00:00:00
+courserunenddate: 2026-01-13 00:00:00
+mode_of_training: Classroom

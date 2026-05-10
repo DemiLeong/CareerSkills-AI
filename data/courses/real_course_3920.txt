@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019656
+coursetitle: (SCTP) Diploma in Industrial Design
+trainingprovideruen: 200405777C
+trainingprovideralias: 3DSENSE MEDIA SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

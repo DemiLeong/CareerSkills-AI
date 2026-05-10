@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052664
+coursetitle: Fun Elements of Art
+trainingprovideruen: T08LL1246E
+trainingprovideralias: ART LOFT LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

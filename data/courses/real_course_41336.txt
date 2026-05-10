@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043807
+coursetitle: Assessment for Learning: Deep dive into issues and possibilities (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500481
+coursetitle: WSQ OPERATE FORKLIFT (3 days)-with Class 3 licence
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-07-30 00:00:00
+mode_of_training: Classroom

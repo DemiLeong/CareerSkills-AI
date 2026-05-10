@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007312
+coursetitle: Corporate Law (in PDC in Corporate Law & Practice in Specialist Diploma in Corporate Secretarial Practice)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

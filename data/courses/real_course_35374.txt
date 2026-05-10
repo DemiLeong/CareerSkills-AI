@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050784
+coursetitle: WSQ-RH Red Hat OpenShift Administration II: Configuring a Production Cluster (DO280)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

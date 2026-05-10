@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502451
+coursetitle: 3D Printing And It's Possibilities (Plastic)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

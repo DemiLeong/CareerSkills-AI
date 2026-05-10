@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502320
+coursetitle: WSQ Higher Certificate in Infant Care (Chinese)
+trainingprovideruen: 199907030H
+trainingprovideralias: ASIAN INTERNATIONAL COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

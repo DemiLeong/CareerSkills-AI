@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040413
+coursetitle: Strategic Leadership in the Food and Beverage Industry - Building for the Future
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

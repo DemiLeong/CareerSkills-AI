@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512911
+coursetitle: Advanced Certificate in Supply Chain Innovation and Transformation Module 3: Internet of Things â€“ Sensors and Actuators
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

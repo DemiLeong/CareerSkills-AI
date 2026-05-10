@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502626
+coursetitle: Graduate Certificate in Digital Health Module 2: Analytics for Healthcare (Basic & Intermediate Levels)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-10 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

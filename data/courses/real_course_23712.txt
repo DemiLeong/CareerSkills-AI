@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038631
+coursetitle: WSQ Data Science Bootcamp (Synchronous E-learning)
+trainingprovideruen: 201923625H
+trainingprovideralias: VERTICAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-06-29 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Assessment

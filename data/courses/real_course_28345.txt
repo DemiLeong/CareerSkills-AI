@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501191
+coursetitle: Surface Supplied Diving Equipment (SSDE) Diver
+trainingprovideruen: 200602439G
+trainingprovideralias: KBA TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

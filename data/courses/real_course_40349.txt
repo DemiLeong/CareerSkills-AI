@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043840
+coursetitle: Design Thinking for Problem Solving and Innovation: Achieve Breakthrough Solutions
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

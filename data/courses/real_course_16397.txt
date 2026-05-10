@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035577
+coursetitle: Champion Organisation Change: Drive Organisation Collaboration and Integration
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

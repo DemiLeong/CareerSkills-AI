@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020001032
+coursetitle: Advanced Certificate in Governance, Risk Management and Data Compliance Module 4: Policy and Third Party Management of Data (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

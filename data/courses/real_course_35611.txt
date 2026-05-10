@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012425
+coursetitle: WSQ Respond to Service Challenges and Opportunities
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

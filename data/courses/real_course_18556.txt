@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005087
+coursetitle: AI-Powered Social Media Marketing: From Engagement to Conversion (Asynchronous and Synchronous e-learning)
+trainingprovideruen: 201621216E
+trainingprovideralias: THE LEADERSHIP INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504605
+coursetitle: People and Performance Management at Managerial Level
+trainingprovideruen: 201129819W
+trainingprovideralias: ALUE SINGAPORE PTE. LTD.
+courserunstartdate: 2025-10-02 00:00:00
+courserunenddate: 2025-10-03 00:00:00
+mode_of_training: Classroom

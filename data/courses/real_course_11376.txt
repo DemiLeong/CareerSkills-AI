@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020636
+coursetitle: Make Diversity Work in the New Normal â€“ Level 3
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

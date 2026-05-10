@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015308
+coursetitle: SCA Barista Skills Intermediate (Asynchronous eLearning and Classroom)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: 2025-12-09 00:00:00
+courserunenddate: 2025-12-10 00:00:00
+mode_of_training: Classroom

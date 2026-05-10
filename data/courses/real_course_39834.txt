@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052967
+coursetitle: Liquefied Natural Gas (LNG) Bunkering Course (Support and Emergency Level)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

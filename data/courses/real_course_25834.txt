@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046098
+coursetitle: PWM-Cleaning: Multi-skilled Property Steward (Residential / Mixed-Use Developments): Supplementary
+trainingprovideruen: 201434206M
+trainingprovideralias: WORK WORK PRIVATE LIMITED
+courserunstartdate: 2025-07-06 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Classroom

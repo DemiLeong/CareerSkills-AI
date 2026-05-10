@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504667
+coursetitle: WSQ Innovative Cafe Desserts
+trainingprovideruen: 201618138N
+trainingprovideralias: SSA CULINARY INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

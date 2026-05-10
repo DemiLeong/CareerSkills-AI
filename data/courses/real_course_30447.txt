@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018507710
+coursetitle: NSA- Entrepreneurship: Build Your Business Model and Deliver a Winning Pitch
+trainingprovideruen: T06SS0199E
+trainingprovideralias: Centre For Seniors
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

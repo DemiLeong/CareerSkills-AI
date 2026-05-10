@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048518
+coursetitle: Enabling Academy: Basic Communication Skills (Level 1)
+trainingprovideruen: 202127680M
+trainingprovideralias: A Kind Place Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

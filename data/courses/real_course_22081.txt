@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010043
+coursetitle: Search Engine Optimization (SEO) Basic Techniques
+trainingprovideruen: 201734671R
+trainingprovideralias: FIRSTCOM ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Classroom

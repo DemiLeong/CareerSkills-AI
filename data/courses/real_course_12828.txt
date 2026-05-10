@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040686
+coursetitle: Effective Negotiation Skills
+trainingprovideruen: 201836776C
+trainingprovideralias: EDUPROSPECT DEVELOPMENT COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

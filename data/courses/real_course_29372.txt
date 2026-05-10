@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009810
+coursetitle: Security Screening Management (Conduct Security Screening of Person and Bag)
+trainingprovideruen: 201705718M
+trainingprovideralias: ACUITY ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040431
+coursetitle: Advanced Certificate in Practical Business Law Module 4: Bits, Bytes and Privacy Rights - Navigating Data Protection in the Digital Business Landscape
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

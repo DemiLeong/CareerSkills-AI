@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022602453
+coursetitle: AI100: PYTHON PROGRAMMING AND DATA VISUALISATION
+trainingprovideruen: 202017096C
+trainingprovideralias: HEICODERS ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-08-18 00:00:00
+mode_of_training: Synchronous eLearning

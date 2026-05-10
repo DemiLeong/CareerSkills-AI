@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008465
+coursetitle: Fundamentals of the Personal Data Protection Act (2020)
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

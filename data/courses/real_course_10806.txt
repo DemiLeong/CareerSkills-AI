@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502550
+coursetitle: SF â€“ Agile Project Management Foundation  (Synchronous e-learning)
+trainingprovideruen: 201109011W
+trainingprovideralias: BRIDGINGMINDS NETWORK PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

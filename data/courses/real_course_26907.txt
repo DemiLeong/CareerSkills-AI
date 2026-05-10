@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513056
+coursetitle: WSQ Diploma in Media (Content Production and Management) - Assistant Director
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

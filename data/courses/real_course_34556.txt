@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502287
+coursetitle: PWM-Security: Security Operation Compliance (Manage Security Agency within Legal Framework)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

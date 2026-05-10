@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037049
+coursetitle: Data Structures and Algorithms with Java
+trainingprovideruen: 200711322H
+trainingprovideralias: DIGIPEN INSTITUTE OF TECHNOLOGY SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

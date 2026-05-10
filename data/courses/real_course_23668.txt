@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014351
+coursetitle: Post Diploma Certificate in Biopharmaceutical Manufacturing - Part of Advanced Diploma in Medical and Pharmaceutical Technology (ADMP1)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

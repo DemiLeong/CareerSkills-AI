@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003050
+coursetitle: CoC in On-line Production & Broadcasting of e-Sports Events
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

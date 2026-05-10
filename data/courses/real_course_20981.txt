@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015669
+coursetitle: PERFORM WORK IN CONFINED SPACE OPERATION
+trainingprovideruen: 200808289G
+trainingprovideralias: AUGUST INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505560
+coursetitle: Workplace Safety and Health Practices Implementation (SF) (Synchronous e-learning)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

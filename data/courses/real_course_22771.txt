@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017723
+coursetitle: Business Innovation (Industry 4.0) Classroom & Synchronous
+trainingprovideruen: 201113270M
+trainingprovideralias: NATC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

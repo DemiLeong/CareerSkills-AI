@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502466
+coursetitle: Diploma in Illustration Design with Animation
+trainingprovideruen: 201006523M
+trainingprovideralias: NANYANG ACADEMY OF FINE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

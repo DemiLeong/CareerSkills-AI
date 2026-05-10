@@ -1,0 +1,16 @@
+Course Name: Data Scientist Professional Course 9
+Provider: SkillsFuture Singapore
+
+Skills Covered:
+- Python
+- Machine Learning
+- Statistics
+- Pandas
+
+Level: Advanced
+
+Description:
+Learn essential and advanced skills for becoming a Data Scientist.
+
+Outcome:
+Prepare for Data Scientist job roles and career advancement.

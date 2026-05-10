@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019465
+coursetitle: Basic Cardiac Life Support Automated External Defibrillation Instructor
+trainingprovideruen: 201703314W
+trainingprovideralias: MEDLINK HEALTHCARE GROUP PTE. LTD.
+courserunstartdate: 2025-11-02 00:00:00
+courserunenddate: 2025-11-02 00:00:00
+mode_of_training: Classroom

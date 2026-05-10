@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055175
+coursetitle: Building Resilience and Self-Care for Early Childhood & Early Intervention Educators
+trainingprovideruen: 201301501N
+trainingprovideralias: EON CONSULTING & TRAINING PTE. LTD.
+courserunstartdate: 2025-08-29 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

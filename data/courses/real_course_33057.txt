@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017202
+coursetitle: WSQ ACLP v2 M3P: Facilitate Workplace Learning Delivery
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Synchronous eLearning

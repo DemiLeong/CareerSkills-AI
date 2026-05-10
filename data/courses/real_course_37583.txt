@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049031
+coursetitle: Family conferencing: Facilitating difficult healthcare conversations and decision-making (Synchronous e-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

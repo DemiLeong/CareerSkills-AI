@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505545
+coursetitle: Effective Project Management for Small Projects
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-02-11 00:00:00
+courserunenddate: 2026-02-12 00:00:00
+mode_of_training: Classroom

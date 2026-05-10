@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016983
+coursetitle: Develop Training Systems and Capabilities to Fulfil the Roles of a Training Provider (Synchronous e-learning)
+trainingprovideruen: T11LL1448B
+trainingprovideralias: ZING QUOTIENT LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

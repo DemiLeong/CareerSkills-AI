@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015162
+coursetitle: Advanced Certificate in Business Analytics for Data-Driven Decision Making (with Python) Module 4: Algorithmic Trading and Computational Finance (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

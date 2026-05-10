@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004067
+coursetitle: Fundamentals Of The Personal Data Protection Act 2020 (Synchronous E-learning)
+trainingprovideruen: 201212886E
+trainingprovideralias: LEARNCOLLAB PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-30 00:00:00
+mode_of_training: Synchronous eLearning

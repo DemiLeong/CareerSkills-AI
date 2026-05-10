@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014727
+coursetitle: Oriental Wellness Tourism through The Lens of the West (for Tourist Guides) (Synchronous e-learning)
+trainingprovideruen: 200209938H
+trainingprovideralias: WINE RESOURCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

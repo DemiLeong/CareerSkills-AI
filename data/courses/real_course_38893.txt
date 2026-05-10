@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003543
+coursetitle: Specialist Certificate in Strata Property Management (Synchronous E-Learning)
+trainingprovideruen: 201003548D
+trainingprovideralias: REAL ESTATE & CONSTRUCTION ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-11 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Synchronous eLearning

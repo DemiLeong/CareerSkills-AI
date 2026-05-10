@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045222
+coursetitle: Empowering Employee Health and Wellness at the Workplace
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-04-17 00:00:00
+courserunenddate: 2026-04-20 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504521
+coursetitle: Service from the Heart - Achieving Service Excellence (Synchronous e-Learning)
+trainingprovideruen: 198905401C
+trainingprovideralias: IMPACT MANAGEMENT SEMINARS PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

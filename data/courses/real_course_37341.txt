@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042467
+coursetitle: NE 201: The Power of Disruptive Innovation to Craft Winning Strategies (Synchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055005
+coursetitle: Master Workplace Communication for Career Success
+trainingprovideruen: 200711480W
+trainingprovideralias: INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.
+courserunstartdate: 2025-07-15 00:00:00
+courserunenddate: 2025-07-16 00:00:00
+mode_of_training: Classroom

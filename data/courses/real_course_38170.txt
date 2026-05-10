@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055557
+coursetitle: Understand Generative AI (GenAI) using ChatGPT
+trainingprovideruen: 200711480W
+trainingprovideralias: INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

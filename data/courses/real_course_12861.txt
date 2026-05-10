@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504982
+coursetitle: People and Performance Management (Level 4)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

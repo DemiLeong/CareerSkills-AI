@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503189
+coursetitle: Financial Acumen Level 4: Manage Budgets and Finances (Synchronous & Asynchronous)
+trainingprovideruen: 200903531C
+trainingprovideralias: HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

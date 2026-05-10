@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040930
+coursetitle: Office Management Skills for Admin Professionals (Classroom + Asynchronous E-Learning)
+trainingprovideruen: 201301501N
+trainingprovideralias: EON CONSULTING & TRAINING PTE. LTD.
+courserunstartdate: 2025-10-09 00:00:00
+courserunenddate: 2025-10-09 00:00:00
+mode_of_training: Classroom

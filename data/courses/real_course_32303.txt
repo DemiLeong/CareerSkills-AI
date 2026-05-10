@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017817
+coursetitle: Implement Effective Workplace Communication Strategies
+trainingprovideruen: 201612290Z
+trainingprovideralias: SISO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

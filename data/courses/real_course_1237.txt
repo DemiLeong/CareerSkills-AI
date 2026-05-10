@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045026
+coursetitle: Tecnomatix Process Simulate Basic Robotic Simulation
+trainingprovideruen: 199605166D
+trainingprovideralias: SIEMENS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

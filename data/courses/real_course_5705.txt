@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049154
+coursetitle: Food Safety Course Level 1 (Chinese)
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

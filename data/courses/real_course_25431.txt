@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049326
+coursetitle: Principles of Data Governance
+trainingprovideruen: 197800820D
+trainingprovideralias: DELOITTE & TOUCHE ENTERPRISE RISK SERVICES PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

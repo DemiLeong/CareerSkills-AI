@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504582
+coursetitle: Storytelling for Effective Classroom Management (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Synchronous eLearning

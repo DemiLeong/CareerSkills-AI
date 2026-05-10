@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020472
+coursetitle: Engaging Families in Supporting Infants and Young Children
+trainingprovideruen: 201428614H
+trainingprovideralias: J L INSTITUTION PTE. LTD.
+courserunstartdate: 2025-07-30 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Classroom

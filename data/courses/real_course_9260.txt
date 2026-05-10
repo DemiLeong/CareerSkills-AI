@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039645
+coursetitle: SkillsFuture for Digital Workplace 2.0 (Manufacturing)
+trainingprovideruen: S80TU0496C
+trainingprovideralias: SINGAPORE NATIONAL EMPLOYERS FEDERATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

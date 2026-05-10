@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053998
+coursetitle: JLP - Translating Corporate Governance Principles into Legal Frameworks
+trainingprovideruen: T09GB0002H
+trainingprovideralias: SINGAPORE ACADEMY OF LAW
+courserunstartdate: 2026-01-15 00:00:00
+courserunenddate: 2026-01-15 00:00:00
+mode_of_training: Classroom

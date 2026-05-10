@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048711
+coursetitle: Career Coaching for Growth and Retention
+trainingprovideruen: 200723351G
+trainingprovideralias: GREENSAFE INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

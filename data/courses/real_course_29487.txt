@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048748
+coursetitle: Microlearning Instructional Design (MID) 201 Accreditation
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-09-04 00:00:00
+mode_of_training: Synchronous eLearning

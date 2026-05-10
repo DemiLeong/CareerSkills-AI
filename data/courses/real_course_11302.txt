@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018904
+coursetitle: Storytelling for a Child Audience (Malay)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

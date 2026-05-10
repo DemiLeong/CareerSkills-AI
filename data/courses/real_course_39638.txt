@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017504732
+coursetitle: NSA- Intergenerational Bonding: Build Stronger Relationships
+trainingprovideruen: T06SS0199E
+trainingprovideralias: Centre For Seniors
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

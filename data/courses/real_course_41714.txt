@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513362
+coursetitle: Relationship Marketing & Digital Customer Relationship Management
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

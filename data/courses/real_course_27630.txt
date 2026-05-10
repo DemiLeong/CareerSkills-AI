@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006124
+coursetitle: Engaging Families in Supporting Children (Synchronous E-Learning)
+trainingprovideruen: S90SS0018D
+trainingprovideralias: Association for Early Childhood Educators (Singapore)
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-08-07 00:00:00
+mode_of_training: Synchronous eLearning

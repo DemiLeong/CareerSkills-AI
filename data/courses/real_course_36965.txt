@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043493
+coursetitle: WSQ Cloud infrastructure and administration (SF) (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200202841R
+trainingprovideralias: LITHAN ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-22 00:00:00
+courserunenddate: 2025-09-17 00:00:00
+mode_of_training: Synchronous eLearning

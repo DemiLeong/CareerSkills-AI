@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023026004
+coursetitle: PRINCIPLES OF METAL 3D PRINTING AND CAD DESIGN
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

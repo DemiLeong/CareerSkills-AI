@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005336
+coursetitle: DIPLOMA IN BORDER AND SECURITY MANAGEMENT
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

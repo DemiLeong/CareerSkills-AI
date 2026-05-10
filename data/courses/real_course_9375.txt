@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007706
+coursetitle: Modular Certificate in ICT Essentials (in Part-time Diploma in Infocomm and Digital Media (ICT Systems, Services & Support))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

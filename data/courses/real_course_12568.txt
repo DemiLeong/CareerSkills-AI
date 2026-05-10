@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015323
+coursetitle: (SCTP) Certificate in Therapy Support (Healthcare) (Full-Time) (TA-eligible)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

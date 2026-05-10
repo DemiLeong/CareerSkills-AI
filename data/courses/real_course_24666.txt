@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044301
+coursetitle: Cybersecurity Certification Training: CISSP, CCSP, CISA, ISO 27001
+trainingprovideruen: 201127695N
+trainingprovideralias: INSTITUTE OF SINGAPORE PROJECT MANAGEMENT PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Synchronous eLearning

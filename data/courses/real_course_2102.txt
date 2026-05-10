@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040401
+coursetitle: Unearthing the Potential of Databases, Big Data and Data Analytics
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

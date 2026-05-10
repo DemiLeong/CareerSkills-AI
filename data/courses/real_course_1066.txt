@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043309
+coursetitle: Child First Aid (Refresher)(Asychronous and Practical)
+trainingprovideruen: 200700043G
+trainingprovideralias: ARISE SERVICES PTE. LTD.
+courserunstartdate: 2025-09-04 00:00:00
+courserunenddate: 2025-09-04 00:00:00
+mode_of_training: Classroom

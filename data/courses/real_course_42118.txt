@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053298
+coursetitle: Explore and Evaluate Online Information and Gen AI
+trainingprovideruen: 201530343D
+trainingprovideralias: Ascensus Institute
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052951
+coursetitle: Global Issues in Infection Prevention and Control (Classroom, Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

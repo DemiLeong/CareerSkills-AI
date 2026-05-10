@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500521
+coursetitle: Indoor Air Quality Management (Manage Indoor Air Quality)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2025-09-08 00:00:00
+mode_of_training: Classroom

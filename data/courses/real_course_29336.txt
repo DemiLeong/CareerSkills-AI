@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013813
+coursetitle: PWM-Cleaning: Washroom Maintenance (L1)
+trainingprovideruen: 200613464E
+trainingprovideralias: FOCUS TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

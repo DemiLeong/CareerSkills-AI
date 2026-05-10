@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051246
+coursetitle: FOR528: Ransomware and Cyber Extortion
+trainingprovideruen: 202031353Z
+trainingprovideralias: SANS TRAINING SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

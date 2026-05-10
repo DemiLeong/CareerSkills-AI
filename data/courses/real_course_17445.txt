@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007085
+coursetitle: PWM-Cleaning: Horizontal Surface Maintenance Level 1 (Hard Floors) â€“ Assessment Only Pathway (AOP)
+trainingprovideruen: 198801833K
+trainingprovideralias: CLEAN SOLUTIONS PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

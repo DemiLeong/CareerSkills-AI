@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049052
+coursetitle: SCTP: RISE 2.0 Digital Transformation and Change Management Module 2: Digital Specializations (Sync and Async E-learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

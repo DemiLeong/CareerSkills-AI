@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500014
+coursetitle: OCCUPATIONAL FIRST AID COURSE
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: 2025-10-13 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Classroom

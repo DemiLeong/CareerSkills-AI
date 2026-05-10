@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039894
+coursetitle: WSQ - SAS Programming 1: Essentials
+trainingprovideruen: 200305285R
+trainingprovideralias: AVANTUS TRAINING PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

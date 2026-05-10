@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017465
+coursetitle: WSQ Advanced Certificate in Workplace Safety and Health (Classroom and Synchronous E-Learning)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: 2025-07-06 00:00:00
+courserunenddate: 2025-11-16 00:00:00
+mode_of_training: Classroom

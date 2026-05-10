@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504813
+coursetitle: WSQ Make Muffins and Scones
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: 2025-08-06 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Classroom

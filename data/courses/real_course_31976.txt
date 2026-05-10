@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048511
+coursetitle: Internationalisation Series: Silicon Valley TechXperience - A Cutting-edge Immersion in Artificial Intelligence and Technology, San Francisco
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-17 00:00:00
+courserunenddate: 2025-10-11 00:00:00
+mode_of_training: Classroom

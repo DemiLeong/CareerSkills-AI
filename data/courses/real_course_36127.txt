@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044774
+coursetitle: WSQ E-Commerce â€“ Shopify Optimisation
+trainingprovideruen: 201438045H
+trainingprovideralias: PPP ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037782
+coursetitle: City Farming Elementary
+trainingprovideruen: 201218814M
+trainingprovideralias: ACADEMY OF DESIGN ARTS AND MEDIA PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

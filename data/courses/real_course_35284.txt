@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004690
+coursetitle: Vision Leadership - Level 3 (Synchronous E-Learning)
+trainingprovideruen: 201026450Z
+trainingprovideralias: ORGANISATIONAL DEVELOPMENT CONCEPTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

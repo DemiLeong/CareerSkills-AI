@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042233
+coursetitle: Internationalisation Series: Learning ABC - Artificial Intelligence, Data, and Digital, Beauty, and Creative Industriesâ€”in South Korea
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-26 00:00:00
+courserunenddate: 2025-10-11 00:00:00
+mode_of_training: Classroom

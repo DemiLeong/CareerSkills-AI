@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038039
+coursetitle: Advanced Certificate in Fintech and the Future of Finance Module 5: Shaping the Future of Fintech â€“ Entrepreneurship and Innovation (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-12-01 00:00:00
+courserunenddate: 2025-12-02 00:00:00
+mode_of_training: Synchronous eLearning

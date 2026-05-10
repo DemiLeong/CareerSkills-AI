@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039517
+coursetitle: Rhythm in Video Editing: Make Creative Editing Decisions that Captivate your Audience
+trainingprovideruen: 199907466K
+trainingprovideralias: AV8 MEDIA PTE LTD
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-07-30 00:00:00
+mode_of_training: Classroom

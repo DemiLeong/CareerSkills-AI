@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020506
+coursetitle: Working Hand-in-Hand in Managing Conflicts and Challenging Situations (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2026-01-20 00:00:00
+courserunenddate: 2026-01-20 00:00:00
+mode_of_training: Synchronous eLearning

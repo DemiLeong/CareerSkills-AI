@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047364
+coursetitle: Applied Regression Analysis I
+trainingprovideruen: 200504979Z
+trainingprovideralias: Singapore University of Social Sciences
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

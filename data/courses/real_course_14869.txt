@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037278
+coursetitle: Construction Measurement (4 of 4) Specialist Work
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

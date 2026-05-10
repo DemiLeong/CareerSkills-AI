@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015097
+coursetitle: Advanced Certificate in Business Analytics for Data-Driven Decision Making (with Python) Module 6: Interactive Dashboard and End-to-end Business Analytics for Decision-Making (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Synchronous eLearning

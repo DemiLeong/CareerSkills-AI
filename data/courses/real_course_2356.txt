@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501167
+coursetitle: Operate Forklift Course (3 Days)
+trainingprovideruen: 201614469C
+trainingprovideralias: UBTS ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

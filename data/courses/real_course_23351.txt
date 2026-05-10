@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007405
+coursetitle: PWM-Security: Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501798
+coursetitle: Event Branding and Social Media Marketing
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

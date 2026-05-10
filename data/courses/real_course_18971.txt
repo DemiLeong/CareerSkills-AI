@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054915
+coursetitle: Facilitating Communication, Language and Social Skills Development Using A Multi-modal Approach with AAC
+trainingprovideruen: S92SS0061A
+trainingprovideralias: Rainbow Centre, Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

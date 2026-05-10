@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020505
+coursetitle: æˆ‘è¯´æˆ‘èƒ½è¡Œçš„ï¼â€”â€” å¿ƒç†éŸ§æ€§ä¸Žæƒ…ç»ªå¥åº· (I Say I Can Do It!) (Chinese Language) (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Synchronous eLearning

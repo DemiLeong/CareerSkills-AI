@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015953
+coursetitle: Apply Workplace Safety & Health In Process Plant
+trainingprovideruen: 200808289G
+trainingprovideralias: AUGUST INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012501041
+coursetitle: Comply with Workplace Safety and Health Policies and Procedures (Contextualised)
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

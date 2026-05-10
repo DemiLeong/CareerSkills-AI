@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012892
+coursetitle: Modular Certificate in Business Communications & Analytics (part of Diploma in Business Practice (Hospitality & Tourism Management))
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

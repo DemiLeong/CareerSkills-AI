@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037359
+coursetitle: Foundation IP Law
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: 2025-08-06 00:00:00
+courserunenddate: 2026-01-11 00:00:00
+mode_of_training: Classroom

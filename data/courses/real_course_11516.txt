@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013925
+coursetitle: Operate Lorry Crane Course (Mandarin)
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

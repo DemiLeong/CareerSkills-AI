@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502836
+coursetitle: Selection Management Level 3: Conduct Interviews and Make Hiring Decisions (Synchronous e-Learning)
+trainingprovideruen: 200903531C
+trainingprovideralias: HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

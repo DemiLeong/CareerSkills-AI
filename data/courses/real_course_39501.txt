@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046281
+coursetitle: Principles of Lighting Design (in PDC 1 Post-Diploma Certificate in Lighting Design Technology in Specialist Diploma in Lighting Design)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

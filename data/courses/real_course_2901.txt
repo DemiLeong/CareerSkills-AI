@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513434
+coursetitle: IoT Applications in Supply Chain Management - Synchronous e-learning
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

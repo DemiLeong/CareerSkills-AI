@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005600
+coursetitle: DIPLOMA IN THEATRE PRODUCTION AND MANAGEMENT
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2028-07-31 00:00:00
+mode_of_training: Classroom

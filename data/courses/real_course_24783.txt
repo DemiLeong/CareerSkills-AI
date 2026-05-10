@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504575
+coursetitle: PWM-Security: Conflict Resolution Management (Manage and Resolve Conflict in Security Environment)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Classroom

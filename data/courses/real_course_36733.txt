@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047819
+coursetitle: DevOps Implementation and Management in Cloud Environment
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

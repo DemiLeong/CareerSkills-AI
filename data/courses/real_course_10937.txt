@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505866
+coursetitle: Adapt to change at the workplace
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: 2025-12-09 00:00:00
+courserunenddate: 2025-12-09 00:00:00
+mode_of_training: Classroom

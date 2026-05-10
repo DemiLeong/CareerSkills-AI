@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041733
+coursetitle: Building Relationships and Partnership with Families of Young Children (Chinese) ä¸Žå¹¼å„¿å®¶åº­å»ºç«‹åˆä½œå…±è‚²å…³ç³» (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-09-30 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Synchronous eLearning

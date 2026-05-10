@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504525
+coursetitle: PWM-Security: Access Control Management (Deploy Security Equipment)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

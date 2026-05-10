@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010365
+coursetitle: Create RESTful APIs and Web Apps with Python Flask
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-11-01 00:00:00
+courserunenddate: 2025-11-02 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017501274
+coursetitle: PWM-Food Services: Food Safety Course Level 1
+trainingprovideruen: 201229599Z
+trainingprovideralias: AVANTA ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

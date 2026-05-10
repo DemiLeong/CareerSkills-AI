@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014772
+coursetitle: Competency-Based Interview and Selection Technique
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

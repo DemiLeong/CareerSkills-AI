@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045177
+coursetitle: (PDECCE-T/CCP) å­¦å‰å„¿ç«¥çš„è§‚å¯Ÿä¸Žè¯„ä¼°
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2026-02-12 00:00:00
+mode_of_training: Synchronous eLearning

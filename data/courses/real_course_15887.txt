@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016842
+coursetitle: Assess Confined Space for Safe Entry and Work
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-06 00:00:00
+courserunenddate: 2025-10-10 00:00:00
+mode_of_training: Classroom

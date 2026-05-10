@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041519
+coursetitle: Data Visualisation & Story Telling
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS INSTITUTE OF HIGHER LEARNING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

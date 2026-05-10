@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004367
+coursetitle: Advanced Certificate in Early Years (with exemptions) (Chinese) å¹¼å„¿ä¿è‚²é«˜çº§è¯ä¹¦ (å©´å¹¼å„¿ä¿è‚²ä¸“ä¿®è¯¾ç¨‹*)  (Classroom & Synchronous)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

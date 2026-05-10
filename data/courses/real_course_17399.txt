@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049481
+coursetitle: Operational Excellence in Engineering (Synchronous & Asynchronous e-Learning)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

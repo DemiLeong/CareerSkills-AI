@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500769
+coursetitle: Workplace Safety and Health Management in Chemical, Process, Pharmaceutical Industries and Laboratories (Supervise Workplace Safety and Health in Process Plant)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-09-25 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048481
+coursetitle: Advanced Certificate in Talent Assessment and Performance Development Module 3: Transformational Leadership Capability
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

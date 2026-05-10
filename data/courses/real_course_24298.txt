@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505939
+coursetitle: goEco
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-09-23 00:00:00
+mode_of_training: Synchronous eLearning

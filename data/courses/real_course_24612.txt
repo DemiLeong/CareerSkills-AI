@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053402
+coursetitle: DOCTOR OF PHILOSOPHY (ASoE)
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022128
+coursetitle: Security Surveillance Management (Perform Remote Surveillance Function)
+trainingprovideruen: 198905026D
+trainingprovideralias: SATS SECURITY SERVICES PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053788
+coursetitle: Empowering Team Leaders: Identifying Skills and Facilitating Growth
+trainingprovideruen: 201703757Z
+trainingprovideralias: ALL HEARTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

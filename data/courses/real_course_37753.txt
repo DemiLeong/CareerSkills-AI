@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048736
+coursetitle: Shaping an Inclusive Practice [SHIP] å¡‘é€ æ›´å…·åŒ…å®¹æ€§çš„å…¨çº³æ•™è‚² (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

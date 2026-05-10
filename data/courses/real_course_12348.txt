@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047506
+coursetitle: Supervise Safe Lifting Operations
+trainingprovideruen: 200702572Z
+trainingprovideralias: Integrated Training Consultants Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

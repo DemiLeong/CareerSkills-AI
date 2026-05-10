@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501273
+coursetitle: Train The Trainer - Design and Develop Training Curriculum
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-20 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039020
+coursetitle: Better Leader, Better Me: Communication & Engagement Strategies for the Early Childhood Professional
+trainingprovideruen: 53332382K
+trainingprovideralias: EDUSPARKS ACADEMY
+courserunstartdate: 2025-08-27 00:00:00
+courserunenddate: 2025-09-03 00:00:00
+mode_of_training: Classroom

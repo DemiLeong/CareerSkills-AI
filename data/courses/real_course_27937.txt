@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008421
+coursetitle: Contemporary Finance: Fintech and Sustainable Finance (Classroom and Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

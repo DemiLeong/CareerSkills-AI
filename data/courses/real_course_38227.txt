@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035943
+coursetitle: Essentials of Artificial Intelligence with Python (Asynchronous e-learning)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

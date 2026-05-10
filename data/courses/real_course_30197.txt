@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018505062
+coursetitle: PWM-Security: Quality Assurance and Audit (Manage Security Operations)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

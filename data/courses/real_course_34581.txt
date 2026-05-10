@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047511
+coursetitle: (SCTP) WSQ Higher Certificate in Hotel and Accommodation Services
+trainingprovideruen: 198301550C
+trainingprovideralias: SHATEC INSTITUTES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

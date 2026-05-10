@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503359
+coursetitle: Food Safety Course Level 1 (Refresher)
+trainingprovideruen: 199500028N
+trainingprovideralias: POLAR PUFFS & CAKES PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

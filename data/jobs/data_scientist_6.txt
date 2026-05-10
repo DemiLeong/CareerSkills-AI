@@ -1,0 +1,23 @@
+Job Title: Data Scientist
+Standard Role: Data Scientist
+Company: Company_6
+Level: Mid
+
+Skills:
+- Python
+- Machine Learning
+- Statistics
+- Pandas
+
+Description:
+This role involves working as a Data Scientist to support business and technical needs. Responsibilities vary by company.
+
+Requirements:
+- Relevant degree
+- Experience depending on level
+
+Tools:
+- Python
+- Machine Learning
+- Statistics
+- Pandas

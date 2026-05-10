@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050580
+coursetitle: Ultrasound for Extended Focused Assessment with Sonography in Trauma(eFast) - Level 2 (Interpretation) (Classroom, Synchronous & Asynchronous)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

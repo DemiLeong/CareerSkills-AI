@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022601344
+coursetitle: Certified Financial Services Consultant Module 1 - Financial Planning & Client Management
+trainingprovideruen: 201324048N
+trainingprovideralias: GLOBAL TRAINING SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

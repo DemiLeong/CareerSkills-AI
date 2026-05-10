@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020557
+coursetitle: PWM-Security: Security Surveillance Management (Perform Remote Surveillance Function)
+trainingprovideruen: 200617156R
+trainingprovideralias: ARIEL SECURITY ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

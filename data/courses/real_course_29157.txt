@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041164
+coursetitle: Sustainable Aquaculture (in PDC in Aquaculture Farm Management & Sustainability in Specialist Diploma in Aquaculture Management & Technology)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

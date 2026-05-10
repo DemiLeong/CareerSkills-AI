@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505433
+coursetitle: Mastering Raspberry Pi: Hands-On Practical Applications for Beginners
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-09-29 00:00:00
+courserunenddate: 2025-09-30 00:00:00
+mode_of_training: Classroom

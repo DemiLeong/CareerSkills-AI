@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500113
+coursetitle: Implement Incident Management Processes
+trainingprovideruen: 201133417W
+trainingprovideralias: CERT CONSULTANCY GROUP PTE. LTD.
+courserunstartdate: 2025-10-24 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

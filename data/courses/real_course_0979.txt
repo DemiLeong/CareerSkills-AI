@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017953
+coursetitle: Presenting with Influence
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

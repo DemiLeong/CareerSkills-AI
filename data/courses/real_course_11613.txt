@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037393
+coursetitle: Build your professional brand and get the most out of LinkedIn
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

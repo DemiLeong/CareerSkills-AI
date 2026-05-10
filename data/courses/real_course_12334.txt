@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007470
+coursetitle: Mechanical and Air Conditioning Systems (in PDC in Building Systems in Specialist Diploma in Energy Management & Sustainable Design)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

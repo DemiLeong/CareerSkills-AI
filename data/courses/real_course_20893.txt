@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014687
+coursetitle: Attention Deficit Hyperactivity Disorder, Autism Spectrum Disorder and Psychosis in Adolescent: Counselling Support
+trainingprovideruen: 200209120M
+trainingprovideralias: Executive Counselling and Training Academy
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

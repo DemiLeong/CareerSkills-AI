@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018505017
+coursetitle: PMI Risk Management Professional (PMIRMP)Â® (SF) (Synchronous E-Learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050844
+coursetitle: Advanced Certificate in FinTech, Sustainable and Ethical Finance Module 3: Artificial Intelligence in Finance and FinTech
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-12-10 00:00:00
+courserunenddate: 2025-12-12 00:00:00
+mode_of_training: Classroom

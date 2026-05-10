@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021300
+coursetitle: Advanced Certificate in Supply Chain Intelligence Module 4: Machine Learning and the Digital Supply Chain (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

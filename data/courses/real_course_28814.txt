@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014309
+coursetitle: Grid Connected Inverters and Grid Codes for Solar PhotoVoltaic (PV) and Wind Energy (Classroom and Synchronous)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042960
+coursetitle: Strategic Design Thinking: Transformative Solutions for Real World Challenges (Sales, Customer Service, Risk Management, Innovation, Communication, Project Management, Leadership, Teamwork)
+trainingprovideruen: 201127695N
+trainingprovideralias: INSTITUTE OF SINGAPORE PROJECT MANAGEMENT PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

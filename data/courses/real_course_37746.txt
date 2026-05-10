@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045368
+coursetitle: Basic Cardiac Life Support + AED (Asynchronous and Practical)
+trainingprovideruen: T18LL0554C
+trainingprovideralias: FIRST RESPONDERS LIMITED LIABILITY PARTNERSHIP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

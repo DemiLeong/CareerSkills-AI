@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503695
+coursetitle: Food Standards and Workplace Safety and Health L4
+trainingprovideruen: 199700427H
+trainingprovideralias: ADDISON INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

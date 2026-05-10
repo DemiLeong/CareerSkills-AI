@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014310
+coursetitle: Data Visualization Continues With Me (Synchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

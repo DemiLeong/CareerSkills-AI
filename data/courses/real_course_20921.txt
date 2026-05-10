@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500935
+coursetitle: PWM-Cleaning: (SF) Demonstrate and apply understanding of cleaning chemicals and cleaning methods and processes (Composite Module)
+trainingprovideruen: 200613464E
+trainingprovideralias: FOCUS TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

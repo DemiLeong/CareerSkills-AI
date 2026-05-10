@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020450
+coursetitle: New Media Design - Part of Post Diploma Certificate in Media Design (DCDMD)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

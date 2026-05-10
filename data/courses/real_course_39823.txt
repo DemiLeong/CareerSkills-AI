@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013428
+coursetitle: Incident Response (Handle Security Incidents and Services)
+trainingprovideruen: 200922107K
+trainingprovideralias: HENDERSON SECURITY SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

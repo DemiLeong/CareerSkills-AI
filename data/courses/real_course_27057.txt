@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008104
+coursetitle: Real-time Object Detection & Recognition using  Deep Learning
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

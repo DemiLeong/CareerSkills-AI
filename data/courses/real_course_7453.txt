@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003700
+coursetitle: WSQ Social Media Marketing for Real Estate Salespersons
+trainingprovideruen: 200603617E
+trainingprovideralias: LIFE MASTERY ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

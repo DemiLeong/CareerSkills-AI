@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038027
+coursetitle: Cyber Security for Advanced Manufacturing
+trainingprovideruen: 197700888D
+trainingprovideralias: BOSCH REXROTH PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

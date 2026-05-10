@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014821
+coursetitle: Operationalising Project Governance for Project Success (for Financial Sector) (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

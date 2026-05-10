@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017504651
+coursetitle: Fundraising for Impact: What's the Plan
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

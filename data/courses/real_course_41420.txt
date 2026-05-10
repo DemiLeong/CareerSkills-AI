@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042235
+coursetitle: NE104: Achieving Market Leadership through Entrepreneurial Marketing (Synchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

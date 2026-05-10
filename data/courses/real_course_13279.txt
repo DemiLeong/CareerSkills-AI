@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013340
+coursetitle: Principles of Integrated Digital Delivery
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2025-09-30 00:00:00
+mode_of_training: Asynchronous eLearning

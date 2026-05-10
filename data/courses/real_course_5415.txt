@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042236
+coursetitle: Executive Certificate in Digitalisation and Capability Rebuilding for Food Services - Strategic Business Applications
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

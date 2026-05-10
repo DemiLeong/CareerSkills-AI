@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019916
+coursetitle: Korean Delights
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: 2025-07-06 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Classroom

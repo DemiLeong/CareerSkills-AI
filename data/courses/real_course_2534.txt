@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005262
+coursetitle: Web Application Development (in MC in Client Server Applications in Diploma in Engineering (Computer Engineering))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

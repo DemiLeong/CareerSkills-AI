@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055115
+coursetitle: Company and Workforce Transformation â€“ Optimisation Essentials for Practice (Classroom and Asynchronous e-learning)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-09-16 00:00:00
+courserunenddate: 2025-09-17 00:00:00
+mode_of_training: Classroom

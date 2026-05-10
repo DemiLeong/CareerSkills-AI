@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048733
+coursetitle: Differentiated Learning in Preschool [DLIP] å¹¼å„¿å›­çš„å·®å¼‚åŒ–æ•™å­¦ (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

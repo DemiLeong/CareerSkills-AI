@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020509428
+coursetitle: E-learning tools for Training
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

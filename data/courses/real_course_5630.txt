@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011500441
+coursetitle: WSQ Communicate and Relate Effectively at the Workplace
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

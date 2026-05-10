@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040682
+coursetitle: IATA DGR (Awareness) - Personnel Processing or Accepting Goods As General Cargo  (7.2)
+trainingprovideruen: 52028000L
+trainingprovideralias: HAZMAT TRAINING
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-14 00:00:00
+mode_of_training: Classroom

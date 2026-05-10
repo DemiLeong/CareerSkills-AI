@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504530
+coursetitle: GAME BUSINESS MANAGEMENT
+trainingprovideruen: 200912099N
+trainingprovideralias: MAGES INSTITUTE OF EXCELLENCE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

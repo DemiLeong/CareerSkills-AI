@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044639
+coursetitle: Executive Certificate in Leadership & People Management - Becoming a Whole Leader
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-23 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

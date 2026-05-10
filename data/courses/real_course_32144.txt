@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045530
+coursetitle: Big Data and Machine Learning with Cloud (Synchronous e-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

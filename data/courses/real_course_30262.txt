@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038025
+coursetitle: Key Principles in Advanced manufacturing
+trainingprovideruen: 197700888D
+trainingprovideralias: BOSCH REXROTH PTE. LTD.
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-07-29 00:00:00
+mode_of_training: Classroom

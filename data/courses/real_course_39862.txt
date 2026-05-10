@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051723
+coursetitle: Live Streaming: Boost Your E-Commerce Sales [Classroom Facilitated, Asynchronous E-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: 2025-09-15 00:00:00
+courserunenddate: 2025-09-17 00:00:00
+mode_of_training: Classroom

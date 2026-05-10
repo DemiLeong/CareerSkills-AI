@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020649
+coursetitle: Introduction to Sustainability for Hospitality Businesses
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-08-08 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

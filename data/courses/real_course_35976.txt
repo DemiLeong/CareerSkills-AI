@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503520
+coursetitle: (18hrs) WSQ - Search Engine Optimization
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

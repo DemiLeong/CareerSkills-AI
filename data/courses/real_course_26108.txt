@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500444
+coursetitle: WSQ Maintain food and beverage production environment
+trainingprovideruen: 201017313E
+trainingprovideralias: PROJECT DIGNITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

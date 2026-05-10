@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501815
+coursetitle: Making Sense of Customer Digital Analytics (Synchronous e-learning)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-09-10 00:00:00
+courserunenddate: 2025-09-10 00:00:00
+mode_of_training: Synchronous eLearning

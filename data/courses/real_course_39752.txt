@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016006
+coursetitle: An Understanding Of Mental Health For All & Involving All,  Self-Harm And Suicide Ideation: Mental Health Perspectives
+trainingprovideruen: 200209120M
+trainingprovideralias: Executive Counselling and Training Academy
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Synchronous eLearning

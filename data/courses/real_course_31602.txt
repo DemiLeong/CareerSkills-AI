@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019885
+coursetitle: Manage Stakeholders with Emotional Intelligence
+trainingprovideruen: 200702672N
+trainingprovideralias: ROHEI CORPORATION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

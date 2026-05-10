@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053231
+coursetitle: [ASCEND] Performance Management in a Multigenerational Workforce (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-07-22 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

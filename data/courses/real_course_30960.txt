@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040494
+coursetitle: Performance Management for the Evolving Workforce (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012770
+coursetitle: CERTIFICATE IN MEP PLANNING & SITE MANAGEMENT
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: 2025-09-16 00:00:00
+courserunenddate: 2026-01-20 00:00:00
+mode_of_training: Synchronous eLearning

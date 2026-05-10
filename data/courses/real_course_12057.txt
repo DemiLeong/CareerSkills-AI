@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018504150
+coursetitle: SF - Certified Ethical Hacker  (Synchronous e-learning)
+trainingprovideruen: 201109011W
+trainingprovideralias: BRIDGINGMINDS NETWORK PTE. LTD.
+courserunstartdate: 2025-09-29 00:00:00
+courserunenddate: 2025-10-03 00:00:00
+mode_of_training: Synchronous eLearning

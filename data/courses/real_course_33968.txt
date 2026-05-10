@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015549
+coursetitle: WSQ Chinese Moist-Heat Dish Preparation and Cooking (Level 3)(Classroom and Asynchronous e-Learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-10-09 00:00:00
+mode_of_training: Classroom

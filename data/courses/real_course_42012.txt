@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500997
+coursetitle: Skills-Based Psychiatric Rehabilitation (Classroom & Asynchronous E-learning)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: 2025-10-01 00:00:00
+courserunenddate: 2025-10-03 00:00:00
+mode_of_training: Classroom

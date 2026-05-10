@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037976
+coursetitle: VMware vSphere: Install, Configure, Manage (SF) (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

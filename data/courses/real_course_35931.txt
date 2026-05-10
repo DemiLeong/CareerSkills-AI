@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502791
+coursetitle: Employee Communication Management Level 2: Prepare Employee Communications (Synchronous e-learning).
+trainingprovideruen: 200903531C
+trainingprovideralias: HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

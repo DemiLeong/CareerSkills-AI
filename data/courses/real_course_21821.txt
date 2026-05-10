@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054773
+coursetitle: Create Agentic AI Automations Without Coding
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

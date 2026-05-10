@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045036
+coursetitle: People Development: Dare to Care â€“ For Early Childhood (EC) and Early Intervention (EI) Leaders
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

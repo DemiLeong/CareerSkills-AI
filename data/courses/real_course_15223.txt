@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012442
+coursetitle: Photography
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-07-29 00:00:00
+mode_of_training: Classroom

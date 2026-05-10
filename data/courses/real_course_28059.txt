@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037649
+coursetitle: Understanding and Applying Casework Assessment and Intervention
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

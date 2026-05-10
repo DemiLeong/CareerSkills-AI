@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504446
+coursetitle: Build and Deepen Professional Competencies through Transactional Analysis (TA)
+trainingprovideruen: 200715485W
+trainingprovideralias: BERNE TA CENTER PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

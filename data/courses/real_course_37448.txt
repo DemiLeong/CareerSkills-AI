@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045258
+coursetitle: SCCIOB TOURIST GUIDE TRAINING PROGRAMME (MANDARIN)
+trainingprovideruen: S92SS0008J
+trainingprovideralias: SINGAPORE CHINESE CHAMBER INSTITUTE OF BUSINESS
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-11-22 00:00:00
+mode_of_training: Classroom

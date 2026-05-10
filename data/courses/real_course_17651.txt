@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013934
+coursetitle: WSQ Problem Identification and Solutioning Techniques
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-10-15 00:00:00
+courserunenddate: 2025-10-16 00:00:00
+mode_of_training: Classroom

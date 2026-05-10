@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503789
+coursetitle: Service Challenges (WSQ)
+trainingprovideruen: 201002137E
+trainingprovideralias: MINDFORCE ACADEMY PTE. LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

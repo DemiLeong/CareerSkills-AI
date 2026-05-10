@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500962
+coursetitle: PWM-Cleaning: Horizontal Surface Maintenance
+trainingprovideruen: 198801833K
+trainingprovideralias: CLEAN SOLUTIONS PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

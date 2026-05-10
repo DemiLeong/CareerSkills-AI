@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054755
+coursetitle: Generative AI Evaluation: Assessing Performance, Bias, and Ethical AI
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

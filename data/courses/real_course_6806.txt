@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054329
+coursetitle: Merging Sustainability with OHS (Synchronous e-learning)
+trainingprovideruen: 201422488N
+trainingprovideralias: QE SAFETY CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

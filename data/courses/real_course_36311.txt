@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500495
+coursetitle: PERFORM INTER-GATEWAY HAULAGE OPERATIONS (SF)
+trainingprovideruen: 199706229Z
+trainingprovideralias: PSA CORPORATION LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

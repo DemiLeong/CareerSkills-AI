@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049184
+coursetitle: DevOps Foundation Training
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-06-13 00:00:00
+courserunenddate: 2026-06-14 00:00:00
+mode_of_training: Classroom

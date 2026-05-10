@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013568
+coursetitle: (SCTP) Advanced Professional Certificate in UX Design and Digital Product Management (Classroom, Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502724
+coursetitle: 02 days â€“ Digital Marketing â€“ 17 hrs (ICDL Certification)
+trainingprovideruen: 198902296M
+trainingprovideralias: GENETIC COMPUTER SCHOOL PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

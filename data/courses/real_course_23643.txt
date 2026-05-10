@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052661
+coursetitle: SCTP: RISE 2.0 Business Data and Analytics (Sync and Async E-learning) (Full-Time) (TA-eligible)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-11-18 00:00:00
+mode_of_training: Synchronous eLearning

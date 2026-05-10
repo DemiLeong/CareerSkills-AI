@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012192
+coursetitle: Workplace Automation 101: Automation at Work with Microsoft Power Platform (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

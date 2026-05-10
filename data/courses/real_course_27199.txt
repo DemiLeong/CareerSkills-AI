@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048122
+coursetitle: Diploma in Early Childhood Care & Education - Teaching (Chinese), [DECCE-T (Chinese)] å¹¼å„¿æ•™è‚²ä¸“ä¸šæ–‡å‡­è¯¾ç¨‹ (Classroom & Synchronous)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

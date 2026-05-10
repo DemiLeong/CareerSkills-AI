@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053100
+coursetitle: Security Operations Centre (SOC) Essentials (Synchronous & Asynchronous e-learning)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Synchronous eLearning

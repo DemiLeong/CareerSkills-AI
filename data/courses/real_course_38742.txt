@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044134
+coursetitle: Operation and Maintenance of Safety Instrumented Systems (SIS) According to IEC 61511
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

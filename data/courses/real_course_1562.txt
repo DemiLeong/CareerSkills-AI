@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016920
+coursetitle: Making Informed Decisions in a Digital World
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045532
+coursetitle: Azure Data Lake and Data Streaming (Synchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

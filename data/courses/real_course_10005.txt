@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021001995
+coursetitle: Drive a Highly Engaging Online Learning Experience (Synchronous e-Learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute For Adult Learning Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

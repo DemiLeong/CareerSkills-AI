@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502127
+coursetitle: Technical Diploma in Culinary Arts with Restaurant Management
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

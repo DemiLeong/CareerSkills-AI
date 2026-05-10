@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010208
+coursetitle: Standard First Aid (for NROC Coaches)
+trainingprovideruen: S86CC0370E
+trainingprovideralias: SINGAPORE RED CROSS SOCIETY
+courserunstartdate: 2025-07-23 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

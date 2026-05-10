@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501081
+coursetitle: High Voltage Switching Operations & Procedures
+trainingprovideruen: 201427065Z
+trainingprovideralias: SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-07-30 00:00:00
+mode_of_training: Classroom

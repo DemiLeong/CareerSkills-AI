@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016642
+coursetitle: Certificate in Spatial Design (Advanced)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-10-20 00:00:00
+courserunenddate: 2026-03-31 00:00:00
+mode_of_training: Classroom

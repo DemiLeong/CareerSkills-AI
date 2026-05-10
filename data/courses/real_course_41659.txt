@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018657
+coursetitle: WSQ Manage Food and Beverage Quality Control Audits
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

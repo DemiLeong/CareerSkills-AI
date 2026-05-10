@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018868
+coursetitle: Network Forensics & Analysis
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

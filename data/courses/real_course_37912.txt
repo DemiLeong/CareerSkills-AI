@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502825
+coursetitle: Professional Image and Etiquette for Effective Communication
+trainingprovideruen: 200415265M
+trainingprovideralias: IMAGEWORKS PTE. LTD.
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

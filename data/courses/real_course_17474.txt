@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014534
+coursetitle: Data-driven Connected Hydraulics in Advanced Manufacturing
+trainingprovideruen: 197700888D
+trainingprovideralias: BOSCH REXROTH PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

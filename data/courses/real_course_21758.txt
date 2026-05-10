@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051620
+coursetitle: Working with Families and Children with Diverse Needs (Synchronous E-learning)
+trainingprovideruen: 199603889K
+trainingprovideralias: ADVENT LINKS-SAUC EDUCATION CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504739
+coursetitle: (WSQ) Process Payroll
+trainingprovideruen: 53232345M
+trainingprovideralias: PAYROLLSERVE ACADEMY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

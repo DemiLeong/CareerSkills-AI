@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019611
+coursetitle: Data Visualization with Looker Studio
+trainingprovideruen: 201600698N
+trainingprovideralias: EMARSITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

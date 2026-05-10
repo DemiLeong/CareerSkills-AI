@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504552
+coursetitle: PWM-Security: Incident Response (Contribute To The Management Of Security Incidents)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018385
+coursetitle: Business Marketing & Storytelling with Animation
+trainingprovideruen: 201436502E
+trainingprovideralias: LITERACY EMPOWERMENT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054655
+coursetitle: JLP - Cross Examination and Experts
+trainingprovideruen: T09GB0002H
+trainingprovideralias: SINGAPORE ACADEMY OF LAW
+courserunstartdate: 2026-03-04 00:00:00
+courserunenddate: 2026-03-05 00:00:00
+mode_of_training: Classroom

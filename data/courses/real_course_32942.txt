@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500633
+coursetitle: Applied Suicide Intervention Skills Training (ASIST)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: 2025-12-15 00:00:00
+courserunenddate: 2025-12-16 00:00:00
+mode_of_training: Classroom

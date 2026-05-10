@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043284
+coursetitle: Advanced Certificate in Generative Artificial Intelligence-Enhanced Social Media Content Creation Module 5: Using Generative AI for Content Creation (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

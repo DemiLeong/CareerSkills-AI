@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055446
+coursetitle: Continuous Improvement Strategies for the Workplace
+trainingprovideruen: 202113650K
+trainingprovideralias: EDUPEDIA LANGUAGE AND TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

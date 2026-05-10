@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048320
+coursetitle: AI Basics for Productivity
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: 2026-02-26 00:00:00
+courserunenddate: 2026-02-27 00:00:00
+mode_of_training: Classroom

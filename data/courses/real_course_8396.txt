@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016468
+coursetitle: SCEM Professional-Level: WSQ Steam and Compressed Air Systems (Classroom and Asynchronous)
+trainingprovideruen: T06SS0142H
+trainingprovideralias: Sustainable Energy Association of Singapore (SEAS)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

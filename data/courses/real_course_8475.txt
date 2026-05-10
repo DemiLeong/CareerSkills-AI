@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513393
+coursetitle: Improving Customer Retail Experience & Engagement through Digital Means - Synchronous elearning
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

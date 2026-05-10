@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011675
+coursetitle: Master in Boundary-Crossing Learning and Leadership
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

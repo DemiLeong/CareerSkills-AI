@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500006
+coursetitle: Import / Export Business and International Trade
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

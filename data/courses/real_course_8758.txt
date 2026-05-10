@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003638
+coursetitle: Post-Diploma Certificate in User Experience Design (Part of Specialist Diploma in User Experience Design & Management)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2026-03-04 00:00:00
+mode_of_training: Classroom

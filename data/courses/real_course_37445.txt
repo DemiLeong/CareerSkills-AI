@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016133
+coursetitle: Guard and Patrol (Provide Armed Protection of Financial Institutions & Related Businesses)
+trainingprovideruen: 198905026D
+trainingprovideralias: SATS SECURITY SERVICES PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

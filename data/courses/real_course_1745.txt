@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500859
+coursetitle: Operate Lorry Crane Course
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-08 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020632
+coursetitle: Modular Certificate in Secure Network Management (part of Diploma in Infocomm & Digital Media (IT Network and System Administration))-DINSA2
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2027-04-19 00:00:00
+courserunenddate: 2027-10-17 00:00:00
+mode_of_training: Classroom

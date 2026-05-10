@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504880
+coursetitle: People and Performance Management Level 3 powered by John Maxwell
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501133
+coursetitle: Specialised Guiding Services for International Exhibitions (for Licensed Tourist Guides only) (Synchronous e-learning)
+trainingprovideruen: 200209938H
+trainingprovideralias: WINE RESOURCES PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-01 00:00:00
+mode_of_training: Synchronous eLearning

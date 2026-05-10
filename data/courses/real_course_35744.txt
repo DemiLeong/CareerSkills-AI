@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017617
+coursetitle: VMware NSX-T Data Center: Install, Configure, Manage
+trainingprovideruen: 201711175C
+trainingprovideralias: CLOUDASSIST SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

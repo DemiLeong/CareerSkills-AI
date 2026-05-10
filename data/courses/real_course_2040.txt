@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019506389
+coursetitle: BIZ-MSQ  Managing Service Quality
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-09-04 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

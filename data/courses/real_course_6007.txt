@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039365
+coursetitle: Advanced Certificate in Early Years (Chinese)[ACEY (Chinese)] å©´å¹¼å„¿ä¿è‚²é«˜çº§è¯ä¹¦è¯¾ç¨‹ (Classroom & Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

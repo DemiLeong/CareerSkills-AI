@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040799
+coursetitle: Enabling Academy: F&B Food Safety Course Level 1 Bridging Programme
+trainingprovideruen: 201017313E
+trainingprovideralias: Project Dignity Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

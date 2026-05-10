@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014457
+coursetitle: Respond to Service Challenges (Synchronous & Asynchronous e-Learning)
+trainingprovideruen: 200104020M
+trainingprovideralias: E M LEARNING PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051894
+coursetitle: B2B Sales Mastery (Synchronous E-learning)
+trainingprovideruen: 201136539H
+trainingprovideralias: CLICKACADEMY ASIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

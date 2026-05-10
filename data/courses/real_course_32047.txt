@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050780
+coursetitle: Intermediate Alteration Techniques
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Classroom

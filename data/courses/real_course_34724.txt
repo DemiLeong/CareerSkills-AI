@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002614
+coursetitle: Western Cold Dish Preparation Level 1
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

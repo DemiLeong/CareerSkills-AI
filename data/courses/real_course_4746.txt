@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039010
+coursetitle: Digital Audio Video Networking (Dante)
+trainingprovideruen: 200209295K
+trainingprovideralias: ORITA SINCLAIR SCHOOL OF DESIGN AND MUSIC PTE. LTD.
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-08-13 00:00:00
+mode_of_training: Classroom

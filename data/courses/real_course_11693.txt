@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008420
+coursetitle: Social Media Listening and Analytics (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

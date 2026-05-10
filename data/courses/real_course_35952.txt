@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046794
+coursetitle: ISO/IEC 27001 Lead Auditor Practitioner (Classroom & Asynchronous)
+trainingprovideruen: 199502096N
+trainingprovideralias: BSI GROUP SINGAPORE PTE. LTD.
+courserunstartdate: 2025-11-03 00:00:00
+courserunenddate: 2025-11-07 00:00:00
+mode_of_training: Classroom

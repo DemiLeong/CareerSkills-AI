@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013521
+coursetitle: Information Systems Risk Management (ISRM Part 2) (Synchronous e-learning)
+trainingprovideruen: T04SS0109E
+trainingprovideralias: Institute of Singapore Chartered Accountants
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

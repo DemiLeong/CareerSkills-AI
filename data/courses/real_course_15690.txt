@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016502867
+coursetitle: NSA -  Mindfulness Intermediate Course
+trainingprovideruen: 200200167M
+trainingprovideralias: Brahm Centre
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050795
+coursetitle: Generative AI And Tools For Business Leaders
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

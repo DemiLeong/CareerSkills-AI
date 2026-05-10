@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021548
+coursetitle: Managing Emerging Risks in the Green Economy: Deploying ERM to Manage Exposures to Achieve Sustainability Objectives
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

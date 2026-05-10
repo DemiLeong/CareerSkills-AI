@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053852
+coursetitle: (SCTP) WSQ Diploma in Retail (Retail Operations) (Full Time) [TA-eligible]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

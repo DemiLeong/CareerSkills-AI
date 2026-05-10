@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051905
+coursetitle: Wine Service Level 2
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

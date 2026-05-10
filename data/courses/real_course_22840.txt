@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042601
+coursetitle: Microsoft 365 Administrator Training (MS-102)
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-07-05 00:00:00
+courserunenddate: 2025-07-27 00:00:00
+mode_of_training: Classroom

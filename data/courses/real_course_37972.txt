@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502359
+coursetitle: A History of Western Art II: From Picasso to Pop
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

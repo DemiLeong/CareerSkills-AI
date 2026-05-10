@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018608
+coursetitle: SMU-NAFA Advanced Certificate in Arts Management for Arts Professionals Module 3: Strategic Management for Arts and Cultural Organisations
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-02-02 00:00:00
+courserunenddate: 2026-02-03 00:00:00
+mode_of_training: Classroom

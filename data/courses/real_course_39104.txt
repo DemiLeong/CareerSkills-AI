@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048644
+coursetitle: WSQ Effective Business Presentation Soft Skill training
+trainingprovideruen: 201222776R
+trainingprovideralias: INSPIZONE PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020420
+coursetitle: Human Capital Development Series (HCDS): Strategic Talent Acquisition Professionals (Classroom, Synchronous & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

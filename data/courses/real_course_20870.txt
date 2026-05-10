@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022602217
+coursetitle: AI200: APPLIED MACHINE LEARNING
+trainingprovideruen: 202017096C
+trainingprovideralias: HEICODERS ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

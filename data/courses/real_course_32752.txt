@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018061
+coursetitle: WSQ ACLP v2 M1P: Facilitate Learning Experiences for Adult Learners and Assess Competence based on Skills Framework (Synchronous e-learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-09-01 00:00:00
+mode_of_training: Assessment

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504536
+coursetitle: People and Relationship Management (Synchronous e-learning)
+trainingprovideruen: T13LL1770K
+trainingprovideralias: CARETECH168 LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

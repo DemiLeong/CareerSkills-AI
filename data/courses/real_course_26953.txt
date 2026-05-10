@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039866
+coursetitle: TFIP - Optimising Contract Management: Strategies for Effective Service Level Agreements
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

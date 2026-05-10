@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039334
+coursetitle: Standards Development Training
+trainingprovideruen: 202026912H
+trainingprovideralias: IES ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

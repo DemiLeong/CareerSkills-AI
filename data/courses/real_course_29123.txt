@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007310
+coursetitle: Post-Diploma Certificate in Corporate Law & Practice (in Specialist Diploma in Corporate Secretarial Practice)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2026-04-20 00:00:00
+courserunenddate: 2026-10-18 00:00:00
+mode_of_training: Classroom

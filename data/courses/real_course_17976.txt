@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042232
+coursetitle: NE 302: Green Economy for Practitioners (Synchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

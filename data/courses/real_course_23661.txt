@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049099
+coursetitle: Python Essentials for Beginners
+trainingprovideruen: 201816321H
+trainingprovideralias: THE LAB EDUCATION CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

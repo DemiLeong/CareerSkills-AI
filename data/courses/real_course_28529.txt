@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019409
+coursetitle: Basic Cardiac Life Support + AED (BCLS+AED) Instructor Course
+trainingprovideruen: 53109629K
+trainingprovideralias: MHI TRAINING MASTER
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

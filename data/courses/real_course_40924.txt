@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036653
+coursetitle: Innovative Problem Solving with Generative AI (GenAI)
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-06-03 00:00:00
+courserunenddate: 2026-06-04 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013019
+coursetitle: Workplace Safety and Health Management in Construction Industry (Mandarin)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-20 00:00:00
+mode_of_training: Classroom

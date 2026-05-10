@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012218
+coursetitle: Predictive Analytics and Machine Learning Module 4: K-Means and Hierarchical Clustering (Synchronous e-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

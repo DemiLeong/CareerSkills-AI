@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011500003
+coursetitle: WSQ OPERATE FORKLIFT (3 DAYS) COURSE
+trainingprovideruen: 199706229Z
+trainingprovideralias: PSA CORPORATION LIMITED
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Traineeship

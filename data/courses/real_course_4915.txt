@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045815
+coursetitle: WSQ-MS Developing Solutions for Microsoft Azure (AZ-204)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

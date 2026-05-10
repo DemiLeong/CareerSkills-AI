@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="page-hero">
+
+    <div class="hero-overlay">
+
+        <h1>💼 Career / Job Advice</h1>
+
+        <p>
+            Explore suitable job roles,
+            career pathways, skill gaps,
+            and career transition opportunities.
+        </p>
+
+    </div>
+
+</div>
+
+
+<form class="form-card"
+      method="POST">
+
+    <label>
+        Your Question
+    </label>
+
+    <textarea
+        name="query"
+        placeholder="Example: What jobs are suitable for someone with Python, SQL, and dashboard experience?"
+    ></textarea>
+
+
+    <label>
+        Paste Resume / Skills Summary
+    </label>
+
+    <textarea
+        name="resume_text"
+        placeholder="Start by describing your skills and experience, or paste your resume here..."
+    ></textarea>
+
+
+    <button type="submit"
+            class="submit-btn">
+
+        Get Career Advice
+
+    </button>
+
+</form>
+
+
+{% if ai_response %}
+
+<div class="response-card">
+    <h2>Career Advice Result</h2>
+    <div class="ai-response">
+        {{ ai_response | safe }}
+    </div>
+</div>
+
+{% endif %}
+
+{% endblock %}

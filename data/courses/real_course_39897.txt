@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036390
+coursetitle: Deterrence (Perform Security Duties at Protected Areas and Protected Places)
+trainingprovideruen: 201417778H
+trainingprovideralias: ACESTES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

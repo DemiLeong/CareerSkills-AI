@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055426
+coursetitle: Suicide Intervention Skills Workshop (Classroom and Asynchronous E-learning)
+trainingprovideruen: 202245684D
+trainingprovideralias: SAMARITANS OF SINGAPORE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

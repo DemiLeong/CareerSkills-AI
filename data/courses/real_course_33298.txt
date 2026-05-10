@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054336
+coursetitle: Professional Certificate in Data Management, Governance and Compliance (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

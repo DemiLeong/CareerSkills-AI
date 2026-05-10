@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015548
+coursetitle: WSQ Innovation Management (Level 3)(Classroom and Asynchronous e-Learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-11-03 00:00:00
+courserunenddate: 2026-03-04 00:00:00
+mode_of_training: Classroom

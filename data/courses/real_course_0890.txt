@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053333
+coursetitle: WSQ High-Tech Shrimp Farming: Sustainable Aquaculture Solutions
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-17 00:00:00
+courserunenddate: 2025-10-18 00:00:00
+mode_of_training: Classroom

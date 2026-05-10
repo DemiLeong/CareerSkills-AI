@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504331
+coursetitle: PWM-Food Services: Prepare for Service (MISC EN PLACE)
+trainingprovideruen: 199704969Z
+trainingprovideralias: GUILFORD TRAINING CENTRE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010073
+coursetitle: Managing Change and Leading A Team (Classroom and Asynchronous E-learning)
+trainingprovideruen: 199700354Z
+trainingprovideralias: SUCCESS STRATEGY (PTE) LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

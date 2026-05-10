@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013254
+coursetitle: Service Leadership (Level 1) (Synchronous e-Learning)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046759
+coursetitle: Behavioural Insights for Social Service Professionals
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

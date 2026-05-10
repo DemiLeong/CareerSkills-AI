@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043772
+coursetitle: Overseas Experiential Journey on Workplace Learning in Switzerland:  A World-class Model
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

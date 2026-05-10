@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501271
+coursetitle: Train The Trainer - Design and Develop OJT Programme
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-08-26 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Classroom

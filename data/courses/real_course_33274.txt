@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035822
+coursetitle: British Council WPLN (Workplace Literacy and Numeracy Assessment) (SSGLISPNU - Listening+Speaking+Numeracy)
+trainingprovideruen: 201202363R
+trainingprovideralias: BRITISH COUNCIL (SINGAPORE) LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

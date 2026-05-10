@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051829
+coursetitle: Advanced Certificate in Applied Automation in the Digital Economy Module 1: Introduction to Automation in the Digital Economy
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

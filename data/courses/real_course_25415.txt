@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500765
+coursetitle: Supervise Work in Confined Space Operation
+trainingprovideruen: 198200079M
+trainingprovideralias: PEC LTD.
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-09-27 00:00:00
+mode_of_training: Classroom

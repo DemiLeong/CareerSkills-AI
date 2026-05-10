@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018929
+coursetitle: WSQ Enhancing Resilience and Self-care through Effective Stress Management (Classroom and Asynchronous E-Learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

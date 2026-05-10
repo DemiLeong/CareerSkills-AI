@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014501224
+coursetitle: Emergency Response Management(Coordinate Implementation of Emergency Preparedness and Response Plans)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-07-20 00:00:00
+courserunenddate: 2025-08-17 00:00:00
+mode_of_training: Classroom

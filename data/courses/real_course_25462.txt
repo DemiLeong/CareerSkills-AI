@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010367
+coursetitle: Text Analytics with R
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

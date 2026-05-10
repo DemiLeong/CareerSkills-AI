@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052782
+coursetitle: (SCTP Module) Class A Rotorcraft Unmanned Aircraft Pilot Licence (UAPL) up to 25 kg Multirotor (Practical Training with Assessment)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

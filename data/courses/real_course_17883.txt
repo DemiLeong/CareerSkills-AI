@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051520
+coursetitle: Digital Transformation Primer (Bundled) (SF)  (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200202841R
+trainingprovideralias: LITHAN ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-11 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Synchronous eLearning

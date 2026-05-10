@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014855
+coursetitle: Post-Diploma Certificate in Smart Project Management (part of Specialist Diploma in Smart Project and Facilities Management)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

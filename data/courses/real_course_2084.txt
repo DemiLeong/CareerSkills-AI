@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038066
+coursetitle: Advanced Certificate in Fintech and the Future of Finance Module 2: The Financial System Revolution â€“ Digital Banking, Payments, Buy Now Pay Later (BNPL) and Wealth Management
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

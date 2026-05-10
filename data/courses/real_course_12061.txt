@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038174
+coursetitle: BCLS AED Provider Course
+trainingprovideruen: 200800722R
+trainingprovideralias: PARKWAY COLLEGE OF NURSING & ALLIED HEALTH PTE. LTD.
+courserunstartdate: 2025-09-23 00:00:00
+courserunenddate: 2025-09-23 00:00:00
+mode_of_training: Classroom

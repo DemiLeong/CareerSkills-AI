@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040514
+coursetitle: Strategic Problem Solving and Decision Making (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-09-04 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

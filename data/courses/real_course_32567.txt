@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051020
+coursetitle: Institute For Human Resource Professionals Paper A Preparatory Course â€“ Progressive HR Policies & Practices In Workplaces
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

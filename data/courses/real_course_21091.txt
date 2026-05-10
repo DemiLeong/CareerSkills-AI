@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006090
+coursetitle: Generative AI for Project Planning & Execution
+trainingprovideruen: 201114074D
+trainingprovideralias: EPM TRAINING SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

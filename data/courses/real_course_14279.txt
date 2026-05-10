@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501142
+coursetitle: The Hidden Face of Tiong Bahru (for Licensed Tourist Guides only)
+trainingprovideruen: T03SS0148B
+trainingprovideralias: Society of Tourist Guides (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

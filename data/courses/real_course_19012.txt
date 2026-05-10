@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038512
+coursetitle: (eCornell) Promoting Inclusive Onboarding and Employee Success
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

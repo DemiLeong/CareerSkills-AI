@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052458
+coursetitle: MB-910 Microsoft Dynamics 365 Fundamentals (CRM)
+trainingprovideruen: 200922279R
+trainingprovideralias: LAURES SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

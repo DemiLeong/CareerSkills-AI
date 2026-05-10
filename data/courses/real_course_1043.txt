@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046238
+coursetitle: Leadership Series: Building a Supportive Learning Culture (BSLC)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-09-02 00:00:00
+courserunenddate: 2025-10-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037552
+coursetitle: CoC in Electric Vehicle (EV) Charging System
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

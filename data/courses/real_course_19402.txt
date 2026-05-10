@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035631
+coursetitle: Modular Certificate in Automation & Control - Part of Diploma in Engineering (Mechanical) (DEM1)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2027-04-12 00:00:00
+courserunenddate: 2028-03-31 00:00:00
+mode_of_training: Classroom

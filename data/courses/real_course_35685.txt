@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009613
+coursetitle: Hybrid Team Communication and Collaboration (Classroom and Synchronous E-Learning)
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504071
+coursetitle: WSQ Website Creation Course
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

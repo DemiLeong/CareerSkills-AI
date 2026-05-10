@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052143
+coursetitle: Develop a Risk Management Implementation Plan (bizSAFE Level 2)
+trainingprovideruen: 201210970H
+trainingprovideralias: ADVANCE SAFE CONSULTANTS PTE. LTD.
+courserunstartdate: 2025-07-31 00:00:00
+courserunenddate: 2025-08-01 00:00:00
+mode_of_training: Classroom

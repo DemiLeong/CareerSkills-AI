@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015888
+coursetitle: Empowering Children with Body Safety Skills [Classroom & Asynchronous E-Learning]
+trainingprovideruen: S62SS0057G
+trainingprovideralias: Singapore Children's Society
+courserunstartdate: 2026-01-07 00:00:00
+courserunenddate: 2026-01-29 00:00:00
+mode_of_training: Classroom

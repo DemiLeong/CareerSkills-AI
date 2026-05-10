@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055033
+coursetitle: GA100: Generative AI for Automation and Productivity (Synchronous E- Learning)
+trainingprovideruen: 202017096C
+trainingprovideralias: HEICODERS ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Synchronous eLearning

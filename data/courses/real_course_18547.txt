@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021244
+coursetitle: Professional Certificate in Real Estate Investing â€“ Finding Value in Real Estate Investment, Real Estate Business & Real Estate Development
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

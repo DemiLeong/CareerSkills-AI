@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055859
+coursetitle: Certified Cybersecurity Operations Analyst (CCOA)
+trainingprovideruen: 200821195D
+trainingprovideralias: SAPIENCE CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

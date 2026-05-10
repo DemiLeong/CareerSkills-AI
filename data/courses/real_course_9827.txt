@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054184
+coursetitle: Advanced Certificate in Applied Data Science and Analytics (II) Module 1: Advanced Machine Learning (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

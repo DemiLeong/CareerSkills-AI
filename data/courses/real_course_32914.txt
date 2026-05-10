@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017450
+coursetitle: Condition Monitoring Techniques for Distribution Switchgear & Transformer
+trainingprovideruen: 201427065Z
+trainingprovideralias: SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

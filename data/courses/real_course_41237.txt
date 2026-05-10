@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047688
+coursetitle: Create Positive Stakeholder Relationships
+trainingprovideruen: 199302114W
+trainingprovideralias: TSAO FOUNDATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

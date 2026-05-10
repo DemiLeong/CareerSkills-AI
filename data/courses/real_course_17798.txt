@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008466
+coursetitle: Supported Employment and Working with Clients of Different Disabilities (Synchronous & Asynchronous)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

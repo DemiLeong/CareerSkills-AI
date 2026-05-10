@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010707
+coursetitle: Advanced Certificate in Data Governance Systems Module 1: Digital Data Governance Frameworks and Standards
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-30 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Classroom

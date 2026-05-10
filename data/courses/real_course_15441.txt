@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045908
+coursetitle: Embracing ESG: Aligning with the revised code of governance for charities in Singapore
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

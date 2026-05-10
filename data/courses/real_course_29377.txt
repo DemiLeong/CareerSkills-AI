@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040403
+coursetitle: Harnessing the Power of Internet of Things and Creative Digital Making
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-28 00:00:00
+courserunenddate: 2025-10-29 00:00:00
+mode_of_training: Classroom

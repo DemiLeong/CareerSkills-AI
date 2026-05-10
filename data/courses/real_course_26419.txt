@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022149
+coursetitle: Cloud Computing for all (Synchronous e-Learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

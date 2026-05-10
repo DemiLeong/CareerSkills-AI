@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010048
+coursetitle: WSQ - Data Visualisation with Microsoft Power BI
+trainingprovideruen: 200305285R
+trainingprovideralias: AVANTUS TRAINING PRIVATE LIMITED
+courserunstartdate: 2025-08-27 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

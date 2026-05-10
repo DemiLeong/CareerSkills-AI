@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044832
+coursetitle: Innovate the Customer Experience with Artificial Intelligence, AI
+trainingprovideruen: 201312483W
+trainingprovideralias: WEB LEARNING RESOURCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039470
+coursetitle: Advanced Certificate in Crisis Management for Business Module 2: Scenario Planning and Issues Management
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003232
+coursetitle: Basic Counselling
+trainingprovideruen: 201428614H
+trainingprovideralias: J L INSTITUTION PTE. LTD.
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

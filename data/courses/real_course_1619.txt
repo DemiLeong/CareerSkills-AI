@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500960
+coursetitle: Effective Sales and Marketing Management
+trainingprovideruen: 53153311E
+trainingprovideralias: IMPACT ANALYSIS ACADEMY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042608
+coursetitle: Hybrid Events Planning & Management with Live Streaming
+trainingprovideruen: 201501662D
+trainingprovideralias: WISDOM ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

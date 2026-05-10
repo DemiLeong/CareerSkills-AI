@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049507
+coursetitle: Google Cloud - Professional Data Engineer
+trainingprovideruen: 201711175C
+trainingprovideralias: CLOUDASSIST SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

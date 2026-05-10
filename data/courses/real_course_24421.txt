@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004738
+coursetitle: AHK i4.0 Industry Specialist
+trainingprovideruen: 197700888D
+trainingprovideralias: BOSCH REXROTH PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014964
+coursetitle: WSQ - VMware vSphere: Install, Configure, Manage
+trainingprovideruen: 200305285R
+trainingprovideralias: AVANTUS TRAINING PRIVATE LIMITED
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

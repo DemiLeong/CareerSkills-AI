@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513780
+coursetitle: Urban Land Use and Planning  (Classroom, & Asynchronous)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

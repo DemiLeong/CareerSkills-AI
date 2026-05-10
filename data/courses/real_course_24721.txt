@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500409
+coursetitle: WSQ Provide Specialty Coffee Service (Classroom + Asynchronous e-learning)
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

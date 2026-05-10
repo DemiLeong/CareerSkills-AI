@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500283
+coursetitle: Technology-Enabled learning â€“ Facilitate eLearning
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

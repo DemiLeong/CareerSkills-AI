@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046964
+coursetitle: Front End Development with React (Synchronous E-Learning)
+trainingprovideruen: 201718054E
+trainingprovideralias: KNOWLEDGEHUT SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

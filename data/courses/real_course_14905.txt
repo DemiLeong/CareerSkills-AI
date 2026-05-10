@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048691
+coursetitle: Customer Management (Level 1) â€“ Provide Quality Services
+trainingprovideruen: 201312483W
+trainingprovideralias: WEB LEARNING RESOURCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

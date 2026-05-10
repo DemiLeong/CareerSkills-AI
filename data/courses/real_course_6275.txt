@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054469
+coursetitle: WSQ Shopify Store Creation Course
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-11-27 00:00:00
+courserunenddate: 2025-11-28 00:00:00
+mode_of_training: Classroom

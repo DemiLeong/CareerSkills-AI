@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040635
+coursetitle: Modular Certificate in Community Leadership (in Diploma in Gerontology (Community Health & Social Care))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2026-04-20 00:00:00
+courserunenddate: 2026-10-18 00:00:00
+mode_of_training: Classroom

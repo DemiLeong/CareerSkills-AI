@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006611
+coursetitle: FUNDAMENTALS OF 3D MODELING (Blended Learning)
+trainingprovideruen: 200912099N
+trainingprovideralias: MAGES INSTITUTE OF EXCELLENCE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

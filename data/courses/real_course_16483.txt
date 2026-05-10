@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500414
+coursetitle: Apply Systems Thinking in Problem Solving and Decision Making
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

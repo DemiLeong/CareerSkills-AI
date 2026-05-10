@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003217
+coursetitle: WSQ Facebook Marketing and Advertising Course (Synchronous E-Learning)
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

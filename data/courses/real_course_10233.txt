@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047628
+coursetitle: Navigating Transitions: Managing Your Caregiving Role
+trainingprovideruen: 200007860E
+trainingprovideralias: ECON CARESKILL TRAINING CENTRE (ECTC) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

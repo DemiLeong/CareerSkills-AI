@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051410
+coursetitle: Applied Generative AI Workshop
+trainingprovideruen: 201524437R
+trainingprovideralias: GENERAL ASSEMBLY SPACE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

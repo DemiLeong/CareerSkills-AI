@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015228
+coursetitle: Implement Skills Framework in Organisational Human Resource Programmes and Activities (Synchronous E-Learning)
+trainingprovideruen: T02SS0073H
+trainingprovideralias: Singapore Business Federation
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

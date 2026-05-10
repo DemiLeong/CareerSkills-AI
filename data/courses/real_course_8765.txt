@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049918
+coursetitle: Data Storytelling
+trainingprovideruen: 201530849C
+trainingprovideralias: HIGHSPARK PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Synchronous eLearning

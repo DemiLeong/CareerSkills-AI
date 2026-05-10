@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513686
+coursetitle: Provide Value-added Customer Service â€“ SFw (Mandarin)
+trainingprovideruen: S92SS0008J
+trainingprovideralias: SINGAPORE CHINESE CHAMBER INSTITUTE OF BUSINESS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049485
+coursetitle: Cultivating Mindset Skills for Productivity and Performance at the Workplace
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020471
+coursetitle: WSQ Preparing Oneself to Adapt to Changing Roles in the Workplace (Classroom and Asynchronous E-Learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

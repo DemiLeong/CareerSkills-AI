@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021269
+coursetitle: Advanced Certificate in Digital Supply Chain Module 1: The Digital Supply Chain
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-29 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Classroom

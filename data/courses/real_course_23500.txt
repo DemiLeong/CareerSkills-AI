@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007994
+coursetitle: Organisational Relationship Building (Level 3)
+trainingprovideruen: 201703757Z
+trainingprovideralias: ALL HEARTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

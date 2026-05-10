@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049567
+coursetitle: Windows Shell Scripting for Embedded Systems Firmware Testing
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

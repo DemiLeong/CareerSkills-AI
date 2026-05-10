@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018858
+coursetitle: Hazards Identification (Identify Hazards and Maintain Risk Control Measures)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

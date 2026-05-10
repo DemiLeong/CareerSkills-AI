@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042027
+coursetitle: User Experience for Everyone (part of SCTP Certificate in Gamification Approach to User Experience Design)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

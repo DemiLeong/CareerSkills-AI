@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015858
+coursetitle: Common Engineering Programme
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

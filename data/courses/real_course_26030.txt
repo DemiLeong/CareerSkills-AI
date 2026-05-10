@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004654
+coursetitle: CET904 Developing an Entrepreneurial Business Plan (Synchronous and Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

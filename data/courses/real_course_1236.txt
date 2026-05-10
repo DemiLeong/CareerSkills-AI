@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045229
+coursetitle: Advanced Multi-axis Machining Technique
+trainingprovideruen: 199605166D
+trainingprovideralias: SIEMENS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

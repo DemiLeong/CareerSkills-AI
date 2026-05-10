@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039004
+coursetitle: Evaluate the preparation of shipping documents associated with the import and export of goods.
+trainingprovideruen: T02SS0073H
+trainingprovideralias: Singapore Business Federation
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

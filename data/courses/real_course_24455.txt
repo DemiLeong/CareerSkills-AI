@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052342
+coursetitle: Closing Sales with Empathy-Driven People-Focused Selling
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-10-09 00:00:00
+courserunenddate: 2025-10-10 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016437
+coursetitle: Production Planning and Scheduling (Assistant Director) (Classroom and Synchronous E-Learning)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-09-24 00:00:00
+mode_of_training: Synchronous eLearning

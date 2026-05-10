@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019133
+coursetitle: Practical Introduction to Learning for Adult Trainers and Educatorsâ€¯(PILATE)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021715
+coursetitle: Fundamentals Certificate in Early Childhood Care and Education
+trainingprovideruen: S90SS0018D
+trainingprovideralias: Association for Early Childhood Educators (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

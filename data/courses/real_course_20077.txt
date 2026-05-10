@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501925
+coursetitle: Social Media - Public Relations, Ethics and Crisis Management (Classroom and Synchronous E-Learning)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-09-11 00:00:00
+mode_of_training: Synchronous eLearning

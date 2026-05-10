@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017356
+coursetitle: Post-Diploma Certificate in Enterprise Infrastructure Management ( part of Specialist Diploma in Converged Infocomm Infrastructure)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500821
+coursetitle: PWM-Cleaning: L1 Horizontal Surface Maintenance - HF- AOP
+trainingprovideruen: 200102457M
+trainingprovideralias: TRAINING MASTERS WORKFORCE INSTITUTE PTE LTD
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-28 00:00:00
+mode_of_training: Classroom

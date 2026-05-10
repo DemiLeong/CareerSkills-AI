@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015209
+coursetitle: Perform Work in Confined Space Operation
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

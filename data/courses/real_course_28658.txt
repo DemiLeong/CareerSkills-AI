@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051724
+coursetitle: Sustainability Everyday: Upcycle Fabrics and Learn Mobile Photography with eCommerce Opportunities [Classroom Facilitated, Asynchronous E-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052599
+coursetitle: Effective Logistics Operations
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

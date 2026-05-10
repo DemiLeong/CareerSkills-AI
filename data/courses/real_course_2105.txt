@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048654
+coursetitle: Chatbot Management Course
+trainingprovideruen: 202133714N
+trainingprovideralias: ALSA GROUP PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

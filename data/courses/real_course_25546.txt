@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505156
+coursetitle: Be a Blog and Vlog Influencer
+trainingprovideruen: 201118946D
+trainingprovideralias: KENKO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

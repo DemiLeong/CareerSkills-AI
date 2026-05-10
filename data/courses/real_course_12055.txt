@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018505033
+coursetitle: Design Electric Drives and Electromechanical Systems
+trainingprovideruen: 198903666H
+trainingprovideralias: FESTO PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

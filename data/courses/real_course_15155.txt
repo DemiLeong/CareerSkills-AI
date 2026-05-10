@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043536
+coursetitle: The Application and Use of Genetic Counselling - A Practical Approach (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

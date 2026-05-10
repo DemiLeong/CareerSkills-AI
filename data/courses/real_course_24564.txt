@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018509729
+coursetitle: Diploma in Teaching Chinese Language
+trainingprovideruen: 200511211D
+trainingprovideralias: CONFUCIUS INSTITUTE, NANYANG TECHNOLOGICAL UNIVERSITY PTE. LTD.
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2026-08-06 00:00:00
+mode_of_training: Classroom

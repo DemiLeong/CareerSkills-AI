@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055080
+coursetitle: Video Editing with Adobe Premiere Pro
+trainingprovideruen: 201312189Z
+trainingprovideralias: INTELLISOFT TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

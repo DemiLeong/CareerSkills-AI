@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502731
+coursetitle: Incident Response (Handle Security Incidents and Services)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

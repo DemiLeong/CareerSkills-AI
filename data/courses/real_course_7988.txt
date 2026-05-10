@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019500027
+coursetitle: Fundamentals Certificate in Early Childhood Care and Education
+trainingprovideruen: 200105418C
+trainingprovideralias: NANYANG INSTITUTE OF MANAGEMENT PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

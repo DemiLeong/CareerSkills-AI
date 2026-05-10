@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054325
+coursetitle: ISO 27001 Information Security Management Systems CQI IRCA Certified Auditor/ Lead Auditor Course
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

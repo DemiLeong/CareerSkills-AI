@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016233
+coursetitle: Financial Analysis to Chart Growth for Retail Companies
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

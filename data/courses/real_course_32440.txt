@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009030
+coursetitle: Gnowbe Online Subscription (yearly)
+trainingprovideruen: 201534009Z
+trainingprovideralias: GNOWBE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

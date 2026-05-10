@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502655
+coursetitle: Creative Posters and Invitations for Marketing
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

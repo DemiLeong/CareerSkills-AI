@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054899
+coursetitle: Empowering Artificial Intelligence (AI) at Work
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021892
+coursetitle: Digital Transformation with Generative AI (GenAI) (Synchronous e-learning)
+trainingprovideruen: 200922279R
+trainingprovideralias: LAURES SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

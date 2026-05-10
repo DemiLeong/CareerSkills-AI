@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043385
+coursetitle: Market Research and Customer Discovery
+trainingprovideruen: 200516087K
+trainingprovideralias: MOMENTA GROUP PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

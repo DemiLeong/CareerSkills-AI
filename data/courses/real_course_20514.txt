@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040332
+coursetitle: PWM-Waste Management: Use appropriate compaction vehicles and equipment to collect, compress, transport and dispose waste
+trainingprovideruen: 201223502K
+trainingprovideralias: FOCUS LEARNING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

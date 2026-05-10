@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505198
+coursetitle: Empowering Children with Body Safety Skills (Synchronous and Asynchronous modes)
+trainingprovideruen: S62SS0057G
+trainingprovideralias: Singapore Children's Society
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

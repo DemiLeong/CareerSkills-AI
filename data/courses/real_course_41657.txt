@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018852
+coursetitle: Perform Welding Inspection
+trainingprovideruen: 201203708H
+trainingprovideralias: CUTECH QUALITY SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

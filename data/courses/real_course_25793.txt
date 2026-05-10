@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048970
+coursetitle: Stakeholder Management in Service Operations
+trainingprovideruen: 202024097C
+trainingprovideralias: FEI SIONG INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

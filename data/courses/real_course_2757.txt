@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503028
+coursetitle: PWM-Security: Access Control Management (Operate Basic Security Equipment)
+trainingprovideruen: 200410167W
+trainingprovideralias: CERTIS CISCO SECURITY PTE. LTD.
+courserunstartdate: 2025-08-14 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: In-house

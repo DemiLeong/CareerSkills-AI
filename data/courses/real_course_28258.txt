@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044354
+coursetitle: TIA Portal SIMATIC Programming 1 (Basic)
+trainingprovideruen: 199605166D
+trainingprovideralias: SIEMENS PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

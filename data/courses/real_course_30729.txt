@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007917
+coursetitle: Revenue Management for Tourism Business (in PDC in Tourism Operations in Specialist Diploma in MICE & Events Management)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

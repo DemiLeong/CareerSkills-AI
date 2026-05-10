@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019897
+coursetitle: PWM-Cleaning: Maintain WSH Policies and Procedures â€“ Level 3
+trainingprovideruen: 201725903K
+trainingprovideralias: ASTUTE PROFESSIONAL TRAINING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

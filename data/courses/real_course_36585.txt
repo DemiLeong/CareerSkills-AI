@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052182
+coursetitle: WSQ-SS Elevate Your Customer Service: Drive Engagement & Loyalty
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021001916
+coursetitle: CET799 Business Liability and Ethics in AI Usage (Synchronous & Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

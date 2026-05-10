@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045354
+coursetitle: PWM-Food Services: Food Safety Course Level 1 (Refresher)
+trainingprovideruen: T13LL1770K
+trainingprovideralias: CARETECH168 LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

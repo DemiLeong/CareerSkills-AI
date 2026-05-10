@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044362
+coursetitle: Master of Digital Marketing (Specialisation Tracks)
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

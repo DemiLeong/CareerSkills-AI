@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502691
+coursetitle: Certificate in Value Investing - Inside the Alternative Investment World: Strategies, Failures and Red Flags (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Synchronous eLearning

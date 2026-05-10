@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017086
+coursetitle: Setting up TikTok Shop and Running Advertisements on TikTok
+trainingprovideruen: 201734671R
+trainingprovideralias: FIRSTCOM ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-03 00:00:00
+courserunenddate: 2025-10-05 00:00:00
+mode_of_training: Classroom

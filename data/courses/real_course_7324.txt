@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019501393
+coursetitle: PWM-Security: Incident Response (Handle Security Incidents and Services)
+trainingprovideruen: 200609670D
+trainingprovideralias: KNOWLEDGETREE TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

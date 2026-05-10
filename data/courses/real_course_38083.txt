@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040583
+coursetitle: Talent Analytics for Decision Making (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-11-11 00:00:00
+courserunenddate: 2025-11-12 00:00:00
+mode_of_training: Classroom

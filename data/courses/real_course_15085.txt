@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021001904
+coursetitle: Strategic Digital Transformation in Finance Module 6: Digital Taxation Disruption at the Cutting Edge for Finance Professionals (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

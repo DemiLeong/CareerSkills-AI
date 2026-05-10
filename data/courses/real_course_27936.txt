@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019361
+coursetitle: 2 days - Data Analytics using Excel 365, 2021 -  level 3
+trainingprovideruen: 198902296M
+trainingprovideralias: GENETIC COMPUTER SCHOOL PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

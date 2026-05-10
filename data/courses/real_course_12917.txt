@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039511
+coursetitle: FRONT-END DEVELOPMENT
+trainingprovideruen: 201524437R
+trainingprovideralias: GENERAL ASSEMBLY SPACE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

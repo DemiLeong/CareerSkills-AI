@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018507637
+coursetitle: Chinese Ink Painting XII (Level 12)
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

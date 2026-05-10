@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013501041
+coursetitle: Develop A Risk Management Implementation Plan
+trainingprovideruen: 200209661G
+trainingprovideralias: LEARNERS HUB PTE. LTD.
+courserunstartdate: 2025-09-24 00:00:00
+courserunenddate: 2025-09-25 00:00:00
+mode_of_training: Classroom

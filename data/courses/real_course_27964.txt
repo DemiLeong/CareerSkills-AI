@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042249
+coursetitle: goVBA (Visual Basic for Applications)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

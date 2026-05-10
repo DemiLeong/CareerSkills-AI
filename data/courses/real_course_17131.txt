@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019499
+coursetitle: Introduction to Business Analytics: Making Data-driven Decisions for Business Executives
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040598
+coursetitle: [LPCI] Mastering Business Communication in an Evolving Workplace (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

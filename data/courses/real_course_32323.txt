@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002825
+coursetitle: PWM-Cleaning: Comply with Workplace Safety & Health Policies & Procedures
+trainingprovideruen: 201725903K
+trainingprovideralias: ASTUTE PROFESSIONAL TRAINING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

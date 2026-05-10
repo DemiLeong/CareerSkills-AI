@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505360
+coursetitle: Apply ISO 9001 Quality Management System to Audit Requirements
+trainingprovideruen: 200107607Z
+trainingprovideralias: SQI INTERNATIONAL PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

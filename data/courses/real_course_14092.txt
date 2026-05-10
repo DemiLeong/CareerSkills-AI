@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050552
+coursetitle: Advanced Certificate in FinTech, Sustainable and Ethical Finance Module 2: Sustainable Finance and Ethical Finance: Environmental, Social, Governance
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-10 00:00:00
+courserunenddate: 2025-11-12 00:00:00
+mode_of_training: Classroom

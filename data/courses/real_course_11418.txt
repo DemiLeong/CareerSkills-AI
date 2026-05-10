@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042921
+coursetitle: Data Wrangling, Exploratory Data Analysis (EDA) and Data Management (Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

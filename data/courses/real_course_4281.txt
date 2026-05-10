@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053065
+coursetitle: (SCTP) WSQ Diploma in Infocomm Technology (Data) (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200202841R
+trainingprovideralias: LITHAN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

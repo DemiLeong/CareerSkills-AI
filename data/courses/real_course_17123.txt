@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500114
+coursetitle: Occupational First Aid (OFAC) Refresher with CPR+AED Course
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

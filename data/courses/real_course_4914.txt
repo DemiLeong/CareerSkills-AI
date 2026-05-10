@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045871
+coursetitle: Design Thinking Practice (Level 3) (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: 2025-08-16 00:00:00
+courserunenddate: 2025-08-23 00:00:00
+mode_of_training: Synchronous eLearning

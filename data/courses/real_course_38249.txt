@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021536
+coursetitle: Sustainability for Practitioners: Sustainability Reporting Benchmarking Environmental, Social and Governance (ESG) Performance
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-08-05 00:00:00
+courserunenddate: 2025-08-06 00:00:00
+mode_of_training: Classroom

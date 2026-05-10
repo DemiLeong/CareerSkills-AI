@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020495
+coursetitle: Empowering the Future: A Mentoring Programme for Work Life Harmony
+trainingprovideruen: 201501662D
+trainingprovideralias: WISDOM ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022301
+coursetitle: Data Engineering: Big Data Technologies
+trainingprovideruen: 200711322H
+trainingprovideralias: DIGIPEN INSTITUTE OF TECHNOLOGY SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

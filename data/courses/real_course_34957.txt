@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040921
+coursetitle: WSQ Dominating TikTok Marketing -  Understanding TikTok Shop,Ads and Content Creation
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

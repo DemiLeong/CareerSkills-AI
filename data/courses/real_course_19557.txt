@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015874
+coursetitle: Post-Diploma Certificate in Energy Management for Process Industry (part of Specialist Diploma in Energy and Environmental Management for Process Industry)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500743
+coursetitle: Certified User for Child and Adolescents Needs and Strengths (CANS) (Synchronous & Asynchronous)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: 2025-10-06 00:00:00
+courserunenddate: 2025-10-14 00:00:00
+mode_of_training: Classroom

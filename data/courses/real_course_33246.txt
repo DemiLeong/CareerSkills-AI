@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037824
+coursetitle: Building Resilience: Stress Management (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

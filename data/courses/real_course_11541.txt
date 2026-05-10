@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052047
+coursetitle: Introduction to FinTech in Asia: Foundations and Transformations
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

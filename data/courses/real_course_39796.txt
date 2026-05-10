@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501447
+coursetitle: SF - Certified Information Security Manager (CISM) (Synchronous e-learning)
+trainingprovideruen: 201109011W
+trainingprovideralias: BRIDGINGMINDS NETWORK PTE. LTD.
+courserunstartdate: 2025-12-01 00:00:00
+courserunenddate: 2025-12-04 00:00:00
+mode_of_training: Synchronous eLearning

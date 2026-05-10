@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038842
+coursetitle: Preparing for Associate Cloud Engineer
+trainingprovideruen: 201332378C
+trainingprovideralias: AGILITICS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

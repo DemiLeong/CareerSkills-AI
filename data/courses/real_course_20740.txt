@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055192
+coursetitle: Firearm Handling (Use of Firearms)
+trainingprovideruen: 200410167W
+trainingprovideralias: CERTIS CISCO SECURITY PTE. LTD.
+courserunstartdate: 2025-08-22 00:00:00
+courserunenddate: 2025-09-02 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041159
+coursetitle: Aquatic Animal Health & Disease Management (in PDC in Aquatic Animal Health & Nutrition in Specialist Diploma in Aquaculture Management & Technology)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

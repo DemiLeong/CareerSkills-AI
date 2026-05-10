@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017506430
+coursetitle: Diploma in Integrated Events & Project Management
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

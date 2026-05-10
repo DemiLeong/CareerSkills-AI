@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503505
+coursetitle: Demonstrate and Apply Understanding of Cleaning Chemical (SF Blended)
+trainingprovideruen: 200702572Z
+trainingprovideralias: Integrated Training Consultants Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

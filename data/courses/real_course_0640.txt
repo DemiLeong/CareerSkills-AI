@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505678
+coursetitle: Workforce Diversity and Inclusion L6 (Manage Cross Functional and Culturally Diverse Teams)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

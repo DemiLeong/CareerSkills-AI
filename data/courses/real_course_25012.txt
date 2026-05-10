@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050574
+coursetitle: Advanced Certificate in Entrepreneurship - Scale-Up Module 5: Price Segmentation and Distribution Strategies and Scaling Up
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017914
+coursetitle: People Development Strategies for Workplace Effectiveness (Classroom & Synchronous)
+trainingprovideruen: S80TU0496C
+trainingprovideralias: SINGAPORE NATIONAL EMPLOYERS FEDERATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

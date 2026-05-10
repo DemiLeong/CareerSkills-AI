@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021263
+coursetitle: Certificate in Financial Trading - Fundamentals of Foreign Exchange (FX) and Commodities
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-23 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014280
+coursetitle: Apply Workplace Safety and Health in Metal Work
+trainingprovideruen: 201322342Z
+trainingprovideralias: JURONG ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

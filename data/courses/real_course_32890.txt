@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008464
+coursetitle: The Adult Education (AE) Globetrotter - Using Skills Framework (SFw) for Glocalisation
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute For Adult Learning Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

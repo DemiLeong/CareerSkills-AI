@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052836
+coursetitle: SCTP Introduction to Digital Product Management
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-19 00:00:00
+mode_of_training: Classroom

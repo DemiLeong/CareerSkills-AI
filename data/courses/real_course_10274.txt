@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052977
+coursetitle: Building Management System (BMS) and Energy management for Smart Facilities Management (Synchronous)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020196
+coursetitle: The Art of Thai Cooking (Level 1)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Classroom

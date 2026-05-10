@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042464
+coursetitle: NE 103: From Discovering to Planning: How to Turn Your Idea Into a Business Plan (Synchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

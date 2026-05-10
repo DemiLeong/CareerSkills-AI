@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017119
+coursetitle: Driving Sustainability in Green Technology - The Future of Food Technology
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

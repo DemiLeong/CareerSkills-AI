@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504752
+coursetitle: Child First Aid (CFA) (Infant/Child Care Provider)
+trainingprovideruen: 201603657C
+trainingprovideralias: SINGAPORE RESCUE TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

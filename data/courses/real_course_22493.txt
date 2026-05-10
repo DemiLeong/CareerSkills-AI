@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504220
+coursetitle: Foster Service Innovation ( synchronous elearning)
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

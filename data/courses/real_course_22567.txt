@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007211
+coursetitle: Post-Diploma Certificate in Paramedical Management of Special Incidents (part of Diploma (Conversion) in Paramedic Science)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

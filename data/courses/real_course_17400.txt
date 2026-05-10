@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049410
+coursetitle: SFQB: RISE For Business - Omnichannel Sales and Marketing Module 3 of 4: Specialization Advance (Capability Building)  (Sync E-learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: 2025-08-20 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Synchronous eLearning

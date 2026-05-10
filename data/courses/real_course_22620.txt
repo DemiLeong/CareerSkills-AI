@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040685
+coursetitle: WhatsApp Marketing Management: Lead Gen & Customer Engagement
+trainingprovideruen: 200507404M
+trainingprovideralias: STEVENSON HURECA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503321
+coursetitle: Strengthening Your Wellness & Resilience
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

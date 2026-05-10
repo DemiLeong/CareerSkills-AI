@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502478
+coursetitle: Diploma in Theatre (English Drama)
+trainingprovideruen: 201006523M
+trainingprovideralias: NANYANG ACADEMY OF FINE ARTS
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2028-08-10 00:00:00
+mode_of_training: Classroom

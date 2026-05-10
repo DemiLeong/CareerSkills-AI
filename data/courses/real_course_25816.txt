@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503051
+coursetitle: SMU RPA Series: Tech Lab 1 - Digital Readiness, Leadership and Teaming Assessment
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

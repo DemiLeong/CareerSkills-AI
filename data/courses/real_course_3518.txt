@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054328
+coursetitle: Work with Emotional Intelligence
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

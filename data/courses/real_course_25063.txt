@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051062
+coursetitle: Working with Children and Young People and Self of the worker
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

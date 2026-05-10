@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054613
+coursetitle: Communicate with Confidence: Optimize Your Strengths for Influence & Impact
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-08-29 00:00:00
+courserunenddate: 2026-08-30 00:00:00
+mode_of_training: Classroom

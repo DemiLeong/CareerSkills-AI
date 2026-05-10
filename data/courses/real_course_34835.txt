@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505654
+coursetitle: Effectiveness Management L4 (Facilitate Effective Communication and Engagement at the Workplace)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

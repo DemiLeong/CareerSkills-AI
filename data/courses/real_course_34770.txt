@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018507624
+coursetitle: Intrusion and Access Control
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042300
+coursetitle: WSQ Workplace Learning Facilitator Programme (WLF2): Assess Workplace Learning (Synchronous e-Learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

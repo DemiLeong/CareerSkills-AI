@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503392
+coursetitle: Apply Workplace Safety and Health in Logistics and Transportation
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

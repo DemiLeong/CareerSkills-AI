@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009552
+coursetitle: Win-Win Business Negotiation
+trainingprovideruen: T13LL1770K
+trainingprovideralias: CARETECH168 LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

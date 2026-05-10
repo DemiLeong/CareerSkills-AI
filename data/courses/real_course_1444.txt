@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041196
+coursetitle: WSQ-RH Red Hat Systems Administration II (RH134)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

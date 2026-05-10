@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042169
+coursetitle: Introduction to 3D Animation with Cinema 4D (part of SCTP Certificate in The Art of Motion Graphics)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

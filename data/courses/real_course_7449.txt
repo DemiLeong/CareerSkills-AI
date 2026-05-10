@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018532
+coursetitle: PWM-Retail: WSQ CUSTOMER EXPERIENCE MANAGEMENT (Synchronous e-Learning)
+trainingprovideruen: 201022988M
+trainingprovideralias: SFIC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020509639
+coursetitle: Master of Science (Marketing Analytics and Insights) with CEMS Master's in International Management
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040837
+coursetitle: Intellectual Property and its Value in Business
+trainingprovideruen: 200414631M
+trainingprovideralias: FT CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

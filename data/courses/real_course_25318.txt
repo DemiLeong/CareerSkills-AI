@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016581
+coursetitle: (SCTP) Junior Data Engineer (Full-Time) (TA-eligible)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Classroom

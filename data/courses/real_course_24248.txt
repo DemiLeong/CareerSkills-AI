@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035894
+coursetitle: Collaborate with stakeholders to service customers
+trainingprovideruen: 201610236R
+trainingprovideralias: SUPPLY CHAIN & LOGISTICS ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

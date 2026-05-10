@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013032
+coursetitle: Manage Work At Height
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-20 00:00:00
+mode_of_training: Classroom

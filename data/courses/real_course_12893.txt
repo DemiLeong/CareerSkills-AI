@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040658
+coursetitle: Operate hook-lift mounted trucks and equipment to collect and transport waste during waste collection
+trainingprovideruen: 201223502K
+trainingprovideralias: FOCUS LEARNING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

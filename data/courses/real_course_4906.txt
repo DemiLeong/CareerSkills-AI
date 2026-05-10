@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503396
+coursetitle: WSQ Identify Personal Skills Gaps and Develop Steps to Enhance Professional Competencies
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

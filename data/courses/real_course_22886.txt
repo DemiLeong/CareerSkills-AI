@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041968
+coursetitle: Digital 101 for Retail
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-17 00:00:00
+mode_of_training: Classroom

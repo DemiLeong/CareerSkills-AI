@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020747
+coursetitle: Customer Service Excellence with EQ and Demanding Customer Situation Management
+trainingprovideruen: 201017041W
+trainingprovideralias: SIGNATURE IMAGE ACADEMY INTERNATIONAL PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-28 00:00:00
+mode_of_training: Classroom

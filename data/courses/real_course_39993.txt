@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016926
+coursetitle: Ethics, Values and Legislation (Classroom and Synchronous)
+trainingprovideruen: 198804318R
+trainingprovideralias: HMI INSTITUTE OF HEALTH SCIENCES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

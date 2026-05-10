@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013924
+coursetitle: Supervise Work in Confined Space Operation
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-15 00:00:00
+courserunenddate: 2025-10-17 00:00:00
+mode_of_training: Classroom

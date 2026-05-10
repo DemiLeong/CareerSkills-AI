@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018504999
+coursetitle: WSQ Retail (Sf): Sales Closure (Perform Point of Sale Operations)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

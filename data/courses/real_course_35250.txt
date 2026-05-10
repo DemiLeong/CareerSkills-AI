@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047572
+coursetitle: Transact-SQL Essentials for Data Extraction (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-30 00:00:00
+courserunenddate: 2025-08-13 00:00:00
+mode_of_training: Synchronous eLearning

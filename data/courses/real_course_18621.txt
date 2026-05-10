@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018105
+coursetitle: Professional Certificate in Tech Sales Module 1: Introduction to Sales in IT
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

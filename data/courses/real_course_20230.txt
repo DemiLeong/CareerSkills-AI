@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040634
+coursetitle: Working with Older Adults & Their Families (in MC Health & Social Care Delivery (in Diploma in Gerontology (Community Health & Social Care)))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

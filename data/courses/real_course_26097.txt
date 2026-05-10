@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021907
+coursetitle: Conversational Chinese Intermediate Course
+trainingprovideruen: 201619499C
+trainingprovideralias: LEARNING EXPLORER LANGUAGE CENTRE PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-09-02 00:00:00
+mode_of_training: Classroom

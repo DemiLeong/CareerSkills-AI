@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012911
+coursetitle: Perform Rigger and Signalman Tasks
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-06 00:00:00
+courserunenddate: 2025-08-07 00:00:00
+mode_of_training: Classroom

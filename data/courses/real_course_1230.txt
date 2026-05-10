@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039742
+coursetitle: Advanced Certificate in Healthcare Management and Leadership Module 4: Future of Healthcare and Action Learning
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-02-11 00:00:00
+courserunenddate: 2026-02-13 00:00:00
+mode_of_training: Classroom

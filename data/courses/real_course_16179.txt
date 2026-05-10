@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045527
+coursetitle: Washroom Maintenance (Level 2)
+trainingprovideruen: 201311363C
+trainingprovideralias: INSKILLS TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

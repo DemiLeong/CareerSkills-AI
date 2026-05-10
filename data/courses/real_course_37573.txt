@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035685
+coursetitle: Understand and Improve your Operations through A3 Structured Problem Solving (Lean)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

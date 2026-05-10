@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055267
+coursetitle: Workplace Conflict Management
+trainingprovideruen: 201204263N
+trainingprovideralias: BESPOKE SOLUTION TRAINING CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

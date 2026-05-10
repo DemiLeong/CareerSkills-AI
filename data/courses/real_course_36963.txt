@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049577
+coursetitle: Sales Success Secrets
+trainingprovideruen: 201808948M
+trainingprovideralias: HAPPY TOGETHER PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

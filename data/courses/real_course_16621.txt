@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050528
+coursetitle: â€‹â€‹Experiential Commercial Pilot Training With Flight Simulator (Basic)â€‹
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-20 00:00:00
+mode_of_training: Classroom

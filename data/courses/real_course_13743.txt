@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503754
+coursetitle: Innovate the Customer Experience (Classroom & Asynchronous)
+trainingprovideruen: 201621216E
+trainingprovideralias: THE LEADERSHIP INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

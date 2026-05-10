@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015285
+coursetitle: Workplace Safety and Health System Management (Maintain Workplace Safety and Health Policies and Procedures)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-12-03 00:00:00
+courserunenddate: 2025-12-24 00:00:00
+mode_of_training: Classroom

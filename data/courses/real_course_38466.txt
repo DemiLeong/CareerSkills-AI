@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014816
+coursetitle: The Metaverse & Web 3.0
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

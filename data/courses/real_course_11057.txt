@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055358
+coursetitle: Cyber Incident Management: A Primer for Non-IT Professionals
+trainingprovideruen: T13LL1770K
+trainingprovideralias: CARETECH168 LLP
+courserunstartdate: 2025-12-29 00:00:00
+courserunenddate: 2025-12-31 00:00:00
+mode_of_training: Classroom

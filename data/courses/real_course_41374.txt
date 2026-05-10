@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500235
+coursetitle: Coordinate Implementation of Emergency Preparedness and Response Plans.
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

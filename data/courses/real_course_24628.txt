@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047012
+coursetitle: Perform Man-Lock Attendant Duties for Compressed Air Work
+trainingprovideruen: 200602439G
+trainingprovideralias: KBA TRAINING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

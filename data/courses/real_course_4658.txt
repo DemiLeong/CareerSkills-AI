@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503135
+coursetitle: Service Challenges Level 5 (Classroom and Asynchronous e-learning)
+trainingprovideruen: 201621216E
+trainingprovideralias: THE LEADERSHIP INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

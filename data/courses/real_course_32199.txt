@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038429
+coursetitle: (eCornell) Clustering, Classification, and Machine Learning in R
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

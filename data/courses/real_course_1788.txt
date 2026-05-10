@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500663
+coursetitle: Supervise Safe Lifting Operations
+trainingprovideruen: S97SS0046G
+trainingprovideralias: Institute of Process Industry (IPI) - A Division of ASPRI
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

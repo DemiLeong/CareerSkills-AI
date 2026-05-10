@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500094
+coursetitle: WSQ Operate Forklift (3 Days Course)
+trainingprovideruen: 201014268Z
+trainingprovideralias: SMF CENTRE FOR CORPORATE LEARNING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018505018
+coursetitle: Operate Hydraulic Systems
+trainingprovideruen: 198903666H
+trainingprovideralias: FESTO PRIVATE LIMITED
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-17 00:00:00
+mode_of_training: Classroom

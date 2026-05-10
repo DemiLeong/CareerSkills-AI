@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049817
+coursetitle: Automated Medication Systems (part of PDC4 of Advanced Diploma in Pharmaceutical Sciences)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2026-03-10 00:00:00
+mode_of_training: Classroom

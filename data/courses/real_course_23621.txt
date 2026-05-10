@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501131
+coursetitle: Intercultural Training & Cultural Awareness for Guides - Asian Perspective (for Tourist Guides) (Synchronous e-learning)
+trainingprovideruen: 200209938H
+trainingprovideralias: WINE RESOURCES PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-28 00:00:00
+mode_of_training: Synchronous eLearning

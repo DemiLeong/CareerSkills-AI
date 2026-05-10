@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016580
+coursetitle: (SCTP) Junior Full-Stack Developer (Full-Time) (TA-eligible)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

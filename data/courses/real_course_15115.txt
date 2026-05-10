@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040402
+coursetitle: Immersive Media: Mastering Extended Reality (VR/AR/MR) for Business Impact
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

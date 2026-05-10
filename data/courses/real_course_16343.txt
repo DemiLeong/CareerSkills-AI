@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048258
+coursetitle: WSQ Mastering Workplace Communications - Key Communication Skills for Success
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

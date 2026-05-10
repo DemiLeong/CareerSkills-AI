@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008765
+coursetitle: Veterinary Practice Management (in MC in Veterinary Clinical Practice 2 in Part-time Diploma in Applied Science (Veterinary Technology))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

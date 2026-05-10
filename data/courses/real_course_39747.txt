@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502661
+coursetitle: Failure Analysis and Prevention for Engineering Materials, Structures and Devices
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023034737
+coursetitle: CoC in Python Programming with Excel Automation
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-09-20 00:00:00
+courserunenddate: 2025-09-21 00:00:00
+mode_of_training: Classroom

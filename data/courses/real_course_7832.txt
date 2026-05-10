@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035869
+coursetitle: Guard and Patrol, Access Control Management (Provide Guard and Patrol Services and Operate Basic Security Equipment)
+trainingprovideruen: 200903068D
+trainingprovideralias: SECURUS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

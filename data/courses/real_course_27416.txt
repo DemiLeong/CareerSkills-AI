@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055027
+coursetitle: Workplace Safety and Health Performance Management (Classroom + Asynchronous E-Learning)
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

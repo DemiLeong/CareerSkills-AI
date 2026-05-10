@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040867
+coursetitle: Patient Education and Engagement (Classroom & Asynchronous)
+trainingprovideruen: 198804318R
+trainingprovideralias: HMI INSTITUTE OF HEALTH SCIENCES PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-09-26 00:00:00
+mode_of_training: Classroom

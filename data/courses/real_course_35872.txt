@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501618
+coursetitle: Apply Upselling and Suggestive Selling Techniques (synchronous elearning)
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-04 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503630
+coursetitle: Introduction to Geometric Dimensioning & Tolerancing (GD&T)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

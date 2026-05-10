@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513722
+coursetitle: Perform Letter of Credit and Import/Export Operations
+trainingprovideruen: S80SS0146D
+trainingprovideralias: Singapore Institute of Materials Management
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

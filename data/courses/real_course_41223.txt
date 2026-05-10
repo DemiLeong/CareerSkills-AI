@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504777
+coursetitle: Artificial Intelligence and Business Strategy Module 3: AI in Healthcare in the Age of Industry 4.0 and AI in Fintech (Synchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

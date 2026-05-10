@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009793
+coursetitle: Quality Assurance and Audit (Manage Security Operation)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

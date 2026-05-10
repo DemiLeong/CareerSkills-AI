@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007954
+coursetitle: Enhance User Experience through Human-Centred and Inclusive Design
+trainingprovideruen: S92SS0061A
+trainingprovideralias: Rainbow Centre, Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

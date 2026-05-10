@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003402
+coursetitle: Infocomm Security and Network Essentials
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

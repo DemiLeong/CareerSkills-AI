@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046135
+coursetitle: Furniture and Furnishing Maintenance (Carpets & Upholstery) (Level 2)
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

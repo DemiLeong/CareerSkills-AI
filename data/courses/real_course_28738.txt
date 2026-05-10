@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037559
+coursetitle: Using A/B Tests and Econometric Methods for Data Driven Decision Making (Synchronous e-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

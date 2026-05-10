@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053158
+coursetitle: Cybersecurity: Combating the Latest Cyber Threats, Scams and Other Risks
+trainingprovideruen: 201436502E
+trainingprovideralias: LITERACY EMPOWERMENT ACADEMY PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-01 00:00:00
+mode_of_training: Classroom

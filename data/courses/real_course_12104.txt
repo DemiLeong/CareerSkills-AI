@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503818
+coursetitle: Design Thinking Fundamentals
+trainingprovideruen: 200402964R
+trainingprovideralias: SSTC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

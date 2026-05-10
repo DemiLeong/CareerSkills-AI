@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512903
+coursetitle: Advanced Certificate in Logistics and Supply Chain Management Module 1: Fundamentals of Supply Chain Management
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-03 00:00:00
+courserunenddate: 2025-11-04 00:00:00
+mode_of_training: Classroom

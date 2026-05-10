@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503457
+coursetitle: Standard First Aid (For NROC Coaches) (Asynchronous e-learning + practical)
+trainingprovideruen: 201223865D
+trainingprovideralias: AAXONN PTE. LTD.
+courserunstartdate: 2025-07-11 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

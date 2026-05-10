@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052074
+coursetitle: Workplace Safety and Health Practices implementation Level 1
+trainingprovideruen: 201321374D
+trainingprovideralias: AESPERON ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

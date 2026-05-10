@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018473
+coursetitle: Food Shop Hygiene for Beginners
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

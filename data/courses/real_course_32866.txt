@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054066
+coursetitle: Manage Workplace Safety and Health In Construction Sites
+trainingprovideruen: 200209661G
+trainingprovideralias: LEARNERS HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

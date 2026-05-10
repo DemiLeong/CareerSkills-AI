@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015083
+coursetitle: PWMâ€“Waste Management & PWMâ€“Cleaning: Respond to and support the investigation of incidents in Environmental Services (Level 2)
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

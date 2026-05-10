@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050962
+coursetitle: Enhance Teaching Effectiveness with Learning Analytics and Data Visualisation (I) - Bootcamp for Educationists, Teachers and School Leaders
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

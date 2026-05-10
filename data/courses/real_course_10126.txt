@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037691
+coursetitle: (SCTP) Job of Manager (JOMAN) for Sustainability Manager in Built Environment (Classroom and Asynchronous e-Learning)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-11-22 00:00:00
+mode_of_training: Synchronous eLearning

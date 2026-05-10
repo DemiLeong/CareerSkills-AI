@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009693
+coursetitle: Pastry Preparation Foundation
+trainingprovideruen: 201017313E
+trainingprovideralias: PROJECT DIGNITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

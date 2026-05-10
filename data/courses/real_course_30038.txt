@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010973
+coursetitle: Lets Go Service Pro
+trainingprovideruen: 201212886E
+trainingprovideralias: LEARNCOLLAB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

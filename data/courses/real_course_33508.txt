@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040915
+coursetitle: WSQ Boosting Efficiency and Content Strategy with Generative AI
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046957
+coursetitle: Social Media Marketing Certification (provided by HubSpot Academy) (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010919
+coursetitle: WSQ Social Media Marketing Champion â€“ Transforming Businesses Through Digital Marketing (Synchronous e-learning)
+trainingprovideruen: 200511558N
+trainingprovideralias: PARLOUR GROUP PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

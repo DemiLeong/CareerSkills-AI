@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500794
+coursetitle: VBA Excel (SF)
+trainingprovideruen: 200211025Z
+trainingprovideralias: IT ENABLER CONSULTANCY PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-06 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044804
+coursetitle: Supply Chain IT
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008628
+coursetitle: AI Basics & Lifecycle
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

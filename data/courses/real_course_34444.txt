@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014545
+coursetitle: Reflexive Practice for Personal and Professional Development
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-15 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

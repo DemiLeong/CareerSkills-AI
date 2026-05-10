@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505738
+coursetitle: Identifying Bio-Psycho-Social (BPS) Risk & Red Flags in Elders (New Hire)
+trainingprovideruen: 199302114W
+trainingprovideralias: TSAO FOUNDATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

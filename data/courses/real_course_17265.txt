@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044179
+coursetitle: Enabling Academy: Navigating the Digital World: Digital Citizenship for Young Autistic Adults
+trainingprovideruen: S99SS0148L
+trainingprovideralias: Autism Resource Centre (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

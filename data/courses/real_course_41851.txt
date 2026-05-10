@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049558
+coursetitle: WSQ Adapt to Change with an Outward Mindset for Frontliners
+trainingprovideruen: 200606684K
+trainingprovideralias: AETOS TRAINING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

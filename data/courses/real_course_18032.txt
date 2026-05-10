@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037869
+coursetitle: Infection Prevention and Control in Nursing Practice (Classroom, Synchronous and Asynchronous)
+trainingprovideruen: 198804318R
+trainingprovideralias: HMI INSTITUTE OF HEALTH SCIENCES PTE. LTD.
+courserunstartdate: 2025-08-19 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

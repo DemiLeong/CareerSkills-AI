@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042456
+coursetitle: Visual Narrative Using Tableau
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-20 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

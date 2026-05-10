@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042800
+coursetitle: Cultivate a Productivity and Innovative Mindset
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

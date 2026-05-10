@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012581
+coursetitle: PWM-Cleaning: Horizontal Surface Maintenance (Level 2)
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

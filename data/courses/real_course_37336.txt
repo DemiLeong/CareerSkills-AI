@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004176
+coursetitle: Applications of Data and AI in LegalTech
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-29 00:00:00
+courserunenddate: 2025-09-30 00:00:00
+mode_of_training: Classroom

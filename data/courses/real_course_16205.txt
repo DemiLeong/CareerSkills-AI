@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046958
+coursetitle: Streamline Your Workflow: Introduction to Microsoft Forms and Power Automate (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

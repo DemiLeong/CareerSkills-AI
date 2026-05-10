@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054214
+coursetitle: Incident Response (Manage Security Emergencies)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

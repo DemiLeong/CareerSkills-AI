@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039406
+coursetitle: Advanced Certificate in Strategic Sourcing Module 6: Procurement Fraud, Ethics and Sustainability
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

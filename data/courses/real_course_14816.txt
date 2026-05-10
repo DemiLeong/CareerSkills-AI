@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045899
+coursetitle: HR Graduate Certification - Talent Acquisition
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-14 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

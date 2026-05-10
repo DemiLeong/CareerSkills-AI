@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005105
+coursetitle: WSQ DDDLP V1 LP5: Develop Learning Resources for e-Learning (Classroom, Synchronous & Asynchronous)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

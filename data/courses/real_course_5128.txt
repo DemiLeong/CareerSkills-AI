@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052344
+coursetitle: Mastering Elasticsearch and Kibana for Real Time Data Analysis
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-08-26 00:00:00
+courserunenddate: 2026-08-27 00:00:00
+mode_of_training: Classroom

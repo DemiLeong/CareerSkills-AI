@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055077
+coursetitle: Deterrence (Perform Security Duties At Protected Areas and Protected Place)
+trainingprovideruen: 202007728W
+trainingprovideralias: BERJAYA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

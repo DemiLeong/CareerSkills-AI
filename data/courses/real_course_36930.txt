@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502842
+coursetitle: PWM-Security: Access Control Management (Operate Basic Security Equipment)
+trainingprovideruen: 200606684K
+trainingprovideralias: AETOS TRAINING ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

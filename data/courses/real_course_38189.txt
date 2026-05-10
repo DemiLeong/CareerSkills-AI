@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044516
+coursetitle: Basic Ionising Radiation Safety (General) â€“ for R1 certificate
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2025-09-11 00:00:00
+courserunenddate: 2025-09-19 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037823
+coursetitle: Responding to and Supporting the Social and Emotional Development of Infants and Toddlers (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-09-29 00:00:00
+courserunenddate: 2025-10-14 00:00:00
+mode_of_training: Synchronous eLearning

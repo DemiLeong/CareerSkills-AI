@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052289
+coursetitle: Offensive Security Foundation Security Operations and Defensive Analysis (SOC-200) (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

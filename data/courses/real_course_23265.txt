@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043448
+coursetitle: Create Memorable Moments through Mobile Photography (for Licensed Tourist Guides only)
+trainingprovideruen: T03SS0148B
+trainingprovideralias: Society of Tourist Guides (Singapore)
+courserunstartdate: 2025-07-05 00:00:00
+courserunenddate: 2025-07-05 00:00:00
+mode_of_training: Classroom

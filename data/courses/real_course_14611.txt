@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502371
+coursetitle: Pattern Making and Sewing Techniques of Skirt Making
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

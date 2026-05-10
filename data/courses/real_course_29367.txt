@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014969
+coursetitle: Power Up Your Customer Service Operations (Classroom and Asynchronous E-learning)
+trainingprovideruen: 199905014N
+trainingprovideralias: WIZLEARN TECHNOLOGIES PTE. LTD.
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

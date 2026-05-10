@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022337
+coursetitle: WSQ Advanced Certificate in InfoComm Technology (Sales & Marketing) (Classroom and Async e-learning)
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

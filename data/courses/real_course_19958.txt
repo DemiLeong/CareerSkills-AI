@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042016
+coursetitle: [SCTP Module] Social Media and Social Networks (Classroom & Synchronous e-learning)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013114
+coursetitle: Device Communications for Internet of Things (Synchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

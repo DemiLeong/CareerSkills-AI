@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051559
+coursetitle: Negotiations and Conflict Management (Classroom & Synchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-11-15 00:00:00
+courserunenddate: 2025-11-22 00:00:00
+mode_of_training: Classroom

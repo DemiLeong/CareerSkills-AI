@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037086
+coursetitle: Child Development and Early Childhood Curriculum: Shifts in Research and Practice
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2026-01-11 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502214
+coursetitle: comply with workplace safety and health practices and procedures
+trainingprovideruen: 199604954H
+trainingprovideralias: AEGIS BUILDING & ENGINEERING PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016500082
+coursetitle: Respond to Fire Incident in Workplace
+trainingprovideruen: 201108449E
+trainingprovideralias: LEACOV SINGAPORE PTE. LTD.
+courserunstartdate: 2025-07-20 00:00:00
+courserunenddate: 2025-07-20 00:00:00
+mode_of_training: Classroom

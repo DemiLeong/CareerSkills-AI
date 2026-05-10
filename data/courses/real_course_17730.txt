@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018720
+coursetitle: Post-Diploma Certificate in Principles of Perianaesthesia Nursing (part of Advanced Diploma in Nursing (Perianaesthesia))
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

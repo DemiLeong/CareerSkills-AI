@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047935
+coursetitle: ESG Sustainability Reporting in accordance with International Sustainability Standards Board (ISSB) for Audit & Regulatory Compliance
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

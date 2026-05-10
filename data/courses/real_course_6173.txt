@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004786
+coursetitle: Masterclass in Strategic Outsourcing for Performance-Based Facilities Management
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

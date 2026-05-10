@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018509198
+coursetitle: Bachelor of Communication with Military Studies
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

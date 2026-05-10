@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048745
+coursetitle: AI, ChatGPT in Emerging Technology
+trainingprovideruen: 198902296M
+trainingprovideralias: GENETIC COMPUTER SCHOOL PTE LTD
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-06-30 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043994
+coursetitle: WSQ Essential Techniques for Eye-Catching Smartphone Photography
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

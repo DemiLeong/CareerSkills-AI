@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013750
+coursetitle: PWM-Cleaning: Horizontal Surface Maintenance- Cleaning Of Hard Floor (AOP)
+trainingprovideruen: 201613431Z
+trainingprovideralias: ADEPCO CONSULTANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

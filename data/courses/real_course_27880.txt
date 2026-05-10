@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054809
+coursetitle: Online to Offline Sales Strategy
+trainingprovideruen: 201808580W
+trainingprovideralias: ICE CUBE MARKETING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

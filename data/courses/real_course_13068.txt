@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500685
+coursetitle: Customer Management (Supervise Service Operations)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-11-19 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

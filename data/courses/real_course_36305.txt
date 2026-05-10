@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005582
+coursetitle: Effective sales negotiation skills to achieve business goals
+trainingprovideruen: 201129819W
+trainingprovideralias: ALUE SINGAPORE PTE. LTD.
+courserunstartdate: 2025-10-16 00:00:00
+courserunenddate: 2025-10-17 00:00:00
+mode_of_training: Classroom

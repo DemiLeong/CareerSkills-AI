@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013403
+coursetitle: Introduction to Microgrid Systems
+trainingprovideruen: 201427065Z
+trainingprovideralias: SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD.
+courserunstartdate: 2025-08-23 00:00:00
+courserunenddate: 2025-08-23 00:00:00
+mode_of_training: Classroom

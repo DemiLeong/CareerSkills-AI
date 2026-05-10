@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042367
+coursetitle: Web Development using HTML5 and CSS3 (Synchronous E-Learning)
+trainingprovideruen: 201718054E
+trainingprovideralias: KNOWLEDGEHUT SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

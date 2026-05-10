@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055833
+coursetitle: Modular Certificate in Facilitation and Supervision of Outdoor Experiences
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

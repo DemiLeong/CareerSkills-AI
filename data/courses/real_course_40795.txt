@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504164
+coursetitle: Develop and Deliver Excellent MICE Content and Experiences
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046817
+coursetitle: (ACECCE) Engage in Continuous Learning and Reflective Practice (Infant/Toddler Educarer, Beginning Educarer)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018977
+coursetitle: PWM-Cleaning: AOP - WORKPLACE SAFETY AND HEALTH PRACTICES IMPLEMENTATION
+trainingprovideruen: 201436502E
+trainingprovideralias: LITERACY EMPOWERMENT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051105
+coursetitle: Advanced Certificate in Artificial Intelligence (AI) Product Development in the Digital Economy Module 6: Implementing and Deploying AI Products in the Digital Economy (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

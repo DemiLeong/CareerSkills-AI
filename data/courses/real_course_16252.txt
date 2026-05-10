@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045428
+coursetitle: (ACECCE) Apply Understanding of How Children (Birth to Age 8) Learn and Develop (Beginning Pre-school Teacher)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

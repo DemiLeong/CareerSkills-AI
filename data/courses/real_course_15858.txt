@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502883
+coursetitle: Effective Project Documentation
+trainingprovideruen: T11LL1448B
+trainingprovideralias: ZING QUOTIENT LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

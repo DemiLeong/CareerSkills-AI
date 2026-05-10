@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010109
+coursetitle: WSQ Project Management in Solar Photovoltaic Installation (Classroom and Asynchronous)
+trainingprovideruen: T06SS0142H
+trainingprovideralias: Sustainable Energy Association of Singapore (SEAS)
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-19 00:00:00
+mode_of_training: Classroom

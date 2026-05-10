@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016771
+coursetitle: Projects-based 2D and 3D MicroStation Training for Built Environment Professionals
+trainingprovideruen: 200710151K
+trainingprovideralias: ACE INDUSTRIAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-15 00:00:00
+mode_of_training: Classroom

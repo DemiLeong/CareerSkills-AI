@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505450
+coursetitle: EVSL4 - Improve Operational Effectiveness (Synchronous e-learning)
+trainingprovideruen: 201530343D
+trainingprovideralias: Ascensus Institute
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

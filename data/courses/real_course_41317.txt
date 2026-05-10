@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500754
+coursetitle: Management of Family Violence: Talking to Children and Managing Abuse-related Disclosure (Synchronous e-learning)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019507847
+coursetitle: Daily Chinese - HSK (Advanced Level 1)
+trainingprovideruen: 200511211D
+trainingprovideralias: CONFUCIUS INSTITUTE, NANYANG TECHNOLOGICAL UNIVERSITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

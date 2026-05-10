@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036328
+coursetitle: Customer Service Excellence (Level 1)
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: 2025-09-18 00:00:00
+courserunenddate: 2025-09-18 00:00:00
+mode_of_training: Classroom

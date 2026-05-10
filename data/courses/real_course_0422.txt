@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039384
+coursetitle: Animal Rehabilitation Techniques (in PDC in Veterinary Nutrition & Rehabilitation in Specialist Diploma in Veterinary Wellness Care (AY2024 Apr))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-10-20 00:00:00
+courserunenddate: 2026-04-19 00:00:00
+mode_of_training: Classroom

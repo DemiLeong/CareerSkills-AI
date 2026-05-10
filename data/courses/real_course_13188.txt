@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016231
+coursetitle: WSQ Workplace Safety and Health for Food & Beverage Operations (Classroom & Asynchronous)
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

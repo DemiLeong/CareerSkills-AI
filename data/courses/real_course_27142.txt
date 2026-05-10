@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023025970
+coursetitle: Air Traffic Safety Electronics Personnel Course (Basic)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

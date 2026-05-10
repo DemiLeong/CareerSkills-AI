@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043268
+coursetitle: Advanced Certificate in Generative Artificial Intelligence-Enhanced Social Media Content Creation Module 7: Mastering Content Creation - Ideation, Writing, Editing and Publishing
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Classroom

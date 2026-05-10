@@ -1,0 +1,24 @@
+Name: Candidate 5
+
+Target Role: Business Analyst
+
+Skills:
+- Python
+- SQL
+- Communication
+- Problem Solving
+
+Education:
+Bachelor Degree in Computing or related field
+
+Experience:
+Worked on projects related to Business Analyst. Assisted in business and technical analysis tasks.
+
+Projects:
+- Dashboard development
+- AI model experimentation
+- Data analysis projects
+
+Certifications:
+- Google Data Analytics
+- AI Fundamentals

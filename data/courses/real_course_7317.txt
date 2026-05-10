@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041516
+coursetitle: Communication skills for IT Professionals (DS)
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

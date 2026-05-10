@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502057
+coursetitle: Digital Finance Module 5: Digital Forensics
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-06 00:00:00
+courserunenddate: 2025-10-07 00:00:00
+mode_of_training: Classroom

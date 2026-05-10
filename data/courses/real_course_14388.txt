@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051806
+coursetitle: Integrating Theory (Case Formulation) and Use of Self (Reflective Practice) in Community Correction
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005736
+coursetitle: Machine Learning for Digital Customer Insights: How to Perform Predictive Analytics and Deploy to Interactive Dashboards (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039477
+coursetitle: Advanced Certificate in Future Workforce Architecture Module 2: Re-designing Work For The Future Workplace
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008478
+coursetitle: Basic Cardiac Life Support + AED
+trainingprovideruen: 201703314W
+trainingprovideralias: MEDLINK HEALTHCARE GROUP PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

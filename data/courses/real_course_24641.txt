@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045137
+coursetitle: Preparing For Primary One â€“ Strategies And Applications Series: Reading And Spelling
+trainingprovideruen: S99SS0148L
+trainingprovideralias: AUTISM RESOURCE CENTRE (SINGAPORE)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

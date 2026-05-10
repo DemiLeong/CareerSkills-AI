@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021938
+coursetitle: Google Advertising & YouTube Remarketing
+trainingprovideruen: 53345878A
+trainingprovideralias: WOWREAL
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

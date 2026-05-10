@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017923
+coursetitle: WSQ Advanced Certificate in Learning and Performance â€“ 2nd Version (ACLP v2) (Synchronous e-learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

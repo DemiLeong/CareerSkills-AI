@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047432
+coursetitle: (ACECCE-E) Supervised Teaching Practice
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

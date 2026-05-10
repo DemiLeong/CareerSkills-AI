@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513700
+coursetitle: WSQ Entrepreneurship Business Strategy
+trainingprovideruen: T10LL0638E
+trainingprovideralias: EMERGE CREATIVES GROUP LLP
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

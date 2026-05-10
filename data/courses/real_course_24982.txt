@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044814
+coursetitle: (SCTP) Higher Certificate in Network Administration (Classroom and Asynchronous E-learning)
+trainingprovideruen: 200106514H
+trainingprovideralias: ITEL LEARNING SYSTEMS (S) PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502720
+coursetitle: Front End Web Development (SF) (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200202841R
+trainingprovideralias: LITHAN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

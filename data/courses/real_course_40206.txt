@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503917
+coursetitle: Deterrence (Perform Security Duties at Protected Areas and Protected Places) (Asynchronous e-learning)
+trainingprovideruen: 201108449E
+trainingprovideralias: LEACOV SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

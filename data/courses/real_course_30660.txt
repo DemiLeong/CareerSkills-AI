@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021768
+coursetitle: CPR+AED Instructor Course
+trainingprovideruen: S86CC0370E
+trainingprovideralias: SINGAPORE RED CROSS SOCIETY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

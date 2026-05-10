@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014988
+coursetitle: Python Applications for Big Data Analytics and AI / Machine Learning and API and Computer Vision
+trainingprovideruen: 201327560N
+trainingprovideralias: APPS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

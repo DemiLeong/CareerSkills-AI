@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021321
+coursetitle: Certificate in Financial Trading - Risk Management for Vanilla Options
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-20 00:00:00
+courserunenddate: 2025-11-22 00:00:00
+mode_of_training: Classroom

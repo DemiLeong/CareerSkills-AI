@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051433
+coursetitle: Sustainability Legislation Framework of Singapore
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

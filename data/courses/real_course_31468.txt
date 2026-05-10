@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040749
+coursetitle: PWM-Food Services: Customer Service Excellence
+trainingprovideruen: 200704757K
+trainingprovideralias: SHRM COLLEGE PTE. LTD.
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-09-22 00:00:00
+mode_of_training: Classroom

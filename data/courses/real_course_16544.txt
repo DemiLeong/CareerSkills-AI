@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014585
+coursetitle: STAR for Food Production Planning with Digitalisation
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-07-22 00:00:00
+courserunenddate: 2025-11-07 00:00:00
+mode_of_training: Classroom

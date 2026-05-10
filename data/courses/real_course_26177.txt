@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038272
+coursetitle: (eCornell) Designing a Simple Interactive System
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

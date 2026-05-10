@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010177
+coursetitle: Effective Teaching Strategies and Pedagogies in Numeracy Development (Previously Development of Numeracy in Early Childhood Education)
+trainingprovideruen: 197501544N
+trainingprovideralias: MARSHALL CAVENDISH INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-04 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Synchronous eLearning

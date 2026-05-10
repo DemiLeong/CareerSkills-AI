@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015644
+coursetitle: CERT First Aider with CPR+AED
+trainingprovideruen: S86CC0370E
+trainingprovideralias: SINGAPORE RED CROSS SOCIETY
+courserunstartdate: 2025-07-23 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

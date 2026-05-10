@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500758
+coursetitle: Apply Workplace Safety and Health in Process Plant
+trainingprovideruen: 198200079M
+trainingprovideralias: PEC LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

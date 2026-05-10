@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038271
+coursetitle: (eCornell) How to Write Programs That Make Choices With Control Flow
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

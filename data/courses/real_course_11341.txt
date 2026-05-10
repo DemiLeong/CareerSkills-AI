@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018978
+coursetitle: PWM-Cleaning: AOP - HORIZONTAL SURFACE MAINTENANCE
+trainingprovideruen: 201436502E
+trainingprovideralias: LITERACY EMPOWERMENT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

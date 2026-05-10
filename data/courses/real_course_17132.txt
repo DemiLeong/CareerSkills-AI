@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048974
+coursetitle: Sustainability Reporting: A Practical Guide and Toolkit for Small and Medium Enterprises
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

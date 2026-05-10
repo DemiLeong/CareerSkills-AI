@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014105
+coursetitle: CoC in AI for Non-Engineering Learners (Computer Vision with Microsoft Azure)
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

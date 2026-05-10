@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040616
+coursetitle: [LPIA] Mastering the Art of Influence for Stakeholder Management (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

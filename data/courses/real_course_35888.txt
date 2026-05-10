@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047976
+coursetitle: Applied Research Methods in Social Sciences
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

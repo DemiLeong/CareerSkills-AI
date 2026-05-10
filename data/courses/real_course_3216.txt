@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005102
+coursetitle: WSQ DDDLP V1 LP2: Perform Learning and Performance Needs Analysis (Classroom, Synchronous & Asynchronous)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

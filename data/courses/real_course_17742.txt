@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052932
+coursetitle: Strategic Content Marketing: Harness AI & User Content
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

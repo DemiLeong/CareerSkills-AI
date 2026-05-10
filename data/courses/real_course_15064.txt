@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042231
+coursetitle: Internationalisation Series: Exploring Sports Synthesis in Innovation, Education and Business, Spain
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-11 00:00:00
+courserunenddate: 2025-11-08 00:00:00
+mode_of_training: Classroom

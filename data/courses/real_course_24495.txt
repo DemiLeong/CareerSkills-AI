@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051305
+coursetitle: WSQ Food And Beverage Equipment Maintenance (Level 4)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2026-02-27 00:00:00
+mode_of_training: Classroom

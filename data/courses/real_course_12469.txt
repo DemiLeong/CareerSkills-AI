@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012660
+coursetitle: SPECIALIST CERTIFICATE IN BUILDING CONDITION ASSESSMENT
+trainingprovideruen: 201003548D
+trainingprovideralias: REAL ESTATE & CONSTRUCTION ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

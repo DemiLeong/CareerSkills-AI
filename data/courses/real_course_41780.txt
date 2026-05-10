@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019506859
+coursetitle: Advanced Environmental Chemistry (Synchronous e-learning) (withdrawn w.e.f Apr 2024)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503734
+coursetitle: Individualised Intervention Planning and Implementation through Speech and Drama Curriculum
+trainingprovideruen: 201509271W
+trainingprovideralias: CHELSEA ACADEMIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015546
+coursetitle: WSQ Productivity Optimisation for Food and Beverages Operations(Level 1)(Classroom and Asynchronous e-Learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-11-03 00:00:00
+courserunenddate: 2025-12-02 00:00:00
+mode_of_training: Classroom

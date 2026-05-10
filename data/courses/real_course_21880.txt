@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020829
+coursetitle: PWM-Food Services: Workplace Safety and Health for Food and Beverage Operations (Level 2) AOP
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

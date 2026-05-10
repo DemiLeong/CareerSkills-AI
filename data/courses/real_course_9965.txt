@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048498
+coursetitle: Enabling Academy: Communicating Needs and Practicing Self-Advocacy
+trainingprovideruen: T22LL0623L
+trainingprovideralias: MIJ Training & Consultancy LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

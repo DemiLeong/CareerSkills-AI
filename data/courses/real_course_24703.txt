@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014488
+coursetitle: Wine Selection & Evaluation
+trainingprovideruen: 199704969Z
+trainingprovideralias: GUILFORD TRAINING CENTRE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

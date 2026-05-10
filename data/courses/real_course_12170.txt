@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016756
+coursetitle: Projects-based BIM OpenRail Designer Modelling and Documentation
+trainingprovideruen: 200710151K
+trainingprovideralias: ACE INDUSTRIAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

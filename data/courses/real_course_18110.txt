@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054340
+coursetitle: Assessment for Learning: Theory and Practice (Classroom and Asynchronous E-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

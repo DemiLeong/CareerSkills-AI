@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504967
+coursetitle: People and Relationship Management L3:  Manage a Diverse Service Environment powered by John Maxwell
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

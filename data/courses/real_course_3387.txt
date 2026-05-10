@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043579
+coursetitle: BACHELOR OF SOCIAL SCIENCES IN ECONOMICS AND PSYCHOLOGY
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

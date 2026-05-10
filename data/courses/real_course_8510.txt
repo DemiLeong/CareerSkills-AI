@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047132
+coursetitle: Pedagogy and Intervention I: Teaching Individuals with Special Educational Needs
+trainingprovideruen: 200504979Z
+trainingprovideralias: Singapore University of Social Sciences
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

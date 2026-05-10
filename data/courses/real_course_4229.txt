@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020506129
+coursetitle: Service Information and Results Level 2 (Synchronous e-learning)
+trainingprovideruen: 200107045C
+trainingprovideralias: ANDALUS CORPORATION PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

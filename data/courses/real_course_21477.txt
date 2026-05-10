@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014965
+coursetitle: â€œShow-Meâ€ - Demonstration
+trainingprovideruen: 53208125X
+trainingprovideralias: THE BEAUTY RECIPE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

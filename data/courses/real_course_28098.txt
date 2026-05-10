@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049565
+coursetitle: Safety and Fall Prevention for the Elderly at Home
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-08-30 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Classroom

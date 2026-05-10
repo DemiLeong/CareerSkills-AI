@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009137
+coursetitle: Introduction To Retail Merchandising
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

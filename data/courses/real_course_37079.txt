@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502694
+coursetitle: Certificate in Value Investing - Advanced Market and Global Macro Investment Strategies for Tomorrow (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-06 00:00:00
+courserunenddate: 2025-10-11 00:00:00
+mode_of_training: Synchronous eLearning

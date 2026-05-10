@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504402
+coursetitle: Case Management In Practice (WSQ) (Classroom & Asynchronous)
+trainingprovideruen: 201002137E
+trainingprovideralias: MINDFORCE ACADEMY PTE. LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

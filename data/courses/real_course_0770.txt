@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503735
+coursetitle: WSQ Digital Content Creation & Content Marketing Strategy
+trainingprovideruen: 201708981D
+trainingprovideralias: EQUINET ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-11-18 00:00:00
+courserunenddate: 2025-11-19 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055502
+coursetitle: ISO 14064-1:2018 Greenhouse Gas (GHG) Emissions and Removals
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

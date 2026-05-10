@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042311
+coursetitle: Fast Track User Experience Design
+trainingprovideruen: 201136539H
+trainingprovideralias: CLICKACADEMY ASIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

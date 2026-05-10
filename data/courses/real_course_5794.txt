@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021001996
+coursetitle: Nearpod 101 - Your First Step Towards being a Certified Nearpod Educator
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute For Adult Learning Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

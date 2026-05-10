@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500134
+coursetitle: Apply Workplace Safety and Health in Process Plant
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

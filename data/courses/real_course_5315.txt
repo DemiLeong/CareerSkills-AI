@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039117
+coursetitle: Mastercard Cybersecurity Tools (Synchronous and Asynchronous Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-19 00:00:00
+mode_of_training: Synchronous eLearning

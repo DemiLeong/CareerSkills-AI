@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021771
+coursetitle: Failure Mode Effect Analysis (FMEA) Techniques
+trainingprovideruen: 200209661G
+trainingprovideralias: LEARNERS HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

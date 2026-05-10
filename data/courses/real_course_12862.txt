@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038577
+coursetitle: WSQ Diploma in Design and Development of Learning for Performance version 2 (DDDLP v2) (Classroom & Synchronous)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

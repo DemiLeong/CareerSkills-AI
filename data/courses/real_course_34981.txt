@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039925
+coursetitle: 2D Animation
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: 2025-08-23 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Classroom

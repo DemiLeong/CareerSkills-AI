@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015210
+coursetitle: National Electric Vehicle (EV) Specialist Safety (NESS) Certification Course (with DGUV Certification) (Classroom & Asynchronous)
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Classroom

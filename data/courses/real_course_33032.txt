@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504403
+coursetitle: Effective Supervisory Skills
+trainingprovideruen: 198905401C
+trainingprovideralias: IMPACT MANAGEMENT SEMINARS PTE LTD
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

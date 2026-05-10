@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051024
+coursetitle: Ultrasound for Gallbladder and Common bile duct (CBD) - Level 3 (Integration) (Classroom, Synchronous & Asynchronous)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

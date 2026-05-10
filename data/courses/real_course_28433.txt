@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053742
+coursetitle: Manage Customer Experience in Live Engagements on Social Media
+trainingprovideruen: 202014296C
+trainingprovideralias: MS LEARNING AND TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

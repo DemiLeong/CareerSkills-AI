@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053004
+coursetitle: Enterprise Leadership for Transformation - Market Immersion
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038830
+coursetitle: WSQ Inventory Control and Equipment Maintenance in Rehabilitation Care (L2)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

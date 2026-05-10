@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005310
+coursetitle: Healthy Cooking Made Easy Series - Asia Delight with a Twist (Blended learning)
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

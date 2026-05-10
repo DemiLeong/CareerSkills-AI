@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011387
+coursetitle: My Basic Cake Making
+trainingprovideruen: 201118946D
+trainingprovideralias: KENKO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503383
+coursetitle: Sales Closure (Beauty Products)
+trainingprovideruen: 201003725N
+trainingprovideralias: TONI INTERNATIONAL COLLEGE OF AESTHETICS & PHYSIOLOGY PTE. LTD.
+courserunstartdate: 2025-06-29 00:00:00
+courserunenddate: 2025-07-06 00:00:00
+mode_of_training: Classroom

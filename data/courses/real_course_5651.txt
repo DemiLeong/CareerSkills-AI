@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513203
+coursetitle: Develop Organization Relationships
+trainingprovideruen: 201020152Z
+trainingprovideralias: YMCA EDUCATION CENTRE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

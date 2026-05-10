@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501933
+coursetitle: Advanced Certificate in Data Protection Principles Module 6: Data Protection Framework and Standards. ISO 29100, Nymity Accountability and APEC Privacy Framework
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-29 00:00:00
+courserunenddate: 2025-09-30 00:00:00
+mode_of_training: Classroom

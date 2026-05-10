@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504601
+coursetitle: DESIGNING FOR AR
+trainingprovideruen: 200912099N
+trainingprovideralias: MAGES INSTITUTE OF EXCELLENCE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

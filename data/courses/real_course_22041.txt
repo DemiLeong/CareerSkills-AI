@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049657
+coursetitle: BASIC CARDIAC LIFE SUPPORT
+trainingprovideruen: 201330775N
+trainingprovideralias: SINGAPORE AMBULANCE SERVICE & TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

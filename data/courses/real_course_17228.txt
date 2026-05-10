@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501409
+coursetitle: Case Review and Evaluation
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-10-10 00:00:00
+mode_of_training: Classroom

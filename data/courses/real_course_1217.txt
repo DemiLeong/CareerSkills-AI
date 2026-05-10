@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053990
+coursetitle: Psychological First Aid +
+trainingprovideruen: S86CC0370E
+trainingprovideralias: SINGAPORE RED CROSS SOCIETY
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

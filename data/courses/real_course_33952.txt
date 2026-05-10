@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015309
+coursetitle: SCA Brewing Intermediate (Asynchronous eLearning and Classroom)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

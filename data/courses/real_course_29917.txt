@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041745
+coursetitle: Content Creation for Marketing
+trainingprovideruen: 202001524G
+trainingprovideralias: HUSTLE INSTITUTE PTE. LTD.
+courserunstartdate: 2025-08-30 00:00:00
+courserunenddate: 2025-09-13 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019127
+coursetitle: Digital Manufacturing:Â  3D Printing Applications
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

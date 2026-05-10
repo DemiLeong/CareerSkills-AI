@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051967
+coursetitle: Fire Safety Manager Course
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-08-20 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505839
+coursetitle: Deterrence (Perform Security Duties at Protected Areas and Protected Places)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

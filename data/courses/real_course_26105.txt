@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500679
+coursetitle: L3 Customer Management (Classroom & Asynchronous)
+trainingprovideruen: 200102457M
+trainingprovideralias: TRAINING MASTERS WORKFORCE INSTITUTE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

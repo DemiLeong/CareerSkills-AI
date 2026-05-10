@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054748
+coursetitle: Find Your Sparkle through Embracing Mindfulness
+trainingprovideruen: S92SS0061A
+trainingprovideralias: Rainbow Centre, Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

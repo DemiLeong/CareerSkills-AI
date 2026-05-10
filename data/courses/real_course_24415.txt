@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502710
+coursetitle: Master of Arts by Research in English Language and Linguistics
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

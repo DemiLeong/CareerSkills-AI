@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021159
+coursetitle: Certificate of Cloud Auditing Knowledge (CCAK) (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

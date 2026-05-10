@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044882
+coursetitle: Child Development (0-8 years) (Classroom Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

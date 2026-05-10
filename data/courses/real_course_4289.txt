@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019495
+coursetitle: (SCTP) Industrial Automation (Classroom & Asynchronous)
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

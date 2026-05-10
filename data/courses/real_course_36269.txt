@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018779
+coursetitle: Effective Uses and Applications of INCOTERMS in International Trade
+trainingprovideruen: 201014268Z
+trainingprovideralias: SMF CENTRE FOR CORPORATE LEARNING PTE. LTD.
+courserunstartdate: 2026-01-19 00:00:00
+courserunenddate: 2026-01-19 00:00:00
+mode_of_training: Classroom

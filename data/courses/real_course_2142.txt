@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018338
+coursetitle: RISE for Financial Services - Artificial Intelligence (Module 3: Artificial Intelligence and Digital Disruption in Financial Services (Synchronous e-learning))
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

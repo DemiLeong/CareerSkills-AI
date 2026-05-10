@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047921
+coursetitle: Digital Fashion Design & Production (Intermediate Womenâ€™s Shirt & Skirt)
+trainingprovideruen: 201511693K
+trainingprovideralias: FASHION MAKERSPACE PTE. LTD.
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-10-11 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021377
+coursetitle: I Am Resilient in Service: The New Normal â€“ Level 1
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

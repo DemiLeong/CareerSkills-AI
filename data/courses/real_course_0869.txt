@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054700
+coursetitle: CSSPB Security Screening Management (Conduct Security Screening of Persons & Bag)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2025-09-10 00:00:00
+mode_of_training: Classroom

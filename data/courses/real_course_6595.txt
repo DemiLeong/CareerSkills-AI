@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039374
+coursetitle: e-Bus Charger and Charging Management (NESS-BUS-M4)
+trainingprovideruen: T08GB0027D
+trainingprovideralias: Singapore Bus Academy
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

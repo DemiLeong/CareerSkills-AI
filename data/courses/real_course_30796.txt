@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044487
+coursetitle: Cloud Operations & Security (in Modular Certificate in Cloud Computing in Diploma in ICT Systems, Services & Support)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051618
+coursetitle: Institute For Human Resource Professionals Paper C Preparatory Course â€“ Mindsets & Behaviours of Senior Human Resource Professionals
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

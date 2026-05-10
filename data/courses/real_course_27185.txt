@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048885
+coursetitle: Advanced Certificate in Succeeding Business Digitalisation Module 1: Strategic Frameworks and Methodologies
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-07 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

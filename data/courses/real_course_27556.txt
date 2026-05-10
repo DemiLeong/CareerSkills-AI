@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502560
+coursetitle: PWM-Cleaning: WSQ Public Hygiene Maintenance (Perform manual cleaning of escalator, travellator and lift surfaces) (SF)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-06-30 00:00:00
+mode_of_training: Classroom

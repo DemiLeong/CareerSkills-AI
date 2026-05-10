@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018523
+coursetitle: Post-Diploma Certificate in Sustainable Practices in Fashion (PDC 2 in Specialist Diploma in Sustainable Fashion)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

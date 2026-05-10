@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017504544
+coursetitle: IT Literacy âˆ’ Basic Microsoft Powerpoint
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-07-19 00:00:00
+mode_of_training: Classroom

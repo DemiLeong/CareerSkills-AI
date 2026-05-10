@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018505073
+coursetitle: PWM-Cleaning: Workplace Safety and Health Practices Implementation (SF)-AOP
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

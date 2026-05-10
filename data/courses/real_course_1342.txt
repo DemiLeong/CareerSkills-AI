@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015016
+coursetitle: Risk Management (Classroom, Synchronous e-learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

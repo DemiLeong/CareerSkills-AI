@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012501003
+coursetitle: Develop a Risk Management Implementation Plan
+trainingprovideruen: 199703921E
+trainingprovideralias: EQS ASIA PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

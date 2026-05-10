@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042037
+coursetitle: Standard First Aid (NROC) (Asynchronous and Practical)
+trainingprovideruen: 202112195G
+trainingprovideralias: ROLLING PINEAPPLE PTE. LTD.
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-07-26 00:00:00
+mode_of_training: Classroom

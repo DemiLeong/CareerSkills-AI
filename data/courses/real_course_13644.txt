@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022003
+coursetitle: Chemical & Process Engineering for Scientists, Engineers and Managers
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

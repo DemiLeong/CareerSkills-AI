@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020346
+coursetitle: Google Cloud  â€“ Associate Cloud  Engineer
+trainingprovideruen: 201711175C
+trainingprovideralias: CLOUDASSIST SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045056
+coursetitle: Creative Storytelling â€“ Developing Storylines
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-08-29 00:00:00
+courserunenddate: 2025-09-06 00:00:00
+mode_of_training: Classroom

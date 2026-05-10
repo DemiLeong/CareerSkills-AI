@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022602577
+coursetitle: Automation Using Excel
+trainingprovideruen: 201725144R
+trainingprovideralias: XALTIUS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

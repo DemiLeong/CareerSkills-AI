@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038313
+coursetitle: (eCornell) Developing a Currency Converter
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

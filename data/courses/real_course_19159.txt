@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037281
+coursetitle: Construction Measurement (2 of 4) Architectural and M&E Works
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503113
+coursetitle: PWM-Security: Capability Development (Induct Security Personnel)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-26 00:00:00
+mode_of_training: Classroom

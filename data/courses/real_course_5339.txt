@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021235
+coursetitle: Module 2 - Statistical Mastery for Machine Learning and Artificial intelligence (AI) Success
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

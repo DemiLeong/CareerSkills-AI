@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002807
+coursetitle: Role Model the Service Vision (Service Leadership) - (Synchronous E-learning)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

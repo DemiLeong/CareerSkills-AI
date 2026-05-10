@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051300
+coursetitle: WSQ Design with AI - Practical Guide to AI Design Tools
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

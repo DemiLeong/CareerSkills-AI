@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019842
+coursetitle: PWM-Food Services: Transforming Moments into Memories Service 101 (Customer Service Excellence L1) (Chinese)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

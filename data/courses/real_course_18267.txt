@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054798
+coursetitle: Club Floor Operations Management - L2 (Classroom)
+trainingprovideruen: 199308083Z
+trainingprovideralias: ASCOTT INTERNATIONAL MANAGEMENT (2001) PTE LTD
+courserunstartdate: 2025-08-15 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

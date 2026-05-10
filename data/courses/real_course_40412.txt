@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003724
+coursetitle: Observation and Planning for the Holistic Development of Infants and Toddlers (Chinese) è§‚å¯Ÿä¸Žåˆ¶è®¢ä¿ƒè¿›å©´å¹¼å„¿å…¨é¢å‘å±•è®¡åˆ’ (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-07-16 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Synchronous eLearning

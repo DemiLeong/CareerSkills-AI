@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050039
+coursetitle: Agile Product Launch with Tools and Leadership
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

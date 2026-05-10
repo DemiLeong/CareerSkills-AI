@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041607
+coursetitle: Building Machine Learning Pipelines (in Post Diploma Certificate in Cloud-Based Machine Learning in Specialist Diploma in AI Solutions Development)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050022
+coursetitle: Navigating Environmental, Social and Governance (ESG) Disclosure and Reporting
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: 2025-11-26 00:00:00
+courserunenddate: 2025-11-27 00:00:00
+mode_of_training: Classroom

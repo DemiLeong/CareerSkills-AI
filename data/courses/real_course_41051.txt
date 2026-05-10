@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051198
+coursetitle: Inter-professional Workshop on Cognitive Rehabilitation for Persons with Cognitive-Perceptual Dysfunction (Synchronous e-Learning)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

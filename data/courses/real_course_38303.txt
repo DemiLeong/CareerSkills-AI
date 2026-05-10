@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503153
+coursetitle: Occupational First Aid
+trainingprovideruen: 201703314W
+trainingprovideralias: MEDLINK HEALTHCARE GROUP PTE. LTD.
+courserunstartdate: 2026-01-14 00:00:00
+courserunenddate: 2026-01-16 00:00:00
+mode_of_training: Classroom

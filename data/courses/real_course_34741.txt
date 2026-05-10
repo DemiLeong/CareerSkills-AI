@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051155
+coursetitle: Agile Mastery Unleashed: A Transformative 3-day Journey in Business Agility
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

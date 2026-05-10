@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500922
+coursetitle: PWM-Cleaning: (SF) Furniture and furnishings Maintenance
+trainingprovideruen: 200613464E
+trainingprovideralias: FOCUS TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

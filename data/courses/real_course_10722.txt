@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049198
+coursetitle: WSQ Specialty Cuisine Preparation and Cooking (Level 3)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2026-01-29 00:00:00
+mode_of_training: Classroom

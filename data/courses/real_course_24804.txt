@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019929
+coursetitle: SFw 101: Skills Framework for Early Childhood and Early Intervention Professionals
+trainingprovideruen: 201301501N
+trainingprovideralias: EON CONSULTING & TRAINING PTE. LTD.
+courserunstartdate: 2026-02-27 00:00:00
+courserunenddate: 2026-02-27 00:00:00
+mode_of_training: Classroom

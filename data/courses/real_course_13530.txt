@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011501536
+coursetitle: Perform Basic Productivity Practices
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

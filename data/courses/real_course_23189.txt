@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504214
+coursetitle: Develop New Products / Services (Service Innovation)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

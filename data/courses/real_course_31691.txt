@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513307
+coursetitle: Social Media Marketing
+trainingprovideruen: S92SS0008J
+trainingprovideralias: SINGAPORE CHINESE CHAMBER INSTITUTE OF BUSINESS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

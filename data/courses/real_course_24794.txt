@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002142
+coursetitle: Art of Engaging People to Achieve Results (Synchronous e-Learning)
+trainingprovideruen: 198905401C
+trainingprovideralias: IMPACT MANAGEMENT SEMINARS PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042396
+coursetitle: Channel Strategies for Market Expansion & Business Growth
+trainingprovideruen: T02SS0073H
+trainingprovideralias: Singapore Business Federation
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

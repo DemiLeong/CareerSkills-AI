@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052958
+coursetitle: â€‹â€‹Greenhouse Gas Requirements (ISO 14064-1:2018) leading to Greenhouse Gas Practitionerâ€‹
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-04 00:00:00
+mode_of_training: Classroom

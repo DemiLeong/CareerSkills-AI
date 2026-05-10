@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003041
+coursetitle: Leading in Change with Courage, Care and Clarity (Synchronous e-learning)
+trainingprovideruen: 200702672N
+trainingprovideralias: ROHEI CORPORATION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

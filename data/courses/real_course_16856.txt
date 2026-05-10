@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055517
+coursetitle: Building HR Sustainability: Transforming Recruitment Strategies for Long-Term Success
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

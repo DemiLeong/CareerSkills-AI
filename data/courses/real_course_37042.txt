@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045912
+coursetitle: (SCTP) Advanced Certificate in Driving Sustainability for the Future: The Future of Work through a Sustainable Lens (Classroom and Synchronous)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-26 00:00:00
+courserunenddate: 2026-03-07 00:00:00
+mode_of_training: Classroom

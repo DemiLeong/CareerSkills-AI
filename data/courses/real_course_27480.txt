@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052900
+coursetitle: Advanced Certificate in Generative Artificial Intelligence Apps Design and Prompt Engineering Module 5: Gen AI Apps Design and Prompt Engineering in Sales and Customer Service (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

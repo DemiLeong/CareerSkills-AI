@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048747
+coursetitle: People, Playscapes and Possibilities: Exploring New Lenses for Outdoor Learning (Chinese) äººç‰©ã€æ¸¸æˆåœºæ™¯ä¸Žå„ç§å¯èƒ½æ€§: æŽ¢ç´¢æˆ·å¤–å­¦ä¹ çš„æ–°è§†è§’
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-09-02 00:00:00
+courserunenddate: 2025-09-17 00:00:00
+mode_of_training: Classroom

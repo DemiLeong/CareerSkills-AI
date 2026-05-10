@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007934
+coursetitle: Business Process Management & Simulation (in MC in Supply & Process Improvement in Part-time Diploma in Business Practice (Logistics Management))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

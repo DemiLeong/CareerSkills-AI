@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501087
+coursetitle: PWM-Cleaning: Workplace Safety and Health System Management (Maintain workplace safety and health policies procedures - CLMWSH)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

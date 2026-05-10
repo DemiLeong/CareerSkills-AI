@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049599
+coursetitle: Beyond Borders: Executive Insights for Business Success in China
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

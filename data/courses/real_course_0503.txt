@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054244
+coursetitle: Performance Management (Manage Performance of Security Personnel) (Synchronous e-learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

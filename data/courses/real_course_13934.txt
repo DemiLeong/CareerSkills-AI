@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500281
+coursetitle: DEVELOP A WORKPLACE SAFETY AND HEALTH MANAGEMENT SYSTEM (WSHMS) IMPLEMENTATION PLAN.
+trainingprovideruen: 201001978G
+trainingprovideralias: ISRC PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

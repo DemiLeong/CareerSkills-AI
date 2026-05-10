@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051694
+coursetitle: (SCTP) Automation with Artificial Intelligence (AI): Digital Transformation Mastery (Classroom, Synchronous and Asynchronous) (Full-Time) (TA-eligible)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-09-30 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022008
+coursetitle: CHE6011N01: Engineering for Safe Operations
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

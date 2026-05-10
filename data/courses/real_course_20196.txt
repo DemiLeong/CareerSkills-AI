@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009433
+coursetitle: PWM - Security: Incident Response (Handle Security Incidents and Services)
+trainingprovideruen: 201004965K
+trainingprovideralias: CCCS INTERNATIONAL LEARNING INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

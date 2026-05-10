@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051721
+coursetitle: Cross-border e-Commerce: Mastering Selling Strategies on Amazon.com [Classroom Facilitated, Asynchronous E-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Classroom

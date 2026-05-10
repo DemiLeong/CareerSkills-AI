@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054854
+coursetitle: Automation Management: Developing Generative AI Chatbots for Customer Service
+trainingprovideruen: 201400645K
+trainingprovideralias: AESTHETICAR PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

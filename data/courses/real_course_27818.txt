@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055714
+coursetitle: Master of Education in Early Childhood Education in Chinese
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

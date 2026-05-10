@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010363
+coursetitle: PWM-Food Services: FOOD SAFETY COURSE LEVEL 1
+trainingprovideruen: S97SS0023J
+trainingprovideralias: HCSA COMMUNITY SERVICES
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-07-28 00:00:00
+mode_of_training: Classroom

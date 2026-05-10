@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011072
+coursetitle: Competency-Based Interview & Selection (Classroom + Asynchronous E-Learning)
+trainingprovideruen: 201301501N
+trainingprovideralias: EON CONSULTING & TRAINING PTE. LTD.
+courserunstartdate: 2025-09-11 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

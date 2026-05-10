@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049667
+coursetitle: SFQB: RISE For Business - Omnichannel Sales and Marketing Module 1 of 4: Specialization Foundation (Sync and Async E-learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: 2025-11-06 00:00:00
+courserunenddate: 2025-12-24 00:00:00
+mode_of_training: Synchronous eLearning

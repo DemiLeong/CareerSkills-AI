@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048730
+coursetitle: Learning Environment for Inclusive Practice [LEIP] å…¨çº³æ•™è‚²çš„å­¦ä¹ çŽ¯å¢ƒ (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

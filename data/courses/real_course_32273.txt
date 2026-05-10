@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011500444
+coursetitle: WSQ Facilitate Effective Communication and Engagement at the Workplace
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

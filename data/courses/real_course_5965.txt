@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054661
+coursetitle: JLP - Applying Tech Law in Practice
+trainingprovideruen: T09GB0002H
+trainingprovideralias: SINGAPORE ACADEMY OF LAW
+courserunstartdate: 2025-11-07 00:00:00
+courserunenddate: 2025-11-07 00:00:00
+mode_of_training: Classroom

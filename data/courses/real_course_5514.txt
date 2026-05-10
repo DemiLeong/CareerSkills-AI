@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020000071
+coursetitle: Advanced Certificate in Early Years (Chinese) å¹¼å„¿ä¿è‚²é«˜çº§è¯ä¹¦ (Classroom & Synchronous)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

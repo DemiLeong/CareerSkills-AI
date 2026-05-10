@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004333
+coursetitle: Crowd and Traffic Control Management (Conduct Crowd and Traffic Control)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

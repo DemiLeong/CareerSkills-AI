@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039305
+coursetitle: Azure Data Fundamentals
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

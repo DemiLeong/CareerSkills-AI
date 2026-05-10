@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013424
+coursetitle: Data Management in a Digital Workplace
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

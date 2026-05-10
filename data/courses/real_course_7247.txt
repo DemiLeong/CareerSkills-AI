@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014261
+coursetitle: Data and Statistical Analytics 2.2
+trainingprovideruen: 200510122R
+trainingprovideralias: AUSTON INSTITUTE OF MANAGEMENT PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

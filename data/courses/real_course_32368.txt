@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504442
+coursetitle: Train The Trainer - Prepare and Conduct Coaching (Synchronous e-learning)
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

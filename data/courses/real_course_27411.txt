@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048494
+coursetitle: Enabling Academy: AgriSocial for Good
+trainingprovideruen: 202104282K
+trainingprovideralias: Nutrious Farms Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

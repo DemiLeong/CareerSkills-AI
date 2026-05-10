@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019428
+coursetitle: The Civic District and the Cultural Medallion Story (for Licensed Tourist Guides only)
+trainingprovideruen: T03SS0148B
+trainingprovideralias: Society of Tourist Guides (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

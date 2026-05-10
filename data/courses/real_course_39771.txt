@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016793
+coursetitle: Industry 4.0 and Sustainable Manufacturing: Technologies and Best Practices
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

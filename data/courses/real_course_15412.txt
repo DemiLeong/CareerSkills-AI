@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010846
+coursetitle: Implement Workplace Safety and Health for Non-WSH Professionals
+trainingprovideruen: T12LL1245D
+trainingprovideralias: ENVIRONICHE LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

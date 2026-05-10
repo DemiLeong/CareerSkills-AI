@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021277
+coursetitle: Personal Wellbeing and Resilience in the Workplace Module 2: Psychological First Aid Training for Peer Support
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-18 00:00:00
+mode_of_training: Classroom

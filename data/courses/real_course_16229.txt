@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012769
+coursetitle: CERTIFICATE IN ELECTRICAL SYSTEM AND ENERGY MANAGEMENT
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2026-01-24 00:00:00
+mode_of_training: Synchronous eLearning

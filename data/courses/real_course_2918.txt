@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007083
+coursetitle: Introduction to Programmable Logic Controller and web-based Human Machine Interface for Industry 4.0
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

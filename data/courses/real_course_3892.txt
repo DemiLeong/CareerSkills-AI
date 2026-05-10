@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048010
+coursetitle: Post-Diploma Certificate in Advanced Concepts in Orthopaedic Nursing (part of Advanced Diploma in Nursing (Orthopaedics))-ADOD1
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2026-01-05 00:00:00
+courserunenddate: 2026-05-07 00:00:00
+mode_of_training: Classroom

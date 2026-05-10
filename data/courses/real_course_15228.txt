@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504386
+coursetitle: Building Rapport to Create Selling/Service Opportunities (Synchronous e_Learning)
+trainingprovideruen: 198905401C
+trainingprovideralias: IMPACT MANAGEMENT SEMINARS PTE LTD
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-15 00:00:00
+mode_of_training: Classroom

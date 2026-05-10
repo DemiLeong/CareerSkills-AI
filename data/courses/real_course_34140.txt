@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503867
+coursetitle: Deterrence (Manage Disorderly Conduct & Threatening Behaviour)
+trainingprovideruen: 200922107K
+trainingprovideralias: HENDERSON SECURITY SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

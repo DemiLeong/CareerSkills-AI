@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046381
+coursetitle: Social Services in Singapore (in MC in Fundamentals of Psychology & Social Services in Part-Time Diploma in Psychology (Social Services & Special Needs Education))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

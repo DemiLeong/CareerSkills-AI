@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013778
+coursetitle: WSQ Data Visualization Techniques using Power BI
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

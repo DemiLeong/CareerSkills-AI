@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051525
+coursetitle: GenAI for Developers
+trainingprovideruen: 201904991W
+trainingprovideralias: CLOUD ENABLED PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

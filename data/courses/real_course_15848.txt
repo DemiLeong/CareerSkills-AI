@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502309
+coursetitle: WSQ Professional Diploma in Early Childhood Care and Education (Synchronous e-learning)
+trainingprovideruen: 199907030H
+trainingprovideralias: ASIAN INTERNATIONAL COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

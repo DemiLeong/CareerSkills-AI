@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053311
+coursetitle: Advanced Security Practices and Career Development
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500058
+coursetitle: Occupational First Aid
+trainingprovideruen: S70SS0009L
+trainingprovideralias: St. John Singapore
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

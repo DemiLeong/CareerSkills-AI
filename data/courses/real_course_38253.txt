@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039589
+coursetitle: EmpowerED with Generative AI â€“ From Enhancing Teaching to Personalised Learning
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

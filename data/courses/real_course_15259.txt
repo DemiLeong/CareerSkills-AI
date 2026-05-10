@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038216
+coursetitle: (eCornell) Writing Custom Python Functions, Classes, and Workflows
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

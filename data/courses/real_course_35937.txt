@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007355
+coursetitle: Make Western Pastries
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

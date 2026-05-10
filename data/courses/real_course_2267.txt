@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038358
+coursetitle: (eCornell)How to Build a Strategic Plan for your Healthcare Organization
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

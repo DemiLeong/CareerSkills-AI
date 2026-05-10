@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035833
+coursetitle: Security Surveillance Management (Perform Remote Surveillance Function)
+trainingprovideruen: 200922107K
+trainingprovideralias: HENDERSON SECURITY SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

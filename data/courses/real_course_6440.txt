@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049671
+coursetitle: Integrating Storytelling Strategies in the Early Childhood Classroom
+trainingprovideruen: 53126524B
+trainingprovideralias: STORYWISE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

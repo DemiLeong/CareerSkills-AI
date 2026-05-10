@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017117
+coursetitle: Child First Aid BCLS + AED (Refresher)
+trainingprovideruen: 200906386Z
+trainingprovideralias: ARIS INTEGRATED MEDICAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504280
+coursetitle: Advanced Certificate in Competitive Sales and Marketing Module 1: Sales & Marketing in the 21st Century - Impact of Technology and Customer Journey in the Digital Era
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

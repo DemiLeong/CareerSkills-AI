@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Career&Skills AI</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+<div class="app-layout">
+
+    <!-- SIDEBAR -->
+
+    <aside class="sidebar">
+
+        <img src="{{ url_for('static', filename='images/careerskillsai_logo.png') }}"
+             class="sidebar-logo">
+
+        <nav class="side-nav">
+
+            <a href="/">🏠 Home</a>
+
+            <a href="/resume">
+                📄 Resume Rewrite
+            </a>
+
+            <a href="/courses">
+                🎓 Course Recommendation
+            </a>
+
+            <a href="/career">
+                💼 Career / Job Advice
+            </a>
+
+            <a href="/interview">
+                🎤 Interview Preparation
+            </a>
+
+            <a href="/policy">
+                🛡️ Policy & Privacy
+            </a>
+
+            <a href="/human">
+                👤 Human Escalation
+            </a>
+
+        </nav>
+
+    </aside>
+
+
+    <!-- MAIN CONTENT -->
+
+    <main class="main-content">
+
+        {% block content %}{% endblock %}
+
+    </main>
+
+</div>
+
+</body>
+
+</html>

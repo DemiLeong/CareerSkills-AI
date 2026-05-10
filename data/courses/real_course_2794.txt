@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048259
+coursetitle: Image Editing & Digital Composition with Photoshop
+trainingprovideruen: 201216696N
+trainingprovideralias: ACADIA TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

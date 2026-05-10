@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513206
+coursetitle: Stories Behind Capitol Singapore, CHIJMES and Raffles Hotel (for Licensed Tourist Guide Only)
+trainingprovideruen: T03SS0148B
+trainingprovideralias: Society of Tourist Guides (Singapore)
+courserunstartdate: 2025-07-23 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

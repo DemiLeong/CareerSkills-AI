@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013295
+coursetitle: Apply Workplace Safety and Health in Metal Work
+trainingprovideruen: 200723351G
+trainingprovideralias: GREENSAFE INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

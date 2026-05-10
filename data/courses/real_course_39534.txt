@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008773
+coursetitle: Clinical Pathology (in MC in Veterinary Clinical Practice 1 in Part-time Diploma in Applied Science (Veterinary Technology))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

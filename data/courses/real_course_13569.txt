@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500791
+coursetitle: Bizsafe Level 2 - Develop a Risk Management Implementation Plan
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

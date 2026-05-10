@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053051
+coursetitle: PWM-Retail: Inventory Control L3 (Apply Digital Strategy in Inventory Control)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

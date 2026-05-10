@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502644
+coursetitle: Exciting Possibilities with 3D Printing (Metal)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

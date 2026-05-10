@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050833
+coursetitle: Delivering Generative Artificial Intelligence Projects to Drive Business Innovation and Productivity
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-22 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

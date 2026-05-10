@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055006
+coursetitle: Transform HR Management with Generative AI
+trainingprovideruen: 200711480W
+trainingprovideralias: INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Classroom

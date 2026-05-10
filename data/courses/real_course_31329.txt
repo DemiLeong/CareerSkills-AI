@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013289
+coursetitle: Operate Vertical Personnel Platform
+trainingprovideruen: 199707234N
+trainingprovideralias: THT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

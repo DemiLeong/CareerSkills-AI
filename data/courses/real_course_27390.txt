@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053715
+coursetitle: CoC in Introduction to Hair Colour
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

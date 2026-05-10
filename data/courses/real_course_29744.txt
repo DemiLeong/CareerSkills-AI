@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043013
+coursetitle: Strategic Supply Chain Management for Managers
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

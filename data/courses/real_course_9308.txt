@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055465
+coursetitle: Communications Channel Management (Part of SCTP WSQ Diploma in Retail) [Classroom Facilitated]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-07 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053732
+coursetitle: User-Centred Design in Business - Part of Modular Certificate in Digitalisation (DBAM3)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

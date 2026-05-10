@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019907
+coursetitle: Engagement in the Preschool Classroom (Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

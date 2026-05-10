@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040253
+coursetitle: Practical Guide to Food Waste Disposal and Reduction
+trainingprovideruen: 201618138N
+trainingprovideralias: SSA CULINARY INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

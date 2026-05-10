@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043951
+coursetitle: WSQ Implement Incident Management Processes
+trainingprovideruen: 201001978G
+trainingprovideralias: ISRC PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

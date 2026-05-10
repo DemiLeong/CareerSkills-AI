@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036593
+coursetitle: Standards Adoption in Manufacturing Sustainability and Carbon Footprint Measurement
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

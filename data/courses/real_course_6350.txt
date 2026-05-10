@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052886
+coursetitle: Financial Risk Management with Machine Learning
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-01-13 00:00:00
+courserunenddate: 2026-01-15 00:00:00
+mode_of_training: Classroom

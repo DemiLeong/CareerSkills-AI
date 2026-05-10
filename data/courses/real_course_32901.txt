@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502662
+coursetitle: Strategic and Sustainable Project Management Services
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

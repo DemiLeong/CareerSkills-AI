@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020388
+coursetitle: (SCTP) WSQ Diploma in Tourism (Events Management and Operations)
+trainingprovideruen: 198301550C
+trainingprovideralias: SHATEC INSTITUTES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

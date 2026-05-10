@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038702
+coursetitle: Workplace Safety and Health for Food and Beverage Operations (Level 2)
+trainingprovideruen: 201434206M
+trainingprovideralias: WORK WORK PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005421
+coursetitle: Applying Smart Tech in a Smart Way: The Right Approach to Digital Transformation
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-23 00:00:00
+courserunenddate: 2025-09-24 00:00:00
+mode_of_training: Classroom

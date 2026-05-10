@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002547
+coursetitle: PWM- Food Services: Food Safety Course Level 3 (Chinese)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Asian Culinary Institute of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

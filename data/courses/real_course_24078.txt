@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002071
+coursetitle: Design Thinking Workshop (Synchronous E-Learning)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

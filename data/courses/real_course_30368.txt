@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047472
+coursetitle: 3D Modelling and Animation
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

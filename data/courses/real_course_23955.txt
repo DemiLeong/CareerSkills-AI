@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055386
+coursetitle: Provide Hospitality and Venues Safety and Security
+trainingprovideruen: 200609670D
+trainingprovideralias: KNOWLEDGETREE TRAINING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

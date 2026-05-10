@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504583
+coursetitle: Using Music in the Infant Classrooms
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

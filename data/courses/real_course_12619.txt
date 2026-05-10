@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010169
+coursetitle: Asian Delights: Southeast Asian Desserts
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

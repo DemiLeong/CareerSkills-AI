@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014002
+coursetitle: WSQ Communicate Effectively as a Team Leader at the Workplace
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-12-01 00:00:00
+courserunenddate: 2025-12-02 00:00:00
+mode_of_training: Classroom

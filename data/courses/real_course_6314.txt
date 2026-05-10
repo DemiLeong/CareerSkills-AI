@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013931
+coursetitle: KPI: Keys to Persuasion and Influence
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

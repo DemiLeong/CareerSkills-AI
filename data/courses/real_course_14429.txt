@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014535
+coursetitle: Implementing Automation Technologies in Smart Factory
+trainingprovideruen: 197700888D
+trainingprovideralias: BOSCH REXROTH PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

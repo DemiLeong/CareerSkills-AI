@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008853
+coursetitle: Agile Methodology in DevOps (in PDC in Continuous Integration in DevOps (in Specialist Diploma in DevOps)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

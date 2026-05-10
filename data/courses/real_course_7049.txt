@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037488
+coursetitle: WSQ: Supervise Work in Confined Space Operation (Previously â€˜Safety Instruction Course (Manhole) for Supervisor)
+trainingprovideruen: 201203707W
+trainingprovideralias: CAMBRIAN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022602278
+coursetitle: Basics of Excel Analytics
+trainingprovideruen: 201725144R
+trainingprovideralias: Xaltius Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

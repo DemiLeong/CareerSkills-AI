@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038476
+coursetitle: (eCornell) Understanding Financial Statements
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

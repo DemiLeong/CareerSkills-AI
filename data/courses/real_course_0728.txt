@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019562
+coursetitle: Designing Early Childhood Programmes (DECP) - Part of the PDC1 of Advanced Diploma in Early Childhood Centre Leadership (ADECL) (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

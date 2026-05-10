@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052410
+coursetitle: Perform Electrical Wiring Interconnection System (EWIS) Maintenance
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-08-26 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

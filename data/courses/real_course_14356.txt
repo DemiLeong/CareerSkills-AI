@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014892
+coursetitle: (SCTP) NUS Data Analytics Programme (Classroom & Synchronous e-Learning) (withdrawn w.e.f 31 Dec 2024)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

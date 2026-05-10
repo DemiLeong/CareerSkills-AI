@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042346
+coursetitle: Basic Cardiac Life Support + Automated External Defibrillator (Asynchronous and Practical)
+trainingprovideruen: 202112195G
+trainingprovideralias: ROLLING PINEAPPLE PTE. LTD.
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Classroom

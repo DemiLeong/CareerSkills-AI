@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500973
+coursetitle: WSQ: Develop a Risk Management Implementation Plan (bizSAFE Level 2)
+trainingprovideruen: 200103238E
+trainingprovideralias: BOND INTERNATIONAL CONSULTANTS PTE LTD
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-13 00:00:00
+mode_of_training: Classroom

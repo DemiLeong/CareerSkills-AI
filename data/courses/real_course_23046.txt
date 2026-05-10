@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017629
+coursetitle: Solving Problems Using the Internet
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-16 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

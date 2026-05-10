@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043856
+coursetitle: Enhance Work Productivity with Microsoft 365 Copilot
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-12-19 00:00:00
+courserunenddate: 2025-12-22 00:00:00
+mode_of_training: Classroom

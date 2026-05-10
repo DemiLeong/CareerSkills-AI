@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017556
+coursetitle: WSQ Develop a Customer Focused Team
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

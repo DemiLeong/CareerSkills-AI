@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042469
+coursetitle: NE 303: Social Entrepreneur: From Doing Good To Being Great (Synchronous E-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042032
+coursetitle: Introduction to 3D Animation (part of SCTP Certificate in Enhancing Moving Images)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

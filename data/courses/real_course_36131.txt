@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006088
+coursetitle: Business Innovation through Digital Transformation (Classroom and Synchronous E-learning)
+trainingprovideruen: 200802482C
+trainingprovideralias: EXECUTIVE HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

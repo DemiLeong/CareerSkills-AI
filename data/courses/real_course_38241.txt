@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502634
+coursetitle: An Introduction to Industrial X-Ray CT Scanning & its Applications
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

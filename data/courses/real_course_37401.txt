@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500231
+coursetitle: Practical Approach to Wireless and Computer Networks
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

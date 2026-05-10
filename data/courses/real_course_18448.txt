@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038061
+coursetitle: Advanced Certificate in SustainableÂ Procurement Module 1: Mastering Effective SustainableÂ Procurement (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

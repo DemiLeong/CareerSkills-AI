@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048359
+coursetitle: Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)
+trainingprovideruen: 201108449E
+trainingprovideralias: LEACOV SINGAPORE PTE. LTD.
+courserunstartdate: 2025-07-11 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Classroom

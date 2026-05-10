@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020718
+coursetitle: Accounting and Audit Analytics (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

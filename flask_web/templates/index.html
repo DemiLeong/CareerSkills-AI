@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!-- HERO BANNER -->
+
+<div class="hero-banner">
+
+    <img src="{{ url_for('static', filename='images/careerskillsai_banner.png') }}"
+         class="homepage-banner">
+
+</div>
+
+
+<!-- SERVICES -->
+
+<div class="services-grid">
+
+    <!-- RESUME -->
+
+    <div class="card"
+         onclick="window.location.href='/resume'">
+
+        <img src="{{ url_for('static', filename='icons/icon_resume.png') }}">
+
+        <h3>Resume Rewrite</h3>
+
+        <p>
+            Rewrite and optimize resumes professionally
+            for ATS screening and job applications.
+        </p>
+
+    </div>
+
+
+    <!-- COURSE -->
+
+    <div class="card"
+         onclick="window.location.href='/courses'">
+
+        <img src="{{ url_for('static', filename='icons/icon_course.png') }}">
+
+        <h3>Course Recommendation</h3>
+
+        <p>
+            Discover learning areas, skill gaps,
+            and Singapore-relevant upskilling pathways.
+        </p>
+
+    </div>
+
+
+    <!-- CAREER -->
+
+    <div class="card"
+         onclick="window.location.href='/career'">
+
+        <img src="{{ url_for('static', filename='icons/icon_career.png') }}">
+
+        <h3>Career / Job Advice</h3>
+
+        <p>
+            Explore suitable jobs, industries,
+            and career progression pathways.
+        </p>
+
+    </div>
+
+
+    <!-- INTERVIEW -->
+
+    <div class="card"
+         onclick="window.location.href='/interview'">
+
+        <img src="{{ url_for('static', filename='icons/icon_interview.png') }}">
+
+        <h3>Interview Preparation</h3>
+
+        <p>
+            Practise interview questions,
+            communication skills,
+            and role-specific preparation.
+        </p>
+
+    </div>
+
+
+    <!-- POLICY -->
+
+    <div class="card"
+         onclick="window.location.href='/policy'">
+
+        <img src="{{ url_for('static', filename='icons/icon_policy.png') }}">
+
+        <h3>Policy & Privacy</h3>
+
+        <p>
+            Understand safe AI usage,
+            privacy guidance,
+            and responsible practices.
+        </p>
+
+    </div>
+
+
+    <!-- HUMAN -->
+
+    <div class="card"
+         onclick="window.location.href='/human'">
+
+        <img src="{{ url_for('static', filename='icons/icon_human.png') }}">
+
+        <h3>Human Escalation</h3>
+
+        <p>
+            Submit requests for human review,
+            consultation,
+            and career assistance.
+        </p>
+
+    </div>
+
+</div>
+
+{% endblock %}

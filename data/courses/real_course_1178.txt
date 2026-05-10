@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503047
+coursetitle: PWM-Cleaning: Clean furniture and furnishings
+trainingprovideruen: 201725903K
+trainingprovideralias: ASTUTE PROFESSIONAL TRAINING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

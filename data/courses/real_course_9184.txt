@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503874
+coursetitle: Organisational Relationship Building - Level 3 (Classroom & Asynchronous)
+trainingprovideruen: 201026450Z
+trainingprovideralias: ORGANISATIONAL DEVELOPMENT CONCEPTS PTE. LTD.
+courserunstartdate: 2025-10-21 00:00:00
+courserunenddate: 2025-10-22 00:00:00
+mode_of_training: Classroom

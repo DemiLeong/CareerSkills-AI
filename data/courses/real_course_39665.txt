@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048125
+coursetitle: Enabling Academy: Empowering Routines with Google Workspace
+trainingprovideruen: S99SS0148L
+trainingprovideralias: Autism Resource Centre (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

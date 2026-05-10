@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503381
+coursetitle: (SCTP) WSQ Advanced Certificate in Infocomm Technology (Infrastructure) (Synchronous and Asynchronous E-Learning) (Full-Time( TA-Eligible)
+trainingprovideruen: 200202841R
+trainingprovideralias: LITHAN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

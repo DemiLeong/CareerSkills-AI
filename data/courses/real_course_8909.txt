@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048465
+coursetitle: Enabling Academy: Holistic Cafe Skills Training Programme
+trainingprovideruen: 202229791G
+trainingprovideralias: Move Foreword Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

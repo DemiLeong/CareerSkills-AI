@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021757
+coursetitle: Digital Technology Skills (Synchronous & Asynchronous E-learning)
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

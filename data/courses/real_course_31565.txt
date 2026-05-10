@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046988
+coursetitle: Executive Certificate in Introductory Research Methods in Behavioural and Implementation Sciences
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

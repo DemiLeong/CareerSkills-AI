@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018104
+coursetitle: Certificate in Environmental, Social, and Governance (ESG) for Professionals in Banking and Finance - Sustainable Finance and Impact Investing
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

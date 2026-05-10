@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038530
+coursetitle: (eCornell) Aligning HR Strategy with Organizational Strategy
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

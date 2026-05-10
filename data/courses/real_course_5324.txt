@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019707
+coursetitle: Enterprise Risk Management Programme Module 1: Risk and Opportunity in Business Model (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

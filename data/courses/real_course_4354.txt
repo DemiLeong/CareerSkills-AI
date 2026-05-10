@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049672
+coursetitle: Data Analytics with Microsoft MS Excel 365 Level 1
+trainingprovideruen: 201327560N
+trainingprovideralias: APPS PTE. LTD.
+courserunstartdate: 2025-07-13 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Classroom

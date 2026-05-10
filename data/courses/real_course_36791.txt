@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047382
+coursetitle: IVP0023 - Essentials of Teaching and Learning (Classroom and Asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048813
+coursetitle: "Person-of-the-Therapist" (POTT) Online Training (Synchronous e-learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

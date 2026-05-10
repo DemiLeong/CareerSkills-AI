@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503639
+coursetitle: Food Safety Course Level 1 (Refresher)
+trainingprovideruen: 200300141E
+trainingprovideralias: SKILLMASTER TRAINING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

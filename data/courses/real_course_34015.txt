@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046754
+coursetitle: Perform Work At Height
+trainingprovideruen: 200907682R
+trainingprovideralias: CONCORD ASSOCIATES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

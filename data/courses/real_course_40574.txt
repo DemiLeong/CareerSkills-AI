@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012739
+coursetitle: WSQ - Tourism Business Negotiation
+trainingprovideruen: 201002080W
+trainingprovideralias: NEWTON INTERNATIONAL COLLEGE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035909
+coursetitle: WSQ ISO 50001 Energy Management Systems Implementer (Level 5)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011501237
+coursetitle: Supervise Work Improvement Processes
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

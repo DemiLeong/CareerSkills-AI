@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016425
+coursetitle: Develop My Best Self To Work Collaboratively With Others
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

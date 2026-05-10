@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500358
+coursetitle: Manage WSH in Construction Industry
+trainingprovideruen: 201612290Z
+trainingprovideralias: SISO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

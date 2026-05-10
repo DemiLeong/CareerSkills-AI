@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019143
+coursetitle: TPUD - User Experience (UX) Designer (Asynchronous e-Learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

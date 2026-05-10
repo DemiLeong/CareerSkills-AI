@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012221
+coursetitle: Advanced Certificate in Online Reputation Management for Business Module 1: How to Handle and Respond to Online Crises from the Communications Perspective (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048058
+coursetitle: (SCTP) Career Diploma in Culinary Arts (Full-Time) (TA-eligible)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2026-07-06 00:00:00
+mode_of_training: Classroom

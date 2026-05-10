@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037538
+coursetitle: Power Plant Operations and Process Controls
+trainingprovideruen: 201427065Z
+trainingprovideralias: SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

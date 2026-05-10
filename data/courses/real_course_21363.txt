@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051096
+coursetitle: Advanced Certificate in Artificial Intelligence in the Digital Economy Module 6: Implementing Artificial Intelligence Solutions in the Digital Economy
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

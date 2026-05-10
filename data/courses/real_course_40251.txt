@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015128
+coursetitle: Private Chef (Classroom & Asynchronous e-Learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-21 00:00:00
+courserunenddate: 2025-10-30 00:00:00
+mode_of_training: Classroom

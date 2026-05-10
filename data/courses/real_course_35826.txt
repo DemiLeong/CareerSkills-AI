@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016859
+coursetitle: Product Management (Synchronous)
+trainingprovideruen: 201128467E
+trainingprovideralias: CURIOUSCORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

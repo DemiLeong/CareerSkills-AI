@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042964
+coursetitle: Certified Sustainability (ESG) Practitioner - Advanced
+trainingprovideruen: 201633510N
+trainingprovideralias: AgileAsia Pte. Ltd.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004920
+coursetitle: Growing Enterprises Module 3: Customer (English & Mandarin)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-15 00:00:00
+courserunenddate: 2025-09-17 00:00:00
+mode_of_training: Classroom

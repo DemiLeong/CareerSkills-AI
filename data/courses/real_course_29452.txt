@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502767
+coursetitle: Bachelor of Laws (Hons.), 4-year LL.B.
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

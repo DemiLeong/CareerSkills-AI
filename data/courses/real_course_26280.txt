@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041347
+coursetitle: Internationalization Series: Embracing Smart Nation & Digital Technology Opportunities in Shenzhen
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

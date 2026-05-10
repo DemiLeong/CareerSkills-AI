@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017613
+coursetitle: Fluffy Yeast-Raised Pastries
+trainingprovideruen: 201618138N
+trainingprovideralias: SSA CULINARY INSTITUTE PTE. LTD.
+courserunstartdate: 2025-08-05 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015090
+coursetitle: Advanced Certificate in Venture Capital Module 3: Common Valuation Techniques and Methodologies (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

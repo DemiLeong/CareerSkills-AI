@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004390
+coursetitle: Standard First Aid Refresher (Asynchronous e-learning) (For NROC Coaches)
+trainingprovideruen: 53109629K
+trainingprovideralias: MHI TRAINING MASTER
+courserunstartdate: 2025-07-13 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

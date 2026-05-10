@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013981
+coursetitle: Alcoholic Beverage Preparation
+trainingprovideruen: 201003953Z
+trainingprovideralias: TMC ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

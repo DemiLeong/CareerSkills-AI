@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501932
+coursetitle: Advanced Certificate in Data Protection Operational Excellence Module 4: Data Protection Management Programme (DPMP)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

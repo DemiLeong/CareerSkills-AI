@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043908
+coursetitle: MASTER OF SCIENCE (FINANCIAL TECHNOLOGY) - DIGITAL FINANCIAL SERVICES
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

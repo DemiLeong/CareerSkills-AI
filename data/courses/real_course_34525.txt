@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500795
+coursetitle: WSQ Apply Basic Negotiation Skills and Techniques (Synchronous e-learning)
+trainingprovideruen: 201022988M
+trainingprovideralias: SFIC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

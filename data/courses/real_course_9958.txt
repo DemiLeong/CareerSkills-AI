@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502756
+coursetitle: Cleaning Chemical Handling and Effectiveness Management (Level 3)
+trainingprovideruen: 201311363C
+trainingprovideralias: INSKILLS TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042409
+coursetitle: Community Learning for Personal Development - Mastering the Art of Learning, Sharing, and Excelling Together in a Community
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-23 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045156
+coursetitle: Engaging with persons with dementia through activities - Part 2: Implementing and Evaluating Activities (Online)
+trainingprovideruen: 201332927N
+trainingprovideralias: MONTESSORI FOR DEMENTIA CARE (PTE. LTD.)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052739
+coursetitle: Tripartite Maritime Training Award (Deck) Pre-Sea Preparation Training Course
+trainingprovideruen: 200718148E
+trainingprovideralias: WAVELINK MARITIME INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

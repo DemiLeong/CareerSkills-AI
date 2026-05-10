@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050879
+coursetitle: Customer-Centric Insights: Walking in the Shoes of Our Customers
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

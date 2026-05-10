@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016685
+coursetitle: Post-market vigilance: Regulatory activities for monitoring In Vitro Diagnostic Devices (IVD) and Software as Medical Devices (SaMD)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

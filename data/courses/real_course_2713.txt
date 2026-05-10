@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048594
+coursetitle: Microsoft Copilot Essentials: Unlocking AI-Powered Productivity
+trainingprovideruen: 201604334R
+trainingprovideralias: ACCTRAIN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

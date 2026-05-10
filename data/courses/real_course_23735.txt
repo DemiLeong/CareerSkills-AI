@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503575
+coursetitle: Implement Strategies to Employ, Retain and Re-Employ Older Employees (SFw HR)
+trainingprovideruen: S80TU0496C
+trainingprovideralias: SINGAPORE NATIONAL EMPLOYERS FEDERATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

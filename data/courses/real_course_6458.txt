@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044155
+coursetitle: IPC0033 - Fostering integrated play learning experiences in ECE
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-09-30 00:00:00
+mode_of_training: Classroom

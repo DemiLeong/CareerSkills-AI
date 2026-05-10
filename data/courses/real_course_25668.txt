@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504357
+coursetitle: Pattern Recognition and Machine Learning with R
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-05-27 00:00:00
+courserunenddate: 2026-05-28 00:00:00
+mode_of_training: Classroom

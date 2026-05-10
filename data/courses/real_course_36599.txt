@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052017
+coursetitle: Manage the Performers Selection Process for a Production (Classroom and Synchronous E-Learning)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

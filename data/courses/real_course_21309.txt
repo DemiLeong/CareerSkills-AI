@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051050
+coursetitle: The Art, Science and practice knowledge of Decision Making in Child Protection
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

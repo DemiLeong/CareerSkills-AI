@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047021
+coursetitle: Microsoft Identity and Access Administrator (SC-300)
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2025-10-30 00:00:00
+mode_of_training: Classroom

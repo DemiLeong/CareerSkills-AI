@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047488
+coursetitle: SEC511: Cybersecurity Engineering: Advanced Threat Detection and Monitoring
+trainingprovideruen: 202031353Z
+trainingprovideralias: SANS TRAINING SINGAPORE PTE. LTD.
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-22 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042170
+coursetitle: Advanced Certificate in Practical Business Law Module 6: Protecting and Managing Intangible Assets in an Increasingly Digitised World
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-16 00:00:00
+courserunenddate: 2025-10-17 00:00:00
+mode_of_training: Classroom

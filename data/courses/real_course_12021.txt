@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007978
+coursetitle: Effective sales negotiation skills to achieve business goals (Synchronous e-learning)
+trainingprovideruen: 201129819W
+trainingprovideralias: ALUE SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

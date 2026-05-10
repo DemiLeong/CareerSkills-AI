@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051632
+coursetitle: Developing & Implementing Effective Programmes
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

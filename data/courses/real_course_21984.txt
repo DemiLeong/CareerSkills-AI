@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504271
+coursetitle: Mobile Application Development Module 1: Foundations of Cross-Platform Application Development with JavaScript
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

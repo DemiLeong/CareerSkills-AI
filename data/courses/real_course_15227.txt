@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042003
+coursetitle: WSQ-MS Develop Generative AI Solutions with Azure OpenAI Service (AI-050)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

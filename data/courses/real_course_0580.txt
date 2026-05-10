@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505507
+coursetitle: Food Safety Course Level 1 (Refresher)
+trainingprovideruen: 198301550C
+trainingprovideralias: SHATEC INSTITUTES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

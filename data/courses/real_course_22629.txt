@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049691
+coursetitle: Overview of NEL Framework 2022 and Application to Practice (Tamil)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Classroom

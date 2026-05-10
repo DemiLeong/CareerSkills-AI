@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035967
+coursetitle: CHE6031N03: Pressure-Relieving and Depressuring Systems
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: 2025-11-06 00:00:00
+courserunenddate: 2025-11-07 00:00:00
+mode_of_training: Classroom

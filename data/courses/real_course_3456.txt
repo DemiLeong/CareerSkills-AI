@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053055
+coursetitle: Finance for Non-Finance Professionals with the Aid of Technological Tools
+trainingprovideruen: 202133714N
+trainingprovideralias: ALSA GROUP PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

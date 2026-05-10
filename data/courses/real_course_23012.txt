@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035837
+coursetitle: PWM-Security: Security Operation Compliance Lvl 4 (Manage security agencies within legal framework)( CR & Asyn)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-09-09 00:00:00
+mode_of_training: Classroom

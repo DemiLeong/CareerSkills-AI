@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019996
+coursetitle: Apply Workplace Safety and Health in Metal Work
+trainingprovideruen: 199707234N
+trainingprovideralias: THT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

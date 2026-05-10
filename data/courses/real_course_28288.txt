@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003066
+coursetitle: Certificate in Inclusive Practice (CIP) (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-05 00:00:00
+courserunenddate: 2026-06-25 00:00:00
+mode_of_training: Synchronous eLearning

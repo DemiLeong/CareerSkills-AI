@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036972
+coursetitle: PWM-Food Services: Workplace Safety and Health for Food and Beverage Operations
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

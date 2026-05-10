@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020635
+coursetitle: PWM-Cleaning: Workplace Safety and Health Performance Management for Cleaning Supervisors
+trainingprovideruen: 201613431Z
+trainingprovideralias: ADEPCO CONSULTANTS PTE. LTD.
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-08 00:00:00
+mode_of_training: Classroom

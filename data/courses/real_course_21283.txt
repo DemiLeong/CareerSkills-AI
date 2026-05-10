@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037964
+coursetitle: EC-Council Computer Hacking Forensic Investigator (CHFI) (SF) (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

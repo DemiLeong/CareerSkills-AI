@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054851
+coursetitle: (SCTP) Cybersecurity: Network Security and Digital Forensics (Classroom, Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

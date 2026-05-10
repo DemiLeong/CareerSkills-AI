@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003231
+coursetitle: Support Service to Seniors
+trainingprovideruen: 201428614H
+trainingprovideralias: J L INSTITUTION PTE. LTD.
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-07-26 00:00:00
+mode_of_training: Classroom

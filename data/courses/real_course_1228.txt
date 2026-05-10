@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512913
+coursetitle: Advanced Certificate in Supply Chain Innovation and Transformation Module 5: Advanced Analytics and Business Intelligence
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-12-01 00:00:00
+courserunenddate: 2025-12-03 00:00:00
+mode_of_training: Classroom

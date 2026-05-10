@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046398
+coursetitle: Enhancing Social Values, Corporate Governance, and Ethics for Sustainable Business (Classroom and Synchronous)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-11 00:00:00
+courserunenddate: 2025-10-17 00:00:00
+mode_of_training: Classroom

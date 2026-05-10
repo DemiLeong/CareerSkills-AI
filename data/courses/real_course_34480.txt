@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049102
+coursetitle: Self-Care, Mindfulness and Resilience for a Happier and Healthier You (Classroom and Asynchronous E-learning)
+trainingprovideruen: T12LL1245D
+trainingprovideralias: ENVIRONICHE LLP
+courserunstartdate: 2026-02-27 00:00:00
+courserunenddate: 2026-03-02 00:00:00
+mode_of_training: Classroom

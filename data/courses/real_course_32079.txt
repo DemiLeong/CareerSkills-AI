@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500605
+coursetitle: PWM-Cleaning: EFFECTIVENESS MANAGEMENT (DCMP L3).
+trainingprovideruen: 201204263N
+trainingprovideralias: BESPOKE SOLUTION TRAINING CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

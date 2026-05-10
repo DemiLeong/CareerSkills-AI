@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035835
+coursetitle: PWM-Retail: Retail (SF): Service Challenges L1 (AOP)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

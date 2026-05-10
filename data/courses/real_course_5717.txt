@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016116
+coursetitle: SF â€“ Azure Security Engineer (Classroom)
+trainingprovideruen: 199704231M
+trainingprovideralias: NETASSIST SERVICES PTE LTD
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

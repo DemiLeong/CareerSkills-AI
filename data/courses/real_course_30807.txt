@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018791
+coursetitle: Post-Diploma Certificate in Practice of ENT Nursing (part of Specialist Diploma in Nursing (Ear, Nose and Throat))
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2026-04-13 00:00:00
+courserunenddate: 2026-09-15 00:00:00
+mode_of_training: Classroom

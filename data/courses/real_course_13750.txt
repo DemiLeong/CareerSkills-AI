@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043092
+coursetitle: Perform Work in Confined Space Operation (Mandarin)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

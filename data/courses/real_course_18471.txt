@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512805
+coursetitle: PWM-Retail: People and Relationship Management (Level 1)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-06 00:00:00
+courserunenddate: 2025-08-07 00:00:00
+mode_of_training: Classroom

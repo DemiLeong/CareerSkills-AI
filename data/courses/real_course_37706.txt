@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040443
+coursetitle: Advanced Certificate in Media Communication and Strategy Module 1: Media Writing Across Platforms: Video, Podcasts, Online
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

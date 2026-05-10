@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502821
+coursetitle: PWM-Security: Threat Observation (Recognise Terrorist Threats)
+trainingprovideruen: 200606684K
+trainingprovideralias: AETOS TRAINING ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-20 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

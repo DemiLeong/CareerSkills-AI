@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037747
+coursetitle: Leadership Series: A Journey towards Curriculum Leadership (JCLP)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

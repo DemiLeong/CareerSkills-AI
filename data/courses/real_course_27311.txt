@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018527
+coursetitle: Project Planning
+trainingprovideruen: 201433657H
+trainingprovideralias: ADEPT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

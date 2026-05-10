@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012851
+coursetitle: WSQ Aerial Photography and Videography with Drones
+trainingprovideruen: 201703024G
+trainingprovideralias: CANTLEY LIFECARE PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-07-06 00:00:00
+mode_of_training: Classroom

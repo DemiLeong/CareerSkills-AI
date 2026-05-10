@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021729
+coursetitle: Food Safety Course Level 1 (Mandarin)
+trainingprovideruen: 200512999K
+trainingprovideralias: ICAS TRAINING AND EDUCATION COLLEGE (ICASTEC) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

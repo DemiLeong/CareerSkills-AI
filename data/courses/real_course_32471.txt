@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003158
+coursetitle: Fundamentals Of The Personal Data Protection Act 2020 (Synchronous E-learning)
+trainingprovideruen: 200301987N
+trainingprovideralias: EVEREST INNOVATION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

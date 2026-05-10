@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019507357
+coursetitle: Chinese Ink Painting XIV (Level 14)
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

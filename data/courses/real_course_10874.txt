@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052343
+coursetitle: Sustainability Reporting and Engineering Strategies for Senior Leaders
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-10-04 00:00:00
+courserunenddate: 2025-10-05 00:00:00
+mode_of_training: Classroom

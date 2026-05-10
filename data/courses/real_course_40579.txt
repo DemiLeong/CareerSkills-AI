@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513779
+coursetitle: Manage Self â€“ SFw (Mandarin)
+trainingprovideruen: S92SS0008J
+trainingprovideralias: Singapore Chinese Chamber Institute of Business
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

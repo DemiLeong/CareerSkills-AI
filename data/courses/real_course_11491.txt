@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049893
+coursetitle: Zero Waste Manager Course (NEA-WMRAS)
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: 2025-07-23 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039392
+coursetitle: Advanced Certificate in Governance, Risk Management and Data Compliance Module 3: Data Ethics and AI Governance Frameworks
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-01-27 00:00:00
+courserunenddate: 2026-01-28 00:00:00
+mode_of_training: Classroom

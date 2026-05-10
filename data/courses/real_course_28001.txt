@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045894
+coursetitle: Mastering Power Apps: From Beginner to Pro
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2026-02-13 00:00:00
+mode_of_training: Classroom

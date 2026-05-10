@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046442
+coursetitle: The Diplomat's Toolbox for Int'l Conflicts and Claims
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

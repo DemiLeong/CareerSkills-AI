@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009664
+coursetitle: Accelerating Big Data Analytics and AI using Spark and RAPIDS with Graphics Processing Unit (GPU) (Synchronous e-Learning)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

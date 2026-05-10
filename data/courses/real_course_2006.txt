@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039119
+coursetitle: Corporate Security Structure (Synchronous and Asynchronous Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-07-26 00:00:00
+courserunenddate: 2025-08-02 00:00:00
+mode_of_training: Synchronous eLearning

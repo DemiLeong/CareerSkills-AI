@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049783
+coursetitle: Unlock the Power of Programming with Python Essentials (SFw)
+trainingprovideruen: 200701199G
+trainingprovideralias: ST ENGINEERING E-SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

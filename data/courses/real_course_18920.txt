@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503320
+coursetitle: Maintain Displays (SF)
+trainingprovideruen: 201017313E
+trainingprovideralias: PROJECT DIGNITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017658
+coursetitle: PWM-Security: Capability Development (Induct Security Personnel)
+trainingprovideruen: 198305397E
+trainingprovideralias: PROSPECT PROTECTION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

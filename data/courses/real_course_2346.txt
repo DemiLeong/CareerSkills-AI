@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003200
+coursetitle: Security Screening Management (Conduct Security Screening of Person and Bag)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-08-02 00:00:00
+courserunenddate: 2025-08-03 00:00:00
+mode_of_training: Classroom

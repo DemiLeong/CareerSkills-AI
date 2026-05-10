@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035929
+coursetitle: Using Artificial Intelligence to Supercharge Your Business' Product Innovation and Marketing Activations
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504929
+coursetitle: PWM-Security: Threat Observation (Recognise Terrorist Threats) (Classroom & Asynchronous)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-10-18 00:00:00
+courserunenddate: 2025-10-19 00:00:00
+mode_of_training: Classroom

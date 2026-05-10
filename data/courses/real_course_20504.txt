@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038581
+coursetitle: WSQ DDDLP v2 LU3: Design Blended Curriculum for Adult Learning (Classroom & Synchronous)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: 2025-09-02 00:00:00
+courserunenddate: 2025-09-03 00:00:00
+mode_of_training: Assessment

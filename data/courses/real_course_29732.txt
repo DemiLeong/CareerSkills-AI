@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049598
+coursetitle: Mastering Generative Artificial Intelligence (Gen AI) Tools to Boost Workplace Efficiency
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

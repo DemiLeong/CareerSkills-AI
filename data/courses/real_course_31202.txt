@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052033
+coursetitle: Information Technology in Construction - Information and Communications Technology and Building Information Modeling for construction
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

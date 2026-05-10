@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045267
+coursetitle: WSQ Medication Management in Nursing (Level 2) (AIC)
+trainingprovideruen: 201018593M
+trainingprovideralias: REN CI HOSPITAL
+courserunstartdate: 2025-07-30 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

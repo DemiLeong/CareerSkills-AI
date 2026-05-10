@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054743
+coursetitle: EnterpriseSG PwC Financial Management Masterclass for SMEs
+trainingprovideruen: 198105170G
+trainingprovideralias: PRICEWATERHOUSECOOPERS RISK SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502450
+coursetitle: An introduction to 3D CAD Modelling
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

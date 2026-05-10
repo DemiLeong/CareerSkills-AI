@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054260
+coursetitle: Internationalisation Series: Technology, Innovation, Entrepreneurship and E-Governance, Estonia
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038567
+coursetitle: Effectiveness Management in Environmental Services (DCMP Level 3)
+trainingprovideruen: 200006697N
+trainingprovideralias: ASSOCIATES CONSULTING PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

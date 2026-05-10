@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042313
+coursetitle: WSQ Food Safety Course Level 1 (Assessment Only Pathway)
+trainingprovideruen: 201001978G
+trainingprovideralias: ISRC PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

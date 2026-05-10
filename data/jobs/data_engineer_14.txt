@@ -1,0 +1,23 @@
+Job Title: Data Engineer
+Standard Role: Data Engineer
+Company: Company_14
+Level: Senior
+
+Skills:
+- SQL
+- ETL
+- Python
+- Big Data
+
+Description:
+This role involves working as a Data Engineer to support business and technical needs. Responsibilities vary by company.
+
+Requirements:
+- Relevant degree
+- Experience depending on level
+
+Tools:
+- SQL
+- ETL
+- Python
+- Big Data

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047400
+coursetitle: Generative AI Assisted Creativity: A New Approach to Concept Art
+trainingprovideruen: 201509271W
+trainingprovideralias: CHELSEA ACADEMIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

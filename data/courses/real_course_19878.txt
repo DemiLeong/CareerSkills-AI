@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513729
+coursetitle: People and Performance Management (Level 4) (Synchrnous e-Learning)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

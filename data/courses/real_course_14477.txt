@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504512
+coursetitle: CS105A: Cyber Crime and Governance: Fundamentals of Security Management, Digital Forensics and Audit (synchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

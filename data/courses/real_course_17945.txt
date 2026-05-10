@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017837
+coursetitle: PWM-Food Services: Food Safety and Hygiene Level 1 - (Refresher)
+trainingprovideruen: 200704757K
+trainingprovideralias: SHRM COLLEGE PTE. LTD.
+courserunstartdate: 2025-10-15 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Classroom

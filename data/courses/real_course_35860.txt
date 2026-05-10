@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007308
+coursetitle: Service Excellence (Level 1)
+trainingprovideruen: 201703757Z
+trainingprovideralias: ALL HEARTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

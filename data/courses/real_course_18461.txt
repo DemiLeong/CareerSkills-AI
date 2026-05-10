@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019083
+coursetitle: Digital Twin for Advanced Manufacturing
+trainingprovideruen: 199605166D
+trainingprovideralias: SIEMENS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

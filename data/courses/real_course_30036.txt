@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011497
+coursetitle: Service Coaching for Results
+trainingprovideruen: T13LL1770K
+trainingprovideralias: CARETECH168 LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

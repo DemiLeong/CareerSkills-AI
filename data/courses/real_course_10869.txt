@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042643
+coursetitle: Business Mandarin for Insurance Professionals (Synchronous e-learning)
+trainingprovideruen: S92SS0008J
+trainingprovideralias: SINGAPORE CHINESE CHAMBER INSTITUTE OF BUSINESS
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Synchronous eLearning

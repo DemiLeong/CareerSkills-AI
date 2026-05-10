@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037799
+coursetitle: Solution-Focused Leader Coach MasterClass
+trainingprovideruen: 200722689Z
+trainingprovideralias: SHRI ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043307
+coursetitle: Data Visualization Mastery in Practice
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

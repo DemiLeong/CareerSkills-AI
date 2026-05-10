@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019500605
+coursetitle: PWM-Cleaning: Provide Quality Service (SF)
+trainingprovideruen: 201223502K
+trainingprovideralias: FOCUS LEARNING CENTRE PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

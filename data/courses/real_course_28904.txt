@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049079
+coursetitle: WSQ-MS Empower Your Workforce with Copilot for Microsoft 365 Use Cases (MS-4004)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

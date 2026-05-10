@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052184
+coursetitle: PCB Design with Altium Designer (Technical Drawing)
+trainingprovideruen: 201102380E
+trainingprovideralias: ACAD PTE. LTD.
+courserunstartdate: 2025-09-10 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

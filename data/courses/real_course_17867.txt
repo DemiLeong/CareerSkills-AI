@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047630
+coursetitle: Excel for Data Analysis and Reporting
+trainingprovideruen: 201100397C
+trainingprovideralias: IMPRESS TRAINING PTE. LTD.
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2025-10-28 00:00:00
+mode_of_training: Classroom

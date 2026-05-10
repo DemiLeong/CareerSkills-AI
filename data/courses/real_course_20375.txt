@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008998
+coursetitle: Level 3 Professional Beauty and Skin Care Product Advisory
+trainingprovideruen: 200601623C
+trainingprovideralias: SOHA INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

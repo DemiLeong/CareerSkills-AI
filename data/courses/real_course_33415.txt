@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044582
+coursetitle: Right Food with Right Medicine for Diabetes and Heart Patients
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-08-19 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

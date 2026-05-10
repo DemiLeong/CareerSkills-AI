@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502844
+coursetitle: Bachelor of Engineering (Biomedical Engineering)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052897
+coursetitle: Advanced Certificate in Generative Artificial Intelligence Apps Design and Prompt Engineering Module 4: Gen AI Apps Design and Prompt Engineering in Compliance and Legal
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-07-29 00:00:00
+mode_of_training: Classroom

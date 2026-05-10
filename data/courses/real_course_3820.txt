@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015018
+coursetitle: Specialist Diploma in Operational Technology Cybersecurity (Ethical Hacking and Incident Response)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

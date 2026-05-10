@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021192
+coursetitle: Living Well with Hypertension and Hypercholesterolemia with Diabetes Mellitus
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

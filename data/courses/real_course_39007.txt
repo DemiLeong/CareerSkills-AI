@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503251
+coursetitle: Workplace COMMUNICATIONS
+trainingprovideruen: 198902296M
+trainingprovideralias: GENETIC COMPUTER SCHOOL PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

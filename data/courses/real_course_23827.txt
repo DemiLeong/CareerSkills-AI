@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047393
+coursetitle: Script Writing Reinvented: Storytelling with Generative AI
+trainingprovideruen: 201509271W
+trainingprovideralias: CHELSEA ACADEMIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

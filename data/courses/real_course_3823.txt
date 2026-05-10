@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042864
+coursetitle: Air-conditioning & Mechanical Ventilation System - Part of Modular Certificate in Building Services (Mechanical) (DEBF2)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

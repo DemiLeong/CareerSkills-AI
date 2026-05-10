@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020001362
+coursetitle: Certificate Course in Marketing of Foreign Properties: Synchronous E-Learning
+trainingprovideruen: S98SS0089J
+trainingprovideralias: Institute of Estate Agents, Singapore
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-01 00:00:00
+mode_of_training: Synchronous eLearning

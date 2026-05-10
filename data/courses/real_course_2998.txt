@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015633
+coursetitle: WSQ Operate Drones up to 7kg
+trainingprovideruen: 201218814M
+trainingprovideralias: ACADEMY OF DESIGN ARTS AND MEDIA PTE. LTD.
+courserunstartdate: 2025-08-30 00:00:00
+courserunenddate: 2025-09-27 00:00:00
+mode_of_training: Classroom

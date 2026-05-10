@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051675
+coursetitle: (SCTP) Sustainability and Environmental Professionals (Classroom, Synchronous and Asynchronous) (Full-time) (TA-eligible)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

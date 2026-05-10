@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049603
+coursetitle: ITIL4 Foundation (Synchronous E-learning)
+trainingprovideruen: 200821195D
+trainingprovideralias: SAPIENCE CONSULTING PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-06 00:00:00
+mode_of_training: Classroom

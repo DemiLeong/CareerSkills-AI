@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007947
+coursetitle: Franchise & Business Ownership (Synchronous e-learning)
+trainingprovideruen: S93SS0131D
+trainingprovideralias: Franchising and Licensing Association (Singapore)
+courserunstartdate: 2025-09-30 00:00:00
+courserunenddate: 2025-10-02 00:00:00
+mode_of_training: Synchronous eLearning

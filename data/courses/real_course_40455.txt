@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048200
+coursetitle: Manage Child Safety and Protection for Early Intervention Educators (Classroom and Asynchronous E-learning)
+trainingprovideruen: T12LL1245D
+trainingprovideralias: ENVIRONICHE LLP
+courserunstartdate: 2026-01-30 00:00:00
+courserunenddate: 2026-02-02 00:00:00
+mode_of_training: Classroom

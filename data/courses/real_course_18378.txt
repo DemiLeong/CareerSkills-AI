@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020902
+coursetitle: WSQ Capstone Project (Digital Marketing Campaign) - (Classroom and Async e-learning)
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: 2025-09-27 00:00:00
+courserunenddate: 2025-10-25 00:00:00
+mode_of_training: Classroom

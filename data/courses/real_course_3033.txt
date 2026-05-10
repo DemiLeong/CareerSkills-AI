@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011373
+coursetitle: Basic Cardiac Life Support + AED (Practical and Asynchronous)
+trainingprovideruen: 201703314W
+trainingprovideralias: MEDLINK HEALTHCARE GROUP PTE. LTD.
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-18 00:00:00
+mode_of_training: Classroom

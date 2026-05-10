@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039387
+coursetitle: Primavera P6 Programme Planning Essentials for 4D BIM
+trainingprovideruen: 200710151K
+trainingprovideralias: ACE INDUSTRIAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-08 00:00:00
+mode_of_training: Classroom

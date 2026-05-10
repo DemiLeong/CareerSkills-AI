@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045365
+coursetitle: Microskills and Techniques for Effective Para-Counselling
+trainingprovideruen: 199900986N
+trainingprovideralias: ACADEMY OF HUMAN DEVELOPMENT PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

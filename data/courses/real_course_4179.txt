@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018872
+coursetitle: (SCTP) Diploma in Food and Beverage Management (Full-Time) (TA-eligible)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

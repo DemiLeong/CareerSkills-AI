@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019507382
+coursetitle: Pattern Making and Sewing: Unit 6: Techniques of Making a Jacket
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

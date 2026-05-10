@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038967
+coursetitle: Introduction of e-bus / DHB and WSH for Electric Safety (NESS-BUS-M1)
+trainingprovideruen: T08GB0027D
+trainingprovideralias: Singapore Bus Academy
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

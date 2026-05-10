@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054734
+coursetitle: SDE5404 Sustainability Legislation and Framework of Singapore
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: 2026-02-06 00:00:00
+courserunenddate: 2026-02-27 00:00:00
+mode_of_training: Classroom

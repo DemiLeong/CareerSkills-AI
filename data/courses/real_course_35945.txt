@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047017
+coursetitle: Meat and Poultry Fabrication
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: 2025-08-22 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

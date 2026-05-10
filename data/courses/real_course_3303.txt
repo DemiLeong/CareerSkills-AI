@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038133
+coursetitle: Towards Ageing Well with Healthier SG: Community Mobilization and Asset-building Approaches
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

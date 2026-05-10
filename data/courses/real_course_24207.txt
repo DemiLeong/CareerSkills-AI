@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046254
+coursetitle: Welding Process and Safety Training
+trainingprovideruen: 197500998D
+trainingprovideralias: HAI LECK ENGINEERING (PRIVATE) LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

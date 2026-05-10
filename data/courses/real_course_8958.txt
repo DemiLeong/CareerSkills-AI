@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011639
+coursetitle: Producing Interactive and Engaging Live Streaming for Business, Education and Retail Services
+trainingprovideruen: T11LL1448B
+trainingprovideralias: ZING QUOTIENT LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

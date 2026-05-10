@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045525
+coursetitle: CoC in Essentials of Security Assessment and Testing
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-09-10 00:00:00
+courserunenddate: 2025-09-11 00:00:00
+mode_of_training: Classroom

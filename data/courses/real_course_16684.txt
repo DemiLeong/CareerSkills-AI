@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021857
+coursetitle: PWM-Security: Capability Development (Induct Security Personnel)
+trainingprovideruen: 201843068W
+trainingprovideralias: ETANN CONSULTANTS PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

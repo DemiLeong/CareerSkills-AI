@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053002
+coursetitle: Finance and Accounting Essentials for Non-Finance Professionals
+trainingprovideruen: 201327560N
+trainingprovideralias: APPS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051883
+coursetitle: Forklift Operator Refresher Training
+trainingprovideruen: 198202184W
+trainingprovideralias: GALMON (S) PTE LTD
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-07-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008321
+coursetitle: NSA - Facilitate Meaningful Interaction with Persons with Dementia
+trainingprovideruen: 202111519K
+trainingprovideralias: Dementia Singapore
+courserunstartdate: 2025-08-15 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

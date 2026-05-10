@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043555
+coursetitle: Code Free App Development with Large Language Model
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

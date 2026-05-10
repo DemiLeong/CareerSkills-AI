@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013495
+coursetitle: CERTIFICATE IN CONTRACT & COST MANGAGEMENT
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

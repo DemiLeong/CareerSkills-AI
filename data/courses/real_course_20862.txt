@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053417
+coursetitle: Enabling Academy: Design Your Path: Canva Skills for Career Exploration
+trainingprovideruen: 201918827D
+trainingprovideralias: Hatch Technologies Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

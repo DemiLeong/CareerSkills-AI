@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503254
+coursetitle: Respond to Service Challenges
+trainingprovideruen: 200800722R
+trainingprovideralias: PARKWAY COLLEGE OF NURSING & ALLIED HEALTH PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-02 00:00:00
+mode_of_training: Classroom

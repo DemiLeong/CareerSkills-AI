@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040487
+coursetitle: Digital Enterprise Architecture Framework
+trainingprovideruen: 200615051N
+trainingprovideralias: ATD SOLUTION (S) PTE. LTD.
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

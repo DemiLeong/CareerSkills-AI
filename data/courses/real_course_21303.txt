@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047908
+coursetitle: Managing Elderly with Dementia - Effective Communication Strategies
+trainingprovideruen: 201605662M
+trainingprovideralias: ISLAND MAIDS (GROUP) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

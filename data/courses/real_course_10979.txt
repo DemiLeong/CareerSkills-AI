@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037045
+coursetitle: Professional Floral Design: Techniques, Trends, and Business Strategies
+trainingprovideruen: 53397952L
+trainingprovideralias: Flowers by Terra
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Practical/Practicum

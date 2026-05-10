@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500950
+coursetitle: Facilitate Effective Work Teams (Synchronous e-learning)
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016449
+coursetitle: Sound Editing (Level 3)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-07-15 00:00:00
+courserunenddate: 2025-09-20 00:00:00
+mode_of_training: Classroom

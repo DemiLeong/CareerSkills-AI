@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002359
+coursetitle: Mass Communications Management Powered by Design Thinking
+trainingprovideruen: 201207744C
+trainingprovideralias: AGAPE, CONNECTING PEOPLE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

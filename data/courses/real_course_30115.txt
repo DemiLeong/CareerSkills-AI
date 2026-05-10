@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009796
+coursetitle: WSQ IoT-Based Energy Management for Solar Systems (Classroom and Asynchronous)
+trainingprovideruen: T06SS0142H
+trainingprovideralias: Sustainable Energy Association of Singapore (SEAS)
+courserunstartdate: 2025-10-21 00:00:00
+courserunenddate: 2025-10-23 00:00:00
+mode_of_training: Classroom

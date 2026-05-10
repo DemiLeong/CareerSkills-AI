@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014543
+coursetitle: Perform Work in Confined Space Operation
+trainingprovideruen: 201505969H
+trainingprovideralias: DYNAMIC SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

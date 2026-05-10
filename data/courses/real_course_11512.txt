@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006529
+coursetitle: Occupational First Aid Course (OFAC)(Asynchronous E-learning)
+trainingprovideruen: 200700043G
+trainingprovideralias: ARISE SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

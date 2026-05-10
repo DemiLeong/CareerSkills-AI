@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003398
+coursetitle: è¿ç”¨å›¾ç‰‡æç¤ºæ¥æ¿€å‘æ€è€ƒ,ä¿ƒè¿›å£è¯­åŠè†å¬çš„è¯­è¨€æŠ€èƒ½ (Using Picture Prompts to Stimulate Thinking and Promote Oral and Aural Chinese Language Skills)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-10-21 00:00:00
+courserunenddate: 2025-10-22 00:00:00
+mode_of_training: Synchronous eLearning

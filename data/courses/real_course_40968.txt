@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046356
+coursetitle: WSQ Patient Care Delivery in Nursing (Level 2) (AIC)
+trainingprovideruen: 201018593M
+trainingprovideralias: REN CI HOSPITAL
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

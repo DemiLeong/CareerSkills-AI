@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505504
+coursetitle: Implement Incident Management Processes (Synchronous E-Learning)
+trainingprovideruen: 201106989R
+trainingprovideralias: TECS FIRE & SAFETY TRAINING PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Synchronous eLearning

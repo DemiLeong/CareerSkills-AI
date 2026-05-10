@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044286
+coursetitle: (HCIC) å©´å„¿çš„è¯¾ç¨‹è®¾è®¡ä¸Žæ¸¸æˆå­¦ä¹
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2026-02-27 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019501529
+coursetitle: BCLS+AED Instructor Course
+trainingprovideruen: S86CC0370E
+trainingprovideralias: SINGAPORE RED CROSS SOCIETY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

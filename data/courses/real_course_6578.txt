@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041776
+coursetitle: Basics of Human Resource Management & Practical Training with Info-Tech HRMS
+trainingprovideruen: 200711480W
+trainingprovideralias: INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018905
+coursetitle: Supporting Children with Added Needs in Preschool Classroom Environment (Chinese) åœ¨å¹¼æ•™è¯¾å®¤çŽ¯å¢ƒä¸­å¯¹æœ‰é¢å¤–éœ€è¦å¹¼å„¿çš„æ”¯æŒ (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-16 00:00:00
+courserunenddate: 2025-08-30 00:00:00
+mode_of_training: Synchronous eLearning

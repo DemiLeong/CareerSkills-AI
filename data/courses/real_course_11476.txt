@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044273
+coursetitle: Learning Through Play: Building Competence and Skills of Experienced Early Childhood Educators in Facilitating Play (Synchronous e-learning)
+trainingprovideruen: 201333807K
+trainingprovideralias: PLAYEUM LTD.
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2025-11-10 00:00:00
+mode_of_training: Synchronous eLearning

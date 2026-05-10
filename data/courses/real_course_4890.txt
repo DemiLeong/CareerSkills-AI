@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038964
+coursetitle: WSQ Supervise Workplace Safety and Health in Process Plant
+trainingprovideruen: 201326775N
+trainingprovideralias: A-TECH HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

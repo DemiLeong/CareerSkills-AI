@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044343
+coursetitle: DevSecOps Essentials & System Monitoring Strategies (Classroom, Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-09-13 00:00:00
+mode_of_training: Classroom

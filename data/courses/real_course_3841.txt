@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011684
+coursetitle: Post-Diploma Certificate in Sport Management (part of Specialist Diploma in Sport Management & Marketing)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2026-04-20 00:00:00
+courserunenddate: 2026-10-18 00:00:00
+mode_of_training: Synchronous eLearning

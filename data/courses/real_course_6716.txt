@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053302
+coursetitle: Solution Architecture
+trainingprovideruen: 200615051N
+trainingprovideralias: ATD SOLUTION (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

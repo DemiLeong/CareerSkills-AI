@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010440
+coursetitle: Offshore Wind Value Chain and Turbine Technology (Part 1)  (Classroom and Synchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

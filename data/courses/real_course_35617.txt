@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504404
+coursetitle: Deliver Personalised Service (SF) (synchronous elearning)
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: 2025-12-22 00:00:00
+courserunenddate: 2025-12-23 00:00:00
+mode_of_training: Classroom

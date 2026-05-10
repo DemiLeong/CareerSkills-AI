@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500238
+coursetitle: Diploma in Integrated Logistics Management (Synchronous e-learning)
+trainingprovideruen: 201004118D
+trainingprovideralias: THE LOGISTICS ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2026-09-10 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039996
+coursetitle: Service Excellence
+trainingprovideruen: 201821985M
+trainingprovideralias: IGIVE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

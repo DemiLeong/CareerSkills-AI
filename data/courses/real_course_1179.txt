@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035602
+coursetitle: Champion Organisation Change: Develop Global Perspective on Challenges for Business Sustainability
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

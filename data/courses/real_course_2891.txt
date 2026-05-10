@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504730
+coursetitle: Process & Design Optimisation using Design of Experiments (DOE)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

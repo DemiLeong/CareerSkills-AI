@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041492
+coursetitle: PWM-Waste Management: Identify WSH Hazards and Risk Control Measures In Waste Management and Assist In Inspection and Investigation Of Incidents
+trainingprovideruen: 201223502K
+trainingprovideralias: FOCUS LEARNING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

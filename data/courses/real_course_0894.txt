@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049713
+coursetitle: (SCTP) Advanced Professional Certificate in Data Science and AI (Classroom, Synchronous and Asynchronous e-learning) (Full-Time) (TA-eligible)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

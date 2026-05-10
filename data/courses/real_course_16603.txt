@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019594
+coursetitle: Microsoft Azure Administrator (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017482
+coursetitle: Service Excellence - L1 (Classroom & Asynchronous e-learning)
+trainingprovideruen: 199308083Z
+trainingprovideralias: ASCOTT INTERNATIONAL MANAGEMENT (2001) PTE LTD
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-02 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009534
+coursetitle: PWM-Cleaning: Perform Cleaning of Public Residential Estates â€“ Level 1
+trainingprovideruen: 201725903K
+trainingprovideralias: ASTUTE PROFESSIONAL TRAINING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

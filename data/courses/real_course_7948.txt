@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049074
+coursetitle: Essential Workplace Health and Nursing Practices HC
+trainingprovideruen: 199302114W
+trainingprovideralias: TSAO FOUNDATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

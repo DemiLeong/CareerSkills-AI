@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043894
+coursetitle: MASTER OF PUBLIC ADMINISTRATION - CHINESE
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

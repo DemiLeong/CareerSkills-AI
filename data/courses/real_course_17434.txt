@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043641
+coursetitle: BASIC CARDIAC LIFE SUPPORT COURSE + AUTOMATED EXTERNAL DEFIBRILLATION
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

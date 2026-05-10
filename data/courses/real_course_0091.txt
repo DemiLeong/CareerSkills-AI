@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051194
+coursetitle: Advanced Certificate in Digital Procurement Module 6: Artificial Intelligence, Automation and Robotics in Procurement
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-11 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

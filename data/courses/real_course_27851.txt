@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052939
+coursetitle: Internationalisation Series: Chengdu's Evolving Food and Beverage (F&B) Industry - Harnessing Innovation, Technology and Supply Chain Efficiency for Growth
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

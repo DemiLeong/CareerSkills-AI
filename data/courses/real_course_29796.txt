@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050570
+coursetitle: Advanced Certificate in FinTech, Sustainable and Ethical Finance Module 5: Regulation, Policy, and Compliance in FinTech and Sustainable Finance
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-03 00:00:00
+courserunenddate: 2025-09-04 00:00:00
+mode_of_training: Classroom

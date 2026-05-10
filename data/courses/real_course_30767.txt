@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017138
+coursetitle: Evaluate research findings and trends for implications to social service delivery  (Classroom, Synchronous and Asynchronous)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

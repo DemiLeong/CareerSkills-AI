@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006946
+coursetitle: CoC in Creative Online Marketing with Product Snaps
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

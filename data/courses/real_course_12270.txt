@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505009
+coursetitle: Promoting Pre-Literacy Skills in Infants and Toddlers (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-11-04 00:00:00
+courserunenddate: 2025-11-04 00:00:00
+mode_of_training: Synchronous eLearning

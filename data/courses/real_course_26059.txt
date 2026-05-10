@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018177
+coursetitle: Professional Certificate in Tech Sales Module 2: A Beginnerâ€™s Guide to B2B IT Sales (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

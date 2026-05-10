@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019100
+coursetitle: WSQ-ISC Information System Security Professional (CISSP)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

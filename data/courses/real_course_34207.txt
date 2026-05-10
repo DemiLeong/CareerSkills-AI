@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500927
+coursetitle: (SF) Perform Basic Cleaning of Washrooms
+trainingprovideruen: 200613464E
+trainingprovideralias: FOCUS TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

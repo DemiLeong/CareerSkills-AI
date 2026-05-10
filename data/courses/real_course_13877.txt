@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018882
+coursetitle: PWM-Retail: Sales Target Management (SF-Supervisor) [Classroom Facilitated, Asynchronous E-Learning]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

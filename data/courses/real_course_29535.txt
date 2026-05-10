@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016431
+coursetitle: Cultural and social diversity in the helping process (Synchronous and Asynchronous E-learning)
+trainingprovideruen: T12LL1245D
+trainingprovideralias: ENVIRONICHE LLP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

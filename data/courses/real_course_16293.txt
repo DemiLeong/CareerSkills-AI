@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042049
+coursetitle: Data Visualisation for Digital Marketing (part of SCTP Certificate in Digital Marketing & Content Curation)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055752
+coursetitle: Financial Services Project Management using Emerging Technologies (Synchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015122
+coursetitle: Advanced Certificate in Allied Legal Professional Skills Module 3: Legal Transformation and Change Management
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

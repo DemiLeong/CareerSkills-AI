@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021764
+coursetitle: MEC6018 Lighting Technology for Building Services
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

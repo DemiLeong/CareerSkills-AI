@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043958
+coursetitle: e-Commerce Strategies for Selling Online in the Digital Age (Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

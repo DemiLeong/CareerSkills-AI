@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048118
+coursetitle: WSQ-MS Deliver Impactful Microsoft PowerPoint Presentations
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

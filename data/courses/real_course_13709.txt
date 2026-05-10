@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500621
+coursetitle: Respond to Fire Emergency in Buildings
+trainingprovideruen: 201133417W
+trainingprovideralias: CERT CONSULTANCY GROUP PTE. LTD.
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

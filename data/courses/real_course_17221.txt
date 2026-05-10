@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043740
+coursetitle: BACHELOR OF ENGINEERING (INFORMATION ENGINEERING & MEDIA)
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

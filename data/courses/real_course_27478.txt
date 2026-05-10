@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052875
+coursetitle: Bridge and Engine Room Resource Management (Management and Leadership Skills)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-09-17 00:00:00
+courserunenddate: 2025-09-20 00:00:00
+mode_of_training: Classroom

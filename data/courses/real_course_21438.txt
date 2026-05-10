@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052527
+coursetitle: Conducting Quality Assurance & Quality Control for Solar PV Systems
+trainingprovideruen: 201527905W
+trainingprovideralias: SEMBCORP SOLAR SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

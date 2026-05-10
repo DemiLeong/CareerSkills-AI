@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014990
+coursetitle: Transport of Dangerous Goods by Air - Initial as per the IATA Dangerous Goods Training Guidance 7.1  (supervised assessment) For Personnel Responsible for Preparing Dangerous Goods Consignments - excluding Radioactive Materials
+trainingprovideruen: 198800119M
+trainingprovideralias: SAAA CARGO SERVICES PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

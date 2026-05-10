@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008333
+coursetitle: WSQ Advanced Certificate in Hotel and Accommodation Services (Classroom and Asynchronous e-learning)
+trainingprovideruen: 198301550C
+trainingprovideralias: SHATEC INSTITUTES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

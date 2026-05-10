@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046268
+coursetitle: Para-Counselling to Support Persons at Risk of Suicide (Classroom & Asynchronous)
+trainingprovideruen: 202245684D
+trainingprovideralias: SAMARITANS OF SINGAPORE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

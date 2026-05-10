@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014113
+coursetitle: Introduction to 5G Networks and its Application in Advanced Manufacturing
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

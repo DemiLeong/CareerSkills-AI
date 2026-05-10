@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018504153
+coursetitle: Asbestos Risk Management (Survey Asbestos and Other Fibres Risks at the Workplace)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

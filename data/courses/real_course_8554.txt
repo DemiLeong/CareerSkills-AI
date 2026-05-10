@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019482
+coursetitle: Modular Certificate in Student Management - Part of Part-time Diploma in Care and Programme (Student Services & Coaching) (DCP)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2026-04-13 00:00:00
+courserunenddate: 2026-09-30 00:00:00
+mode_of_training: Classroom

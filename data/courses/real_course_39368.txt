@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504736
+coursetitle: Service Experience Design 4-Day Mini Series
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

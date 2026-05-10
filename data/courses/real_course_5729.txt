@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018830
+coursetitle: Financial Analysis for Residential Real Estate
+trainingprovideruen: 201924049G
+trainingprovideralias: SALT PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

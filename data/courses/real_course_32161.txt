@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503021
+coursetitle: PWM-Security: Conflict Resolution Management (Manage and Resolve Conflict in Security Environment)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

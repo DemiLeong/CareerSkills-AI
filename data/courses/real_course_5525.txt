@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017925
+coursetitle: Infographics and Data Visualization with Excel
+trainingprovideruen: 201312189Z
+trainingprovideralias: INTELLISOFT TRAINING PTE. LTD.
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-19 00:00:00
+mode_of_training: Classroom

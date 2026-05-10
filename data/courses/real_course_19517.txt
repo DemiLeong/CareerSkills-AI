@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018321
+coursetitle: Supervise Safe Lifting Operations
+trainingprovideruen: 200900134G
+trainingprovideralias: SCAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

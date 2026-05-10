@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038971
+coursetitle: Training of Trainers (TOT) on Body Safety Skills for Children
+trainingprovideruen: S62SS0057G
+trainingprovideralias: Singapore Children's Society
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500028
+coursetitle: OCCUPATIONAL FIRST AID COURSE (OFAC)
+trainingprovideruen: S86CC0370E
+trainingprovideralias: SINGAPORE RED CROSS SOCIETY
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

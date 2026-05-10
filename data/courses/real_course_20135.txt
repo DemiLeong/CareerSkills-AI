@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048849
+coursetitle: Systems Thinking Workshop - Overcoming Organisational Blindness and Improve Organisational Performance [incorporating LEGOÂ®SERIOUSPLAYÂ®] (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

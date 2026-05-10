@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500067
+coursetitle: VTCT (ITEC) Level 3 Diploma in Holistic Massage
+trainingprovideruen: 200601623C
+trainingprovideralias: SOHA INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

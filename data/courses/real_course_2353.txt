@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012532
+coursetitle: CERTIFICATE IN STRUCTURAL DESIGN
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2026-05-07 00:00:00
+mode_of_training: Synchronous eLearning

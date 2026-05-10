@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051348
+coursetitle: Digital Transformation in the Era of 5G/AI (Classroom and Synchronous eLearning)
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

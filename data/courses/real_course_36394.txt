@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013941
+coursetitle: Supervise Workplace Safety and Health in Process Plant
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

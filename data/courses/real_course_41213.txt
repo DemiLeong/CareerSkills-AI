@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502959
+coursetitle: Internationalisation Series: New Ventures in Vietnam (Ho Chi Minh City)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

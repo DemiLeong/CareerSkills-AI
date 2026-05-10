@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021001906
+coursetitle: PWM-Food Services: Food Safety Course Level 3
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

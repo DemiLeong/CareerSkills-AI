@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035834
+coursetitle: PWM-Food Services: Food Safety Course (Level 3)
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017480
+coursetitle: Instilling a Love for Language Through Drama
+trainingprovideruen: 200921081R
+trainingprovideralias: THE LEARNING CONNECTIONS PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-16 00:00:00
+mode_of_training: Classroom

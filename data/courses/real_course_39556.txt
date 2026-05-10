@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513561
+coursetitle: Apply Relationship Building Skills in Social Service Practice (Care & Programme)
+trainingprovideruen: T08GB0034K
+trainingprovideralias: Social Service Institute (SSI)
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

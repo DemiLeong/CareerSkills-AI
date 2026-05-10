@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014785
+coursetitle: Advanced Certificate in Agile Business Practices and Management Module 4: Agile Coaching (ICP-ACC)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

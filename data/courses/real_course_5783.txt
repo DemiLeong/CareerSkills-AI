@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055452
+coursetitle: Build Your Own Brand
+trainingprovideruen: 201808948M
+trainingprovideralias: HAPPY TOGETHER PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038756
+coursetitle: WSQ ACLP v2 M1P(b): Facilitate Learning Experience for Adult Learners (Classroom & Synchronous)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-06-30 00:00:00
+mode_of_training: Assessment

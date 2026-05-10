@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054909
+coursetitle: Generative AI for Supply Chain Professional (Synchronous E-learning)
+trainingprovideruen: 201014268Z
+trainingprovideralias: SMF CENTRE FOR CORPORATE LEARNING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

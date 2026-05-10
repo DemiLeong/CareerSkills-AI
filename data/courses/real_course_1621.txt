@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016069
+coursetitle: Advanced Office Management and Administration Skills
+trainingprovideruen: 198905401C
+trainingprovideralias: IMPACT MANAGEMENT SEMINARS PTE LTD
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-13 00:00:00
+mode_of_training: Classroom

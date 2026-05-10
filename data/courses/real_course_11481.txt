@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037650
+coursetitle: Manage Child Safety and Protection for Early Childhood Educators (Classroom and Asynchronous E-learning)
+trainingprovideruen: T12LL1245D
+trainingprovideralias: ENVIRONICHE LLP
+courserunstartdate: 2026-02-05 00:00:00
+courserunenddate: 2026-02-06 00:00:00
+mode_of_training: Classroom

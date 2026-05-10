@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021822
+coursetitle: The Art and Science of Colour Grading
+trainingprovideruen: 199907466K
+trainingprovideralias: AV8 MEDIA PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039733
+coursetitle: Advanced Certificate in Future Workforce Architecture Module 7: Leading A Future-Focused People Strategy
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-30 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Classroom

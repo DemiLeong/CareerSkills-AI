@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502545
+coursetitle: Guard and Patrol (Provide Guard and Patrol Services)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

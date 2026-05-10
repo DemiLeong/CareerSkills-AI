@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045447
+coursetitle: (PDECCE-T/CCP) Supervised Teaching Practice 1
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

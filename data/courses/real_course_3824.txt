@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039675
+coursetitle: Energy Management & Audit (in Post-Diploma Certificate in Energy Management in Specialist Diploma in Environment Technology & Energy Sustainability)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

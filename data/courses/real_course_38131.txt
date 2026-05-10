@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012688
+coursetitle: Introduction to DevOps (Classroom, Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-09-13 00:00:00
+mode_of_training: Classroom

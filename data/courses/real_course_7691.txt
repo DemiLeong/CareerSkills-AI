@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047945
+coursetitle: Post Diploma Certificate in Sustainability Reporting and ESG Data Management (part of Specialist Diploma in Carbon Management for Sustainability Reporting)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

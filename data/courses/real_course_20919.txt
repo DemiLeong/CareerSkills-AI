@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016497
+coursetitle: Introduction to Omni-Channel Retailing
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-04 00:00:00
+courserunenddate: 2025-07-14 00:00:00
+mode_of_training: Classroom

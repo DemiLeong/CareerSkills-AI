@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019879
+coursetitle: Wine Service Level 3 â€“ Exploring New World Wines
+trainingprovideruen: 199700427H
+trainingprovideralias: ADDISON INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

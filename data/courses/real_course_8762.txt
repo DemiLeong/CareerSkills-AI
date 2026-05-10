@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015685
+coursetitle: Empowering Children with Body Safety Skills (Synchronous and Asynchronous modes) :Chinese
+trainingprovideruen: S62SS0057G
+trainingprovideralias: Singapore Children's Society
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

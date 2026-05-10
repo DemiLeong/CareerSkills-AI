@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047972
+coursetitle: Communicating Complexity Part 1: Tackling communication barriers
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

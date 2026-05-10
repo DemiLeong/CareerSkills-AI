@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048625
+coursetitle: WSQ Mastering Conflict Management - Bridging Differences and Resolving Conflicts
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-08-23 00:00:00
+courserunenddate: 2025-08-24 00:00:00
+mode_of_training: Classroom

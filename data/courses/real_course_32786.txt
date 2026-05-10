@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500979
+coursetitle: WSQ Assess Confined Space for Safe Entry and Work
+trainingprovideruen: 201203707W
+trainingprovideralias: CAMBRIAN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

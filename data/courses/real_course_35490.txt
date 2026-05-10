@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038071
+coursetitle: Chartered Fintech Professional (CFtP) Level 2 Training Module 1: Artificial Intelligence, Machine Learning and Deep Learning in Finance
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

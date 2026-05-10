@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044659
+coursetitle: Prepare Basic Indian Breads (Pastry & Bakery)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

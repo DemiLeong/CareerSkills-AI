@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504726
+coursetitle: NB-IoT â€“ Understanding Low Power Cellular LTE
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

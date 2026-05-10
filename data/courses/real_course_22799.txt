@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006001
+coursetitle: SIE3118 Heating, Ventilation and Air-Conditioning (HVAC) II
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

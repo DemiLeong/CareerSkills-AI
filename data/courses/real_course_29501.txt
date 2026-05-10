@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019146
+coursetitle: TPUD - Convolutional Neural Networks (Asynchronous e-Learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

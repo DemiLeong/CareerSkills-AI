@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002545
+coursetitle: WORKSHOP TO ENHANCE THE SAFETY OF CRANE OPERATION
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

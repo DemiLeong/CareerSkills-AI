@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048612
+coursetitle: Enabling Academy: Performing and Recording Music (Level 1)
+trainingprovideruen: 52897419W
+trainingprovideralias: Music Solutions
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

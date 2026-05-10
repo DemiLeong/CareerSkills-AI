@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019501723
+coursetitle: Deterrence (Perform Security Duties at Protected Areas and Protected Places)
+trainingprovideruen: 200410167W
+trainingprovideralias: CERTIS CISCO SECURITY PTE. LTD.
+courserunstartdate: 2025-09-18 00:00:00
+courserunenddate: 2025-09-20 00:00:00
+mode_of_training: In-house

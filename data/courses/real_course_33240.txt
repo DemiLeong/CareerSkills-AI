@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053095
+coursetitle: Effective Sustainability Communication Strategies
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

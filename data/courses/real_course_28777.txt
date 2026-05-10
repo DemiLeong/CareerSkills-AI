@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009376
+coursetitle: Basic Cardiac Life Support and AED
+trainingprovideruen: 200511954H
+trainingprovideralias: LENTOR AMBULANCE PTE. LTD.
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

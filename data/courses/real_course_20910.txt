@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016495
+coursetitle: Basic Data Analytics for Retail
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2025-09-27 00:00:00
+mode_of_training: Classroom

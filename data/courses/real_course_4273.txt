@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050525
+coursetitle: Master Class in End-to-End Additive Manufacturing Towards Sustainable Production Environment
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051329
+coursetitle: WebMaster Pro: Foundations of Website Creation, Analytics & SEO
+trainingprovideruen: 201808580W
+trainingprovideralias: ICE CUBE MARKETING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

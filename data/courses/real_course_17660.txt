@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502661
+coursetitle: PWM-Security: Access Control Management (Operate Basic Security Equipment)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

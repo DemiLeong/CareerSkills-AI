@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500606
+coursetitle: Coordinate WSH Management System with Legal Compliance
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

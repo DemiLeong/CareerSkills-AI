@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504335
+coursetitle: Enable Leadership in People (SF)
+trainingprovideruen: S80TU0496C
+trainingprovideralias: SINGAPORE NATIONAL EMPLOYERS FEDERATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

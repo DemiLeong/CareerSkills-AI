@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050781
+coursetitle: Intermediate Drafting and Sewing
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-08-10 00:00:00
+courserunenddate: 2025-11-18 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049002
+coursetitle: Advanced Techniques in Smartphone Photography
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-21 00:00:00
+mode_of_training: Classroom

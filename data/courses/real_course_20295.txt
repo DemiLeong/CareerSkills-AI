@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010045
+coursetitle: Professional Networking and Lead Generation on LinkedIn
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-07-18 00:00:00
+courserunenddate: 2025-07-21 00:00:00
+mode_of_training: Classroom

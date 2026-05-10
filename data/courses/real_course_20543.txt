@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504226
+coursetitle: Develop and Execute a Pandemic Response Plan (synchronous/asynchronous learning)
+trainingprovideruen: 200206157W
+trainingprovideralias: BUSINESS CONTINUITY PLANNING ASIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010339
+coursetitle: Social Media Marketing
+trainingprovideruen: 199704969Z
+trainingprovideralias: GUILFORD TRAINING CENTRE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

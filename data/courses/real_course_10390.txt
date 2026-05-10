@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046736
+coursetitle: Sustainable and Resilient Data Centres
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

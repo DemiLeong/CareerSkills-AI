@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503299
+coursetitle: Outdoors as the Extended Classroom for 5 and 6 Year Olds
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-09-18 00:00:00
+courserunenddate: 2025-10-03 00:00:00
+mode_of_training: Classroom

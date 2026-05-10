@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020096
+coursetitle: Unmanned Aircraft Pilot License (UAPL) Course for Industry Applications of Class A Rotorcraft (Multi-Rotor) up to 25kg (Classroom & Async e-learning)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2025-07-22 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

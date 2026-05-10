@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020654
+coursetitle: Service Excellence for F&B (Asynchronous & Synchronous)
+trainingprovideruen: 200704757K
+trainingprovideralias: SHRM COLLEGE PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-16 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050113
+coursetitle: Planning Behavioural Interventions and Health Promotion Programmes
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

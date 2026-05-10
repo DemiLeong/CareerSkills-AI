@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044648
+coursetitle: Executive Certificate in Leadership & People Management - Role of Effective Managers â€“ Connecting the Dots!
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-12-01 00:00:00
+courserunenddate: 2025-12-03 00:00:00
+mode_of_training: Classroom

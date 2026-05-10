@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500737
+coursetitle: è¿ç”¨å›¾ç‰‡æç¤ºæ¥æ¿€å‘æ€è€ƒ,ä¿ƒè¿›å£è¯­åŠè†å¬çš„è¯­è¨€æŠ€èƒ½ (Using Picture Prompts to Stimulate Thinking and Promote Oral and Aural Chinese Language Skills) (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

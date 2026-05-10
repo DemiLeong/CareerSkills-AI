@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503899
+coursetitle: Perform basic cleaning of washrooms
+trainingprovideruen: 201613431Z
+trainingprovideralias: ADEPCO CONSULTANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

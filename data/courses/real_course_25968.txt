@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055750
+coursetitle: Financial Literacy for Entrepreneurs and Small Businesses: Mastering Accounting and Cash Flow with Digital Tools
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

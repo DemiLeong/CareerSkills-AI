@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011631
+coursetitle: Post Diploma Certificate in Community Optometric Practice - Part of Specialist Diploma in Community Optometry (SDCO)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: 2026-02-17 00:00:00
+courserunenddate: 2027-02-28 00:00:00
+mode_of_training: Classroom

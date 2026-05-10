@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048611
+coursetitle: Enabling Academy: Building, Maintenance and Music Making Workshop (Ukulele & Guitar)
+trainingprovideruen: 52897419W
+trainingprovideralias: Music Solutions
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

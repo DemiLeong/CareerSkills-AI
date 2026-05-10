@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513542
+coursetitle: Digital Transformation using Disruptive Emerging Technologies (Classroom & Asynchronous E-learning)
+trainingprovideruen: 201608532H
+trainingprovideralias: AVVANZ PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

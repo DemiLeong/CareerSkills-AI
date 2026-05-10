@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502246
+coursetitle: Security Screening Management (Conduct Security Screening and Search of Vehicles)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-20 00:00:00
+mode_of_training: Classroom

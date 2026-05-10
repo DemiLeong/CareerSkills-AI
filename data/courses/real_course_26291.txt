@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021236
+coursetitle: Module 3 - Supervised Machine Learning for Building and Deploying Models
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

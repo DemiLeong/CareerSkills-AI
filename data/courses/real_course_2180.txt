@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040399
+coursetitle: Jump Start in Artificial Intelligence, Machine Learning and Deep Learning
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

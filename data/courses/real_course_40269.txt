@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013373
+coursetitle: WSQ Operate Vertical Personnel Platform
+trainingprovideruen: 198202184W
+trainingprovideralias: GALMON (S) PTE LTD
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-17 00:00:00
+mode_of_training: Classroom

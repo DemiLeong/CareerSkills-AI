@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023041086
+coursetitle: Effective Project Management for Digital Solutions
+trainingprovideruen: 201734671R
+trainingprovideralias: FIRSTCOM ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

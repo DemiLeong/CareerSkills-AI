@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007082
+coursetitle: Basics of Training Needs & Skills Gap Analysis
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

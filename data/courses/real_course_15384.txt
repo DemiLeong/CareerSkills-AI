@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504510
+coursetitle: CS104 A: Application Security in Practice: Fundamentals of Application Security (Synchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504272
+coursetitle: Mobile Application Development Module 2: Implementing Databases and Navigation in Cross-Platform Mobile Applications
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503860
+coursetitle: WSQ Level 3 Diet and Nutrition Studies (classroom & asynchronous e-learning)
+trainingprovideruen: 200601623C
+trainingprovideralias: SOHA INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

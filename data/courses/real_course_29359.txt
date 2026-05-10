@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503598
+coursetitle: WSQ ACLP v1 M5 (FLP): Design Learning Solutions to Address Performance Needs (Synchronous & Asynchronous e-Learning
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

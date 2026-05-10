@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042295
+coursetitle: Real Estate Salesperson Course
+trainingprovideruen: 200810267G
+trainingprovideralias: PIONEER TRAINING & CONSULTANCY PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-08-13 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050532
+coursetitle: Design Thinking for Decision Makers
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-09-26 00:00:00
+courserunenddate: 2025-09-26 00:00:00
+mode_of_training: Classroom

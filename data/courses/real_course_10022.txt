@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503702
+coursetitle: Halal Foundation (Operational Level)
+trainingprovideruen: 201426979K
+trainingprovideralias: WAREES HALAL LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018448
+coursetitle: Professional Development (Professional) Series Build a Resilient Workforce in a BANI World
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

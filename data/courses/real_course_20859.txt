@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047429
+coursetitle: Enabling Academy: Personal Leadership: Building Self-Awareness
+trainingprovideruen: S99SS0148L
+trainingprovideralias: Autism Resource Centre (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

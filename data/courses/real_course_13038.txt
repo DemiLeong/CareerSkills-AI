@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503896
+coursetitle: Effective Office and Administrative Skills
+trainingprovideruen: 198905401C
+trainingprovideralias: IMPACT MANAGEMENT SEMINARS PTE LTD
+courserunstartdate: 2025-09-04 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

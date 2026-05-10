@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007870
+coursetitle: Fire Safety Management (in MC in Fire Safety Management & Security in Part-time Diploma in Security & Fire Safety Studies)Â
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

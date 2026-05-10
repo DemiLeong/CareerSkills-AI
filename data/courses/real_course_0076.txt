@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512909
+coursetitle: Advanced Certificate in Supply Chain Innovation and Transformation Module 1: The Digitalisation of Supply Chain â€“ Insights and Outlook
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-27 00:00:00
+courserunenddate: 2025-10-29 00:00:00
+mode_of_training: Classroom

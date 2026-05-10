@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501896
+coursetitle: A First Look at Visual Analytics  (using ggplot2 packages in R) (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

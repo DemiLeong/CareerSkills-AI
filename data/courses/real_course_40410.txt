@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018908
+coursetitle: Effective Classroom Management & Behaviour Guidance for Inclusive Settings (Chinese) å…¨çº³æ•™è‚²çŽ¯å¢ƒä¸­çš„æœ‰æ•ˆè¯¾å ‚ç®¡ç†å’Œè¡Œä¸ºæŒ‡å¯¼ (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-09-20 00:00:00
+courserunenddate: 2025-10-11 00:00:00
+mode_of_training: Synchronous eLearning

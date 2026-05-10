@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039366
+coursetitle: Professional Certificate in Infant Care (PCIC) (Classroom & Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2026-03-26 00:00:00
+mode_of_training: Synchronous eLearning

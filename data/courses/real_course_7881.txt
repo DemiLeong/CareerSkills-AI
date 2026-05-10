@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051347
+coursetitle: Certified Information Systems Security Professional (CISSP)
+trainingprovideruen: 200821195D
+trainingprovideralias: SAPIENCE CONSULTING PTE. LTD.
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

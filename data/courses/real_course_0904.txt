@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502446
+coursetitle: Innovation Culture Catalyst (ICC): The Game Changer
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-22 00:00:00
+courserunenddate: 2025-08-25 00:00:00
+mode_of_training: Classroom

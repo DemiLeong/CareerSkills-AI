@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040437
+coursetitle: Advanced Certificate in Strategic Sourcing Module 2: Digital Procurement - Past, Present and Future
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-03 00:00:00
+courserunenddate: 2025-11-04 00:00:00
+mode_of_training: Classroom

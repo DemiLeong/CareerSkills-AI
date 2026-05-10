@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502071
+coursetitle: 3D Animation Portfolio
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

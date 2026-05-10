@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051156
+coursetitle: Addressing Issues in AI Ethics and Governance (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

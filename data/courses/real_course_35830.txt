@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018213
+coursetitle: Workplace Communication (Level 2)
+trainingprovideruen: 53153311E
+trainingprovideralias: IMPACT ANALYSIS ACADEMY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

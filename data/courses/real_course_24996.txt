@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002555
+coursetitle: å› â€œæâ€æ–½æ•™â€“å¦‚ä½•åˆ©ç”¨æœ‰æ•ˆèµ„æºè¿›è¡ŒåŽæ–‡æ•™è‚² (How to Use Resources Effectively for Chinese Language Education)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2026-02-13 00:00:00
+courserunenddate: 2026-02-13 00:00:00
+mode_of_training: Synchronous eLearning

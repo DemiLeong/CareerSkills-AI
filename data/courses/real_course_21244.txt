@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504364
+coursetitle: Leading for Results (LFR-SFw)
+trainingprovideruen: 199608088E
+trainingprovideralias: ODE CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

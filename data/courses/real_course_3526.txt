@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041599
+coursetitle: Advanced Certificate in Procurement Essentials Module 2: Mastering Specification Writing with Design Thinking
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-24 00:00:00
+courserunenddate: 2025-09-26 00:00:00
+mode_of_training: Classroom

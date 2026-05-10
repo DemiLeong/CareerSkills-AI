@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052357
+coursetitle: WSQ Service Excellence in Healthcare: Fostering Positive Customer and Patient Experiences (L2)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

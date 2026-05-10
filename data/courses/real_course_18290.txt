@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052468
+coursetitle: Building Agentic AI and Generative AI Applications Using AWS Bedrock
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-03-04 00:00:00
+courserunenddate: 2026-03-04 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023025976
+coursetitle: Fire Alarm Systems and Maintenance
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

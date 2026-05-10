@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500889
+coursetitle: Respond to Fire and Hazmat Emergency
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-09-24 00:00:00
+courserunenddate: 2025-09-26 00:00:00
+mode_of_training: Classroom

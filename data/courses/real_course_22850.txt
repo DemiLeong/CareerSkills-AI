@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504919
+coursetitle: Selection Management Level 2: Administer Recruitment and Selection Process (Synchronous and Asynchronous e-learning).
+trainingprovideruen: 200903531C
+trainingprovideralias: HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

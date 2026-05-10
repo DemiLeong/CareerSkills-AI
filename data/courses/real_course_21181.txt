@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048719
+coursetitle: Travel & Learn: Exploring China's Innovation Frontier: Strategies for Sustainable Business Growth (Classroom & Synchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-10-21 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Classroom

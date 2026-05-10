@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016500582
+coursetitle: WRITE REPORTS
+trainingprovideruen: 201002137E
+trainingprovideralias: MINDFORCE ACADEMY PTE. LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

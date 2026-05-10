@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021420
+coursetitle: Train Your Brain: How to Improve Brain Health and ThriveÂ AfterÂ 45 (Synchronous e-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

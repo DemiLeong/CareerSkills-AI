@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020113
+coursetitle: People Management: Driving Results Through Engagement in collaboration with FranklinCovey L3 (SFw) (Synchronous e-learning)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047576
+coursetitle: Supervise Manufacturing Work for WSH (Chinese)
+trainingprovideruen: 200907682R
+trainingprovideralias: CONCORD ASSOCIATES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

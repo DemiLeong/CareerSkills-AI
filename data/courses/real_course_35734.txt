@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504665
+coursetitle: Running a Successful eCommerce Store with Shopify
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-10-23 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

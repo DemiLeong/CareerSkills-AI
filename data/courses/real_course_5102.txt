@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051787
+coursetitle: Strategic Employee Attraction using Generative AI
+trainingprovideruen: 200507404M
+trainingprovideralias: STEVENSON HURECA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

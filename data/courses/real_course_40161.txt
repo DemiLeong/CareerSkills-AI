@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012501035
+coursetitle: Assess Confined Space for Safe Entry  and Work
+trainingprovideruen: 200723351G
+trainingprovideralias: GREENSAFE INTERNATIONAL PTE. LTD.
+courserunstartdate: 2025-07-13 00:00:00
+courserunenddate: 2025-08-18 00:00:00
+mode_of_training: Classroom

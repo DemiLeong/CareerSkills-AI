@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038171
+coursetitle: Operate Scissor Lift(Tamil)
+trainingprovideruen: 200808289G
+trainingprovideralias: AUGUST INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

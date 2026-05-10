@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003026
+coursetitle: Search Engine Optimisation Essential
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-08-27 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Classroom

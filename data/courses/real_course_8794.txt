@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042519
+coursetitle: Productivity Hacks with Next Gen Tech
+trainingprovideruen: 53325019J
+trainingprovideralias: BIZ IQ ACADEMY
+courserunstartdate: 2025-08-27 00:00:00
+courserunenddate: 2025-09-10 00:00:00
+mode_of_training: Classroom

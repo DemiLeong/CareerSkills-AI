@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502465
+coursetitle: Diploma in Graphic Communication
+trainingprovideruen: 201006523M
+trainingprovideralias: NANYANG ACADEMY OF FINE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

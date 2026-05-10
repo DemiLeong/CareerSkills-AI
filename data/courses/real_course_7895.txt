@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021498
+coursetitle: Advanced Certificate in Generative AI, Ethics and Data Protection Module 2: Prompt Engineering - Conversational AI and Design
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

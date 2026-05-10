@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018855
+coursetitle: Workplace Safety and Health System Management (Participate in Implementing WSH Management Process)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,16 @@
+Course Name: Data Analyst Professional Course 5
+Provider: SkillsFuture Singapore
+
+Skills Covered:
+- Python
+- SQL
+- Excel
+- Tableau
+
+Level: Intermediate
+
+Description:
+Learn essential and advanced skills for becoming a Data Analyst.
+
+Outcome:
+Prepare for Data Analyst job roles and career advancement.

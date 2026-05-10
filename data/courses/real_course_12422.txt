@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012053
+coursetitle: Post Diploma Certificate in AI Foundations and Machine Learning (part of Specialist Diploma in Applied Artificial Intelligence)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

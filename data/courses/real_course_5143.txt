@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047861
+coursetitle: WSQ-MS Unleashing Creativity in Microsoft Word
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045551
+coursetitle: Medication Use in Older Adults (in PDC in Community-Led Approach to Healthy Ageing in Specialist Diploma in Gerontology (Community Care Practice))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019598
+coursetitle: Global Challenges and Opportunities in Cross-Cultural Environment (Classroom and Synchronous E-learning)
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052196
+coursetitle: Enabling Academy: Career Preparation & Development Programme
+trainingprovideruen: 201821016D
+trainingprovideralias: Inclus Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043517
+coursetitle: Theory and Practice of Authentic Assessment
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

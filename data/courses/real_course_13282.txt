@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016500323
+coursetitle: RESPOND TO FIRE INCIDENT IN WORKPLACE COURSE
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503832
+coursetitle: Perform Manhole Safety Assessment
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

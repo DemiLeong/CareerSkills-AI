@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036590
+coursetitle: CoC in Green Digital Transformation 2.0
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

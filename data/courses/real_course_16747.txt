@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004391
+coursetitle: STANDARD FIRST AID COURSE WITH CPR+AED (For NROC Coaches)
+trainingprovideruen: 201330775N
+trainingprovideralias: SINGAPORE AMBULANCE SERVICE & TRAINING PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-02 00:00:00
+mode_of_training: Classroom

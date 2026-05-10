@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046451
+coursetitle: Future of Int'l Commercial Arbitration in APAC Region
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

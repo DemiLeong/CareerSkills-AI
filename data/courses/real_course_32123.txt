@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504282
+coursetitle: Advanced Certificate in Competitive Sales and Marketing Module 3: Marketing & Sales to the Chinese Consumer - Strategies & Techniques for Effective Selling
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

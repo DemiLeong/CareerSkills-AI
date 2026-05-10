@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002651
+coursetitle: Professional Certificate in Immersive Media and Extended Reality Module 3: Exploring Augmented Reality with Unity3D
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017506721
+coursetitle: Certificate in Network & Systems Technologies (Modular Certificate 5 of Diploma in Infocomm and Digital Media (ICT Systems, Services & Support))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

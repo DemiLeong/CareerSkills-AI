@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004955
+coursetitle: Let's work on easy-to-understand reports! Effective data visualisation and communication
+trainingprovideruen: T04SS0109E
+trainingprovideralias: Institute of Singapore Chartered Accountants
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

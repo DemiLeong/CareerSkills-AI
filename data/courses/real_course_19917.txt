@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037571
+coursetitle: Mastering Business Performance Management (Synchronous and Asynchronous E-learning)
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-13 00:00:00
+mode_of_training: Synchronous eLearning

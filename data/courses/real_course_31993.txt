@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011321
+coursetitle: Modular Certificate in Food Safety & Quality Management (part of Diploma in Applied Science (Food Technology))
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-09-25 00:00:00
+courserunenddate: 2026-07-19 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513141
+coursetitle: Service Excellence 4.0 (Classroom & Asynchronous)
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

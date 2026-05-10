@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053596
+coursetitle: Brand Building and Protection in the Digital Economy and Artificial Intelligence (AI) era
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

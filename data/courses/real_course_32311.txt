@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048305
+coursetitle: Adopt a Culture of Continuous Learning for Better Team Results
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

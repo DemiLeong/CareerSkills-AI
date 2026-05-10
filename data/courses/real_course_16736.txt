@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500315
+coursetitle: Post Diploma Certificate in Advanced Clinical Practicum in Critical Care Nursing - Part of Advanced Diploma in Critical Care Nursing (ADCR1)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

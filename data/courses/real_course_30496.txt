@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044434
+coursetitle: Challenges of Deep Uncertainty: Develop a Robust Decision-Making Strategy
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

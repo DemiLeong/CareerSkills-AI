@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500136
+coursetitle: BCM-320: Developing Business Continuity Strategies and Plans
+trainingprovideruen: 200512017R
+trainingprovideralias: BCMI PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

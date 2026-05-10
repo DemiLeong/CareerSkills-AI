@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502683
+coursetitle: MASTER OF ARTS
+trainingprovideruen: 200604393R
+trainingprovideralias: NIE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

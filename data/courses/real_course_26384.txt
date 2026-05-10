@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045310
+coursetitle: Service Excellence
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

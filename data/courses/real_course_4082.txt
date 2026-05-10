@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014056
+coursetitle: Cleaning Chemical Handling (Level 3)
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

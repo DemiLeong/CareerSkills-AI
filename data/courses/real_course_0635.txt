@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504436
+coursetitle: People and Relationship Management for Ambassadors
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035671
+coursetitle: Computational Modelling for Business Intelligence Professionals
+trainingprovideruen: 199104974R
+trainingprovideralias: TRAINING VISION INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

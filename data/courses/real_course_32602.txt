@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002410
+coursetitle: Unmanned Aircraft Pilot Licence (UAPL) Theory Course
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

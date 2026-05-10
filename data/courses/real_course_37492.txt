@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038452
+coursetitle: (eCornell) Operating a Profitable and Responsible Beverage Program
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

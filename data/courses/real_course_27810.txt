@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014996
+coursetitle: Inventory Management and Control in Supply Chains, Warehouse Automation and Operations Strategy Development  (Synchronous e-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

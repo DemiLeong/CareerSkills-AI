@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049903
+coursetitle: MAGIC: Make A Great Impression On Customers
+trainingprovideruen: 200415265M
+trainingprovideralias: IMAGEWORKS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

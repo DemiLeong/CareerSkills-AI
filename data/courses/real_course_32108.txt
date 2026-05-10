@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035965
+coursetitle: Design Innovation (2nd diamond): Critical Design Thinking Approach to Ideate, Prototype and Pitch Proposed Solutions
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008978
+coursetitle: C3A Mental Wellbeing Curriculum - Riding the Waves of Change Smiling (English)
+trainingprovideruen: 200511211D
+trainingprovideralias: CONFUCIUS INSTITUTE, NANYANG TECHNOLOGICAL UNIVERSITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

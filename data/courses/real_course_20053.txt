@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504165
+coursetitle: Manage Change (Classroom and Asynchronous eLearning)
+trainingprovideruen: 200800722R
+trainingprovideralias: PARKWAY COLLEGE OF NURSING & ALLIED HEALTH PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

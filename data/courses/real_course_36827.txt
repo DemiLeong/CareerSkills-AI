@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017500546
+coursetitle: Apply Teamwork in the Work Place
+trainingprovideruen: 53153311E
+trainingprovideralias: IMPACT ANALYSIS ACADEMY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

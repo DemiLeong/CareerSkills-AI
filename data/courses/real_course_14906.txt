@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016432
+coursetitle: Food Safety Course Level 1
+trainingprovideruen: 201400645K
+trainingprovideralias: AESTHETICAR PTE. LTD.
+courserunstartdate: 2025-06-29 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039109
+coursetitle: NE 204: Entrepreneurial Marketing in the Digital Era: Customer Experience
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

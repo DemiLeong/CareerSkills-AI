@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500995
+coursetitle: Workplace Safety and Health Control Measures (Develop a Risk Management Implementation Plan)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: 2025-11-20 00:00:00
+courserunenddate: 2025-11-26 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014501155
+coursetitle: Implement Incident Management Process
+trainingprovideruen: 200401671R
+trainingprovideralias: GREENCROSS SAFETY FIRE AND EQUIPMENT CONSULTANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

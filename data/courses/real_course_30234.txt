@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049411
+coursetitle: SFQB: RISE For Business - Omnichannel Sales and Marketing Module 4 of 4: Implementation & Capstone (Sync E-learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: 2025-09-29 00:00:00
+courserunenddate: 2025-11-17 00:00:00
+mode_of_training: Synchronous eLearning

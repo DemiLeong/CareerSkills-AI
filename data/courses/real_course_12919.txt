@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008152
+coursetitle: Strategic Workforce Planning in Collaboration with SHRM L5 (Classroom and Asynchronous E-learning)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

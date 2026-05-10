@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035931
+coursetitle: ACLP v1 E2 (FLP): Assess Workplace Learning (Synchronous e-learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

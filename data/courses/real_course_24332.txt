@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500883
+coursetitle: Coordinate Implementation of Emergency Preparedness and Response Plans
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

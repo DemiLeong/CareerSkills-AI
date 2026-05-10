@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036993
+coursetitle: Fundamentals of the Personal Data Protection Act (2020)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

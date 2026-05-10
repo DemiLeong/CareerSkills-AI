@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503032
+coursetitle: PWM-Security: Deterrence (Manage Disorderly Conduct & Threatening Behavior)
+trainingprovideruen: 200410167W
+trainingprovideralias: CERTIS CISCO SECURITY PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: In-house

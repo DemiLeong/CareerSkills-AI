@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035790
+coursetitle: Computational Building Information Modelling (BIM): Python Scripting in Dynamo for Revit
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

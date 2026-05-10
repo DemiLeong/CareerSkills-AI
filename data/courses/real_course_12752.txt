@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045366
+coursetitle: Satir Model: Enhance Interpersonal Skills and Strengthen Relationships
+trainingprovideruen: 199900986N
+trainingprovideralias: ACADEMY OF HUMAN DEVELOPMENT PTE LTD
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2025-09-09 00:00:00
+mode_of_training: Classroom

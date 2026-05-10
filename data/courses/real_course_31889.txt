@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023041011
+coursetitle: Employee Engagement & Change Management: Building an Agile Customer Centric Culture (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

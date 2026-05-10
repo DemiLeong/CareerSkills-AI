@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504342
+coursetitle: WSQ ACLP - Modules 1 and 2 (Synchronous & Asynchronous e-Learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

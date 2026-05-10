@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036141
+coursetitle: Apply Workplace safety and Health in Process Plant
+trainingprovideruen: 201224668D
+trainingprovideralias: ENSURE SAFE CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

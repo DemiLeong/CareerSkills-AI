@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018870
+coursetitle: Developing Agility for Career Growth
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

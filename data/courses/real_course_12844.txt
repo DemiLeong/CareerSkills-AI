@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018375
+coursetitle: Manage Strategic Resources for Supply Chain - OPTIMIZATION
+trainingprovideruen: 201014268Z
+trainingprovideralias: SMF CENTRE FOR CORPORATE LEARNING PTE. LTD.
+courserunstartdate: 2025-08-02 00:00:00
+courserunenddate: 2025-09-16 00:00:00
+mode_of_training: Classroom

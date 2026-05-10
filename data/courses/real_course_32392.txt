@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046942
+coursetitle: DevOps Hands-on Training with Terraform, Jenkins, GitHub, and SonarQube (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,16 @@
+Course Name: Software Engineer Professional Course 10
+Provider: SkillsFuture Singapore
+
+Skills Covered:
+- Java
+- Python
+- Git
+- APIs
+
+Level: Advanced
+
+Description:
+Learn essential and advanced skills for becoming a Software Engineer.
+
+Outcome:
+Prepare for Software Engineer job roles and career advancement.

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503203
+coursetitle: WSQ Perform Design and Installation of PV Systems & WSQ Perform Maintenance of PV System
+trainingprovideruen: T06SS0142H
+trainingprovideralias: Sustainable Energy Association of Singapore (SEAS)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

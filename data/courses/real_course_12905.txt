@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503133
+coursetitle: Customer Service Innovation Level 5 (Classroom & Asynchronous E-Learning)
+trainingprovideruen: 201621216E
+trainingprovideralias: THE LEADERSHIP INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

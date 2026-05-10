@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051678
+coursetitle: Transforming Business with GPT: Hands-On Generative AI Applications
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-10-28 00:00:00
+courserunenddate: 2025-11-08 00:00:00
+mode_of_training: Synchronous eLearning

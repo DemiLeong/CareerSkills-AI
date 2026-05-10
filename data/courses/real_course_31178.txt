@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020001029
+coursetitle: Finance for Non-Finance Managers
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-08-06 00:00:00
+courserunenddate: 2025-08-07 00:00:00
+mode_of_training: Classroom

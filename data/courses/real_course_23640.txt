@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013193
+coursetitle: Perform Rigger and Signalman Tasks (Mandarin)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007758
+coursetitle: Post-Diploma Certificate in Embedded Software Design & Applications (Part ofÂ  Specialist Diploma in Edge Intelligence and Embedded Systems)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

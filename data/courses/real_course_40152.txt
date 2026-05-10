@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500168
+coursetitle: Respond to Fire and Hazmat Emergency
+trainingprovideruen: 197701742H
+trainingprovideralias: PETROCHEMICAL CORPORATION OF SINGAPORE (PRIVATE) LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

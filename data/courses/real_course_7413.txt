@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018161
+coursetitle: Advanced Certificate in Metaverse and Artificial Intelligence Module 7: Data Management, Privacy and Regulations in Web 3.0 and Digital Future (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

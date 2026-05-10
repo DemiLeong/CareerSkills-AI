@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048858
+coursetitle: Empowering Educators: Building Strong Foundations in Student Assessment and AI Integration (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

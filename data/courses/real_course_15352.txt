@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009406
+coursetitle: Professional Certificate in No-Code Essentials Module 1: The Fundamentals of No-Code and the No-Code Ecosystem
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

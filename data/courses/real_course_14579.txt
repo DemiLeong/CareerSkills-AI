@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008934
+coursetitle: Advanced Certificate in Logistics and Supply Chain Management Module 2: Planning the Supply Chain - Network Design and Demand and Supply Planning (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

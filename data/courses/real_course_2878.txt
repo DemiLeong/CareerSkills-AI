@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502102
+coursetitle: Deterrence (Perform Security Duties at Protected Areas and Protected Places)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

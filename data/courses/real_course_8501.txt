@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050850
+coursetitle: Advanced Certificate in Business Innovation for Small and Medium-sized Enterprises (SMEs) Module 3: Content Creation, Digital Marketing and the Use of Generative Artificial Intelligence (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

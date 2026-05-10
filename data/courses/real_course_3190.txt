@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037494
+coursetitle: PWMâ€“Waste Management: Carry out collection of Class A and Class B general waste and recyclable waste
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

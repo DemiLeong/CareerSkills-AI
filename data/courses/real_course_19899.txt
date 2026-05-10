@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041602
+coursetitle: PWM-Cleaning: Cleaning Chemical Handling (Level 2) AOP
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: 2025-07-31 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Assessment

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009431
+coursetitle: Principles of Intruder Alarm System (Classroom & Asynchronous)
+trainingprovideruen: 201503647E
+trainingprovideralias: APOLLO GLOBAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

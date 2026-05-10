@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040254
+coursetitle: Workplace Safety and Health for Food & Beverage Operations
+trainingprovideruen: 201618138N
+trainingprovideralias: SSA CULINARY INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

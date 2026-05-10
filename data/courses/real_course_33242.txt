@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055624
+coursetitle: Modular Certificate in Digital Communication (in Diploma in Design (Digital Commerce & Experience))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2027-04-19 00:00:00
+courserunenddate: 2027-10-17 00:00:00
+mode_of_training: Classroom

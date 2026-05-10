@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008806
+coursetitle: Select and arrange flowers and foliage in accordance to the floral design (Classroom, Synchronous & Asynchronous e-learning)
+trainingprovideruen: 201317013M
+trainingprovideralias: TROPIFAME FLORAL DESIGN SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

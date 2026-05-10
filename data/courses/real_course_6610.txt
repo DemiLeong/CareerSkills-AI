@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011854
+coursetitle: WSQ Digital Marketing â€“ Social Media Fundamentals
+trainingprovideruen: 201438045H
+trainingprovideralias: PPP ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

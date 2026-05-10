@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015489
+coursetitle: PWMâ€“Waste Management: Operate automated systems and follow safety procedures in waste sorting operations
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

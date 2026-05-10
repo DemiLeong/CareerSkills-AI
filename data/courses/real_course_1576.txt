@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502776
+coursetitle: Human Resource Strategy Formulation Level 4: Align Human Resource Services with Business Needs (Synchronous e-Learning)
+trainingprovideruen: 200903531C
+trainingprovideralias: HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

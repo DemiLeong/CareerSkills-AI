@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041565
+coursetitle: Participatory Research for Social Services (Synchronous E-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

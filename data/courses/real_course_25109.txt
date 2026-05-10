@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013416
+coursetitle: Individualised Intervention Planning and Implementation for Children with Special Needs
+trainingprovideruen: 201013690M
+trainingprovideralias: COLLEGE OF ALLIED EDUCATORS PTE. LTD.
+courserunstartdate: 2025-08-06 00:00:00
+courserunenddate: 2025-08-16 00:00:00
+mode_of_training: Classroom

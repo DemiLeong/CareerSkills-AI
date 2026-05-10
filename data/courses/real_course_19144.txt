@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016502864
+coursetitle: NSA -  Mindfulness Based Stress Reduction Course
+trainingprovideruen: 200200167M
+trainingprovideralias: Brahm Centre
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

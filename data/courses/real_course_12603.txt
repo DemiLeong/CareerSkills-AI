@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011069
+coursetitle: Business Model Innovation (Level 4) (SF)
+trainingprovideruen: 201020518M
+trainingprovideralias: RAFFLES SKILLS LAB INTERNATIONAL TRAINING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503047
+coursetitle: PWM-Security: Security Operation Compliance (Perform Supervisory Duties within Legal Framework)
+trainingprovideruen: 200410167W
+trainingprovideralias: CERTIS CISCO SECURITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

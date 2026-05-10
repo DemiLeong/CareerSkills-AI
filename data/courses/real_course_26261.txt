@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006646
+coursetitle: EEE6110 Professional Practices in Electrical Engineering
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

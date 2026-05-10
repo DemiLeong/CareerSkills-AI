@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038997
+coursetitle: Biorisk Management Level 5
+trainingprovideruen: 53343996E
+trainingprovideralias: TED TRAUM INSTITUTE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

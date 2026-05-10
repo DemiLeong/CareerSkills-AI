@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500716
+coursetitle: Chemical Cleaning Handling and Effectiveness Management (SF)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

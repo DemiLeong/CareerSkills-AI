@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051215
+coursetitle: Advanced Certificate in Sustainable Procurement Module 4: Leading Procurement in Environmental, Social,Â andÂ Governance (ESG)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

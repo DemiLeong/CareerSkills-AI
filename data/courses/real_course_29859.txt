@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042584
+coursetitle: Green Supply Chain and Sustainable Procurement
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: 2025-11-11 00:00:00
+courserunenddate: 2025-11-14 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006859
+coursetitle: Human Resource Practices and Implementation Strategies L4 powered by SHRM (SF) (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

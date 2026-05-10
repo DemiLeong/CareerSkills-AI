@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051193
+coursetitle: Cognitive Rehabilitation for Occupational Therapists (Synchronous e-Learning)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: 2025-08-05 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007570
+coursetitle: Ground Handling Operations (in MC in Ground Operations in Part-time Diploma in Engineering (Aviation Management))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

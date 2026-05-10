@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039721
+coursetitle: Advanced Certificate in Event Management and Entertainment: Event Production- Materials & Facilities
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

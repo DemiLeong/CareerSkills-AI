@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044385
+coursetitle: Graduate Certificate in Innovative Approaches to Adult Learning
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

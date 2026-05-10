@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037723
+coursetitle: PWM-Cleaning: Incident and Accident Investigation (Level 2)
+trainingprovideruen: 201434206M
+trainingprovideralias: WORK WORK PRIVATE LIMITED
+courserunstartdate: 2025-07-31 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Classroom

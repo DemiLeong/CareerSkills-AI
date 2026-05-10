@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020965
+coursetitle: WSQ - Inter-professional Collaborative Practice (IPCP)
+trainingprovideruen: 200002698Z
+trainingprovideralias: SINGAPORE HEALTH SERVICES PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

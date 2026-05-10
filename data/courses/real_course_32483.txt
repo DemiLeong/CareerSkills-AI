@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013224
+coursetitle: Supervise Safe Lifting Operations (Mandarin)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

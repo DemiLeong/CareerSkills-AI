@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502613
+coursetitle: BACHELOR OF ENGINEERING (COMPUTER ENGINEERING)
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

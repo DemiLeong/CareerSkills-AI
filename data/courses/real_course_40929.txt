@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500445
+coursetitle: Investigate and Report WSH Incidents
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

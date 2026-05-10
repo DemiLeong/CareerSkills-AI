@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037743
+coursetitle: Make a Positive Impression Through Personal Presentation
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048850
+coursetitle: Building a Step-by-Step Plan for Smarter Investment Decisions using Generative AI (GenAI) (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

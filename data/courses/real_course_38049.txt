@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052927
+coursetitle: SAP S/4HANA Procurement Part 1
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-09-20 00:00:00
+mode_of_training: Classroom

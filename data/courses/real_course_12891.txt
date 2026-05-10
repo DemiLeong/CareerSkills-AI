@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015517
+coursetitle: Retail (SF): Problem Identification L4
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-01 00:00:00
+mode_of_training: Classroom

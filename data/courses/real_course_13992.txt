@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050857
+coursetitle: Advanced Certificate in Business Innovation for Small and Medium-sized Enterprises (SMEs) Module 6: Leadership in SMEs
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-18 00:00:00
+courserunenddate: 2025-09-19 00:00:00
+mode_of_training: Classroom

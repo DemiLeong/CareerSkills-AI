@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021573
+coursetitle: DSI6000 Company Applied Research Design Studio (Classroom & Asynchronous e-Learning)Â Â
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

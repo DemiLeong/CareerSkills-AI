@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015145
+coursetitle: International Basic and Pre-Intermediate Gelato Course (Classroom & Asynchronous e-learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-12-15 00:00:00
+courserunenddate: 2025-12-19 00:00:00
+mode_of_training: Classroom

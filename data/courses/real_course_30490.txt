@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500629
+coursetitle: L1 Public Hygiene Maintenance - Residential
+trainingprovideruen: 200102457M
+trainingprovideralias: TRAINING MASTERS WORKFORCE INSTITUTE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

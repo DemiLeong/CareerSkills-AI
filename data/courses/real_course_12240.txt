@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051357
+coursetitle: Building Mental & Emotional Resilience for Professional Excellence
+trainingprovideruen: 199901129K
+trainingprovideralias: MIND TRANSFORMATIONS PTE LTD
+courserunstartdate: 2025-08-29 00:00:00
+courserunenddate: 2025-08-31 00:00:00
+mode_of_training: Classroom

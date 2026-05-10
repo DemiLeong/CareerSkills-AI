@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505294
+coursetitle: Business Chinese Comprehensive (Beginner Level 1.1) + BCT (Speaking) & (A)
+trainingprovideruen: 200511211D
+trainingprovideralias: CONFUCIUS INSTITUTE, NANYANG TECHNOLOGICAL UNIVERSITY PTE. LTD.
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-09-27 00:00:00
+mode_of_training: Classroom

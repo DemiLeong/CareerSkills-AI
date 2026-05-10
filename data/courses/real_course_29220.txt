@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037652
+coursetitle: PWM-Food Services: Workplace Safety and Health for Food and Beverage Operations (8 hours) - Chinese
+trainingprovideruen: 201400645K
+trainingprovideralias: AESTHETICAR PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

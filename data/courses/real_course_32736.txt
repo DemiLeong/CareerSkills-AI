@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055185
+coursetitle: Security Escort (Perform Prisoners/Persons in Custody Escort)
+trainingprovideruen: 200410167W
+trainingprovideralias: CERTIS CISCO SECURITY PTE. LTD.
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2025-09-06 00:00:00
+mode_of_training: Classroom

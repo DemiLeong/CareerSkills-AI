@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015306
+coursetitle: Secrets to Engaging Your Boss Effectively at the Workplace
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

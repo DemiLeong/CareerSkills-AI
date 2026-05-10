@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040439
+coursetitle: Advanced Certificate in Strategic Sourcing Module 4: Finance and Data Analytics for Procurement
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2025-09-09 00:00:00
+mode_of_training: Classroom

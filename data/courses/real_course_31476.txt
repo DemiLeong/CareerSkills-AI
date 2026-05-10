@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037491
+coursetitle: PWMâ€“Waste Management & PWMâ€“Cleaning: Operate hook-lift mounted trucks and equipment to collect and transport waste during waste collection
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

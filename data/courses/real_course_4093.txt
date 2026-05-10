@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504328
+coursetitle: Job Seeker 4.0: Leverage digital job seeking platforms for employability success
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS INSTITUTE OF HIGHER LEARNING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

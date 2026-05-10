@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503294
+coursetitle: Creative Outdoor Learning Experiences for 3 and 4 Year Olds
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046868
+coursetitle: Family-Centric Planning & Community Integration for Individuals with Autism (in PDC in Interventions & Collaborative Practices for Individuals with Autism in Specialist Diploma in Applied Autism Studies)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

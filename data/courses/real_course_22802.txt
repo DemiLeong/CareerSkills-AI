@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501001
+coursetitle: Washroom Maintenance
+trainingprovideruen: 200912246G
+trainingprovideralias: RE SUSTAINABILITY CLEANTECH PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

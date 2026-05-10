@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502967
+coursetitle: DOS5101A Managing the Financial Supply Chain
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

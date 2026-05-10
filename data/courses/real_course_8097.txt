@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038532
+coursetitle: (eCornell) Using Design Thinking in HR
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039753
+coursetitle: Professional Certificate in Coaching Module 4: Certified Coaching Skills (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-07-30 00:00:00
+mode_of_training: Synchronous eLearning

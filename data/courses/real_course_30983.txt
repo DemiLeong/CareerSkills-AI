@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052980
+coursetitle: Effective Engagement of Individuals with Autism Spectrum Disorder (ASD) and Attention Deficit Hyperactivity Disorder (ADHD): Practical Skills for Educators & Caregivers
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-06-30 00:00:00
+mode_of_training: Classroom

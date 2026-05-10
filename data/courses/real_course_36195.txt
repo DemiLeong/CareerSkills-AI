@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500363
+coursetitle: WSQ-Operate Forklift (Without Class 3 License)
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

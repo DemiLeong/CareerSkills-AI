@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004843
+coursetitle: PWM-Security Access Control Management (Operate Basic Security Equipment)
+trainingprovideruen: 200617156R
+trainingprovideralias: ARIEL SECURITY ACADEMY PTE. LTD.
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-07-01 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015627
+coursetitle: Deterrence (Perform Security Duties at Protected Areas and Protected Places)
+trainingprovideruen: 198305397E
+trainingprovideralias: PROSPECT PROTECTION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

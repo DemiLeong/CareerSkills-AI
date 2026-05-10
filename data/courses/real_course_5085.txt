@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502876
+coursetitle: PWM-Security: Threat Observation (Recognise Terrorist Threats)
+trainingprovideruen: 200609670D
+trainingprovideralias: KNOWLEDGETREE TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Classroom

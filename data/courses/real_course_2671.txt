@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500174
+coursetitle: OCCUPATIONAL FIRST AID COURSE (OFAC)
+trainingprovideruen: 200723351G
+trainingprovideralias: GREENSAFE INTERNATIONAL PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

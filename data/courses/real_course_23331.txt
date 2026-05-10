@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007316
+coursetitle: Workplace Safety and Health Practices Implementation
+trainingprovideruen: 201212886E
+trainingprovideralias: LEARNCOLLAB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

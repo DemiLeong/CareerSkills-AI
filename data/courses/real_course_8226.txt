@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048906
+coursetitle: ITILÂ®4 Strategist: Direct, Plan, and Improve (DPI) Training (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

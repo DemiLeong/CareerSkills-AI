@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046296
+coursetitle: Empowering Businesses through Artificial Intelligence (AI), Generative Pre-trained Transformer (GPT), Cloud Agility and Cyber Security Design (Classroom and Asynchronous Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

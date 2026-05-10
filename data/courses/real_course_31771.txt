@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052245
+coursetitle: Post-Diploma Certificate in AI-Driven Data Insights (in Specialist Diploma in AI-Driven Data Analytics)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-10-20 00:00:00
+courserunenddate: 2026-04-19 00:00:00
+mode_of_training: Classroom

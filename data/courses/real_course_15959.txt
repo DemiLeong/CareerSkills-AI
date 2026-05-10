@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002415
+coursetitle: Post Diploma Certificate in Data Visualization and Programming for Analytics - Part of Specialist Diploma in Data Analytics (SDDA)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

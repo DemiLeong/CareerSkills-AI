@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046213
+coursetitle: Master of Arts (History) NUS-LSE Double Degree Programme
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

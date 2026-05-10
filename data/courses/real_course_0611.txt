@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010170
+coursetitle: PWM-Food Services: Food Safety Course Level 1 - Chinese (Refresher)
+trainingprovideruen: 201229599Z
+trainingprovideralias: AVANTA ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-15 00:00:00
+courserunenddate: 2025-07-15 00:00:00
+mode_of_training: Classroom

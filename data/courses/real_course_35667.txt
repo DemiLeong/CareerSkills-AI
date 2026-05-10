@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504384
+coursetitle: WSQ Tourist Guide Course SFw
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

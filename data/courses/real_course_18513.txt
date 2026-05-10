@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054086
+coursetitle: Food Safety Course Level 1
+trainingprovideruen: 201011781M
+trainingprovideralias: JACIN SECURITY SERVICES PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

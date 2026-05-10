@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049566
+coursetitle: Accounting with QuickBooks Online (Synchronous e-learning)
+trainingprovideruen: 201809937E
+trainingprovideralias: TISCH GLOBAL PRIVATE LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005025
+coursetitle: BACHELOR OF SOCIAL SCIENCES IN PSYCHOLOGY AND MEDIA ANALYTICS
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

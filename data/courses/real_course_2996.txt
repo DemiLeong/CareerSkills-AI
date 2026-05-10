@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048735
+coursetitle: Effective Communication and Collaboration with Families & Other Professionals [ECFO] å¹¼å„¿å›­ä¸Žå®¶åº­å’Œä¸“ä¸šäººå‘˜çš„æœ‰æ•ˆæ²Ÿé€šä¸Žåˆ ä½œ (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022074
+coursetitle: PWM-SECURITY: SECURITY SURVEILLANCE MANAGEMENT (PERFORM REMOTE SURVEILLANCE FUNCTION)
+trainingprovideruen: 200606684K
+trainingprovideralias: AETOS TRAINING ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

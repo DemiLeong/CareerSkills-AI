@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023030520
+coursetitle: Insights Discovery, the beginning of self-discovery (Synchronous)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

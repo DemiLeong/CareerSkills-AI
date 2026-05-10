@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014522
+coursetitle: Principles of CCTV 2 - Design, Installation and Testing of Security Surveillance Information Communications Systems
+trainingprovideruen: 201503647E
+trainingprovideralias: APOLLO GLOBAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

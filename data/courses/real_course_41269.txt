@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503651
+coursetitle: Professional Certificate in Real Estate Investing â€“ Singapore Real Estate Market Analysis and Economics (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

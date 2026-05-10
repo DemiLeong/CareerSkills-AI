@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505910
+coursetitle: Digital Marketing Management: Planning and Implementing Integrated Marketing Campaigns
+trainingprovideruen: 201213801E
+trainingprovideralias: HASHMETA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

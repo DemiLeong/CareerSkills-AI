@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015660
+coursetitle: MTD913C Teaching and Learning in Higher Education: Reflective Practice (Classroom & asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

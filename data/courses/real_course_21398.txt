@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051785
+coursetitle: Strategic Digital Transformation (Classroom & Asynchronous e-learning)
+trainingprovideruen: 200516087K
+trainingprovideralias: MOMENTA GROUP PTE. LTD.
+courserunstartdate: 2025-08-20 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

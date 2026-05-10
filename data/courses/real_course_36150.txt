@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500431
+coursetitle: MAKE CLASSIC COOKIES
+trainingprovideruen: 200409177Z
+trainingprovideralias: XPRIENZ PTE. LTD.
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

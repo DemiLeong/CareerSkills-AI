@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055862
+coursetitle: AI-Driven Communication Strategies to Drive Service Excellence
+trainingprovideruen: 201940174R
+trainingprovideralias: EDUSPHERE COLLEGE OF MANAGEMENT AND TECHNOLOGY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

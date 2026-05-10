@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505397
+coursetitle: Designing for digital platforms
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

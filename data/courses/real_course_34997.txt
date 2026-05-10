@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012189
+coursetitle: Advanced Techniques in Business Analytics using Data Analysis Expressions (DAX) & ChatGPT
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

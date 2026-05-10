@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045442
+coursetitle: (PDECCE-T/CCP) Young Childrenâ€™s Language and Literacy Education
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

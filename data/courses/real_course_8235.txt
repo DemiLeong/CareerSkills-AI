@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046696
+coursetitle: CRISC - ISACA Certified in Risk and Information Systems Control (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

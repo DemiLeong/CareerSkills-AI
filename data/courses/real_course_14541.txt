@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053781
+coursetitle: Fundamentals of the Personal Data Protection Act (2020)
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

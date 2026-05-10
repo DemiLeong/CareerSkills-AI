@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504787
+coursetitle: Vision Leadership - Level 5
+trainingprovideruen: 201026450Z
+trainingprovideralias: ORGANISATIONAL DEVELOPMENT CONCEPTS PTE. LTD.
+courserunstartdate: 2025-10-09 00:00:00
+courserunenddate: 2025-10-10 00:00:00
+mode_of_training: Classroom

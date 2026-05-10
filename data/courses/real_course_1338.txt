@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039389
+coursetitle: Advanced Certificate in Governance, Risk Management and Data Compliance Module 2: Managing Performance, Stakeholders, Team Strengths for Data Governance
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

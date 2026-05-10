@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009026
+coursetitle: Post-Diploma Certificate 1 (PDC1) of the Specialist Diploma in Early Childhood Intervention (Special Needs) (SDESN)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-07-09 00:00:00
+courserunenddate: 2026-03-26 00:00:00
+mode_of_training: Synchronous eLearning

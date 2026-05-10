@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503878
+coursetitle: Personal Effectiveness - Level 4 (Classroom & Asynchronous)
+trainingprovideruen: 201026450Z
+trainingprovideralias: ORGANISATIONAL DEVELOPMENT CONCEPTS PTE. LTD.
+courserunstartdate: 2025-09-11 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

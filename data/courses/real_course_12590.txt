@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010280
+coursetitle: BCM-310: Assessing Risk and Business Impact Requirements (Synchronous and Asynchronous E-learning)
+trainingprovideruen: 200512017R
+trainingprovideralias: BCMI PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

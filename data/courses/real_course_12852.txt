@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009032
+coursetitle: Videography Techniques for Social Media Platforms
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

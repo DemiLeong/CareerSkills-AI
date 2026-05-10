@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018509517
+coursetitle: Terrorism and Society: Survey of Terrorist Groups in Modernity
+trainingprovideruen: 200504979Z
+trainingprovideralias: Singapore University of Social Sciences
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

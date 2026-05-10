@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041345
+coursetitle: NE 401: Acting Locally to Thinking Globally: Overseas Business Immersion Programme (Shanghai, China)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

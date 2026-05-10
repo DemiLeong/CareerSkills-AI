@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054848
+coursetitle: ESG (Environmental, Social and Governance) Strategies for HR (Human Resource) Professionals
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-15 00:00:00
+courserunenddate: 2025-10-16 00:00:00
+mode_of_training: Classroom

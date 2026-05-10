@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012563
+coursetitle: Bachelor of Science with Honours  in Digital Supply Chain
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

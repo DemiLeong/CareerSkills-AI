@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500667
+coursetitle: Make Tarts and Short-crust Pastry
+trainingprovideruen: 200821327E
+trainingprovideralias: ACETEK COLLEGE PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Classroom

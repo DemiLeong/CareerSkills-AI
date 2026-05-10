@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018505016
+coursetitle: PMI Agile Certified Practitioner (PMIACP)Â® (SF) (Synchronous E-Learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012724
+coursetitle: Supply Chain Management: Concepts, Distribution Network Design and Performance Measurement (Synchronous e-learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

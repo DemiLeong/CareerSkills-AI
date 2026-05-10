@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013214
+coursetitle: Apply Workplace Safety and Health in Construction Sites
+trainingprovideruen: 199403805W
+trainingprovideralias: FONDA GLOBAL ENGINEERING PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500498
+coursetitle: Apply Teamwork in the Workplace
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

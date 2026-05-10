@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503730
+coursetitle: Apply Quality Systems (Blended) SFw
+trainingprovideruen: S87SS0027A
+trainingprovideralias: Electronics Industries Training Centre
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

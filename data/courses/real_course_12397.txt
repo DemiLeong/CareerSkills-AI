@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010778
+coursetitle: Post-Diploma Certificate in Procedural Visual Effects (Part of Specialist Diploma in Visual Effects)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2026-04-08 00:00:00
+mode_of_training: Classroom

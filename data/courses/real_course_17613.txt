@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010207
+coursetitle: Ace Your Team Setup & Performance (Classroom and Asynchronous E-learning)
+trainingprovideruen: 199905014N
+trainingprovideralias: WIZLEARN TECHNOLOGIES PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

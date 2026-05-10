@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008415
+coursetitle: IEL0030 Design your Video Resume (Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

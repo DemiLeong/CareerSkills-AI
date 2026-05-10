@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013389
+coursetitle: WSQ Perform Work At Height
+trainingprovideruen: 199505441D
+trainingprovideralias: BS TECHNOLOGY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

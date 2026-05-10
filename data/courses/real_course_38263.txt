@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037864
+coursetitle: (SCTP) Advanced Certificate in Food Services (Pastry & Baking) Part-time
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Asian Culinary Institute of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

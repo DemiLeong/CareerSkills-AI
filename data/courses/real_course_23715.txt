@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038755
+coursetitle: WSQ ACLP v2 M1P(a): Adopt Skills Frameworks for Professional Growth (Synchronous e-learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

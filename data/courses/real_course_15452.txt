@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005422
+coursetitle: Applying Smart Tech in a Smart Way: The Right Approach to Digital Transformation (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

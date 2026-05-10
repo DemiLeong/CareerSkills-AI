@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="page-hero">
+
+    <div class="hero-overlay">
+
+        <h1>👤 Human Escalation</h1>
+
+        <p>
+            Submit a request for human review,
+            career guidance, or resume consultation.
+        </p>
+
+    </div>
+
+</div>
+
+
+<form class="form-card"
+      method="POST">
+
+    <label>Title / Salutation</label>
+
+    <select name="title">
+
+        <option>Mr.</option>
+        <option>Ms.</option>
+        <option>Mrs.</option>
+        <option>Mdm.</option>
+        <option>Dr.</option>
+
+    </select>
+
+
+    <label>First Name</label>
+
+    <input
+        type="text"
+        name="first_name">
+
+
+    <label>Last Name</label>
+
+    <input
+        type="text"
+        name="last_name">
+
+
+    <label>Email Address</label>
+
+    <input
+        type="email"
+        name="email">
+
+
+    <label>Years of Working Experience</label>
+
+    <input
+        type="number"
+        name="years_experience">
+
+
+    <label>Describe What You Need</label>
+
+    <textarea
+        name="request_description"
+        placeholder="Example: I would like a human advisor to review my resume."
+    ></textarea>
+
+
+    <button type="submit"
+            class="submit-btn">
+
+        Submit Request
+
+    </button>
+
+</form>
+
+
+{% if success_message %}
+<div class="response-card">
+
+    <h2>Success</h2>
+        <div class="ai-response">
+            {{ success_message | safe }}    
+        </div>
+</div>
+
+{% endif %}
+
+{% if error_message %}
+<div class="response-card">
+    <h2>Error</h2>
+    <div class="ai-response">
+        {{ error_message | safe }}
+    </div>
+</div>
+
+
+
+{% endif %}
+
+{% endblock %}

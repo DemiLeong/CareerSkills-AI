@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010429
+coursetitle: Customer Database Management using HubSpot
+trainingprovideruen: 201734671R
+trainingprovideralias: FIRSTCOM ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

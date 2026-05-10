@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050551
+coursetitle: Decentralised Autonomous Organisations (DAOs): How Finance Can Interact with Blockchain-based DAOs (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-16 00:00:00
+courserunenddate: 2025-10-17 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041308
+coursetitle: Systems Thinking Habits for Champions
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

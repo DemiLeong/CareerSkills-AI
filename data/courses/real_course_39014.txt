@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054932
+coursetitle: Agentic AI & Retrieval-Augmented Generation (RAG): Designing Interactions with Artificial Intelligence
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-22 00:00:00
+courserunenddate: 2025-10-25 00:00:00
+mode_of_training: Classroom

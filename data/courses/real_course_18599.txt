@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053027
+coursetitle: Apply Advanced Coaching Skills Successfully
+trainingprovideruen: 202000681H
+trainingprovideralias: JADE LIFE AND WELLNESS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

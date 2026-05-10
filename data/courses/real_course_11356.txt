@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018955
+coursetitle: Entry Certificate in Business Analysis (ECBA) (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

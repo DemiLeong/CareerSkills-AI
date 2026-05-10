@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012595
+coursetitle: WSQ Advanced Certificate in Healthcare (Pharmacy Support) (Classroom, Synchronous & Asynchronous)
+trainingprovideruen: S61SS0072K
+trainingprovideralias: PHARMACEUTICAL SOCIETY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

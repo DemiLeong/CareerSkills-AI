@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501783
+coursetitle: Borrowing Base Lending
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-07 00:00:00
+courserunenddate: 2025-11-07 00:00:00
+mode_of_training: Classroom

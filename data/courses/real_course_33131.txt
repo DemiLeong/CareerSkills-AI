@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017501506
+coursetitle: Service Leadership (Level 3) (SF)
+trainingprovideruen: 200619372Z
+trainingprovideralias: LIGHTHOUSE GLOBAL TRAINING AND CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

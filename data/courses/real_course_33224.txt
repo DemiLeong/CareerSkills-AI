@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038769
+coursetitle: Advanced Certificate in Innovative Educational Technologies Module 2: Use Cases of Edtech (Synchronous & Asynchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

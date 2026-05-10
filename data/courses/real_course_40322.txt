@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055272
+coursetitle: Automate Excel Spreadsheets/Tables With Python For Beginners
+trainingprovideruen: 202139596G
+trainingprovideralias: SOZCODE PTE. LTD.
+courserunstartdate: 2025-07-26 00:00:00
+courserunenddate: 2025-07-27 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019205
+coursetitle: VBA Programming for Excel Macros
+trainingprovideruen: 200510122R
+trainingprovideralias: AUSTON INSTITUTE OF MANAGEMENT PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

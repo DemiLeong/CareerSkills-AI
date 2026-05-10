@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042270
+coursetitle: Residential Interior Design Courseâ€“ Design for Interiors (Advanced)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

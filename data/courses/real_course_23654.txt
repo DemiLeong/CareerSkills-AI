@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505290
+coursetitle: Business Chinese Reading & Writing (Pre-Intermediate Level 2) + BCT (A)
+trainingprovideruen: 200511211D
+trainingprovideralias: CONFUCIUS INSTITUTE, NANYANG TECHNOLOGICAL UNIVERSITY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

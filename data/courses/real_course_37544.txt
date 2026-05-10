@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503018
+coursetitle: PWM-Security: Capability Development (Induct Security Personnel)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-18 00:00:00
+courserunenddate: 2025-07-26 00:00:00
+mode_of_training: Classroom

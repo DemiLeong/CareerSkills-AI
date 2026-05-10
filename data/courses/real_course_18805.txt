@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015503043
+coursetitle: Certificate in Engineering Drafting & Design (part of Diploma in Engineering (Mechanical Technology))
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: 2026-04-20 00:00:00
+courserunenddate: 2026-09-30 00:00:00
+mode_of_training: Classroom

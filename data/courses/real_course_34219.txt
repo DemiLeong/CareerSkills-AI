@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015629
+coursetitle: PWMâ€“Waste Management & PWMâ€“Cleaning: Apply knowledge of robotic systems and automated technologies in Environmental Services
+trainingprovideruen: T01SS0141J
+trainingprovideralias: Waste Management and Recycling Association of Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045816
+coursetitle: (SCTP) Electrical Engineering with Emerging Technologies
+trainingprovideruen: 201427065Z
+trainingprovideralias: SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

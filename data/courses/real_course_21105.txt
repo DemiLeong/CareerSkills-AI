@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054658
+coursetitle: JLP - Costs and Enforcement
+trainingprovideruen: T09GB0002H
+trainingprovideralias: SINGAPORE ACADEMY OF LAW
+courserunstartdate: 2026-04-08 00:00:00
+courserunenddate: 2026-04-08 00:00:00
+mode_of_training: Classroom

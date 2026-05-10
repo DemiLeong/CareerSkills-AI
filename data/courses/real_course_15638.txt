@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017586
+coursetitle: Brand Management Programme (Synchronous E-Learning)
+trainingprovideruen: 200601238K
+trainingprovideralias: GLOBAL BRAND ACADEMY (PTE. LTD.)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

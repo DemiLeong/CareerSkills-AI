@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037448
+coursetitle: Food Safety Course Level 1 (Refresher) (Chinese)
+trainingprovideruen: 201618138N
+trainingprovideralias: SSA CULINARY INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

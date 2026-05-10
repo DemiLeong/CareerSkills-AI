@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005378
+coursetitle: Security Risk Analysis (Assess and Address Security Risks)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

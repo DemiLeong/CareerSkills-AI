@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002345
+coursetitle: CoC in Air Navigation (101 - Unmanned Aircraft Operations) Regulations
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

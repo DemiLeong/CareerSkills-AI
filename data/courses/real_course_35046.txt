@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503116
+coursetitle: Manpower Planning (Develop a Manpower Deployment Plan)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-08-04 00:00:00
+mode_of_training: Classroom

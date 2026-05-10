@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013525
+coursetitle: Kampong Favourites: Malay Gravies
+trainingprovideruen: 201618138N
+trainingprovideralias: SSA CULINARY INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-14 00:00:00
+mode_of_training: Classroom

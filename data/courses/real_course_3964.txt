@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504423
+coursetitle: PWM-Retail: Contribute to Customer Service Over Various Platforms (Customer Experience Management)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

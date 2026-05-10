@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500625
+coursetitle: Apply Failure Modes and Effects Analysis Techniques (synchronous e-Learning)
+trainingprovideruen: 201713293M
+trainingprovideralias: SQR PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

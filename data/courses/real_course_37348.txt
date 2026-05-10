@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036066
+coursetitle: SkillsFuture Digital Workplace 2.0 (SFDW 2.0) - Generic (Synchronous and Asynchronous E-Learning)
+trainingprovideruen: 200202841R
+trainingprovideralias: LITHAN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

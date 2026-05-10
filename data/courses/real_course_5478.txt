@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003023
+coursetitle: Driving Brand Engagement with Proven Instagram Social Media Marketing Strategies
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-08-29 00:00:00
+courserunenddate: 2026-08-30 00:00:00
+mode_of_training: Classroom

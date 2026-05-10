@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500538
+coursetitle: WSQâ€“Supervise Safe Lifting Operations
+trainingprovideruen: 201110331W
+trainingprovideralias: WONG FONG ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

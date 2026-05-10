@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502671
+coursetitle: Cloud Computing - What IT Auditors Needs to Know
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

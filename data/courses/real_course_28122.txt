@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046298
+coursetitle: Climate Action and Essentials of Carbon Markets
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

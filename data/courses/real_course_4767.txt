@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504450
+coursetitle: Digital Transformation in the Era of 5G & AI
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: 2025-08-16 00:00:00
+courserunenddate: 2025-09-06 00:00:00
+mode_of_training: Classroom

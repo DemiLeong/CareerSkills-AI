@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035907
+coursetitle: Immersive Video Editing
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2026-01-05 00:00:00
+courserunenddate: 2026-01-31 00:00:00
+mode_of_training: Classroom

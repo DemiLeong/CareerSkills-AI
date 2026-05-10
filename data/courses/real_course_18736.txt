@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014088
+coursetitle: Data Visualization Continues With Me
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

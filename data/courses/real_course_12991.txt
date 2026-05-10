@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013854
+coursetitle: Developing Inclusiveness Embracing Diversity At Successful Workplaces
+trainingprovideruen: 201212886E
+trainingprovideralias: LEARNCOLLAB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501833
+coursetitle: Getting to Yes, The Art of Successful Negotiation
+trainingprovideruen: 201621216E
+trainingprovideralias: THE LEADERSHIP INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

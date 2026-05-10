@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013668
+coursetitle: ISC2 Certified Cloud Security Professional Common Body of Knowledge (CCSP CBK) Training Seminar
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2026-02-23 00:00:00
+courserunenddate: 2026-02-27 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043181
+coursetitle: Apply Emotional Intelligence with Personal Effectiveness in the Workplace
+trainingprovideruen: 201300443R
+trainingprovideralias: EQ WORLD PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017500904
+coursetitle: Provide Workplace Safety and Security (SF)
+trainingprovideruen: 200415264C
+trainingprovideralias: COMPAS MANAGEMENT CONSULTING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

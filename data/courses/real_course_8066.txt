@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038826
+coursetitle: Advanced Certificate in Fintech and the Future of Finance Module 6: Beyond Tech and Finance â€“ Environmental, Social, and Governance (ESG) Considerations and Ethical Implications in Fintech (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-13 00:00:00
+mode_of_training: Synchronous eLearning

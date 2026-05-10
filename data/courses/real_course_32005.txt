@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046575
+coursetitle: Integrated-Work-Study Project in Operations Management (part of the PDC1 of Specialist Diploma in Biomedical & Pharmaceutical Engineering)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

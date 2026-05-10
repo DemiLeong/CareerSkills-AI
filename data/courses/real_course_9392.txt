@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049438
+coursetitle: Hybrid & Electric Vehicle Technology and Maintenance
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

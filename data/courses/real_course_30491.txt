@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016500159
+coursetitle: ES-IP-101G-1 Communicate and Relate Effectively at the Workplace (synchronous E-learning)
+trainingprovideruen: 201113270M
+trainingprovideralias: NATC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

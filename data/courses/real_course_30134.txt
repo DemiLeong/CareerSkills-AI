@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505254
+coursetitle: Project Professional Image with GEMS
+trainingprovideruen: 201012407H
+trainingprovideralias: GOLDEN COMPASS SCHOOL PTE. LTD.
+courserunstartdate: 2025-07-03 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

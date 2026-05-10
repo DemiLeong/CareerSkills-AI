@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502207
+coursetitle: Advanced Certificate in Data Protection Operational Excellence Module 3: Advanced Data Protection Techniques: Data Protection by Design, DPIA & DPTM
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-20 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

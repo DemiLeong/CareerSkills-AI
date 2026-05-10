@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014533
+coursetitle: Operator Maintainer (OMer) in Mandarin
+trainingprovideruen: T08GB0027D
+trainingprovideralias: Singapore Bus Academy
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

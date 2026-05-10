@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054660
+coursetitle: JLP - Understanding Financial Statements
+trainingprovideruen: T09GB0002H
+trainingprovideralias: SINGAPORE ACADEMY OF LAW
+courserunstartdate: 2025-11-05 00:00:00
+courserunenddate: 2025-11-06 00:00:00
+mode_of_training: Classroom

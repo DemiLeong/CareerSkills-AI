@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005313
+coursetitle: PWM-Security: Security Operation Compliance (Perform Supervisory Duties within Legal Framework)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-06 00:00:00
+mode_of_training: Classroom

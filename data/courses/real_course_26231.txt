@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021285
+coursetitle: Generative AI: Applications, Prompt Engineering and the power of ChatGPT
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-01 00:00:00
+courserunenddate: 2025-08-01 00:00:00
+mode_of_training: Classroom

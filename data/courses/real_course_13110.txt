@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503766
+coursetitle: WSQ Digital Campaign Management â€“ level 3
+trainingprovideruen: 198902296M
+trainingprovideralias: GENETIC COMPUTER SCHOOL PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

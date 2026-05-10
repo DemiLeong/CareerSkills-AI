@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049574
+coursetitle: Power Query & Power Pivot for Deep Analysis with Excel
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-07-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503295
+coursetitle: Leading and Supporting Outdoor Learning
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-08-23 00:00:00
+courserunenddate: 2025-09-13 00:00:00
+mode_of_training: Classroom

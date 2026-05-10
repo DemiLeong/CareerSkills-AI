@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049358
+coursetitle: Customer Relationship Management Operations
+trainingprovideruen: 201703757Z
+trainingprovideralias: ALL HEARTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

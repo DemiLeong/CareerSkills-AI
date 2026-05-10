@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039304
+coursetitle: Microsoft Cybersecurity Architect
+trainingprovideruen: 52993527M
+trainingprovideralias: INTELLISOFT SYSTEMS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046919
+coursetitle: (SCTP) Beyond the GIG Economy: Elevate your Freelance Career to The Next Level (Full-Time) (TA-eligible)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

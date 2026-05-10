@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504159
+coursetitle: WSQ Social Media Sales Robot (Facebook Marketing)
+trainingprovideruen: 201529371H
+trainingprovideralias: GEX ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

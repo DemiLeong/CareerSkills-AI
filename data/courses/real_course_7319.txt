@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018648
+coursetitle: Specialist Diploma in Workplace Safety and Health
+trainingprovideruen: 201612290Z
+trainingprovideralias: SISO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

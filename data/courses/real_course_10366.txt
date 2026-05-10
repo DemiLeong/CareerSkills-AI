@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013488
+coursetitle: Information Collection (Perform Investigation Activities In Compliance with Legal Requirements)
+trainingprovideruen: 201417778H
+trainingprovideralias: ACESTES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

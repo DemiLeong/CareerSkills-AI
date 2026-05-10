@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037487
+coursetitle: Operate Boom Lift(Bengali)
+trainingprovideruen: 200808289G
+trainingprovideralias: AUGUST INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052890
+coursetitle: Advanced Certificate in Generative Artificial Intelligence Apps Design and Prompt Engineering Module 1: Practical Approach to Large Language Models (LLMs) and Retrieval Augmented Generation (RAG)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2025-09-09 00:00:00
+mode_of_training: Classroom

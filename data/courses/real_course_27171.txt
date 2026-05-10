@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049142
+coursetitle: SFQB: RISE For Business - Digital Growth and Innovation Module 2 of 4: Specialisation Intermediate (Diagnostics) (Sync and Async E-learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

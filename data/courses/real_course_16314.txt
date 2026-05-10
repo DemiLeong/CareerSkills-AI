@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052709
+coursetitle: Essential Skills for Interior Designers: Industry Insights (Classroom and Synchronous e-learning)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Classroom

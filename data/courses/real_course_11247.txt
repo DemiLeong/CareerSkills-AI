@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005136
+coursetitle: Cybersecurity Incidence Response(in MC in Fundamentals of Cybersecurity & Forensics in Diploma in Policing & Security Management)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

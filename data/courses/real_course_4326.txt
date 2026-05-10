@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010343
+coursetitle: Security Tools Lab 1
+trainingprovideruen: 200913519C
+trainingprovideralias: SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043960
+coursetitle: A Practical Approach to Search Engine Marketing (Google Analytics) (Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

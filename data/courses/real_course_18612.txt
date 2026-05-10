@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017122
+coursetitle: Driving Sustainability in Green Technology â€“ Sustainability Leadership in Real Estate Sector
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046742
+coursetitle: Apply Workplace Safety and Health in Metal Work (Malay)
+trainingprovideruen: 200907682R
+trainingprovideralias: CONCORD ASSOCIATES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

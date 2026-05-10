@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050566
+coursetitle: Advanced Certificate in Entrepreneurship - Scale-Up Module 4: Customer Acquisition and Generating Sales
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

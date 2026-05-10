@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005265
+coursetitle: IIOT for Advanced Manufacturing (in MC in IIOT Technologies in Diploma in Engineering (Computer Engineering))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

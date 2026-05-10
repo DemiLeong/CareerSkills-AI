@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051890
+coursetitle: Child First Aid Full Course (Classroom & Asynchronous)
+trainingprovideruen: 200906386Z
+trainingprovideralias: ARIS INTEGRATED MEDICAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

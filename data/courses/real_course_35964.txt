@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046255
+coursetitle: TikTok Ecommerce Marketing
+trainingprovideruen: 201438045H
+trainingprovideralias: PPP ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-07-20 00:00:00
+mode_of_training: Classroom

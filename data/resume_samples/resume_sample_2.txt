@@ -1,0 +1,24 @@
+Name: Candidate 2
+
+Target Role: Data Scientist
+
+Skills:
+- Python
+- SQL
+- Communication
+- Problem Solving
+
+Education:
+Bachelor Degree in Computing or related field
+
+Experience:
+Worked on projects related to Data Scientist. Assisted in business and technical analysis tasks.
+
+Projects:
+- Dashboard development
+- AI model experimentation
+- Data analysis projects
+
+Certifications:
+- Google Data Analytics
+- AI Fundamentals

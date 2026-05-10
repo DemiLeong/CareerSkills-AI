@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016502879
+coursetitle: NSA -  Legal Matters for Seniors
+trainingprovideruen: S79SS0040B
+trainingprovideralias: Singapore Association For Continuing Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

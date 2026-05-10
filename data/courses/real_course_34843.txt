@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503762
+coursetitle: WSQ Manage Challenging Behaviours (English) (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

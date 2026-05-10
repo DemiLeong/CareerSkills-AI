@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014591
+coursetitle: PERFORM WORK IN CONFINED SPACE OPERATION
+trainingprovideruen: 201329358M
+trainingprovideralias: EFG TRAINING SERVICES PRIVATE LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

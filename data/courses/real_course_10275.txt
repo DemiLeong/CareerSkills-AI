@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053080
+coursetitle: Liquefied Natural Gas (LNG) Bunkering Course (Management and Operational Level) (Classroom and Synchronous)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

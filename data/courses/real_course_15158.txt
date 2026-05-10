@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044660
+coursetitle: Head & Neck Dissection Workshop for Otolaryngology (ENT) Residents
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

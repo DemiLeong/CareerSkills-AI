@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010840
+coursetitle: Supporting Social and Emotional Development of Preschoolers (Chinese) 4è‡³6å²å¹¼å„¿ç¤¾äº¤ä¸Žæƒ…ç»ªèƒ½åŠ›çš„å‘å±•ä¸Žä¿ƒè¿› (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

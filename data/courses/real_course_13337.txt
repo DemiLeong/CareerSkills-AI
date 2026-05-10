@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020506099
+coursetitle: Respond to Service Challenges (Service Challenges) (Chinese)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

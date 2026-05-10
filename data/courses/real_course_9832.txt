@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052421
+coursetitle: (SCTP) NUS Startup Founder: Launch and Manage a Business Successfully
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

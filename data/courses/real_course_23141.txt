@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048410
+coursetitle: INS0042 - Teaching STEM to Preschool Children
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019501720
+coursetitle: Service Challenges (synchronous E-learning)
+trainingprovideruen: 201113270M
+trainingprovideralias: NATC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

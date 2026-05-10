@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007381
+coursetitle: Chemical Engineering Principles (in MC in Chemical Plant Unit Operations in Part-Time Diploma in Applied Science (Chemical Technology))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

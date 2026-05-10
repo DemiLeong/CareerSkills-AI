@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047934
+coursetitle: Life Cycle Assessment with reference to ISO 14040:2006/Amd1: 2020 and ISO 14044:2006/Amd2: 2020
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: 2025-07-30 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Classroom

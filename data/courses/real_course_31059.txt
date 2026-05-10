@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005449
+coursetitle: Establish Lean Six Sigma Methodology
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

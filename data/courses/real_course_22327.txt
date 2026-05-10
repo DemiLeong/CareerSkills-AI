@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013018
+coursetitle: WSQ Respond to Fire Incident in Workplace
+trainingprovideruen: 201321976M
+trainingprovideralias: ERCM CONSULTANCY PTE. LTD.
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047405
+coursetitle: Enterprise Architecture Core
+trainingprovideruen: 200615051N
+trainingprovideralias: ATD SOLUTION (S) PTE. LTD.
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-01 00:00:00
+mode_of_training: Classroom

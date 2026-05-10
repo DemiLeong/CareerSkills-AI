@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051325
+coursetitle: Tech Up, Scale Up for Regional Expansion: Your Southeast-Asia Company Success Blueprint
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049779
+coursetitle: Environmental Performance and Compliance: Integrating ISO 14064 and LCA for Comprehensive Sustainability Reporting
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

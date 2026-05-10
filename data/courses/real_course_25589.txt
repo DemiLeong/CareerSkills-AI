@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038970
+coursetitle: Specialty Perfumery Craft
+trainingprovideruen: 201808948M
+trainingprovideralias: HAPPY TOGETHER PTE. LTD.
+courserunstartdate: 2025-08-14 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052408
+coursetitle: Graduate Certificate in Leading Learning, Innovation and Change Across Boundaries - GCLBX (f2f, sync) AY2025
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

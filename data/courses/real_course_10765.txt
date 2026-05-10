@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011501239
+coursetitle: Apply 5S Techniques
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

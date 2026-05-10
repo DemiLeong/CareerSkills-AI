@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016042
+coursetitle: MSL904 Educational Neuroscience: Principles, Perspectives, Practices (Classroom, synchronous & asynchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

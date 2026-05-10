@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018336
+coursetitle: Apply Workplace Safety and Health Policy (SF)
+trainingprovideruen: 201014268Z
+trainingprovideralias: SMF CENTRE FOR CORPORATE LEARNING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

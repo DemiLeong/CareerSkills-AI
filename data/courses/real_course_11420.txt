@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018296
+coursetitle: RISE for Financial Services - Data Analytics (Module 2: Advanced Data Analytics in Financial Services (Synchronous e-learning))
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016239
+coursetitle: Retail (SF): Workforce Diversity and Harmony L5
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035692
+coursetitle: Introduction to Tableting and Powder Handling - Characterisation and Industry Best Practices
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

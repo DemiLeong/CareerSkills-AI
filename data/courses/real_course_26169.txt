@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038226
+coursetitle: (eCornell) Telling a Data-Driven Story with Tableau
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

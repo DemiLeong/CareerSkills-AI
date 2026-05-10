@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023041023
+coursetitle: Integrated Digital Marketing with Generative AI
+trainingprovideruen: 201723514D
+trainingprovideralias: SOQ INTERNATIONAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-22 00:00:00
+courserunenddate: 2025-10-23 00:00:00
+mode_of_training: Classroom

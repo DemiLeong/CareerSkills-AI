@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009615
+coursetitle: Service Excellence (Synchronous & Asynchronous  E-learning)
+trainingprovideruen: 201113270M
+trainingprovideralias: NATC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

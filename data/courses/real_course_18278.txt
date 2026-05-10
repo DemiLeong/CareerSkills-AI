@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500851
+coursetitle: Fun Elements of Art in Chinese Language (Synchronous e-learning)
+trainingprovideruen: T08LL1246E
+trainingprovideralias: ART LOFT LLP
+courserunstartdate: 2025-09-24 00:00:00
+courserunenddate: 2025-09-25 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044130
+coursetitle: Large Language Models Overview and Applications (Synchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

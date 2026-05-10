@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020063
+coursetitle: Basic Care for Infants and Young Children
+trainingprovideruen: 201428614H
+trainingprovideralias: J L INSTITUTION PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

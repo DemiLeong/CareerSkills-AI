@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016798
+coursetitle: Data Analytics With Excel & Power BI
+trainingprovideruen: 201312189Z
+trainingprovideralias: INTELLISOFT TRAINING PTE. LTD.
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

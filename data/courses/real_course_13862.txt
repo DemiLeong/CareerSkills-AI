@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500786
+coursetitle: PWM Cleaning: Supervise Service Operations (SF)
+trainingprovideruen: 200702572Z
+trainingprovideralias: Integrated Training Consultants Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019220
+coursetitle: (SCTP) WSQ Diploma in Media (Content Production and Management) - Assistant Director (Synchronous E-Learning)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2026-07-01 00:00:00
+mode_of_training: Synchronous eLearning

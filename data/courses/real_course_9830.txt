@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002114
+coursetitle: Diploma in Early Childhood Care & Education ï¿½ Teaching (NIEC)(Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-10-01 00:00:00
+courserunenddate: 2028-06-29 00:00:00
+mode_of_training: Synchronous eLearning

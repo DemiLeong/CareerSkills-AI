@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008873
+coursetitle: Introduction to Design Thinking (in MC in Design Thinking in Part-time Diploma in Engineering (Advanced Manufacturing & Automation))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

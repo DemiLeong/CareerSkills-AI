@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047044
+coursetitle: Advanced Certificate in Generative AI for Business Analyst Module 3: Use Cases of Gen AI in Business Analytics, Part 2 (Classroom, Asynchronous and Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

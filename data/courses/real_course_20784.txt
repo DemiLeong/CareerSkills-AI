@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045804
+coursetitle: WSQ Intervention Implementation (Level 2) (AIC)
+trainingprovideruen: 201018593M
+trainingprovideralias: REN CI HOSPITAL
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

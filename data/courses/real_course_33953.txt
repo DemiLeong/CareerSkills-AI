@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052015
+coursetitle: PWM-Food Services: Customer Service Excellence with Customer Orientation Level 1 (Synchronous and Asynchronous eLearning)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

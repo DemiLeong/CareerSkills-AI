@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002140
+coursetitle: Collaborative Leadership (Part of Advanced Diploma in Early Childhood Leadership) (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

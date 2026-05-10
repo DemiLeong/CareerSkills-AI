@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037953
+coursetitle: Deterrence (Perform Security Duties at Protected Areas and Protected Places)
+trainingprovideruen: 201008279K
+trainingprovideralias: METROPOLIS SECURITY SYSTEMS PTE. LTD.
+courserunstartdate: 2025-08-30 00:00:00
+courserunenddate: 2025-08-31 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513122
+coursetitle: Perform Warehouse Management
+trainingprovideruen: S80SS0146D
+trainingprovideralias: SINGAPORE INSTITUTE OF MATERIALS MANAGEMENT
+courserunstartdate: 2025-08-26 00:00:00
+courserunenddate: 2025-09-09 00:00:00
+mode_of_training: Classroom

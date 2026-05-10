@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054326
+coursetitle: ISO 45001 Occupational Health and Safety Management Systems CQI IRCA Certified Auditor/ Lead Auditor Course
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

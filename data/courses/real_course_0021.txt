@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054939
+coursetitle: Virtual Reality (VR) & Augmented Reality (AR) for Customer (CX) and User Experience (UX)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

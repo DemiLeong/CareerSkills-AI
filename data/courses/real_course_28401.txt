@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018634
+coursetitle: Food Safety Course Level 1
+trainingprovideruen: 201118946D
+trainingprovideralias: KENKO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

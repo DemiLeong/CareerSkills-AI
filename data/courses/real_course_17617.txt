@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503144
+coursetitle: PWM-Security: Incident Response (Perform Monitoring and Reporting Duties at Central Command Centre)
+trainingprovideruen: 200609670D
+trainingprovideralias: KNOWLEDGETREE TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-07-05 00:00:00
+courserunenddate: 2025-07-06 00:00:00
+mode_of_training: Classroom

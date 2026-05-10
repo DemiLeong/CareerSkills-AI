@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053488
+coursetitle: Principles of AI Ethics and Governance for Emerging Technologies
+trainingprovideruen: 201433657H
+trainingprovideralias: ADEPT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

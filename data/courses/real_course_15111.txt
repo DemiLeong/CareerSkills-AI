@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054622
+coursetitle: WSQ Diploma in Social Services
+trainingprovideruen: 199302114W
+trainingprovideralias: TSAO FOUNDATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

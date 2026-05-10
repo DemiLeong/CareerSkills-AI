@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501635
+coursetitle: Provide Specialty Coffee Service (SF) (Synchronous e-Learning)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

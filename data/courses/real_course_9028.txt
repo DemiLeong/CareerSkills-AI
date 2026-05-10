@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007589
+coursetitle: Administrative Functions in Ageing Services (in PDC in Management of Ageing Service in Specialist Diploma in Gerontology (Optimal Ageing Practice))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

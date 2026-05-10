@@ -1,0 +1,23 @@
+Job Title: Software Engineer
+Standard Role: Software Engineer
+Company: Company_1
+Level: Junior
+
+Skills:
+- Java
+- Python
+- Git
+- APIs
+
+Description:
+This role involves working as a Software Engineer to support business and technical needs. Responsibilities vary by company.
+
+Requirements:
+- Relevant degree
+- Experience depending on level
+
+Tools:
+- Java
+- Python
+- Git
+- APIs

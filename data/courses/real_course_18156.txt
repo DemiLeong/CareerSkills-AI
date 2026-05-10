@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044538
+coursetitle: Supporting Your Child in Chinese (Online)
+trainingprovideruen: 201003689Z
+trainingprovideralias: DAS ACADEMY LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

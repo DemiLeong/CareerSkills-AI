@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501934
+coursetitle: Advanced Certificate in Data Protection Principles Module 1: Data Protection Principles in Asia Part 1 - Singapore, Hong Kong, India
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503597
+coursetitle: Drive Workplace Innovations (SF)
+trainingprovideruen: 200901057G
+trainingprovideralias: BOOTSTRAP PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

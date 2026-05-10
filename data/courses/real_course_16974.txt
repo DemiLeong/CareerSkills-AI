@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021001933
+coursetitle: Industry 4.0 Vertical Integration from Shop-floor to Top-floor
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

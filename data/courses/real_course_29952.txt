@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017397
+coursetitle: (SCTP) Smart and Sustainable Facilities Management (Classroom & Asynchronous e-learning) (Full-Time) (TA-eligible)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

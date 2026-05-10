@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503350
+coursetitle: (18hrs) WSQ - Content Marketing Strategy
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

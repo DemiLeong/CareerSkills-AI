@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513557
+coursetitle: Early Intervention Principles and Practices
+trainingprovideruen: 201013690M
+trainingprovideralias: COLLEGE OF ALLIED EDUCATORS PTE. LTD.
+courserunstartdate: 2025-10-18 00:00:00
+courserunenddate: 2025-10-25 00:00:00
+mode_of_training: Classroom

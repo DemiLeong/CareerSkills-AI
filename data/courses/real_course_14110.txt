@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049992
+coursetitle: Advanced Certificate in Applied Artificial Intelligence (AI) Programming Module 5: Introduction to AI Programming using Large Language Models
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-06 00:00:00
+courserunenddate: 2025-11-07 00:00:00
+mode_of_training: Classroom

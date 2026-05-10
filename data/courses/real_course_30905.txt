@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051112
+coursetitle: Advanced Certificate in Artificial Intelligence in the Digital Economy Module 5: Artificial Intelligence Ethics, Governance and Regulatory Compliance (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

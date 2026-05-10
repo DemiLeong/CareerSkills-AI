@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503388
+coursetitle: Strategize Employee Communication (Synchronous e-learning).
+trainingprovideruen: 201012407H
+trainingprovideralias: GOLDEN COMPASS SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

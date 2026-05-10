@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502358
+coursetitle: A History of Western Art I: From Lascaux to Van Gogh
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

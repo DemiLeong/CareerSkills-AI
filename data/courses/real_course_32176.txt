@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038078
+coursetitle: Executive Certificate in Driving Business Growth through Linking Theory and Practice (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

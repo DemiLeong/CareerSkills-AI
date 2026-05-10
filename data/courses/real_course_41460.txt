@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038495
+coursetitle: (eCornell) Preparing for Labor Negotiations
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

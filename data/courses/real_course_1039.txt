@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018655
+coursetitle: Understanding and Collaborating with Parents of Children with Additional Needs (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

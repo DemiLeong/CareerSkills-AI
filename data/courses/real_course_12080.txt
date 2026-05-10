@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005570
+coursetitle: WSQ Search Engine Marketing (Google Ads)
+trainingprovideruen: 201529371H
+trainingprovideralias: GEX ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

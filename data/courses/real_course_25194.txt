@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012848
+coursetitle: WSQ Hybrid/ Electric Vehicle Maintenance and Servicing Course (Classroom, Practical and Asynchronous E-Learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

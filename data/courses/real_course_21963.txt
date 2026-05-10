@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020509199
+coursetitle: Daily Chinese - HSK (Basic Level 1)
+trainingprovideruen: 200511211D
+trainingprovideralias: CONFUCIUS INSTITUTE, NANYANG TECHNOLOGICAL UNIVERSITY PTE. LTD.
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-09-27 00:00:00
+mode_of_training: Synchronous eLearning

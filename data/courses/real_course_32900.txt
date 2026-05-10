@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016502834
+coursetitle: Acting
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

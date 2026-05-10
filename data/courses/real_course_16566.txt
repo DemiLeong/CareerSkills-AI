@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043392
+coursetitle: ISC2 Information Systems Security Professional (CISSP) Training
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-02-28 00:00:00
+courserunenddate: 2026-03-22 00:00:00
+mode_of_training: Classroom

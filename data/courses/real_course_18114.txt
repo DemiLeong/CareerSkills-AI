@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040819
+coursetitle: Assessment Fee for Student (IHRP-CA)
+trainingprovideruen: 201621752E
+trainingprovideralias: IHRP
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

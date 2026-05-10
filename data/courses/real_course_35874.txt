@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014610
+coursetitle: Data Analytics: Harnessing Data for Quality Service Delivery, Value Enhancement & Outcomes
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-04 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

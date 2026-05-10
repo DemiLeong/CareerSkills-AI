@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055009
+coursetitle: ESG Sustainability (Social & Governance): Human Governance with reference to ISO 30408: Human resource management
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

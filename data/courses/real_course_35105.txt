@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504706
+coursetitle: Business Innovation with Internet-of-Things (IoT)
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2026-01-29 00:00:00
+courserunenddate: 2026-01-29 00:00:00
+mode_of_training: Classroom

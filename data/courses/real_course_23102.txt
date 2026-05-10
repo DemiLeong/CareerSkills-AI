@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504606
+coursetitle: Personal Effectiveness at Supervisory Level
+trainingprovideruen: 201129819W
+trainingprovideralias: ALUE SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

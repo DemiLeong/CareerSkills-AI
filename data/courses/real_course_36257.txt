@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007959
+coursetitle: Building and Leading High Performance Teams
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Classroom

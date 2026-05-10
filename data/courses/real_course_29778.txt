@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054104
+coursetitle: SCPD09 Transformation & Digitalisation of Supply Chains (Asynchronous e-Learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-08-02 00:00:00
+mode_of_training: Asynchronous eLearning

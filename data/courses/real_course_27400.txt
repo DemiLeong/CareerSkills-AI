@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053920
+coursetitle: Fast Track Crisis Management
+trainingprovideruen: 201136539H
+trainingprovideralias: CLICKACADEMY ASIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

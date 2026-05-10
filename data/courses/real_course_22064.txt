@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018509377
+coursetitle: Bachelor of Human Resource Management with Security Studies
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

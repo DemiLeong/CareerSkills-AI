@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038142
+coursetitle: Beyond the Basics: Excel, Email, and PDF Automation Mastery with UiPath
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

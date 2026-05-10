@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003156
+coursetitle: Fundamentals Of The Personal Data Protection Act 2020 (Synchronous E-learning)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

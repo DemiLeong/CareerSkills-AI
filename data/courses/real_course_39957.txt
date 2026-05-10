@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042571
+coursetitle: Module 5: Continuous Integration and Continuous Deployment (CI/ CD) on Amazon Web Services (AWS) (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

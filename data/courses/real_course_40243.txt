@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037828
+coursetitle: Professional, Legal and Ethical Healthcare Practice
+trainingprovideruen: 198804318R
+trainingprovideralias: HMI INSTITUTE OF HEALTH SCIENCES PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Classroom

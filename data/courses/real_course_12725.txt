@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045436
+coursetitle: (ACEY/CCP) Assist in Setting Up Quality Learning Environments
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2026-08-15 00:00:00
+mode_of_training: Synchronous eLearning

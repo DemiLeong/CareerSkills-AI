@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052111
+coursetitle: Respond to Fire Incident in Workplace
+trainingprovideruen: 199708207E
+trainingprovideralias: EXCELTEC PROPERTY MANAGEMENT PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

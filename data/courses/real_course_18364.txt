@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052954
+coursetitle: Brand Alignment for Authenticity and Competitive Advantage
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

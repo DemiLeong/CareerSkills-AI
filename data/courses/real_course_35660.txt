@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019356
+coursetitle: Data Analytics Fundamentals
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

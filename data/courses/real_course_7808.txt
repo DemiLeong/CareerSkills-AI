@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504064
+coursetitle: WSQ ACLP v1 M3 (AOP): Facilitate Technology-Enabled Learning
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

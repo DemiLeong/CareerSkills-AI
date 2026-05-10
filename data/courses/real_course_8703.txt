@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502701
+coursetitle: Standard First Aid Course (Asynchronous E-Learning) (NROC)
+trainingprovideruen: 200916685K
+trainingprovideralias: SINGAPORE FIRST AID TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-09-22 00:00:00
+courserunenddate: 2025-09-25 00:00:00
+mode_of_training: Classroom

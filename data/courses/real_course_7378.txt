@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051455
+coursetitle: Domestic and International Sale of Goods
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

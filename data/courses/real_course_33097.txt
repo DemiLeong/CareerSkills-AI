@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042309
+coursetitle: AI Application Development with Large Language Models (LLM)
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

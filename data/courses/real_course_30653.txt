@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053394
+coursetitle: Business Stakeholder Management ( L3)
+trainingprovideruen: 201703757Z
+trainingprovideralias: ALL HEARTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

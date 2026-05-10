@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014611
+coursetitle: Service Management: Strategies for Negotiation and Communication
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Classroom

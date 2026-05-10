@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505922
+coursetitle: Introduction to Customer Relationship Management
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: 2025-11-03 00:00:00
+courserunenddate: 2025-11-03 00:00:00
+mode_of_training: Classroom

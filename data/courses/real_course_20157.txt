@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046498
+coursetitle: The Law & Practice of Modern Trust Structures
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

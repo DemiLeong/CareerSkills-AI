@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013011
+coursetitle: WSQ Feasibility Assessment of Solar Photovoltaic (PV) Installations (Classroom and Asynchronous)
+trainingprovideruen: T06SS0142H
+trainingprovideralias: Sustainable Energy Association of Singapore (SEAS)
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Classroom

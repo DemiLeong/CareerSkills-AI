@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004326
+coursetitle: Innovate Products & Services (Asynchronous and Synchronous)
+trainingprovideruen: 199905014N
+trainingprovideralias: WIZLEARN TECHNOLOGIES PTE. LTD.
+courserunstartdate: 2025-10-01 00:00:00
+courserunenddate: 2025-10-02 00:00:00
+mode_of_training: Synchronous eLearning

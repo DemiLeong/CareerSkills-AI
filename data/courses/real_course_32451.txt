@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048723
+coursetitle: Marketing Campaign Management with Generative AI
+trainingprovideruen: 201723514D
+trainingprovideralias: SOQ INTERNATIONAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-28 00:00:00
+courserunenddate: 2025-10-29 00:00:00
+mode_of_training: Classroom

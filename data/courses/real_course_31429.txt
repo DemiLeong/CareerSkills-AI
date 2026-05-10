@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007582
+coursetitle: Modular Certificate in Advanced Manufacturing System (in Part-Time Diploma in Engineering (Advanced Manufacturing & Automation))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

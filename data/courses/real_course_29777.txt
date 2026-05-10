@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054111
+coursetitle: Advanced Certificate in Applied Data Science and Analytics (I) Module 1: Introduction to Statistics and Data Processing Using Excel
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-13 00:00:00
+mode_of_training: Classroom

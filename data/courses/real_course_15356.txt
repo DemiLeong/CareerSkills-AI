@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009894
+coursetitle: Advanced Certificate in Organisation Development Module 2: The OD Consulting Cycle at Work
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

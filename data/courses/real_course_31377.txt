@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019504399
+coursetitle: 7 Steps to Effective Coaching
+trainingprovideruen: 198905401C
+trainingprovideralias: IMPACT MANAGEMENT SEMINARS PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

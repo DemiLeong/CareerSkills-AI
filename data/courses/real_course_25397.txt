@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505746
+coursetitle: Emerging Technology (SF) - Synchronous E-learning
+trainingprovideruen: 201022988M
+trainingprovideralias: SFIC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

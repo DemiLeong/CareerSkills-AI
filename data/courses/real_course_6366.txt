@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046010
+coursetitle: Cybersecurity and Ethical Hacking
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

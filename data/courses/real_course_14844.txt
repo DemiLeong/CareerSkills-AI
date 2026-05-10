@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055749
+coursetitle: Harnessing the Power of Generative AI for Leaders
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

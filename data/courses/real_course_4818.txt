@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504022
+coursetitle: Cloud Technology Solutions Architect Associate (SF)
+trainingprovideruen: 200106514H
+trainingprovideralias: ITEL LEARNING SYSTEMS (S) PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

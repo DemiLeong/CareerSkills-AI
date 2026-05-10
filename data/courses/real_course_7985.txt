@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035954
+coursetitle: CHE6031N01: Process Safety Management and KPIs
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: 2025-07-10 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

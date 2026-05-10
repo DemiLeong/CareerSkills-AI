@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014701
+coursetitle: BACHELOR OF ARTS IN PSYCHOLOGY AND LINGUISTICS & MULTILINGUAL STUDIES
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

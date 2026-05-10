@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047496
+coursetitle: Enabling Academy: AI & Me - Using AI Responsibly & Ethically
+trainingprovideruen: S99SS0148L
+trainingprovideralias: Autism Resource Centre (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

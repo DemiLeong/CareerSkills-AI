@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021313
+coursetitle: Data Driven Report Writing: Making Insightful Business Decisions (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

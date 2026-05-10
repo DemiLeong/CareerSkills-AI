@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049907
+coursetitle: Establish Connections and Pitch Projects to Potential Sponsors and Financial Backers (Classroom and Synchronous E-Learning)
+trainingprovideruen: 200515963R
+trainingprovideralias: SINGAPORE MEDIA ACADEMY PRIVATE LIMITED
+courserunstartdate: 2025-09-01 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Synchronous eLearning

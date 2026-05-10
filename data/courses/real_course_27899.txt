@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503121
+coursetitle: Incident Response (Manage Security Emergencies)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-07-28 00:00:00
+courserunenddate: 2025-08-27 00:00:00
+mode_of_training: Classroom

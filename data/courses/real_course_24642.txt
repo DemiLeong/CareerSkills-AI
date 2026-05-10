@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045168
+coursetitle: Enhancing Mental Wellness: A Practical Non-Medical Approach for Caregivers
+trainingprovideruen: T00CS0232K
+trainingprovideralias: SINGAPORE PROFESSIONALS' AND EXECUTIVES' CO-OPERATIVE LTD
+courserunstartdate: 2025-08-26 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

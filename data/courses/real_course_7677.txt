@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046386
+coursetitle: Modular Certificate in Psychological Practices in the Community (Part-Time Diploma in Psychology (Social Services & Special Needs Education))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2027-10-18 00:00:00
+courserunenddate: 2028-04-16 00:00:00
+mode_of_training: Classroom

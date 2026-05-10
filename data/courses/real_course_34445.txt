@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500471
+coursetitle: Art of Leadership: Influence & Manage your Team for Results
+trainingprovideruen: 200702672N
+trainingprovideralias: ROHEI CORPORATION PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

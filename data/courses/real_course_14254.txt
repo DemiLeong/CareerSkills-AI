@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004347
+coursetitle: The Learning and Caring Environment for Infants (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

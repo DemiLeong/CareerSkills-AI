@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019344
+coursetitle: Delivering Successful Presentations (Synchronous E-learning)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

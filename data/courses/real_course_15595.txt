@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020228
+coursetitle: CPR&AED + BASIC FIRST AID (FOR TOURIST GUIDES) - (Asynchronous and Practical)
+trainingprovideruen: 200700043G
+trainingprovideralias: ARISE SERVICES PTE. LTD.
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

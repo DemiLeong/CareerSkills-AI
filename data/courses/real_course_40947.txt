@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044458
+coursetitle: Coaching For Workplace Success
+trainingprovideruen: 198301550C
+trainingprovideralias: SHATEC INSTITUTES PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

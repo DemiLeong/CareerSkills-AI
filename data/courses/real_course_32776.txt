@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036117
+coursetitle: Food Safety Course Level 1 (Chinese)
+trainingprovideruen: 201500224Z
+trainingprovideralias: ASSURE SAFETY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

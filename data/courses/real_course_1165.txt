@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011689
+coursetitle: Professional Image and Etiquette for Communication Excellence
+trainingprovideruen: T16LL1165K
+trainingprovideralias: THE STYLE ATELIER LLP
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

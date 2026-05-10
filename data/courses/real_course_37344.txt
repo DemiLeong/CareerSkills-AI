@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504513
+coursetitle: CS105B: Cyber Crime and Governance: Cyber Crime landscape of Singapore and Security Regulations in Singapore (synchronous e-learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021627
+coursetitle: Instructional Strategies for Sport and Games II
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

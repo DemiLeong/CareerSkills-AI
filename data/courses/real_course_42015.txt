@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016502855
+coursetitle: Music Production Series II: Home Music Production in Logic Pro
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

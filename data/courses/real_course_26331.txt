@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021868
+coursetitle: WSQ Internet of Things 101 (Built Environment)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

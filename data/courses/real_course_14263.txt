@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051955
+coursetitle: Bachelor of Engineering (Honours) in Electrical and Electronic Engineering [via the Competency-based Stackable Micro-credential (CSM) Pathway]
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

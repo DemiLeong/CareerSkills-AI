@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047980
+coursetitle: SkillsFuture for Digital Workplace 2.0 (Tourism) (Inclusive of Hotel / Accommodation Services)
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

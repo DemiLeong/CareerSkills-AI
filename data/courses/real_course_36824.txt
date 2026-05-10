@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014525
+coursetitle: WSQ Comply with Workplace Safety and Health Practices (Classroom and Asynchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

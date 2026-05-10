@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019061
+coursetitle: Solve Problems and Make Decisions at Operations level (Problem Identification Level 2)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

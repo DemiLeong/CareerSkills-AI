@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048181
+coursetitle: SEC575: iOS and Android Application Security Analysis and Penetration Testing
+trainingprovideruen: 202031353Z
+trainingprovideralias: SANS TRAINING SINGAPORE PTE. LTD.
+courserunstartdate: 2025-11-17 00:00:00
+courserunenddate: 2025-11-22 00:00:00
+mode_of_training: Classroom

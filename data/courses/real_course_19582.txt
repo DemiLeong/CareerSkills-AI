@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012964
+coursetitle: Apply Workplace Safety and Health in Construction Sites (Tamil)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

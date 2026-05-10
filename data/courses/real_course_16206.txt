@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500891
+coursetitle: PWM Cleaning: Perform Basic Cleaning of Washrooms (SF)
+trainingprovideruen: 200702572Z
+trainingprovideralias: Integrated Training Consultants Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

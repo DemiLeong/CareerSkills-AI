@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048681
+coursetitle: Strategic Sustainability for Business
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

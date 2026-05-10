@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041135
+coursetitle: IATA DGR (Initial) â€“ Handling Cargo in a Warehouse, ULD and Aircraft Cargo Compartments (7.4)
+trainingprovideruen: 198800119M
+trainingprovideralias: SAAA CARGO SERVICES PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

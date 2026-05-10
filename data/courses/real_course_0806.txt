@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500083
+coursetitle: Occupational First Aid (OFA) + AED
+trainingprovideruen: 200906386Z
+trainingprovideralias: ARIS INTEGRATED MEDICAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

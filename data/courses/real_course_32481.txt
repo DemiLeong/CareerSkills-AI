@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503360
+coursetitle: Microsoft Certified Solutions Associate (MCSA) â€“20741 (SF)
+trainingprovideruen: 200106514H
+trainingprovideralias: ITEL LEARNING SYSTEMS (S) PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

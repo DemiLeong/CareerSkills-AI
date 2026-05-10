@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501602
+coursetitle: Advanced Communication Strategies: Using Strategic Persuasion To Get What You Want (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

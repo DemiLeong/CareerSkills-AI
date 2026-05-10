@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049137
+coursetitle: Implement FlexiWork Arrangement
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

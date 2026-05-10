@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013772
+coursetitle: Perform Formwork Activities
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

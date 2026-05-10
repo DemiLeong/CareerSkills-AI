@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044824
+coursetitle: (HCIC) Adhere to Health, Safety, Nutritional and Hygiene Standards and Procedures (Infant/Toddler Educarer, Beginning Educarer)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

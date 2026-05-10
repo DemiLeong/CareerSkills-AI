@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020500059
+coursetitle: Standard First Aid (NROC COACHES)
+trainingprovideruen: S70SS0009L
+trainingprovideralias: St. John Singapore
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014689
+coursetitle: WSQ Comply with Workplace Safety & Health Policies and Procedures
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038890
+coursetitle: SF - Microsoft Azure Solution Architect
+trainingprovideruen: 199704231M
+trainingprovideralias: NETASSIST SERVICES PTE LTD
+courserunstartdate: 2025-08-25 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Classroom

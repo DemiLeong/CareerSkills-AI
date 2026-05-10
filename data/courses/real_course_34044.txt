@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513273
+coursetitle: Develop a Risk Management Implementation Plan (Synchronous e-learning)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

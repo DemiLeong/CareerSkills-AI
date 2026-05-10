@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040226
+coursetitle: Modular Certificate in Sustainable Communications & Engagement (in Diploma in Business Practice (Sustainability Management))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2026-04-20 00:00:00
+courserunenddate: 2026-10-18 00:00:00
+mode_of_training: Classroom

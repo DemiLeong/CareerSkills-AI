@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012513
+coursetitle: Washroom Maintenance (Level 1)
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

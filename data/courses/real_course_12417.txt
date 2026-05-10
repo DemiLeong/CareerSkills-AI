@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052857
+coursetitle: Certificate in Digital Content Marketing (Part B)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2026-01-01 00:00:00
+courserunenddate: 2026-06-30 00:00:00
+mode_of_training: Classroom

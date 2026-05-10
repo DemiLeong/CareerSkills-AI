@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040555
+coursetitle: â€‹â€‹Machine Monitoring Dashboard With Node-Rules Engine and Dataflow (Node-RED)â€‹
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

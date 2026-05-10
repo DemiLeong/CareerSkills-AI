@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038798
+coursetitle: NE 202: Creating and Developing a Tech Start-up
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020057
+coursetitle: Positive and Responsive Experiences for Young Children: The Abecedarian Approach
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-09-23 00:00:00
+courserunenddate: 2025-10-08 00:00:00
+mode_of_training: Classroom

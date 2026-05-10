@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020428
+coursetitle: NCSF Certified Personal Trainer (CPT)
+trainingprovideruen: 202303921R
+trainingprovideralias: Edu PT Pte Ltd
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Practical/Practicum

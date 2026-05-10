@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017183
+coursetitle: Building Relational Capacity
+trainingprovideruen: 200207586Z
+trainingprovideralias: LUTHERAN COMMUNITY CARE SERVICES LIMITED
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-10-29 00:00:00
+mode_of_training: Classroom

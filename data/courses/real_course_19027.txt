@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048694
+coursetitle: WSQ Advanced Certificate in Healthcare (Community Care) (Classroom & Asynchronous)
+trainingprovideruen: 201018593M
+trainingprovideralias: REN CI HOSPITAL
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502812
+coursetitle: WSQ Strategic Technology and Operation Road Mapping - M1
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

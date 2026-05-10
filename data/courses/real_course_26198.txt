@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501830
+coursetitle: Standard First Aid Course (Classroom & Asynchronous)
+trainingprovideruen: 201529255M
+trainingprovideralias: AGAPE FIRST AID PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

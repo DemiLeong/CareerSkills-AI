@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035686
+coursetitle: Understand and Improve your Operations through Pull System & Error Proofing (Lean)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038478
+coursetitle: (eCornell) Using Statistical Tests to Make Decisions
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

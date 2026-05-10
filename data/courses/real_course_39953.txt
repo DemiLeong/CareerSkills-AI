@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036637
+coursetitle: Pain Management Through Food and Diet (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

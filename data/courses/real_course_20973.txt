@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500435
+coursetitle: MAKE CLASSIC CAKES
+trainingprovideruen: 200409177Z
+trainingprovideralias: XPRIENZ PTE. LTD.
+courserunstartdate: 2025-08-01 00:00:00
+courserunenddate: 2025-08-08 00:00:00
+mode_of_training: Classroom

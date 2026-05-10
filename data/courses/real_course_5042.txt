@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011500762
+coursetitle: Lead Workplace Communication and Engagement (ES-IP-401G-1) (Synchronous e-learning)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

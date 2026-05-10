@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505925
+coursetitle: Image and Video Processing with OpenCV
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-08-09 00:00:00
+courserunenddate: 2025-08-10 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2017505314
+coursetitle: Introduction to Chinese Phonetics (Hanyu Pinyin)
+trainingprovideruen: 200511211D
+trainingprovideralias: CONFUCIUS INSTITUTE, NANYANG TECHNOLOGICAL UNIVERSITY PTE. LTD.
+courserunstartdate: 2025-07-11 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

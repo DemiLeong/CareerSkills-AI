@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052016
+coursetitle: PWM-Food Services: Food and Beverage Service Level 1 (Asychronous eLearning + Classroom)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

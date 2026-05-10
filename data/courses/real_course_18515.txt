@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504182
+coursetitle: Apply Workplace Safety and Health in Shipyard (General Trade)
+trainingprovideruen: 201329358M
+trainingprovideralias: EFG TRAINING SERVICES PRIVATE LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

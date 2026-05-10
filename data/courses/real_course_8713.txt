@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050000
+coursetitle: Ultrasound for Gallbladder and Common Bile Duct - Level 1 (Acquisition) (Classroom and Asynchronous)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

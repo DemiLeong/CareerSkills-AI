@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041841
+coursetitle: Apply Warehouse OHSM practices
+trainingprovideruen: 201133521Z
+trainingprovideralias: BIG FOOT GLOBAL ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

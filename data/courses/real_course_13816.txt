@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051021
+coursetitle: The Craft of Storytelling at the Workplace
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-18 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

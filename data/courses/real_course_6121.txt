@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020737
+coursetitle: Effective Networking Skills and Relationship Management with Personality Profiling and Business Dining Skills
+trainingprovideruen: 201017041W
+trainingprovideralias: SIGNATURE IMAGE ACADEMY INTERNATIONAL PTE. LTD.
+courserunstartdate: 2025-09-16 00:00:00
+courserunenddate: 2025-09-16 00:00:00
+mode_of_training: Classroom

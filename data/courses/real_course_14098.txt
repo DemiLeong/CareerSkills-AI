@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044609
+coursetitle: (ACEY) å©´å¹¼å„¿çš„å‘å±•ï¼ˆ0-3å²ï¼‰
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

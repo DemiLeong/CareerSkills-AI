@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019290
+coursetitle: Digital Leadership in the Hospitality Sector (Classroom & Asynchronous e-learning)
+trainingprovideruen: 199308083Z
+trainingprovideralias: ASCOTT INTERNATIONAL MANAGEMENT (2001) PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

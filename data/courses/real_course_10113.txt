@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017255
+coursetitle: Effective Presentation Skillsets at the Workplace
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

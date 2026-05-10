@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020567
+coursetitle: Unlocking Business Potential with Strategic Negotiation Tactics
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-09-20 00:00:00
+courserunenddate: 2025-09-21 00:00:00
+mode_of_training: Classroom

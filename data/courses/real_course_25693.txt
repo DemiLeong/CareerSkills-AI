@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048779
+coursetitle: Contemporary Management Practices (Module 3)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

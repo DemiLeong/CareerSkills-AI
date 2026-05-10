@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035995
+coursetitle: Developing Social Currency for Retail Marketing
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

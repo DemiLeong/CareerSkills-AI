@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045904
+coursetitle: HR Graduate Certification - Strategic HR
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-13 00:00:00
+courserunenddate: 2025-11-14 00:00:00
+mode_of_training: Classroom

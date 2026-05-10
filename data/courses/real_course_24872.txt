@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042613
+coursetitle: Standard First Aid Course (For coaches in NROC)
+trainingprovideruen: 201306287Z
+trainingprovideralias: A-BIDE SAFETY SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

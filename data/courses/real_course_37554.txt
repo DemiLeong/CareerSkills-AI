@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048087
+coursetitle: å¹¼å„¿å›­çŽ¯å¢ƒææ–™å®‰å…¨ä¸Žå¹¼å„¿èº«å¿ƒå‘å±•(Childrenâ€™s Wellbeing and the Preschool Environmental Safety) (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

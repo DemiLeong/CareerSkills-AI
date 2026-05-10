@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053233
+coursetitle: Leveraging AI for Effective People Management (Classroom & Asynchronous)
+trainingprovideruen: 197500776G
+trainingprovideralias: KORN FERRY (SG) PTE. LTD.
+courserunstartdate: 2025-11-13 00:00:00
+courserunenddate: 2025-11-13 00:00:00
+mode_of_training: Classroom

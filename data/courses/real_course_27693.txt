@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019296
+coursetitle: Enterprise Risk Management Programme Module 3: Operationalise Risk Management to Achieve Strategic Objectives
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-18 00:00:00
+courserunenddate: 2025-09-19 00:00:00
+mode_of_training: Classroom

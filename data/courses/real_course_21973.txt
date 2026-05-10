@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049982
+coursetitle: Advanced Certificate in Applied Artificial Intelligence (AI) Programming Module 4: Deep Learning Fundamentals
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-23 00:00:00
+courserunenddate: 2025-10-24 00:00:00
+mode_of_training: Classroom

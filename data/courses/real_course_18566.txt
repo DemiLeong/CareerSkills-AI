@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002668
+coursetitle: SMU Executive Certificate in EdTech for Educators Module 2: Building Capacity for the Effective Use of EdTech
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

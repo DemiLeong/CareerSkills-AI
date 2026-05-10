@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006424
+coursetitle: Higher Nitec in Sport Management (3-year)
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

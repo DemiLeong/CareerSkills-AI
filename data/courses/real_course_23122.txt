@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513668
+coursetitle: Perform Inventory and Stock Control Operations
+trainingprovideruen: S80SS0146D
+trainingprovideralias: Singapore Institute of Materials Management
+courserunstartdate: 2025-08-05 00:00:00
+courserunenddate: 2025-08-19 00:00:00
+mode_of_training: Classroom

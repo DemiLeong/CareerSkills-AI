@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044927
+coursetitle: Graduate Certificate in Intelligent Software Agents
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

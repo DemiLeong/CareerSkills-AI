@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053856
+coursetitle: Step-by-Step Guide to Video Editing Using Canva
+trainingprovideruen: 200700458M
+trainingprovideralias: AVENTIS GRADUATE SCHOOL PTE. LTD.
+courserunstartdate: 2025-07-24 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

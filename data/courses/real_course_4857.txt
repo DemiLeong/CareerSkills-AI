@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018501663
+coursetitle: WSQ Demonstrate Baking Techniques, Mixing Methods and Piping Skills
+trainingprovideruen: 200721365K
+trainingprovideralias: EDUQUEST INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2026-01-03 00:00:00
+courserunenddate: 2026-01-31 00:00:00
+mode_of_training: Classroom

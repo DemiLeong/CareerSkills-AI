@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014719
+coursetitle: Bridging the Sustainability Gap for Innovation and Growth (Classroom and Synchronous e-Learning)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

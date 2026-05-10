@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018502796
+coursetitle: ER Management Level 5: Develop and Evaluate Framework for Managing Conflict, Grievances and Disputes (Synchronous e-learning)
+trainingprovideruen: 200903531C
+trainingprovideralias: HUMAN CAPITAL (SINGAPORE) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018585
+coursetitle: WSQ Implement Incident Management Process
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008055
+coursetitle: Brand Communication & Experience (MC3 in Diploma in Design (Digital Commerce & Experience))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

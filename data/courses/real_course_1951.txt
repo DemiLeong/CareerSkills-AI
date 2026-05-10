@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024052069
+coursetitle: Advanced Business-to-Business Sales Strategies: Winning in the Digital Age
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

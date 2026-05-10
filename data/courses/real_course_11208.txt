@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050829
+coursetitle: éŸ³ä¹å¾‹åŠ¨ä¸Žå©´å„¿åŽè¯­å…´è¶£åŸ¹è®­æ¡ˆä¾‹ (Develop Infant and Toddler's Interest in Chinese Language Learning Through Music Rhythm)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

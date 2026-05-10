@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038503
+coursetitle: (eCornell) Marketing Automation and AI
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

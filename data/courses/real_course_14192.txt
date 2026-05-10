@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013232
+coursetitle: ECBA Exam Preparation Level 3 (Synchronous e-Learning)
+trainingprovideruen: 201114074D
+trainingprovideralias: EPM TRAINING SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

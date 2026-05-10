@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503370
+coursetitle: Assess Emerging Technology Trends for Workplace Application
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

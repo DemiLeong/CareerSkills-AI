@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039727
+coursetitle: Certificate in Exercise Science: Injury Prevention and Rehabilitation Part 1
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

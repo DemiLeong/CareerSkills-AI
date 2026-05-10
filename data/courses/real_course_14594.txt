@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012708
+coursetitle: Advanced Certificate in AWS Cloud Architecting and DevOps Module 6: Practical Lab in Developing Applications on AWS
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

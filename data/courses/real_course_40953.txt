@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2012500214
+coursetitle: Apply 5S Techniques.
+trainingprovideruen: 196800180M
+trainingprovideralias: ST ENGINEERING MARINE LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

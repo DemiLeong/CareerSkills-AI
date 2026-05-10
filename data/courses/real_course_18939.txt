@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046861
+coursetitle: IATA DANGEROUS GOODS REGULATIONS 7.3
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

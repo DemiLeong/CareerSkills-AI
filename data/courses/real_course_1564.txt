@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503115
+coursetitle: PWM-Security: Conflict Resolution Management (Manage and Resolve Conflict in Security Environment)
+trainingprovideruen: 199404180Z
+trainingprovideralias: APRO TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-07-11 00:00:00
+courserunenddate: 2025-08-02 00:00:00
+mode_of_training: Classroom

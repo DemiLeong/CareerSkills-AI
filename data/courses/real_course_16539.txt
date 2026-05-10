@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004600
+coursetitle: How to Make Phone Videos Like a Professional?
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

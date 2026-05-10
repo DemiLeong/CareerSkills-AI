@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036624
+coursetitle: Purpose Driven High Performance Organisation Module 3: Create a World-Class Winning Team
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-10 00:00:00
+courserunenddate: 2025-11-11 00:00:00
+mode_of_training: Classroom

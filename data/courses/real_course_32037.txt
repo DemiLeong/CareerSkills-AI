@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040764
+coursetitle: Sound Mixing for Digital Content
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017246
+coursetitle: Formulate and evaluate WeChat strategic plan to establish marketing campaign opportunities for ASEAN market (Synchronous E-Learning).
+trainingprovideruen: T02SS0073H
+trainingprovideralias: Singapore Business Federation
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

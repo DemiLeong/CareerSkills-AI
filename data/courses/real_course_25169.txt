@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042612
+coursetitle: WSQ Microsoft Excel Intermediate
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: 2025-12-20 00:00:00
+courserunenddate: 2025-12-21 00:00:00
+mode_of_training: Classroom

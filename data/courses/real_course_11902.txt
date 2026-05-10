@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012165
+coursetitle: MGE900 Communication in the Digital Age (Classroom, Asynchronous)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

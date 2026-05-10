@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049966
+coursetitle: No-Code Artificial Intelligence Product Development
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-06-30 00:00:00
+courserunenddate: 2025-06-30 00:00:00
+mode_of_training: Classroom

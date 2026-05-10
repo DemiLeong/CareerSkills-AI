@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503282
+coursetitle: L1 Horizontal Surface Maintenance - Carpet- AOP
+trainingprovideruen: 200102457M
+trainingprovideralias: TRAINING MASTERS WORKFORCE INSTITUTE PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

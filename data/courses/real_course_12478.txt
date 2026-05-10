@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513068
+coursetitle: Develop Self  (Synchronous e-learning)
+trainingprovideruen: 200703174Z
+trainingprovideralias: SERAPHCORP INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2009501053
+coursetitle: Operate Forklift (Without Class 3 Driving Licence)
+trainingprovideruen: 197602568D
+trainingprovideralias: UMW EQUIPMENT & ENGINEERING PTE LTD
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039096
+coursetitle: Beyond Barriers: Embracing the Power of Diversity, Equity, Inclusion (DEI), and Belonging
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-28 00:00:00
+courserunenddate: 2025-10-29 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503695
+coursetitle: Effective Communication Strategizes (Synchronous e-learning)
+trainingprovideruen: S80TU0496C
+trainingprovideralias: SINGAPORE NATIONAL EMPLOYERS FEDERATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

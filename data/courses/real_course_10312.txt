@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014945
+coursetitle: Standard First Aid (For Coaches in NROC â€“ Asynchronous and Practical)
+trainingprovideruen: 201603657C
+trainingprovideralias: SINGAPORE RESCUE TRAINING CENTRE PTE. LTD.
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-21 00:00:00
+mode_of_training: Classroom

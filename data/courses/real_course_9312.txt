@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501323
+coursetitle: Creating a Self-Directed Learning Environment
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: 2026-01-28 00:00:00
+courserunenddate: 2026-01-28 00:00:00
+mode_of_training: Synchronous eLearning

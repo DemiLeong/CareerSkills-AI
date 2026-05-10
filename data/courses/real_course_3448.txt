@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043023
+coursetitle: Negotiation Essentials
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

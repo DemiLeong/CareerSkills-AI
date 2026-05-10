@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020501728
+coursetitle: CERT First Aid Course (with CPR+AED)
+trainingprovideruen: 201106989R
+trainingprovideralias: TECS FIRE & SAFETY TRAINING PTE. LTD.
+courserunstartdate: 2025-07-04 00:00:00
+courserunenddate: 2025-07-04 00:00:00
+mode_of_training: Classroom

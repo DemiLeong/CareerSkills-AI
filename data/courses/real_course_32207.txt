@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038502
+coursetitle: (eCornell) Getting the Most Out of Your Business Relationships
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

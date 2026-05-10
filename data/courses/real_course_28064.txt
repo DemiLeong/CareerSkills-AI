@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012971
+coursetitle: PWM-Food Services: WSQ Food Safety Level 3 course (English)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

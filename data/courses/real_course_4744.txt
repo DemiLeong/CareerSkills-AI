@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017434
+coursetitle: Perform Warehouse Operations
+trainingprovideruen: 201014268Z
+trainingprovideralias: SMF CENTRE FOR CORPORATE LEARNING PTE. LTD.
+courserunstartdate: 2026-02-11 00:00:00
+courserunenddate: 2026-02-12 00:00:00
+mode_of_training: Classroom

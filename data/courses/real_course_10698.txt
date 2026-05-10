@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015348
+coursetitle: SF - Microsoft Power Platform App Maker (Classroom)
+trainingprovideruen: 199704231M
+trainingprovideralias: NETASSIST SERVICES PTE LTD
+courserunstartdate: 2025-12-15 00:00:00
+courserunenddate: 2025-12-16 00:00:00
+mode_of_training: Classroom

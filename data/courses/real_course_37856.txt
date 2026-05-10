@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044080
+coursetitle: SMU-SingHealth Graduate Diploma in Healthcare Management and Leadership (GDHM)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

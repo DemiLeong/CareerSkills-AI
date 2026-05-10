@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019871
+coursetitle: Supervisory Management Skills â€“Leading, Coaching, Managing
+trainingprovideruen: 201014268Z
+trainingprovideralias: SMF CENTRE FOR CORPORATE LEARNING PTE. LTD.
+courserunstartdate: 2026-01-27 00:00:00
+courserunenddate: 2026-01-28 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500699
+coursetitle: Operate Forklift (3 days with LTA License)
+trainingprovideruen: 197201770G
+trainingprovideralias: SATS LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035771
+coursetitle: Effective Stress Management  (Resilience & Self-Care Level 2)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040621
+coursetitle: Social Research & Programme Evaluation (in MC in Gerontology Fundamentals (in Diploma in Gerontology (Community Health & Social Care)))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023022186
+coursetitle: PWM-Food Services: Workplace Safety and Health for Food and Beverage Operations Level 2
+trainingprovideruen: 201433657H
+trainingprovideralias: ADEPT ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-08 00:00:00
+mode_of_training: Classroom

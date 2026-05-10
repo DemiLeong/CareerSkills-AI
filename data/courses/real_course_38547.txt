@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053636
+coursetitle: The AI Innovation Express: A One-Day Innovation Sprint
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

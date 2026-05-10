@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048154
+coursetitle: WSQ-MS Administering Microsoft Azure SQL Solutions (DP-300)
+trainingprovideruen: 199507581C
+trainingprovideralias: TRAINOCATE (S) PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

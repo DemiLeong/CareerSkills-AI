@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015974
+coursetitle: Apply Workplace Safety and Health in Process Plant
+trainingprovideruen: 201208144K
+trainingprovideralias: EUROSAFE ASSOCIATES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

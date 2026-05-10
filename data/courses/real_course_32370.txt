@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051001
+coursetitle: Forklift Operator Refresher Training
+trainingprovideruen: 200503548R
+trainingprovideralias: AAT TRAINING HUB PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-07 00:00:00
+mode_of_training: Classroom

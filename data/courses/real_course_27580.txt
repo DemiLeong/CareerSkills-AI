@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038065
+coursetitle: Advanced Certificate in Fintech and the Future of Finance Module 4: Balancing Act â€“ Risk Management and Regulatory Compliance in Fintech
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049006
+coursetitle: WSQ Drone Piloting License (Multi-rotor up to 7kg)
+trainingprovideruen: 200606684K
+trainingprovideralias: AETOS TRAINING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

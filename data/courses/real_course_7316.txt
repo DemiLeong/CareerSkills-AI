@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051684
+coursetitle: Scalable Data Solutions: Big Data Engineering Essentials
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-09-13 00:00:00
+mode_of_training: Synchronous eLearning

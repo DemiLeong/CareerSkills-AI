@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016559
+coursetitle: WSQ Certificate in Food Services (Food and Beverage Service)(Classroom & Asynchronous e-Learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

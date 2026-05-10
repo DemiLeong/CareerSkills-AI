@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050777
+coursetitle: Basic Textile and Fabric Care
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-25 00:00:00
+mode_of_training: Classroom

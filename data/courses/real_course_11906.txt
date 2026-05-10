@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037104
+coursetitle: Cloud Computing for Managers 2
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

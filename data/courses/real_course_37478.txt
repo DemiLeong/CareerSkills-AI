@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038356
+coursetitle: (eCornell) Search Engines and Online Selling: Stimulating Incremental Demand
+trainingprovideruen: 200816403N
+trainingprovideralias: GENASHTIM
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

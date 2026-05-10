@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505330
+coursetitle: Commodity Price Risk Management (synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-10-17 00:00:00
+courserunenddate: 2025-10-31 00:00:00
+mode_of_training: Synchronous eLearning

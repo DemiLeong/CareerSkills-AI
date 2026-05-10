@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018500690
+coursetitle: Composite Course: Demonstrate and Apply Understanding of Cleaning Methods and Processes and Cleaning Chemicals (SSF)
+trainingprovideruen: 201014905M
+trainingprovideralias: AVANTA GLOBAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

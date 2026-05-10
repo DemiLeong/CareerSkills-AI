@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041976
+coursetitle: Basic Customer Relationship Management
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-05 00:00:00
+courserunenddate: 2025-09-10 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051842
+coursetitle: Advanced Certificate in Applied Automation in the Digital Economy Module 6: Ethical and Legal Considerations in Applied Automation
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

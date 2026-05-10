@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050083
+coursetitle: (SCTP) Associate Chief Technology Officer (A-CTO)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

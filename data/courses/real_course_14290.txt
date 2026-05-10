@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048375
+coursetitle: Speaking Data Fluently: Becoming competent at Data & Chart Literacy
+trainingprovideruen: 201100397C
+trainingprovideralias: IMPRESS TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

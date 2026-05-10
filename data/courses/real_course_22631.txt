@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019502937
+coursetitle: After-sales Service (RET-CEX-1001-1.1) (synchronous E-learning)
+trainingprovideruen: 201113270M
+trainingprovideralias: NATC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

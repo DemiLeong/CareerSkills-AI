@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015553
+coursetitle: WSQ Western Cold Dish Preparation (Level 2)(Classroom and Asynchronous e-Learning)
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-22 00:00:00
+mode_of_training: Classroom

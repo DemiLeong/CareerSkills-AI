@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049686
+coursetitle: â€‹â€‹Automated Data Analysis and Visualisation in Excel With Python for Manufacturing Processesâ€‹
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

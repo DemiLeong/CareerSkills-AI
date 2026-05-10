@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503808
+coursetitle: Apply Autonomous Maintenance Techniques (Classroom & Asynchronous)
+trainingprovideruen: S87SS0027A
+trainingprovideralias: Electronics Industries Training Centre
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

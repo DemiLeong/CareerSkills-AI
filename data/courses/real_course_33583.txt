@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036034
+coursetitle: Issues & Trends and Professional Roles in Early Intervention - Part of the PDC1 of Specialist Diploma in Early Childhood Intervention (Special Needs)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

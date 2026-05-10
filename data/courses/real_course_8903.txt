@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020207
+coursetitle: Develop a Workplace Safety and Health Management System (WSHMS) Implementation Plan (Classroom + Asynchronous E-Learning)
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

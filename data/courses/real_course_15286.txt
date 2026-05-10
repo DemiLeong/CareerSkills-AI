@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022010771
+coursetitle: Industry 4.0 for Advanced Manufacturing with Industry Application
+trainingprovideruen: 197700888D
+trainingprovideralias: BOSCH REXROTH PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

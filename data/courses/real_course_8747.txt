@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039669
+coursetitle: Plant Utilities System & Pollution Control (in Post-Diploma Certificate in Sustainable Utilities Systems in Specialist Diploma in Environment & Water Technology)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

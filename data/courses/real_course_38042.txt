@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052490
+coursetitle: Mobile Videography: Film, Edit and Post Your Amazing Stories [Classroom Facilitated]
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Singapore Institute Of Retail Studies (SIRS)
+courserunstartdate: 2025-07-26 00:00:00
+courserunenddate: 2025-07-26 00:00:00
+mode_of_training: Classroom

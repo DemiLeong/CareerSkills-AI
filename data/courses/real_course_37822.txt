@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002835
+coursetitle: Professional Certificate in Legal Practice of the Future Module 4: Legal Design and Design Thinking (Synchronous E-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

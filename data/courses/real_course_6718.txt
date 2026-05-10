@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046734
+coursetitle: Clinical Reasoning in Assessment and Therapy Planning for Older Persons with Dysphagia - Intermediate (Classroom & Asynchronous e-Learning)
+trainingprovideruen: 200917667D
+trainingprovideralias: SINGAPORE INSTITUTE OF TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

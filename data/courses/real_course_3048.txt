@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055072
+coursetitle: Exploring the Needs of Children with Special Needs (Chinese)
+trainingprovideruen: S92SS0061A
+trainingprovideralias: Rainbow Centre, Singapore
+courserunstartdate: 2025-08-26 00:00:00
+courserunenddate: 2025-08-26 00:00:00
+mode_of_training: Classroom

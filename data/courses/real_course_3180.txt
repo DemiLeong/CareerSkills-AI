@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039080
+coursetitle: Provide Guard and Patrol Services and Operate Basic Security Equipment
+trainingprovideruen: 200922107K
+trainingprovideralias: HENDERSON SECURITY SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

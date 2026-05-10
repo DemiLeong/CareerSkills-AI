@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044837
+coursetitle: (PDECCE-T/CCP) Support childrenâ€™s development of secure attachments through warm, consistent and nurturing care-giving
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

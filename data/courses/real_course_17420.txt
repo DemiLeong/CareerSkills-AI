@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011238
+coursetitle: WSQ Preparing Mise En Place For Food & Beverage Services
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

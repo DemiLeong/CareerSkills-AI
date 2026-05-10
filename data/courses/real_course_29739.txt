@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050593
+coursetitle: MAS919 - Geographic Information System (GIS) and Geospatial Learning in Sustainability
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

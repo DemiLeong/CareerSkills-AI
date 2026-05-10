@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503467
+coursetitle: Cultural Intelligence: Work Effectively & Confidently in a Multicultural Environment
+trainingprovideruen: 200415265M
+trainingprovideralias: IMAGEWORKS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

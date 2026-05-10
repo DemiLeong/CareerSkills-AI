@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018504629
+coursetitle: Cisco Certified Network Associate v3.0 CCNAx - R&S (SF)
+trainingprovideruen: 200211025Z
+trainingprovideralias: IT ENABLER CONSULTANCY PTE. LTD.
+courserunstartdate: 2025-09-08 00:00:00
+courserunenddate: 2025-09-12 00:00:00
+mode_of_training: Classroom

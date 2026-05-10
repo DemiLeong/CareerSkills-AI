@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041389
+coursetitle: Employee Engagement Essentials for Staff Engagement Champions - Chinese (å¦‚ä½•æ‰§è¡Œå‘˜å·¥é¡¹ç›®æ¥æ”¹è¿›åŒäº‹å‚ä¸Žåº¦å’Œå½’å±žæ„Ÿ)
+trainingprovideruen: 201301501N
+trainingprovideralias: EON CONSULTING & TRAINING PTE. LTD.
+courserunstartdate: 2025-08-15 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014677
+coursetitle: Manage Workplace Safety And Health In Construction Sites
+trainingprovideruen: 201329358M
+trainingprovideralias: EFG TRAINING SERVICES PRIVATE LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

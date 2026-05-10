@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054758
+coursetitle: Strategic Negotiation Skills
+trainingprovideruen: 202134431Z
+trainingprovideralias: ADELINE CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

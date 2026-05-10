@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503868
+coursetitle: Food Safety Management (Implement HACCP for Food Manufacturing) (SFw)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

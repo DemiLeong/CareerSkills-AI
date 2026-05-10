@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014796
+coursetitle: Performance Management (Lead and Manage a Team of Security Officers)
+trainingprovideruen: 200817725C
+trainingprovideralias: ASCENDO ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

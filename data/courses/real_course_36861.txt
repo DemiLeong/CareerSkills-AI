@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040934
+coursetitle: Applying Collaborative Teaming Strategies (ACTS)
+trainingprovideruen: S92SS0061A
+trainingprovideralias: Rainbow Centre, Singapore
+courserunstartdate: 2025-11-25 00:00:00
+courserunenddate: 2025-11-25 00:00:00
+mode_of_training: Classroom

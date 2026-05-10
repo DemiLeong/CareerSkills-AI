@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015502360
+coursetitle: A History of Western Art III: Art on the Cutting Edge: Art fron 1970s to the Present
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

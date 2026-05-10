@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021009437
+coursetitle: Service Leadership (Classroom and Asynchronous E-learning)
+trainingprovideruen: 199905014N
+trainingprovideralias: WIZLEARN TECHNOLOGIES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045453
+coursetitle: (ACEY/CCP) å©´å¹¼å„¿çš„è¯¾ç¨‹è®¾è®¡ä¸Žæ¸¸æˆå­¦ä¹
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

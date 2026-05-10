@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021008166
+coursetitle: Modular Certificate in Fundamentals of Paramedic Practice & Trauma Management (part of Diploma in Health Sciences (Paramedicine))
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

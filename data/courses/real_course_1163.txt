@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2010500937
+coursetitle: Apply 5S Techniques (SC/SAP)
+trainingprovideruen: 199706229Z
+trainingprovideralias: PSA CORPORATION LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

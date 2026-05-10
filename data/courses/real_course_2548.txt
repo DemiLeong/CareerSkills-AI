@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007876
+coursetitle: Managing People (in MC in Management Fundamentals in Part-time Diploma in Security & Fire Safety Studies)Â
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

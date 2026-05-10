@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020269
+coursetitle: Consumer Behaviour and Environment Analysis
+trainingprovideruen: 198301430C
+trainingprovideralias: TEMBUSU INSTITUTE PTE. LTD.
+courserunstartdate: 2025-07-15 00:00:00
+courserunenddate: 2025-09-02 00:00:00
+mode_of_training: Classroom

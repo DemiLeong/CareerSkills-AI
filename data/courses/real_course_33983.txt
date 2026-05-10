@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040807
+coursetitle: Enabling Academy: Micro Jobs Training
+trainingprovideruen: S92SS0061A
+trainingprovideralias: Rainbow Centre Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

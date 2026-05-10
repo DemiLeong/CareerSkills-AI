@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015554
+coursetitle: WSQ Design of Solar Photovoltaic (PV) Systems (Classroom and Asynchronous)
+trainingprovideruen: T06SS0142H
+trainingprovideralias: Sustainable Energy Association of Singapore (SEAS)
+courserunstartdate: 2025-10-14 00:00:00
+courserunenddate: 2025-10-20 00:00:00
+mode_of_training: Classroom

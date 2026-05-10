@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048311
+coursetitle: Administering Information Protection and Compliance in Microsoft 365 (SC-400)
+trainingprovideruen: 201200696W
+trainingprovideralias: TERTIARY INFOTECH PTE. LTD.
+courserunstartdate: 2025-12-13 00:00:00
+courserunenddate: 2025-12-27 00:00:00
+mode_of_training: Classroom

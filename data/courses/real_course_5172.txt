@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051087
+coursetitle: Internationalisation Series: New Energy and Sustainable Tech Futures: Environmental, Social, and Governance Innovation in China, Shenzhen/ Guangzhou
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-12-26 00:00:00
+courserunenddate: 2026-12-31 00:00:00
+mode_of_training: Classroom

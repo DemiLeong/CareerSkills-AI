@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039605
+coursetitle: Modular Certificate in Diet and Nutrition (DN)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

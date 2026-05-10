@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504256
+coursetitle: Professional Certificate in Web Application Development Module: Prototyping and User Interface Design for Web App Development (Synchronous e-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

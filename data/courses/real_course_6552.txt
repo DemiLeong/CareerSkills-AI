@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047556
+coursetitle: Mixing Music with Ableton Live
+trainingprovideruen: 200209295K
+trainingprovideralias: ORITA SINCLAIR SCHOOL OF DESIGN AND MUSIC PTE. LTD.
+courserunstartdate: 2025-07-05 00:00:00
+courserunenddate: 2025-07-12 00:00:00
+mode_of_training: Classroom

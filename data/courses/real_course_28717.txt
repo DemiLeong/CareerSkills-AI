@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015800
+coursetitle: Anatomy Revision Workshop for Surgical Trainees
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040884
+coursetitle: [SCTP Module] goMRTech (Market Research with Technology)
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

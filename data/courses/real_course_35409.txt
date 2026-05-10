@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022017415
+coursetitle: RISE for Financial Services - Artificial Intelligence (Module 1: Foundations of Artificial Intelligence in Financial Services (Synchronous e-learning))
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

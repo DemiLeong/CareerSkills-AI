@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006720
+coursetitle: Data and Statistical Analytics 1
+trainingprovideruen: 200510122R
+trainingprovideralias: AUSTON INSTITUTE OF MANAGEMENT PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

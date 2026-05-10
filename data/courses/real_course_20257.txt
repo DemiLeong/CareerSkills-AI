@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039003
+coursetitle: CORENET X New Regulatory Approval for Building Works (RABW)
+trainingprovideruen: 200710151K
+trainingprovideralias: ACE INDUSTRIAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-15 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

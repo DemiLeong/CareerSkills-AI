@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049508
+coursetitle: Google Cloud - Machine Learning Engineer
+trainingprovideruen: 201711175C
+trainingprovideralias: CLOUDASSIST SERVICES PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

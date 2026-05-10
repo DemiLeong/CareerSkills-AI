@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047747
+coursetitle: Storytelling with Data: Engage, Persuade, and Influence
+trainingprovideruen: T08GB0046G
+trainingprovideralias: Republic Polytechnic
+courserunstartdate: 2025-11-20 00:00:00
+courserunenddate: 2025-11-21 00:00:00
+mode_of_training: Classroom

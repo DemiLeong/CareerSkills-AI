@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045386
+coursetitle: PWM-Retail: Service Challenges
+trainingprovideruen: 200409177Z
+trainingprovideralias: XPRIENZ PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

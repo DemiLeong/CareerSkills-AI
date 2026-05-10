@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043164
+coursetitle: Certificate in Business Marketing
+trainingprovideruen: T08GB0056A
+trainingprovideralias: SINGAPORE POLYTECHNIC
+courserunstartdate: 2027-10-18 00:00:00
+courserunenddate: 2028-03-31 00:00:00
+mode_of_training: Classroom

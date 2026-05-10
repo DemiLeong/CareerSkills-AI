@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051138
+coursetitle: Basic Sound Design
+trainingprovideruen: 199205206G
+trainingprovideralias: THE ESPLANADE CO LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

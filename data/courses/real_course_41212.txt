@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021005725
+coursetitle: Essential Thinking : Adopting A Growth Mindset for Critical Thinking and Problem Solving in the Digital Age (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

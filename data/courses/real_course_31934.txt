@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050063
+coursetitle: MASTER OF SCIENCE (EXERCISE AND SPORT STUDIES)
+trainingprovideruen: 200604393R
+trainingprovideralias: NIE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052660
+coursetitle: SCTP: RISE 2.0 Digital Marketing & E-commerce Accelerator (Sync and Async E-learning) (Full-time) (TA-eligible)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

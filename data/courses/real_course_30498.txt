@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047408
+coursetitle: Maximise Performance at Workplace through Coaching
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

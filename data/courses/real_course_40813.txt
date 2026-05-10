@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016619
+coursetitle: Projects-based BIM Revit and Navisworks Combined Services Design (CSD) for BIM Collaboration and Design Coordination
+trainingprovideruen: 200710151K
+trainingprovideralias: ACE INDUSTRIAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-12 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

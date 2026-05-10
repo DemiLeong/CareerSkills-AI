@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020504336
+coursetitle: Develop Personal Effectiveness for Beauty Professionals
+trainingprovideruen: 201105116C
+trainingprovideralias: SOPHIA IGNITE LEARNING ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

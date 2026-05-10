@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020123
+coursetitle: Digital Marketing Bootcamp (Synchronous e-learning)
+trainingprovideruen: 201136539H
+trainingprovideralias: CLICKACADEMY ASIA PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

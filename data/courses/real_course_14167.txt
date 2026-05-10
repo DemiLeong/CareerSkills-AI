@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016564
+coursetitle: Food Safety Course Level 1
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: 2025-07-02 00:00:00
+courserunenddate: 2025-07-02 00:00:00
+mode_of_training: Classroom

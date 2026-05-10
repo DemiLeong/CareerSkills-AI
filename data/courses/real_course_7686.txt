@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044470
+coursetitle: Data Communications & Networking (in Modular Certificate in ICT Essentials in Diploma in ICT Systems, Services & Support)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

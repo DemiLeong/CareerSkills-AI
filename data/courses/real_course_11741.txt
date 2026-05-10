@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041843
+coursetitle: Effective Application of Accounting Standards with Xero
+trainingprovideruen: 202112882D
+trainingprovideralias: W.L.P ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-14 00:00:00
+mode_of_training: Classroom

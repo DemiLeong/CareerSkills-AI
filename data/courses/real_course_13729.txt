@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055530
+coursetitle: WSQ Business Report and Technical Writing Skills
+trainingprovideruen: 201016621D
+trainingprovideralias: @ASK TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050018
+coursetitle: Enabling Academy: Drum Program for Persons with Disabilities
+trainingprovideruen: 200404914E
+trainingprovideralias: Faith Music Centre Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

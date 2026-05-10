@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022015158
+coursetitle: Advanced Certificate in Web 3.0 Module 1: Understanding the Metaverse and Web 3.0
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-07-23 00:00:00
+mode_of_training: Classroom

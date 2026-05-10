@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037301
+coursetitle: Construction Measurement (1 of 4) Civil & Structural Works
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

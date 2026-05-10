@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020117
+coursetitle: ITIL (DPI) Direct, Plan, Improve (SF)
+trainingprovideruen: 201109011W
+trainingprovideralias: BRIDGINGMINDS NETWORK PTE. LTD.
+courserunstartdate: 2025-09-15 00:00:00
+courserunenddate: 2025-09-18 00:00:00
+mode_of_training: Classroom

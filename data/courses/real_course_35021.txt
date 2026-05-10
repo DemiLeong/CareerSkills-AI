@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500766
+coursetitle: Supervise Workplace Safety and Health in Process Plant
+trainingprovideruen: 198200079M
+trainingprovideralias: PEC LTD.
+courserunstartdate: 2025-07-12 00:00:00
+courserunenddate: 2025-07-19 00:00:00
+mode_of_training: Classroom

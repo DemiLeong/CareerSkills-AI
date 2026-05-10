@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007204
+coursetitle: Automation Control and Interfacing (in PDC in Automation in Specialist Diploma in Robotics & Automation)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053465
+coursetitle: Digital Essentials: Smartphone Basics
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-11 00:00:00
+mode_of_training: Classroom

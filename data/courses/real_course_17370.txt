@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503993
+coursetitle: (SCTP) 3D Animation, Game Art & Visual Effects.
+trainingprovideruen: 200405777C
+trainingprovideralias: 3DSENSE MEDIA SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

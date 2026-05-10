@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044377
+coursetitle: Master of Science in Management (Accelerated Pathway)
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

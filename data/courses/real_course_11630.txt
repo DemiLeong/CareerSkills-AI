@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037408
+coursetitle: Blockchain Privacy: An introduction to privacy protocols and their applications for blockchains
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

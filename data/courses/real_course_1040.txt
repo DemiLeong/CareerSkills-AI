@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050572
+coursetitle: Advanced Certificate in Entrepreneurship - Scale-Up Module 2: Forming the Right Team, Finding the Right Setup and Mentors (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

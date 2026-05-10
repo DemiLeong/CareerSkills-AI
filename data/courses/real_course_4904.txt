@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503360
+coursetitle: Manage Workplace Safety and Health in Construction Sites
+trainingprovideruen: 200723351G
+trainingprovideralias: GREENSAFE INTERNATIONAL PTE. LTD.
+courserunstartdate: 2025-07-21 00:00:00
+courserunenddate: 2025-08-04 00:00:00
+mode_of_training: Classroom

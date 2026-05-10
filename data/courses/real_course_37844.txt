@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046030
+coursetitle: è¥å…»å¯¹å©´å¹¼å„¿å¿ƒç†å‘å±•çš„å½±å“ (Nutritional needs of Infants and Toddlerâ€™s mental health and well-being) (Synchronous e-learning)
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

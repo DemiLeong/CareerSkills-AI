@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043670
+coursetitle: Italian Cuisine â€“ Pasta
+trainingprovideruen: 201436502E
+trainingprovideralias: LITERACY EMPOWERMENT ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025054566
+coursetitle: Analytics Essentials: Qualitative and Quantitative Insights In The Digital Age
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2026-03-05 00:00:00
+courserunenddate: 2026-03-06 00:00:00
+mode_of_training: Classroom

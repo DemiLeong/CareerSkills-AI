@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052362
+coursetitle: ADVANCE INTERPRETATION OF FINANCIAL STATEMENTS
+trainingprovideruen: 201202566W
+trainingprovideralias: MIND KINESIS INVESTMENTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

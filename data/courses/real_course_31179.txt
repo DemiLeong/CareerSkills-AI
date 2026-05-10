@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512910
+coursetitle: Advanced Certificate in Supply Chain Innovation and Transformation Module 2: Introduction to the Digital Transformation Toolkit and Project Management
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-11-12 00:00:00
+courserunenddate: 2025-11-14 00:00:00
+mode_of_training: Classroom

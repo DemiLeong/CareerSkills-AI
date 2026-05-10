@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035895
+coursetitle: WSQ Artisan and Sourdough Breads
+trainingprovideruen: 198200913C
+trainingprovideralias: AT-SUNRICE GLOBALCHEF ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Classroom

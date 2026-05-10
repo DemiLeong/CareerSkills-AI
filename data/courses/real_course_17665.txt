@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051808
+coursetitle: Manufacturing and Quality Management Systems
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-10-14 00:00:00
+courserunenddate: 2025-10-15 00:00:00
+mode_of_training: Classroom

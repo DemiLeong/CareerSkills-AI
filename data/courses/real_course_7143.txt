@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045364
+coursetitle: Solution-Focused Brief Therapy Practice
+trainingprovideruen: 199900986N
+trainingprovideralias: ACADEMY OF HUMAN DEVELOPMENT PTE LTD
+courserunstartdate: 2025-08-21 00:00:00
+courserunenddate: 2025-08-29 00:00:00
+mode_of_training: Classroom

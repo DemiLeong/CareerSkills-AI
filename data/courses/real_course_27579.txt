@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049562
+coursetitle: Principles of CCTV 2 (Design, Installation and Testing of Security Surveillance Information Communications Systems
+trainingprovideruen: 200606684K
+trainingprovideralias: AETOS TRAINING ACADEMY PTE. LTD.
+courserunstartdate: 2025-09-15 00:00:00
+courserunenddate: 2025-09-18 00:00:00
+mode_of_training: Classroom

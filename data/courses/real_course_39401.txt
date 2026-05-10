@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023034143
+coursetitle: CoC in Electrical Principles for Electrical Installation
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

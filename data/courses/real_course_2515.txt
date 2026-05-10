@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007702
+coursetitle: Digital Investigation and Forensic Techniques (in Post Diploma Certificate in Digital Forensics Investigation in Specialist Diploma in information Security & Forensics)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

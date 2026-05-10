@@ -1,0 +1,5 @@
+Ethical AI Policy
+
+The system aims to provide fair and unbiased recommendations.
+
+No discrimination based on gender, race, or age should occur in the recommendation process.

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049550
+coursetitle: Food Safety Course level 3 (FSC L3)
+trainingprovideruen: 53322380J
+trainingprovideralias: SINGAPORE INSTITUTE OF HOSPITALITY
+courserunstartdate: 2025-08-13 00:00:00
+courserunenddate: 2025-08-15 00:00:00
+mode_of_training: Classroom

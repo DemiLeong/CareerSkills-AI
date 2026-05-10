@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512859
+coursetitle: Advanced Certificate in RegTech Module 2: RegTech Use Cases from Different Perspectives: Finance Institutions vs Regulators vs FinTechs vs Consumers (Synchronous e-learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

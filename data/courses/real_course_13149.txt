@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044463
+coursetitle: (PDECCE-T) Apply Classroom Management Strategies, and Strategies to Observe and Document Childrenâ€™s learning
+trainingprovideruen: 201003423H
+trainingprovideralias: KLC INTERNATIONAL INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

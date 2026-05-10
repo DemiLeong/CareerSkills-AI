@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048999
+coursetitle: SCTP: RISE 2.0 Business Data and Analytics - Functional Analyst Module 1: Business and Digital Essentials (Sync and Async E-learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

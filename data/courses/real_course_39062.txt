@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020513720
+coursetitle: People Change Management at Managerial Level (Synchronous & Asynchronous E-Learning)
+trainingprovideruen: 201129819W
+trainingprovideralias: ALUE SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

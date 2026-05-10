@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019503275
+coursetitle: Perform Basic Maintenance of Rotating Equipment (SF)
+trainingprovideruen: 198200079M
+trainingprovideralias: PEC LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051831
+coursetitle: Advanced Certificate in Blockchain in Digital Economy Module 2: Blockchain Platforms
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-18 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047814
+coursetitle: ISO 14001 Environmental Management Systems Internal Auditor
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: 2025-07-23 00:00:00
+courserunenddate: 2025-07-24 00:00:00
+mode_of_training: Classroom

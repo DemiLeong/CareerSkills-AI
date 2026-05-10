@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044154
+coursetitle: (SCTP) Agile IT Project Manager: Capstone Project
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Synchronous eLearning

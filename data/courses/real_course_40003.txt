@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023038032
+coursetitle: PWM-Food Services: Customer Service Excellence (Chinese)
+trainingprovideruen: 199704969Z
+trainingprovideralias: GUILFORD TRAINING CENTRE PTE LTD
+courserunstartdate: 2025-07-15 00:00:00
+courserunenddate: 2025-07-15 00:00:00
+mode_of_training: Classroom

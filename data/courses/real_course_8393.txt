@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023035820
+coursetitle: (SCTP) in Beverage Service - Mixology (Asynchronous and Synchronous eLearning and Classroom)
+trainingprovideruen: 201134100C
+trainingprovideralias: BETTR BARISTA PTE. LTD.
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-09-05 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021829
+coursetitle: Operate Lorry Crane - Assessment-Only-Pathway
+trainingprovideruen: 200102574Z
+trainingprovideralias: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

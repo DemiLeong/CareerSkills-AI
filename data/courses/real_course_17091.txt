@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048544
+coursetitle: Transforming Recruitment Strategies for Modern Talent Acquisition
+trainingprovideruen: 201433657H
+trainingprovideralias: ADEPT ACADEMY PTE. LTD.
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-02 00:00:00
+mode_of_training: Classroom

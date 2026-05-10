@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020503298
+coursetitle: Outdoor Experiences for Infants and Toddlers (Chinese) (è®¾è®¡å©´å¹¼å„¿æˆ·å¤–ä½“éªŒæ´»åŠ¨)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-10-10 00:00:00
+courserunenddate: 2025-10-25 00:00:00
+mode_of_training: Classroom

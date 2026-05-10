@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007354
+coursetitle: Cakes and Pastries Making 101
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

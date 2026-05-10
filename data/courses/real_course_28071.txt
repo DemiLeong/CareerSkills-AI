@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023025464
+coursetitle: Automotive Electrics and Sensor Technology - Principles, Service and Diagnosis
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

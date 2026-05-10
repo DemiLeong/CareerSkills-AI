@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049171
+coursetitle: ECIH - EC-Council Certified Incident Handler (SF)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

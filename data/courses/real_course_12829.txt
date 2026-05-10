@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040527
+coursetitle: WSQ Mastering the Art of SEO â€“ Unlocking the Power of SEO
+trainingprovideruen: 200617554M
+trainingprovideralias: OOM PTE. LTD.
+courserunstartdate: 2025-08-11 00:00:00
+courserunenddate: 2025-08-12 00:00:00
+mode_of_training: Classroom

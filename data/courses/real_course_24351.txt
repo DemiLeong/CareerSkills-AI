@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043087
+coursetitle: Sustainability and Innovation Strategic Planning
+trainingprovideruen: 199002667R
+trainingprovideralias: TUV SUD PSB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020506103
+coursetitle: Coach for Service Performance (Service Coaching) (Chinese)
+trainingprovideruen: 199003051G
+trainingprovideralias: SERVICE QUALITY CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

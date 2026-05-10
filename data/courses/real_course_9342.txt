@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007434
+coursetitle: Aviation Legislation and Human Factors (in MC in Aviation Management & Safety in Part-time Diploma in Engineering (Aerospace))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

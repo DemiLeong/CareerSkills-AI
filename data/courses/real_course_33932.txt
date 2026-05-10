@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503572
+coursetitle: Develop Organisational Response to National Manpower Initiatives & Strategic Priorities
+trainingprovideruen: 199001767N
+trainingprovideralias: ONG TENG CHEONG LABOUR LEADERSHIP INSTITUTE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

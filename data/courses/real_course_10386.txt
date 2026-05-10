@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020748
+coursetitle: Internationalisation Series: Business Startups, Web 3.0 and Tech Companies in Silicon Valley, San Francisco
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-04 00:00:00
+courserunenddate: 2025-07-26 00:00:00
+mode_of_training: Classroom

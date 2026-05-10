@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053925
+coursetitle: CERTIFICATE IN MARKETING OF INDUSTRIAL PROPERTIES
+trainingprovideruen: S82SS0045E
+trainingprovideralias: Singapore Institute of Surveyors & Valuers
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

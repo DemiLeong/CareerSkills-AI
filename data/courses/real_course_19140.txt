@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048528
+coursetitle: Enabling Academy: Mindfulness for Emotional Regulation
+trainingprovideruen: 202127680M
+trainingprovideralias: A Kind Place Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

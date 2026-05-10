@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043464
+coursetitle: Engage Internal and External Stakeholders in Business Presentation using Storytelling Strategy
+trainingprovideruen: 201017041W
+trainingprovideralias: SIGNATURE IMAGE ACADEMY INTERNATIONAL PTE. LTD.
+courserunstartdate: 2025-08-04 00:00:00
+courserunenddate: 2025-08-05 00:00:00
+mode_of_training: Classroom

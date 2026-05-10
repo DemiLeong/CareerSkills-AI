@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013690
+coursetitle: Condition-Based Assets Monitoring and Management (Intermediate II) (Synchronous e-learning)
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051035
+coursetitle: Case Study in Policy Analysis
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

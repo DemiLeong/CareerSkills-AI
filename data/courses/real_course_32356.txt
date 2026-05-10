@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042024
+coursetitle: 360 Video Post-Production (part of SCTP Certificate in 360 Video Production)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049407
+coursetitle: SCTP: RISE 2.0 Digital Marketing & E-commerce Accelerator Module 3: Capstone (Sync E-Learning)
+trainingprovideruen: 201128508N
+trainingprovideralias: THE BOSTON CONSULTING GROUP SINGAPORE PTE. LTD.
+courserunstartdate: 2025-11-06 00:00:00
+courserunenddate: 2025-12-27 00:00:00
+mode_of_training: Synchronous eLearning

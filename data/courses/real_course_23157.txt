@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024043241
+coursetitle: Marketing with Xiao Hong Shu (XHS): Strategies for Increasing Your Chinese Customers and Business Expansion
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-17 00:00:00
+courserunenddate: 2025-07-17 00:00:00
+mode_of_training: Classroom

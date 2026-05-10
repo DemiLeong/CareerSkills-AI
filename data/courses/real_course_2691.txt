@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019500021
+coursetitle: Standard First Aid (NROC)
+trainingprovideruen: 200809411R
+trainingprovideralias: EMERGENCIES FIRST AID & RESCUE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

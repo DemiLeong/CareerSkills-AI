@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="page-hero">
+    <div class="hero-overlay">
+        <h1>🎓 Course Recommendation</h1>
+        <p>
+            Discover suitable learning areas,
+            skill gaps, and SkillsFuture search keywords.
+        </p>
+    </div>
+</div>
+
+
+<form class="form-card" method="POST">
+
+    <label> Skills Summary / Paste Resume </label>
+    <textarea
+        name="resume_text"
+        placeholder="State the skills you have or paste your resume here..."
+    ></textarea>
+
+    <label>Target Role</label>
+    <input
+        type="text"
+        name="target_role"
+        placeholder="Example: AI Engineer">
+
+    <label>Career Goal</label>
+    <textarea
+        name="career_goal"
+        placeholder="Example: I want to transition into AI Engineering."
+    ></textarea>
+
+    <button type="submit" class="submit-btn">
+        Recommend Learning Areas
+    </button>
+
+</form>
+
+{% if ai_response %}
+<div class="response-card">
+    <h2>Course Recommendation Result</h2>
+    <div class="ai-response">
+        {{ ai_response | safe }}
+    </div>
+</div>
+
+
+{% endif %}
+
+{% endblock %}

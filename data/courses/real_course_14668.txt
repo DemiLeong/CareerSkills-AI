@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047037
+coursetitle: Advanced Certificate in Generative AI for Digital Marketing Specialist Module 2: Introduction to Generative AI and its Uses in Content Generation and Marketing Analytics (Asynchronous and Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-07-25 00:00:00
+courserunenddate: 2025-08-28 00:00:00
+mode_of_training: Synchronous eLearning

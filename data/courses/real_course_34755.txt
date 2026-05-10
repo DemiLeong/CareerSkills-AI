@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021003128
+coursetitle: WSQ DDDLP V1 LP1 : Apply Reflective Practice for Professional Mastery (Classroom, Synchronous & Asynchronous)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute for Adult Learning (IAL)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

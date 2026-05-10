@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002178
+coursetitle: Child Development 2 (CDV 2) Part of the designate 3 modules in the Diploma in Early Childhood Care & Education â€“ Teaching (DECCE-T) as EC bridging modules (Synchronous e-learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2025-12-03 00:00:00
+courserunenddate: 2026-03-26 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052523
+coursetitle: ITIL 4 Foundation Training
+trainingprovideruen: 200922279R
+trainingprovideralias: LAURES SOLUTIONS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

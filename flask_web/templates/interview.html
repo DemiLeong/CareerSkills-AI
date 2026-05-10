@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="page-hero">
+    <div class="hero-overlay">
+        <h1>🎤 Interview Preparation</h1>
+        <p>
+            Practise technical, behavioural, and role-specific interview questions
+            based on your target role and background.
+        </p>
+    </div>
+</div>
+
+<form class="form-card" method="POST">
+
+    <label>Your Interview Request</label>
+    <textarea
+        name="query"
+        placeholder="Example: Prepare me for a Data Analyst technical and behavioural interview."
+    ></textarea>
+
+    <label>Paste Job Description (Optional)</label>
+    <textarea name="job_description"></textarea>
+
+    <label>Target Role</label>
+    <input
+        type="text"
+        name="target_role"
+        placeholder="Example: Data Analyst">
+
+    <label>Paste Resume / Background Summary (Optional)</label>
+    <textarea
+        name="resume_text"
+        placeholder="Paste your background, skills, or resume summary here..."
+    ></textarea>
+
+    <button type="submit" class="submit-btn">
+        Generate Interview Prep
+    </button>
+
+</form>
+
+{% if ai_response %}
+<div class="response-card">
+    <h2>Interview Preparation Result</h2>
+    <div class="ai-response">
+        {{ ai_response | safe }}
+</div>
+</div>
+
+{% endif %}
+
+{% endblock %}

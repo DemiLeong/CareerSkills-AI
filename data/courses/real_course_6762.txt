@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025055622
+coursetitle: Brand Communication & Experience (in Design for Business Strategy in Diploma in Design (Digital Commerce & Experience))
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

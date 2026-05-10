@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2011500813
+coursetitle: Comply with Workplace Safety and Health Policies and Procedures (8 hrs) (Course deactivated wef 29/08/17)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

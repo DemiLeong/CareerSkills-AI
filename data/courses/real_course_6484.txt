@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049815
+coursetitle: Effective Customer Relationships in Retail
+trainingprovideruen: 201210970H
+trainingprovideralias: ADVANCE SAFE CONSULTANTS PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

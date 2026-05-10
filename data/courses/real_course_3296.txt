@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022013869
+coursetitle: Digital Marketing - e-Commerce Strategies for Selling Online in the Digital Age (Synchronous and Asynchronous e-Learning)
+trainingprovideruen: 200604393R
+trainingprovideralias: NANYANG TECHNOLOGICAL UNIVERSITY
+courserunstartdate: 2025-10-09 00:00:00
+courserunenddate: 2025-11-10 00:00:00
+mode_of_training: Synchronous eLearning

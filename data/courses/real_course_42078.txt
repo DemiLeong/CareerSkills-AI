@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012208
+coursetitle: Task Automation with Macros, VBA and AI Co-Pilots
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

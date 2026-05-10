@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023017871
+coursetitle: WSQ Advanced Certificate in Workplace Safety and Health (ACWSH) (Classroom and Asynchronous E-Learning)
+trainingprovideruen: 200900134G
+trainingprovideralias: SCAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-06-29 00:00:00
+courserunenddate: 2025-12-14 00:00:00
+mode_of_training: Classroom

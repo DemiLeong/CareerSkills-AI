@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021004362
+coursetitle: â€œPost-Diploma Certificate 2 (PDC2) of the Specialist Diploma in Early Childhood Learning Support (SDELS)â€
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: 2026-03-30 00:00:00
+courserunenddate: 2027-01-28 00:00:00
+mode_of_training: Classroom

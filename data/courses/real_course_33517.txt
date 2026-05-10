@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010047
+coursetitle: Digital Advertising Fundamentals
+trainingprovideruen: 198802365N
+trainingprovideralias: James Cook Institute Pte Ltd
+courserunstartdate: 2025-09-17 00:00:00
+courserunenddate: 2025-09-18 00:00:00
+mode_of_training: Classroom

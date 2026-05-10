@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045278
+coursetitle: Intervention Implementation
+trainingprovideruen: 201018593M
+trainingprovideralias: REN CI HOSPITAL
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

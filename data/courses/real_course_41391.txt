@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051267
+coursetitle: Workplace Productivity using Excel â€“ Intermediate Level
+trainingprovideruen: 200006697N
+trainingprovideralias: ASSOCIATES CONSULTING PTE LTD
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

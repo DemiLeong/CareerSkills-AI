@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014066
+coursetitle: Facebook and Instagram Fundamentals
+trainingprovideruen: 201734671R
+trainingprovideralias: FIRSTCOM ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

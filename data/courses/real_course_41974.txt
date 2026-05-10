@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006458
+coursetitle: Power Up Your Learning Design with Google Series
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute For Adult Learning Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052838
+coursetitle: Accounting for Non-Finance Professionals
+trainingprovideruen: 202112882D
+trainingprovideralias: W.L.P ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

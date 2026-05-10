@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023019204
+coursetitle: Project Management Professional (PMP)Â® (L4) (SFw)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: 2025-08-18 00:00:00
+courserunenddate: 2025-08-22 00:00:00
+mode_of_training: Classroom

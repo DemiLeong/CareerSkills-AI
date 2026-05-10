@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011659
+coursetitle: Supervision of Prefabricated Prefinished Volumetric Construction (PPVC) Projects
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-30 00:00:00
+mode_of_training: Classroom

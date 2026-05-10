@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2016500322
+coursetitle: RESPOND TO FIRE EMERGENCY IN BUILDINGS COURSE
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

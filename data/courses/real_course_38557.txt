@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052880
+coursetitle: Enabling Academy: Immersive in Social Media Marketing
+trainingprovideruen: 201918827D
+trainingprovideralias: Hatch Technologies Pte Ltd
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

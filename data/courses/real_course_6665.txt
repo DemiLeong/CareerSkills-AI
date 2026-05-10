@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023039922
+coursetitle: Design Thinking Practice (Level 4) (Synchronous and Asynchronous E-learning)
+trainingprovideruen: 201933324M
+trainingprovideralias: SINGAPORE INSTITUTE OF MANAGEMENT GROUP LIMITED
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

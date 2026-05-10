@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042535
+coursetitle: Entrepreneurial Strategies for Business Management - Part of Certificate in Business Management (DB9AM1)(Classroom)
+trainingprovideruen: T08GB0039A
+trainingprovideralias: Ngee Ann Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

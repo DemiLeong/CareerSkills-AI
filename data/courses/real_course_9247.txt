@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040475
+coursetitle: Digital Marketing Strategy with AI Tools L4
+trainingprovideruen: 201020518M
+trainingprovideralias: RAFFLES SKILLS LAB INTERNATIONAL TRAINING CENTRE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

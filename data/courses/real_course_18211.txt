@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505909
+coursetitle: Quality Customer Service Excellence
+trainingprovideruen: 201003725N
+trainingprovideralias: TONI INTERNATIONAL COLLEGE OF AESTHETICS & PHYSIOLOGY PTE. LTD.
+courserunstartdate: 2025-07-13 00:00:00
+courserunenddate: 2025-07-20 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048508
+coursetitle: Managing Applications in OpenShift Container Platform: Deployment, Scaling, Monitoring, and Secrets Integration
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

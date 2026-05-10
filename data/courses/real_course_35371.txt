@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018508963
+coursetitle: BA Psychology with Business
+trainingprovideruen: 200504979Z
+trainingprovideralias: SINGAPORE UNIVERSITY OF SOCIAL SCIENCES
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

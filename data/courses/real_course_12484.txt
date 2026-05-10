@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041476
+coursetitle: Be a Professional Event Florist
+trainingprovideruen: 201013941D
+trainingprovideralias: NOBLEMAN INSTITUTE OF FLORAL DESIGN PTE. LTD.
+courserunstartdate: 2025-07-19 00:00:00
+courserunenddate: 2025-07-27 00:00:00
+mode_of_training: Classroom

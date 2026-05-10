@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018503576
+coursetitle: Develop a Framework and Strategies for Succession Management (SFw HR)
+trainingprovideruen: S80TU0496C
+trainingprovideralias: SINGAPORE NATIONAL EMPLOYERS FEDERATION
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

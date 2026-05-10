@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024049999
+coursetitle: Ultrasound for eFAST - Level 1 (Acquisition) (Classroom and Asynchronous)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019507324
+coursetitle: Smart Sensors and Integration
+trainingprovideruen: T08GB0022B
+trainingprovideralias: Institute of Technical Education
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

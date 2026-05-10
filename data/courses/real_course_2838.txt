@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023036272
+coursetitle: Generative AI Prompt Engineering for Skills & Productivity Enhancement
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042841
+coursetitle: Introduction to Testing Cycles, Test Approach and Test Case Design (classroom, synchronous, asynchronous e-learning)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: 2025-07-14 00:00:00
+courserunenddate: 2025-10-13 00:00:00
+mode_of_training: Synchronous eLearning

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024050800
+coursetitle: Manage Hazardous Substances (also knowns as Hazardous Substances Management)
+trainingprovideruen: 200813706C
+trainingprovideralias: EVERSAFE ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

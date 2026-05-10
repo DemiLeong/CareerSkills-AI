@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006722
+coursetitle: WSQ Maximising Mentoring (1)
+trainingprovideruen: 200402964R
+trainingprovideralias: SSTC INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

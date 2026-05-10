@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048728
+coursetitle: Introduction to Early Childhood Inclusive Practice [ECIP] å¹¼å„¿å…¨çº³æ•™è‚²æ¦‚è¿° (Synchronous e-Learning)
+trainingprovideruen: 201807452K
+trainingprovideralias: NATIONAL INSTITUTE OF EARLY CHILDHOOD DEVELOPMENT
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

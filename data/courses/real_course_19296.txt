@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024048595
+coursetitle: Tiktok Shop: Leveraging AI Tools for Content Commerce & Strategy
+trainingprovideruen: 201604334R
+trainingprovideralias: ACCTRAIN ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

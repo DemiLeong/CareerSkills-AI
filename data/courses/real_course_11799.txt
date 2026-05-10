@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021413
+coursetitle: Internationalisation Series: Asia Road Network and Supply Chain Operations Innovation in Southeast Asia - Bangkok, Thailand
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

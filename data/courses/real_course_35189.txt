@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502618
+coursetitle: Data Protection Officer Master Class: Demonstrating Accountability amid New Data Protection Laws and Enforcements
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020531
+coursetitle: PWM-Security: Manpower Planning (Monitor and Review Security Operations)
+trainingprovideruen: 201108449E
+trainingprovideralias: LEACOV SINGAPORE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

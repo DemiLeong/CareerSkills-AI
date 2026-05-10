@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2014500172
+coursetitle: Respond to Fire and Hazmat Emergency
+trainingprovideruen: 200613733Z
+trainingprovideralias: COSEM SAFETY & SECURITY SERVICES PTE. LTD.
+courserunstartdate: 2025-07-07 00:00:00
+courserunenddate: 2025-07-09 00:00:00
+mode_of_training: Classroom

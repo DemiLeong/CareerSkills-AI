@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023037885
+coursetitle: Diploma in Visual Art (Synchronous E-learning)
+trainingprovideruen: 200405777C
+trainingprovideralias: 3DSENSE MEDIA SCHOOL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

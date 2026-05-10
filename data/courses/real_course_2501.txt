@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020979
+coursetitle: Discovering UX Design (in PDC in User Experience Design in Specialist Diploma in Design for Integrated Communication)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021006708
+coursetitle: PWM-Retail: People and Relationship Management (Level 1)
+trainingprovideruen: 200207244D
+trainingprovideralias: CARRIE ACADEMY INTERNATIONAL PTE. LTD.
+courserunstartdate: 2025-06-28 00:00:00
+courserunenddate: 2025-06-29 00:00:00
+mode_of_training: Classroom

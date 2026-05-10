@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022016162
+coursetitle: Critical Thinking (SFw)
+trainingprovideruen: 199401442E
+trainingprovideralias: CAPELLE ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-17 00:00:00
+courserunenddate: 2025-10-17 00:00:00
+mode_of_training: In-house

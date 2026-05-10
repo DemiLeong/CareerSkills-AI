@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019500604
+coursetitle: PWM-Cleaning: Perform Basic Cleaning of Hard Floor Surfaces (SF)
+trainingprovideruen: 201223502K
+trainingprovideralias: FOCUS LEARNING CENTRE PTE. LTD.
+courserunstartdate: 2025-07-29 00:00:00
+courserunenddate: 2025-07-31 00:00:00
+mode_of_training: Classroom

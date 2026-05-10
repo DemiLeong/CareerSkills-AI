@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020512828
+coursetitle: Fundamentals of Applied Quantitative Data Analytics using R
+trainingprovideruen: T08GB0056A
+trainingprovideralias: Singapore Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

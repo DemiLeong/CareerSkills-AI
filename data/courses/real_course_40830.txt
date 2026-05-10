@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024046178
+coursetitle: PWM-Retail: Apply Generative AI Tools for Productivity Improvement
+trainingprovideruen: 200810205H
+trainingprovideralias: BELLS Institute of Higher Learning Pte. Ltd.
+courserunstartdate: 2025-09-06 00:00:00
+courserunenddate: 2025-09-20 00:00:00
+mode_of_training: Classroom

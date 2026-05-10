@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2015500258
+coursetitle: RESPOND TO FIRE EMERGENCY IN BUILDINGS
+trainingprovideruen: T11SS0104B
+trainingprovideralias: Association of Company Emergency Response Teams (Singapore)
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

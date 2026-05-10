@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024051558
+coursetitle: Managing People with Data (Classroom & Synchronous e-Learning)
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-08-28 00:00:00
+courserunenddate: 2025-09-02 00:00:00
+mode_of_training: Classroom

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020505837
+coursetitle: Threat Observation (Recognise Terrorist Threats)
+trainingprovideruen: 200409359E
+trainingprovideralias: NTUC LEARNINGHUB PTE. LTD.
+courserunstartdate: 2025-07-08 00:00:00
+courserunenddate: 2025-07-10 00:00:00
+mode_of_training: Classroom

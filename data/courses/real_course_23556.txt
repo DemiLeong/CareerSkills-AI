@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052603
+coursetitle: Forklift Operator Refresher Training
+trainingprovideruen: 199706229Z
+trainingprovideralias: PSA CORPORATION LIMITED
+courserunstartdate: 2025-07-11 00:00:00
+courserunenddate: 2025-07-11 00:00:00
+mode_of_training: Traineeship

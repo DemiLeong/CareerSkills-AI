@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018108
+coursetitle: Professional Certificate in Tech Sales Module 3: Filling Up Your Pipeline - Generating and Qualifying Leads (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018171
+coursetitle: Resilient Leadership and Business Sustainability Series Module 2: Risk & Change Management (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013500018
+coursetitle: Use Basic Hand Tools and Equipment (SC/SAP)
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

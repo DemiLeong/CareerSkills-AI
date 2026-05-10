@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042428
+coursetitle: Mastering Communication Skills for Success
+trainingprovideruen: 201017041W
+trainingprovideralias: SIGNATURE IMAGE ACADEMY INTERNATIONAL PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014293
+coursetitle: Digitalising Maintenance Operations for Productivity Improvement
+trainingprovideruen: 53374841X
+trainingprovideralias: SINGAPORE INSTITUTE OF MANUFACTURING TECHNOLOGY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

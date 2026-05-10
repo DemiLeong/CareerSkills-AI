@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023021903
+coursetitle: Business Chinese Course
+trainingprovideruen: 201619499C
+trainingprovideralias: LEARNING EXPLORER LANGUAGE CENTRE PTE. LTD.
+courserunstartdate: 2025-07-22 00:00:00
+courserunenddate: 2025-09-23 00:00:00
+mode_of_training: Classroom

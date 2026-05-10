@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022014405
+coursetitle: Effective Communication for Quality Service Delivery
+trainingprovideruen: 201723514D
+trainingprovideralias: SOQ INTERNATIONAL ACADEMY PTE. LTD.
+courserunstartdate: 2025-10-14 00:00:00
+courserunenddate: 2025-10-14 00:00:00
+mode_of_training: Classroom

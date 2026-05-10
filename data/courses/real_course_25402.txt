@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021010209
+coursetitle: WSQ Strategic Digital Marketing
+trainingprovideruen: 201438045H
+trainingprovideralias: PPP ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

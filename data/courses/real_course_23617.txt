@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024042373
+coursetitle: PWM-Food Services: WSQ Food Safety Course Level 3 (Assessment Only Pathway)
+trainingprovideruen: 201001978G
+trainingprovideralias: ISRC PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

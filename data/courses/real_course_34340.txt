@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012534
+coursetitle: BCA-STAS Introductory Course on Modular MEP Design and Prefabrication
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020506167
+coursetitle: Advanced Certificate in Governance, Risk Management and Data Compliance Module 1: Crisis Communications and Data Breach Response for DPOs (Synchronous E-Learning)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

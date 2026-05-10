@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2019507358
+coursetitle: Chinese Ink Painting XV (Level 15)
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2013501100
+coursetitle: Perform Work in Confined Space Operation
+trainingprovideruen: 201106989R
+trainingprovideralias: TECS FIRE & SAFETY TRAINING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2018507642
+coursetitle: Creative Writing: Non-Fiction II
+trainingprovideruen: 199202950W
+trainingprovideralias: LASALLE COLLEGE OF THE ARTS
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

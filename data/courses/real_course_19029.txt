@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024041879
+coursetitle: The Augmented Reality (AR ) Advantage for Engaging Customers and Learners (part of SCTP Certificate in Digital Marketing & Content Curation)
+trainingprovideruen: T08GB0032G
+trainingprovideralias: Nanyang Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

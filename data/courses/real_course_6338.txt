@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023020576
+coursetitle: Perform Basic Cleaning of Hard Floor Surfaces AOP
+trainingprovideruen: 201614469C
+trainingprovideralias: UBTS ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

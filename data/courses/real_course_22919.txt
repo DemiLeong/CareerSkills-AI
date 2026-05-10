@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023040430
+coursetitle: Advanced Certificate in Practical Business Law Module 5: Of Pixels and Policies - Legal Issues and Strategies in Online Marketing, Advertising, and Sales
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: 2025-09-25 00:00:00
+courserunenddate: 2025-09-26 00:00:00
+mode_of_training: Classroom

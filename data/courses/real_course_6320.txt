@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021007972
+coursetitle: Social Media 301 for Designing and Marketing Your Learning Programme (Synchronous e-Learning)
+trainingprovideruen: 200504979Z
+trainingprovideralias: Institute For Adult Learning Singapore
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025052228
+coursetitle: AI for Content Creation and Digital Marketing
+trainingprovideruen: 201808580W
+trainingprovideralias: ICE CUBE MARKETING PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

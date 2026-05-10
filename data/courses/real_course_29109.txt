@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2023018526
+coursetitle: Circular Fashion Principles (PDC 2 in Specialist Diploma in Sustainable Fashion)
+trainingprovideruen: T08GB0062L
+trainingprovideralias: Temasek Polytechnic
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

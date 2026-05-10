@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022012422
+coursetitle: WSQ Manage Customers Orders and Service
+trainingprovideruen: 201023608D
+trainingprovideralias: WILLIAM ANGLISS INSTITUTE PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

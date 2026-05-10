@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2022011652
+coursetitle: CERTIFICATE IN MANAGEMENT OF PRODUCTIVE TECHNOLOGIES
+trainingprovideruen: T08GB0005B
+trainingprovideralias: Building and Construction Authority
+courserunstartdate: 2025-09-23 00:00:00
+courserunenddate: 2026-01-30 00:00:00
+mode_of_training: Synchronous eLearning

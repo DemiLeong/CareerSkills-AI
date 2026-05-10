@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2021002696
+coursetitle: High-Performance Strategic Selling (Classroom and Asynchronous elearning)
+trainingprovideruen: 201608532H
+trainingprovideralias: AVVANZ PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

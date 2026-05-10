@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024047739
+coursetitle: Amplify Experience Management with Data & Insights
+trainingprovideruen: 200604346E
+trainingprovideralias: NATIONAL UNIVERSITY OF SINGAPORE
+courserunstartdate: 2025-07-01 00:00:00
+courserunenddate: 2025-07-03 00:00:00
+mode_of_training: Classroom

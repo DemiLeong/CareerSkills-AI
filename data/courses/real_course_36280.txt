@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024045495
+coursetitle: BACHELOR OF ACCOUNTANCY (SUSTAINABILITY MANAGEMENT & ANALYTICS)
+trainingprovideruen: 200604393R
+trainingprovideralias: Nanyang Technological University
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

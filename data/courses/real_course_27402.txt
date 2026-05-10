@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2025053331
+coursetitle: Transforming Business: Harnessing Cutting-Edge Technologies for Innovation
+trainingprovideruen: 198400164G
+trainingprovideralias: SSA ACADEMY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

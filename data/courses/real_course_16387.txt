@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2024044261
+coursetitle: ISO 9001:2015 Quality Management System Internal Auditor Training (Synchronous E-learning)
+trainingprovideruen: 201422488N
+trainingprovideralias: QE SAFETY CONSULTANCY PTE. LTD.
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated

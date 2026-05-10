@@ -1,0 +1,7 @@
+coursereferencenumber: TGS-2020502789
+coursetitle: Growing Enterprises Module 3: Customer (Synchronous E-Learning) (English & Mandarin)
+trainingprovideruen: 200000267Z
+trainingprovideralias: SINGAPORE MANAGEMENT UNIVERSITY
+courserunstartdate: Not stated
+courserunenddate: Not stated
+mode_of_training: Not stated
