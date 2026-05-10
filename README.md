@@ -534,7 +534,7 @@ In this project:
 
 # 📌 Workflow Diagram
 
-<img src="images/langgraph_workflow.png"
+<img src="Images/langgraph_workflow.png"
      width="100%">
 
 This diagram visually shows:
@@ -895,7 +895,7 @@ The workflow:
 
 ## Overall Design Philosophy
 
-<img src="images/Architecture_Design_Summary.png"
+<img src="Images/Architecture_Design_Summary.png"
      width="100%">
 
 Career&Skills AI was designed using a modular multi-agent architecture instead of a single chatbot architecture.
